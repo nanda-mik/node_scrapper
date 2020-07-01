@@ -1,0 +1,30 @@
+<%- include('./includes/head.ejs') %>
+    <link rel="stylesheet" href="/css/forms.css">
+    <link rel="stylesheet" href="/css/auth.css">
+</head>
+
+<body>
+    <main>
+        <div class="heading">
+            <h1>Node Scrapper</h1>
+        </div>
+
+        <form class="login-form" action="/getData" method="POST">
+            <div class="form-control">
+                <label for="website">Add a website to scrape</label>
+                <input type="url" name="url" id="url">
+            </div>
+            <div class="form-control">
+                <label for="start">Date from</label>
+                <input type="date" name="stdate" id="stdate">
+            </div>
+            <div class="form-control">
+                <label for="end">Date to</label>
+                <input type="date" name="endate" id="endate">
+            </div>
+            <div class="login-btn">
+                <button class="btn btn-primary" type="submit">Get Data</button>
+            </div>
+        </form>
+    </main>
+<%- include('./includes/end.ejs') %>
