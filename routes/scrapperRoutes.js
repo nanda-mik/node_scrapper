@@ -5,6 +5,7 @@ const scrapController = require('../controller/scrapeController');
 
 router.get('/', scrapController.getMainpage);
 
-router.post('/getData', scrapController.getData);
+router.post('/getScrapper', scrapController.getScrapper);
+router.post('/getData',scrapController.getData);
 
 module.exports = router;

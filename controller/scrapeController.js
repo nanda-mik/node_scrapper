@@ -3,32 +3,25 @@ const xml2js = require('xml2js');
 const cheerio = require('cheerio');
 const parser = new xml2js.Parser();
 
-function getCrawler(xml,st,en){
-    request(xml)
-    .then(result => {
-        parser.parseString(result, (err, res) => {
-        //    console.log(res);
-            var urls = res.urlset.url;
-            // console.log(urls);
-            urls.forEach(async (el)=> {
-                var url = el.loc[0];
-                var date = el.lastmod[0];
-                var start = new Date(st);
-                var end = new Date(en);
-                var urlDate = new Date(date);
-                if(urlDate<end && urlDate>start){
-                    const html = await request.get(url);
-                    const $ = cheerio.load(html);
-                    $("h2").each((i,element) => {
-                        console.log("Url: "+url)
-                        console.log("H2: "+$(element).text());
-                    });
-                    // console.log(url);
-                }
+const Crawler = require('../models/scrapper');
+
+async function getCrawler(xml){
+    var res = await request(xml);
+    parser.parseString(res,(err, result) => {
+        var urls = result.urlset.url;
+        var topUrl = urls.slice(0,5);
+        topUrl.forEach(async (el) => {
+            var url = el.loc[0];
+            var date = el.lastmod[0];
+            var urlDate = new Date(date);
+            const crawler = new Crawler({
+                url: url,
+                lastmod: urlDate
             });
-        })
-    })
-    .catch(err => console.log(err));
+            var res = await crawler.save();
+            console.log(res);
+        });
+    });
 }
 
 exports.getMainpage = (req, res, next) =>{
@@ -36,24 +29,39 @@ exports.getMainpage = (req, res, next) =>{
 };
 
 exports.getData = async (req,res,next) => {
-    const weburl = req.body.url;
-    const start = req.body.stdate;
-    const end = req.body.endate;
+    const st = req.body.stdate;
+    const en = req.body.endate;
 
-    const sitemapXml = weburl + "sitemap.xml";
-    var result = await request(sitemapXml);
-    parser.parseString(result, (err,xmls)=> {
-        var xmlUrls = xmls.sitemapindex.sitemap;
-        xmlUrls.forEach(el => {
-            var xml = el.loc[0];
-            var date = el.lastmod[0];
-            var st= new Date(start);
-            var en = new Date(end);
-            var xmlDate = new Date(date);
-            //now only we are logging the h2 from the url and not using database.
-            if(xmlDate>st && xmlDate<en){
-                getCrawler(xml,start,end);
-            }
-        });
+    var start = new Date(st);
+    var end = new Date(en);
+
+    const urls = await Crawler.find();
+    urls.forEach(async (el) => {
+        var date = el.lastmod;
+        // console.log(date);
+        if(date<end && date>start){
+            var url = el.url;
+            const html = await request(url);
+            const $ = cheerio.load(html);
+            $("h2").each((i,element) => {
+                console.log(el.url,'\n',el.lastmod);
+                console.log("H2: "+$(element).text());
+            });
+        }
     });
+
+};
+
+exports.getScrapper =async (req, res, next) => {
+    const inputUrl = req.body.url;
+    const sitemapXml = inputUrl + "sitemap.xml";
+    var resu = await request(sitemapXml);
+    res.render('date');
+    parser.parseString(resu, (err, result) => {
+        const xmls = result.sitemapindex.sitemap;
+        xmls.forEach(el => {
+            var url = el.loc[0];
+            getCrawler(url); 
+        });
+    })
 };
