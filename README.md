@@ -10,7 +10,7 @@
 ```
 
 ```
-$ git clone https://github.com/mohamedsamara/mern-ecommerce.git
+$ git clone https://github.com/nanda-mik/node_scrapper.git
 $ cd project
 $ npm install
 
