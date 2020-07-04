@@ -3,9 +3,9 @@ const router = express.Router();
 
 const scrapController = require('../controller/scrapeController'); 
 
-router.get('/', scrapController.getMainpage);
 
-router.post('/getScrapper', scrapController.getScrapper);
-router.post('/getData',scrapController.getData);
+router.post('/addScrapper', scrapController.postScrapper);
+
+router.get('/getScrapper', scrapController.getScrapper);
 
 module.exports = router;

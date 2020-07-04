@@ -7,14 +7,17 @@ dotenv.config();
 
 const app = express();
 
-app.set('view engine', 'ejs');
-app.set('views', 'views');
-
 const scrapRoutes = require('./routes/scrapperRoutes');
-const { model } = require('mongoose');
 
 app.use(bodyParser.urlencoded({extended: false}));
-app.use(express.static(path.join(__dirname, 'public')));
+app.use(bodyParser.json());
+
+app.use((req,res,next)=>{
+    res.setHeader('Access-Control-Allow-Origin', '*');
+    res.setHeader('Access-Control-Allow-Methods', 'GET,POST,PATCH,PUT,DELETE');
+    res.setHeader('Access-Control-Allow-Headers','Content-Type,Authorization');
+    next();
+})
 
 app.use(scrapRoutes);
 
@@ -23,6 +26,6 @@ mongoose.connect(process.env.MONGODB_URI,{
     })
     .then(res => {
         console.log("connected");
-        app.listen(3000);
+        app.listen(8080);
     })
     .catch(err => console.log(err));
