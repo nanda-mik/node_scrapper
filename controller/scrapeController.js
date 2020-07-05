@@ -90,6 +90,7 @@ exports.getScrapper = (req,res,next) => {
         //         data: data
         //    });
             res.send(data);
+            console.log("fetched");
         })
         .catch(err => {
             console.log(err);
