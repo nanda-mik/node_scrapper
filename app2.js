@@ -220,7 +220,7 @@ const Twitter = require('twitter');
 (async () => {
     const options = {
         url:'https://startuptalky.com/',
-        key: 'AIzaSyBJT3KjOBvsQaOzLqDMMFwkAQaGuB1NUuw'
+        key: process.env.API_KEY
     }   
 
     // pagespeed(options)
