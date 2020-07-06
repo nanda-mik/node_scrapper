@@ -192,20 +192,65 @@ async () => {
 });
 
 //json2csv
-(async () => {
-    let startuptalkyData = [];
-    const html = await request('https://startuptalky.com/');
-    const $ = cheerio.load(html);
-    const title = $('h2').text();
-    const meta = $('title').text();
-    var img_txt = $('.main-content-area img').attr('alt');
-    startuptalkyData.push({
-        title,
-        meta,
-        img_txt
-    });
-    const j2cp = new json2csv();
-    const csv = j2cp.parse(startuptalkyData);
-    fs.writeFileSync('./data.csv',csv, "utf-8");
+// (async () => {
+//     let startuptalkyData = [];
+//     const html = await request('https://startuptalky.com/');
+//     const $ = cheerio.load(html);
+//     const title = $('h2').text();
+//     const meta = $('title').text();
+//     var img_txt = $('.main-content-area img').attr('alt');
+//     startuptalkyData.push({
+//         title,
+//         meta,
+//         img_txt
+//     });
+//     const j2cp = new json2csv();
+//     const csv = j2cp.parse(startuptalkyData);
+//     fs.writeFileSync('./data.csv',csv, "utf-8");
 
+// })();
+
+//gpagespeed
+const pagespeed = require('gpagespeed');
+const googleapis = require('googleapis');
+const psi = require('psi');
+const config  = require('./config');
+const Twitter = require('twitter');
+
+(async () => {
+    const options = {
+        url:'https://startuptalky.com/',
+        key: 'AIzaSyBJT3KjOBvsQaOzLqDMMFwkAQaGuB1NUuw'
+    }   
+
+    // pagespeed(options)
+    //     .then(data => {
+    //         console.log(data);
+    //     })
+    //     .catch(err => console.log(err));
+
+        // googleapis.load('pagespeedonline', 'v1', (err,client) => {
+        //     client = client.withApiKey(process.env.API_KEY);
+        //     var params = {url: 'https://startuptalky.com/'};
+        //     var request = client.pagespeedonline.pagespeedapi.runpagespeed(params);
+        //     request.execute((err, res)=>{
+        //         console.log(res);
+        //     })
+        // });
+
+    const { data } = await psi('https://startuptalky.com');
+    console.log('speed score:', data.lighthouseResult.audits['speed-index'].displayValue);
+
+});
+
+(async () => {
+    var client = new Twitter(config);
+    var params = {screen_name: 'nodejs'};
+    client.get('status/tweets', params, (err, tweets, res) => {
+        if(!err){
+            console.log(tweets);
+        }else{
+            console.log(err);
+        }
+    })
 })();

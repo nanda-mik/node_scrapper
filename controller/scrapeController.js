@@ -4,14 +4,24 @@ const cheerio = require('cheerio');
 const parser = new xml2js.Parser();
 const parse_url = require('parse-url');
 const urlPack = require('url');
+const psi = require('psi');
 
 const Crawler = require('../models/scrapper');
 
-function getScrapper(url){
+function getScrapper(url,lastmod){
     return new Promise (async(resolve,reject)=>{
         const baseUrl = 'https://startuptalky.com';
         const html = await request(url);
         const $ = cheerio.load(html);
+
+        //calculating pagespeed 
+        const { time } = await psi(url);
+        const pageSpeed =  time.lighthouseResult.audits['speed-index'].displayValue;
+
+        //calculating total words
+        var str = $('.main-content-area').text().replace(/\s\s+/g, ' ');
+        var totalWords = str.split(' ').length;
+
         const title = $('.post-head .title').text();
         const meta = $('title').text();
         var img_txt = $('.main-content-area img').attr('alt');
@@ -41,16 +51,24 @@ function getScrapper(url){
                 ext++;
             }
         });
-        const crawler = new Crawler({
-            url: url,
-            title: title,
-            meta_title: meta,
-            ext_link: ext,
-            int_link: int,
-            img_alt: img_txt,
-            url_bunch: urlset
-        });
-        const result = crawler.save();
+
+        console.log(url,'\n',
+                    lastmod,'\n',
+                    pageSpeed,'\n',
+                    totalWords,'\n',
+                    );
+
+        // const crawler = new Crawler({
+        //     url: url,
+        //     lastmod: lastmod,
+        //     title: title,
+        //     meta_title: meta,
+        //     ext_link: ext,
+        //     int_link: int,
+        //     img_alt: img_txt,
+        //     url_bunch: urlset
+        // });
+        // const result = crawler.save();
         resolve(result);
     })
 }
@@ -63,7 +81,8 @@ async function getCrawler(url) {
             var topUrl = urls.slice(0,5);
             topUrl.forEach(async (el) => {
                 var singleUrl = el.loc[0];
-                const data = await getScrapper(singleUrl);
+                var lasttimemod = el.lasmod[0];
+                const data = await getScrapper(singleUrl,lastmod);
                 console.log(data);
             })
         }else{
