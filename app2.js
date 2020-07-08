@@ -218,30 +218,14 @@ const config  = require('./config');
 const Twitter = require('twitter');
 
 (async () => {
-    const options = {
-        url:'https://startuptalky.com/',
-        key: process.env.API_KEY
-    }   
-
-    // pagespeed(options)
-    //     .then(data => {
-    //         console.log(data);
-    //     })
-    //     .catch(err => console.log(err));
-
-        // googleapis.load('pagespeedonline', 'v1', (err,client) => {
-        //     client = client.withApiKey(process.env.API_KEY);
-        //     var params = {url: 'https://startuptalky.com/'};
-        //     var request = client.pagespeedonline.pagespeedapi.runpagespeed(params);
-        //     request.execute((err, res)=>{
-        //         console.log(res);
-        //     })
-        // });
-
+    // const options = {
+    //     url:'https://startuptalky.com/',
+    //     key: process.env.API_KEY
+    // }   
     const { data } = await psi('https://startuptalky.com');
     console.log('speed score:', data.lighthouseResult.audits['speed-index'].displayValue);
 
-});
+})();
 
 (async () => {
     var client = new Twitter(config);
@@ -253,4 +237,4 @@ const Twitter = require('twitter');
             console.log(err);
         }
     })
-})();
+});

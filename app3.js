@@ -8,6 +8,7 @@ const parse_url = require('parse-url');
 const fs = require('fs');
 const dotenv = require('dotenv');
 dotenv.config();
+const axios = require('axios');
 const json2csv = require('json2csv').Parser;
 
 
@@ -18,7 +19,6 @@ const json2csv = require('json2csv').Parser;
     console.log($.html());
 });
 
-const axios = require("axios");
 const isRelativeUrl = require("is-relative-url");
 
 let brokenLinks = [];
@@ -75,13 +75,51 @@ function wordFreq(str){
 }
 
 (async () => {
-    const html = await request('https://startuptalky.com/dog-walker-facts/');
+    const html = await request('https://startuptalky.com/privacy-policy/');
     const $ = cheerio.load(html);
-    var str = $('.post-content').text().replace(/\s\s+/g, ' ');
-    str.replace(/[.]/g,'');
+    var str = $('.main-content-area').text().replace(/\s\s+/g, ' ');
     console.log(str);
     var n = str.split(' ').length;
-    // console.log(n);
-    const freq = wordFreq(str);
-    console.log(freq);
+    console.log(n);
+    // const freq = wordFreq(str);
+    // console.log(freq);
 })();
+
+
+const fun = async (el) => {
+  const res = await axios.get('https://www.wikipedia.org/');
+  //   console.log(res);
+  console.log(Date.now(), ' fun', el);
+};
+// console.log(Date.now(), ' 1');
+// fun();
+// console.log(Date.now(), ' 2');
+
+const fun2 = async () => {
+  //   await fun();
+  const arr = [1, 2, 3];
+  for (let i = 0; i < 3; i++) {
+    await fun(i);
+    console.log(Date.now(), arr[i]);
+  }
+  console.log(Date.now(), 'before');
+  //   arr.forEach((el) => {
+  //     fun();
+  //     console.log(Date.now(), el);
+  //   });
+  //   console.log(Date.now(), 'after');
+  //   fun().then((res) => {
+  //     // console.log()
+  //     console.log(Date.now(), ' fun2');
+  //   });
+};
+
+// fun2();
+
+
+
+(async () =>{
+  var path = parse_url('https://startuptalky.com/author/krishna/').pathname;
+  console.log(path);
+});
+

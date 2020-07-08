@@ -6,23 +6,25 @@ const crawlSchema = new Schema({
         type: String,
         required: true
     },
-    title:{
-        type: String
+    lastmod:{
+        type: Date,
+        required: true
     },
-    meta_title:{
-        type: String
+    pageSpeed:{
+        type: String,
+        required: true
     },
-    ext_link:{
-        type: Number
+    total_words:{
+        type: Number,
+        required:true
     },
-    int_link:{
-        type: Number
+    title_length:{
+        type: Number,
+        required:true
     },
-    img_alt:{
-        type: String
-    },
-    url_bunch:{
-        type: Array
+    meta_length:{
+        type: Number,
+        required:true
     }
 });
 
