@@ -80,21 +80,92 @@ const scrapEachPage = async () => {
     for(let i=0;i<htmlpages.length;i++){
         const $ = cheerio.load(htmlpages[i].html);
         const lastmod = htmlpages[i].lastmod;
+        
+        const url = htmlpages[i].url;
+
+        //meta and post title
         const meta = $('title').text();
         const title = $('.post-head .title').text();
-        const url = htmlpages[i].url;
+
+        //pagespeed
         // const {data} = await psi(url,{
         //     strategy: 'desktop'
         // });
         // const pageSpeed = data.lighthouseResult.audits['speed-index'].displayValue;
+        
+        //total words
         const str = $('.main-content-area').text().replace(/\s\s+/g, ' ');
         const n_words = str.split(' ').length;
+
+        //internal link, external link and other article linking
+        const baseUrl = 'https://startuptalky.com';
+        var links = $('.main-content-area a');
+        var doFext_link = [];
+        var noFext_link = [];
+        var int_link = [];
+        var int= 0,d_ext=0,n_ext=0;
+        for(let i=0;i<links.length;i++){
+            var x = $(links[i]).attr('href');
+            var head = parse_url(x).resource;
+            if(head == 'startuptalky.com'){
+                if(!int_link.includes(x)){
+                int++;
+                int_link.push(x);
+                }
+            }else if(head == ''){
+                var y = urlPack.resolve(baseUrl,x);
+                if(!int_link.includes(y)){
+                int++;
+                int_link.push(y);
+                }
+            }else{
+                var z = $(links[i]).attr('rel');
+                if(typeof(z) === 'undefined'){
+                d_ext++;
+                doFext_link.push(x);
+                }else{
+                n_ext++;
+                noFext_link.push(x);
+                }
+            }
+        }
+        var othlink_Art = [];
+        var otA = 0;
+        for(let i=0;i<int_link.length;i++){
+            let path = parse_url(int_link[i]).pathname;
+            var bool = (path.includes("/tag") || path.includes("/author"));
+            if(!bool){
+            otA++;
+            othlink_Art.push(int_link[i]);
+            }
+        }
+
+        //no of tags
+        var tag_articles = $('.post-tags a');
+        var tag_array =[];
+        var no_of_tagArt = tag_articles.length;
+        for(let i=0;i<tag_articles.length;i++){
+            var tagLink = $(tag_articles[i]).attr('href');
+            var abc = urlPack.resolve(baseUrl,tagLink);
+            tag_array.push(abc);
+        }
+
         const result = ({
             url: url,
             lastmod: new Date(lastmod),
             total_words: n_words,
             title_length: title.length,
-            meta_length: meta.length
+            meta_length: meta.length,
+            no_of_int: int,
+            int_link: int_link,
+            no_of_dFext: d_ext,
+            dF_ext_link: doFext_link,
+            no_of_nFext: n_ext,
+            nf_ext_link: noFext_link,
+            no_of_otherArticle: otA,
+            other_linkArticle: othlink_Art,
+            no_of_tagArt: no_of_tagArt,
+            tag_array: tag_array
         });
         // const crawler = new Crawler({
         //     url: url,
