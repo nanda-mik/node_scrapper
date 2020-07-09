@@ -20,6 +20,8 @@ const json2csv = require('json2csv').Parser;
 });
 
 const isRelativeUrl = require("is-relative-url");
+const e = require('express');
+const { cookie } = require('request-promise');
 
 let brokenLinks = [];
 
@@ -98,6 +100,8 @@ function wordFreq(str){
   var int= 0,d_ext=0,n_ext=0;
   for(let i=0;i<links.length;i++){
       var x = $(links[i]).attr('href');
+      var rel = $(links[i]).attr('rel');
+      console.log(rel);
       var head = parse_url(x).resource;
       if(head == 'startuptalky.com'){
         if(!int_link.includes(x)){
@@ -112,12 +116,12 @@ function wordFreq(str){
         }
       }else{
         var z = $(links[i]).attr('rel');
-        if(typeof(z) === 'undefined'){
-          d_ext++;
-          doFext_link.push(x);
-        }else{
+        if(typeof(z) === 'nofollow'){
           n_ext++;
           noFext_link.push(x);
+        }else{
+          d_ext++;
+          doFext_link.push(x);
         }
       }
   }
@@ -142,13 +146,13 @@ function wordFreq(str){
     tag_array.push(abc);
   }
 
-  console.log(no_of_tagArt,":  ",tag_array);
+  // console.log(no_of_tagArt,":  ",tag_array);
 
   // console.log(int,":  ",int_link);
   // console.log(d_ext,":  ",doFext_link);
   // console.log(n_ext,":  ",noFext_link);
   // console.log(otA,":  ",othlink_Art);
-})();
+});
 
 const fun = async (el) => {
   const res = await axios.get('https://www.wikipedia.org/');
@@ -187,3 +191,66 @@ const fun2 = async () => {
   console.log(path);
 });
 
+
+(async () => {
+  const arr= [
+    'https://startuptalky.com/',
+    'https://startuptalky.com/elzabot-success-story/',
+    'https://startuptalky.com/author/jeenal/',
+    'https://startuptalky.com/tag/refurbished-goods-platform/'
+  ];
+  const html = await request('https://startuptalky.com/facebook-ads-dropshipping-business/');
+  const $ = cheerio.load(html);
+  const post = $('.post-content');
+  const para = $('.post-content p');
+  var first_para = $(para[0]).text().trim();
+
+  var keyword;
+  if(post === ''){
+    keyword='';
+  }else{
+    var str = post.text().trim();
+    // console.log(str);
+    var words = str.split(' ');
+    var arr2 =[];
+    for(let i=0;i<words.length;i++){
+      arr2[i] = words[i]+" "+words[i+1];
+    }
+    var freqMap = {};
+    for(let i=0;i<arr2.length;i++){
+        if(!freqMap[arr2[i]]){
+          freqMap[arr2[i]]=0;
+        }
+        freqMap[arr2[i]]+=1;
+    }
+    // console.log(freqMap);
+    const sortedMap = Object.keys(freqMap).sort((a,b) => {return freqMap[b]-freqMap[a]});
+    const filterMap = sortedMap.filter(el => {
+      return !(el.includes('the') || el.includes('you') || el.includes('of') || el.includes('to')
+      || el.includes('in') || el.includes('for') || el.includes('is') || el.includes('are')||el.includes('-')||el.length < 5)
+    });
+    const sliceMap = filterMap.slice(0,20);
+    keyword = sliceMap[0];
+    // console.log(sliceMap);
+  }
+  const meta = $('title').text();
+  const title = $('.post-head .title').text();
+  var isKeyPresent_meta = meta.includes(keyword);
+  var isKeyPresent_title = title.includes(keyword);
+  var isKeyPresent_para = first_para.includes(keyword);
+  console.log(keyword);
+  console.log(meta,'\n',isKeyPresent_meta);
+  console.log(title,'\n',isKeyPresent_title);
+  console.log(first_para,'\n',isKeyPresent_para);
+});
+
+(async () => {
+  const html = await request('https://startuptalky.com/facebook-ads-dropshipping-business/');
+  const $ = cheerio.load(html);
+  const post = $('.post-content p');
+  var first_para = $(post[0]).text();
+  console.log(first_para);
+  // post.each((i,el)=>{
+  //   console.log($(el).text());
+  // })
+});

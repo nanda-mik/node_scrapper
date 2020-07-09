@@ -94,8 +94,8 @@ const scrapEachPage = async () => {
         // const pageSpeed = data.lighthouseResult.audits['speed-index'].displayValue;
         
         //total words
-        const str = $('.main-content-area').text().replace(/\s\s+/g, ' ');
-        const n_words = str.split(' ').length;
+        const content = $('.main-content-area').text().replace(/\s\s+/g, ' ');
+        const n_words = content.split(' ').length;
 
         //internal link, external link and other article linking
         const baseUrl = 'https://startuptalky.com';
@@ -120,12 +120,12 @@ const scrapEachPage = async () => {
                 }
             }else{
                 var z = $(links[i]).attr('rel');
-                if(typeof(z) === 'undefined'){
-                d_ext++;
-                doFext_link.push(x);
+                if(typeof(z) === 'nofollow'){
+                    n_ext++;
+                    noFext_link.push(x);
                 }else{
-                n_ext++;
-                noFext_link.push(x);
+                    d_ext++;
+                    doFext_link.push(x);
                 }
             }
         }
@@ -150,6 +150,43 @@ const scrapEachPage = async () => {
             tag_array.push(abc);
         }
 
+
+        //keyword and its related..
+        const post = $('.post-content').text();
+        var keyword;
+        if(post === ''){
+            keyword='';
+        }else{
+            var str = post.replace(/\s\s+/g,' ');
+            var words = str.split(' ');
+            var arr2 =[];
+            for(let i=0;i<words.length;i++){
+            arr2[i] = words[i]+" "+words[i+1];
+            }
+            var freqMap = {};
+            for(let i=0;i<arr2.length;i++){
+                if(!freqMap[arr2[i]]){
+                freqMap[arr2[i]]=0;
+                }
+                freqMap[arr2[i]]+=1;
+            }
+            // console.log(freqMap);
+            const sortedMap = Object.keys(freqMap).sort((a,b) => {return freqMap[b]-freqMap[a]});
+            const filterMap = sortedMap.filter(el => {
+            return !(el.includes('the') || el.includes('you') || el.includes('of') || el.includes('to')
+            || el.includes('in') || el.includes('for') || el.includes('is') || el.includes('are')||el.includes('-')||el.length < 5)
+            });
+            const sliceMap = filterMap.slice(0,15);
+            keyword = sliceMap[0];
+        }
+        var isKeyPresent_meta = meta.includes(keyword);
+        var isKeyPresent_title = title.includes(keyword);
+        var keyword_density = (((keyword.length)/(n_words))*100);
+        const para = $('.post-content p');
+        var first_para = $(para[0]).text().trim();
+        var isKeyPresent_para = first_para.includes(keyword);
+
+        //result to save in db
         const result = ({
             url: url,
             lastmod: new Date(lastmod),
@@ -165,7 +202,12 @@ const scrapEachPage = async () => {
             no_of_otherArticle: otA,
             other_linkArticle: othlink_Art,
             no_of_tagArt: no_of_tagArt,
-            tag_array: tag_array
+            tag_array: tag_array,
+            keyword: keyword,
+            keyword_density: keyword_density,
+            isKeyPresent_meta: isKeyPresent_meta,
+            isKeyPresent_title: isKeyPresent_title,
+            isKeyPresent_para: isKeyPresent_para
         });
         // const crawler = new Crawler({
         //     url: url,
