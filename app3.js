@@ -10,7 +10,7 @@ const dotenv = require('dotenv');
 dotenv.config();
 const axios = require('axios');
 const json2csv = require('json2csv').Parser;
-
+const isImage = require('is-image');
 
 (async () => {
     const html = await request('https://startuptalky.com');
@@ -39,29 +39,40 @@ async function getAllLinks(url) {
   }
 }
 
+// async function crawlPage(url) {
+//   let links = await getAllLinks(url);
+//   console.log("entered");
+//   var broke_arr =[];
+//   for (let link of links) {
+//     try {
+//       if (isRelativeUrl($(link).attr("href"))) {
+//         resp = await axios.get(url + $(link).attr("href"));
+//       } else {
+//         resp = await axios.get($(link).attr("href"));
+//       }
+//     } catch (err) {
+//       broke_arr.push(link);
+//     }
+//   }
+//   console.log(broke_arr);
+// }
+
 async function crawlPage(url) {
-  let links = await getAllLinks(url);
-  for (let link of links) {
+  var broke_arr =[];
     try {
-      let resp = {};
-      if (isRelativeUrl($(link).attr("href"))) {
-        resp = await axios.get(url + $(link).attr("href"));
+      if (isRelativeUrl(url)) {
+        resp = await axios.get("https://startuptalky.com/"+url);
       } else {
-        resp = await axios.get($(link).attr("href"));
+        resp = await axios.get(url);
       }
-      console.log(
-        "Valid Url: " +
-          $(link).attr("href") +
-          " returned status: " +
-          resp.status
-      );
     } catch (err) {
-      console.log("Not a valid URL: " + $(link).attr("href"));
+      broke_arr.push(url);
     }
-  }
+  console.log(broke_arr);
 }
 
-// crawlPage("https://startuptalky.com");
+
+crawlPage("https://startuptalky.com/attainu-sutory/");
 
 
 function wordFreq(str){
@@ -245,12 +256,20 @@ const fun2 = async () => {
 });
 
 (async () => {
-  const html = await request('https://startuptalky.com/facebook-ads-dropshipping-business/');
+  const html = await request('https://startuptalky.com/attainu-success-story/');
   const $ = cheerio.load(html);
-  const post = $('.post-content p');
-  var first_para = $(post[0]).text();
-  console.log(first_para);
-  // post.each((i,el)=>{
-  //   console.log($(el).text());
-  // })
+  const images = $('.post-content img');
+  // var first_para = $(post[0]).text();
+  // console.log(first_para);
+  images.each((i,el)=>{
+    var rel= $(el).attr('alt');
+    var src = $(el).attr('src')
+    // if(!(typeof(rel) === "undefined")){}
+    if(isImage("abcd.jpg")){
+      console.log(src+ ":   "+ rel);
+    }
+  })
+
 });
+
+

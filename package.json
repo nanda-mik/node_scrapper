@@ -21,6 +21,7 @@
     "express": "^4.17.1",
     "googleapis": "^52.1.0",
     "gpagespeed": "^6.0.18",
+    "is-image": "^3.0.0",
     "is-relative-url": "^3.0.0",
     "json2csv": "^5.0.1",
     "mongoose": "^5.9.20",
