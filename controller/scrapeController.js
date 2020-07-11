@@ -4,6 +4,7 @@ const cheerio = require('cheerio');
 const parser = new xml2js.Parser();
 const parse_url = require('parse-url');
 const urlPack = require('url');
+const ke = require('keyword-extractor');
 const psi = require('psi');
 const isImage = require('is-image');
 const isRelativeUrl = require("is-relative-url");
@@ -101,10 +102,14 @@ const scrapEachPage = async () => {
             keyword='';
         }else{
             var str = post.replace(/\s\s+/g,' ');
-            var words = str.split(' ');
-            var arr2 =[];
-            for(let i=0;i<words.length;i++){
-            arr2[i] = words[i]+" "+words[i+1];
+            var res = ke.extract(str,{
+                language: "english",
+                remove_digits: true,
+                remove_duplicates: false
+            });
+            var arr2 = [];
+            for(let i=0;i<res.length;i++){
+                arr2[i] = res[i]+" "+res[i+1];
             }
             var freqMap = {};
             for(let i=0;i<arr2.length;i++){
@@ -113,14 +118,8 @@ const scrapEachPage = async () => {
                 }
                 freqMap[arr2[i]]+=1;
             }
-            // console.log(freqMap);
             const sortedMap = Object.keys(freqMap).sort((a,b) => {return freqMap[b]-freqMap[a]});
-            const filterMap = sortedMap.filter(el => {
-            return !(el.includes('the') || el.includes('you') || el.includes('of') || el.includes('to')
-            || el.includes('in') || el.includes('for') || el.includes('is') || el.includes('are')||el.includes('-')||el.length < 5)
-            });
-            const sliceMap = filterMap.slice(0,15);
-            keyword = sliceMap[0];
+            keyword = sortedMap[0];
         }
         var isKeyPresent_meta = meta.includes(keyword);
         var isKeyPresent_title = title.includes(keyword);
