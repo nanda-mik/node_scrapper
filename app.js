@@ -7,13 +7,6 @@ const cors = require('cors');
 dotenv.config();
 
 const app = express();
-app.use(
-    cors({
-      origin: "http://165.22.214.114/",
-      credentials: true,
-    })
-);
-  
 
 const scrapRoutes = require('./routes/scrapperRoutes');
 
