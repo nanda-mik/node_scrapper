@@ -3,9 +3,17 @@ const bodyParser = require('body-parser');
 const path = require('path');
 const mongoose = require('mongoose');
 const dotenv = require('dotenv');
+const cors = require('cors');
 dotenv.config();
 
 const app = express();
+app.use(
+    cors({
+      origin: "http://165.22.214.114/",
+      credentials: true,
+    })
+);
+  
 
 const scrapRoutes = require('./routes/scrapperRoutes');
 
