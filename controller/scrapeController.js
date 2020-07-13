@@ -76,13 +76,13 @@ const scrapEachPage = async () => {
         //404 ext_link
         var ext_link = doFext_link.concat(noFext_link);
         var broke404_arr =[];
-        for(let i=0;i<ext_link.length;i++){
-            try {
-                  resp = await axios.get(ext_link[i]);
-            } catch (err) {
-                broke404_arr.push(ext_link[i]);
-            }  
-        }
+        //for(let i=0;i<ext_link.length;i++){
+          //  try {
+            //      resp = await axios.get(ext_link[i]);
+           // } catch (err) {
+             //   broke404_arr.push(ext_link[i]);
+           // }  
+        //}
 
 
         //no of tags

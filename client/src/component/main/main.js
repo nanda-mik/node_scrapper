@@ -24,7 +24,7 @@ class Main extends Component{
         this.setState({ message: null, willAppear: null });
         e.preventDefault();
         const pageUrl = this.state.page_url;
-        const url = "http://localhost:8080/addScrapper";
+        const url = "http://165.22.214.114/addScrapper";
         try{
             this.setState({loading: true});
             const result = await Axios.post(url,{pageUrl: pageUrl});
