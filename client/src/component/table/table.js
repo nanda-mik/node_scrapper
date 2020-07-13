@@ -47,7 +47,7 @@ export default function App(){
     const [redirect, setRedirect] = useState(false);
 
     useEffect(()=>{
-      fetch('http://localhost:8080/getData',{
+      fetch('http://165.22.214.114/getData',{
             method: 'GET'
         })
           .then(res => res.json())

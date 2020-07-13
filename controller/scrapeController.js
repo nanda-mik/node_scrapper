@@ -86,6 +86,14 @@ const scrapEachPage = async (id) => {
         //         broke404_arr.push(ext_link[i]);
         //     }  
         // }
+        //for(let i=0;i<ext_link.length;i++){
+          //  try {
+            //      resp = await axios.get(ext_link[i]);
+           // } catch (err) {
+             //   broke404_arr.push(ext_link[i]);
+           // }  
+        //}
+
 
 
         //no of tags
