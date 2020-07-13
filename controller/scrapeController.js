@@ -273,14 +273,15 @@ exports.postScrapper = async (req, res, next) => {
 
 exports.getScrapper = async (req,res,next) => {
     const result = await Site.find();
-    console.log(result[0]._id);
-    const id = result[0]._id;
-    await scrapEachPage(id);
-    res.status(200).json({message: "success"});
+    // console.log(result[0]._id);
+    // const id = result[0]._id;
+    // await scrapEachPage(id);
+    res.status(200).json({message: "success", sites: result});
 };
 
 
 exports.getData = async (req,res,next) => {
-    const data = await Crawler.find();
+    const id = req.params.id;
+    const data = await Crawler.find({siteId: id});
     res.send(data);
 };

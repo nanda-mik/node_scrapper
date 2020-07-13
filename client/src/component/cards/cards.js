@@ -5,13 +5,13 @@ import "./cards.css";
 
 
 class Cards extends Component {
- 
-    constructor(){
-        super();
+    constructor(props){
+        super(props);
         this.state = {
             redirect: false
         }
     }
+
     onSubmit = () => {
         this.setState({redirect: true});
     }
@@ -24,8 +24,7 @@ class Cards extends Component {
         return(
             <div>
             <div className="added-sites">
-                <h3>Websites under monitor</h3>   
-                <Button variant="contained" color="primary" onClick={this.onSubmit}>StartupTalky</Button>
+        <Button variant="contained" color="primary" onClick={this.onSubmit}>{this.props.name}</Button>
             </div>
             {redirect}
             </div>

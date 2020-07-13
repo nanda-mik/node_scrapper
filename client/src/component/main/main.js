@@ -12,8 +12,17 @@ class Main extends Component{
             page_url: "",
             loading: false,
             message: null,
-            willAppear: null
+            sites: []
         }
+    }
+
+    
+    componentDidMount(){
+        fetch('http://localhost:8080/getScrapper',{
+            method: 'GET'
+        })
+            .then(res => res.json())
+            .then(sites => this.setState({sites: sites}));  
     }
 
     inputChange = (e) => {
@@ -30,8 +39,7 @@ class Main extends Component{
             const result = await Axios.post(url,{pageUrl: pageUrl});
             console.log(result);
             this.setState({
-                message: result.data.message,
-                willAppear: result.data.name
+                message: result.data.message
             });
         }catch(err){
             console.log(err);
@@ -40,6 +48,7 @@ class Main extends Component{
     }
 
     render(){
+        const sites = this.state.sites;
         return(
             <div>
                 <div>
@@ -55,7 +64,7 @@ class Main extends Component{
                     ""
                   )}
                 {this.state.loading ? <Spinner /> : null}
-                {this.state.willAppear ? <Cards /> : null}
+                {this.state.sites ? <Cards sites={sites} /> : <h2>No sites under monitor.</h2>}
             </div>
         );
     }

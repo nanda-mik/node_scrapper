@@ -8,7 +8,7 @@ router.post('/addScrapper', scrapController.postScrapper);
 
 router.get('/getScrapper', scrapController.getScrapper);
 
-router.get('/getData', scrapController.getData);
+router.get('/getData/:id', scrapController.getData);
 
 // router.post('/postdumpPage',scrapController.postdumpPage);
 
