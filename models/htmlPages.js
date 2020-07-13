@@ -11,7 +11,12 @@ const htmlSchema = new Schema({
         required: true
     },
     lastmod:{
-        type: Date,
+        type: String,
+        required: true
+    },
+    siteId:{
+        type:Schema.Types.ObjectId,
+        ref: 'Sites',
         required: true
     }
 });

@@ -7,7 +7,7 @@ const crawlSchema = new Schema({
         required: true
     },
     lastmod:{
-        type: Date,
+        type: String,
         required: true
     },
     total_words:{
@@ -111,6 +111,11 @@ const crawlSchema = new Schema({
     },
     author:{
         type: String
+    },
+    siteId:{
+        type:Schema.Types.ObjectId,
+        ref: 'Sites',
+        required: true
     }
 });
 
