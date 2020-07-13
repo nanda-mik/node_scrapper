@@ -12,10 +12,13 @@ const axios = require('axios');
 
 const Crawler = require('../models/scrapper');
 const htmlDump = require('../models/htmlPages');
+const Site = require('../models/site');
 const requestPromise = require('request-promise');
+const { Mongoose } = require('mongoose');
 
-const scrapEachPage = async () => {
-    const htmlpages = await htmlDump.find();
+const scrapEachPage = async (id) => {
+    const htmlpages = await htmlDump.find({siteId: id});
+    console.log(htmlpages.length);
     for(let i=0;i<htmlpages.length;i++){
         const $ = cheerio.load(htmlpages[i].html);
         const lastmod = htmlpages[i].lastmod;
@@ -72,17 +75,17 @@ const scrapEachPage = async () => {
             }
         }
 
-
         //404 ext_link
-        var ext_link = doFext_link.concat(noFext_link);
+        // var ext_link = doFext_link.concat(noFext_link);
         var broke404_arr =[];
-        for(let i=0;i<ext_link.length;i++){
-            try {
-                  resp = await axios.get(ext_link[i]);
-            } catch (err) {
-                broke404_arr.push(ext_link[i]);
-            }  
-        }
+        // for(let i=0;i<ext_link.length;i++){
+        //     try {
+        //           resp = await axios.get(ext_link[i]);
+        //     } catch (err) {
+        //         console.log(err);
+        //         broke404_arr.push(ext_link[i]);
+        //     }  
+        // }
 
 
         //no of tags
@@ -121,6 +124,8 @@ const scrapEachPage = async () => {
             const sortedMap = Object.keys(freqMap).sort((a,b) => {return freqMap[b]-freqMap[a]});
             keyword = sortedMap[0];
         }
+
+
         var isKeyPresent_meta = meta.includes(keyword);
         var isKeyPresent_title = title.includes(keyword);
         var density = (((keyword.length)/(n_words))*100);
@@ -152,12 +157,11 @@ const scrapEachPage = async () => {
         if(keyword === ''){
             isKeyPresent_img=isKeyPresent_meta=isKeyPresent_para=isKeyPresent_title=false;
         }
-
     
         //result to save in db
         const crawler = new Crawler({
             url: url,
-            lastmod: new Date(lastmod),
+            lastmod: lastmod,
             total_words: n_words,
             title_length: title.length,
             meta_length: meta.length,
@@ -183,41 +187,69 @@ const scrapEachPage = async () => {
             no_of_brokeimg: brokeimg_arr.length,
             broke404_arr: broke404_arr,
             no_of_404: broke404_arr.length,
-            author: author_anime
+            author: author_anime,
+            siteId: id
         });
-        const result = await crawler.save();
-        console.log(result);
+        // console.log(crawler);
+        try{
+            const result = await crawler.save();
+            console.log(result._id);
+        }catch(err){
+            console.log(err);
+        }
     }
 }
 
-const htmlDumpfunction =async (url, lastmod)=>{
+const htmlDumpfunction =async (url, lastmod,id)=>{
         const html = await request(url);
         const htmldump = new htmlDump({
             url: url,
             html: html,
-            lastmod: new Date(lastmod)
+            lastmod: lastmod,
+            siteId: id
         });
         await htmldump.save(); 
 }
 
- async function getCrawler(url) {
+ async function getCrawler(url,id) {
     const res = await request(url);
     const result = await parser.parseStringPromise(res);
+    const siteId = id;
     if(result.urlset){
+        // console.log(result.urlset);
         const urls = result.urlset.url;
-        var topUrl = urls.slice(0,10);
-        // console.log(topUrl);
-        for(let i=0;i<topUrl.length;i++){
-            var singleUrl = topUrl[i].loc[0];
-            var lastmod = topUrl[i].lastmod[0];
-            await htmlDumpfunction(singleUrl,lastmod);
-        }
+        if(urls){
+            const topUrl = urls.slice(0,10);
+            for(let i=0;i<topUrl.length;i++){
+                var singleUrl = topUrl[i].loc[0];
+                if(topUrl[i].lastmod){
+                    var lastmod = topUrl[i].lastmod[0];
+                    var path = parse_url(singleUrl).pathname;
+                    console.log(path);
+                    if(!path.includes("/tag/")){
+                        await htmlDumpfunction(singleUrl,lastmod,siteId);
+                    }else{
+                        console.log("not to be dumped");
+                    }
+                }else{
+                    var changefreq = topUrl[i].changefreq[0];
+                    var path = parse_url(singleUrl).pathname;
+                    console.log(path);
+                    if(!path.includes("/tag/")){
+                        await htmlDumpfunction(singleUrl,changefreq,siteId);
+                    }else{
+                        console.log("not to be dumped");
+                    }
+                }
+                
+            }
+        } 
     }else{
         const xmls = result.sitemapindex.sitemap;
         for(let i=0;i<xmls.length;i++){
             var x = xmls[i].loc[0];
             console.log("xml: "+x);
-            await getCrawler(x);
+            await getCrawler(x,siteId);
         }
     }
 }
@@ -226,15 +258,24 @@ exports.postScrapper = async (req, res, next) => {
     const inputUrl = req.body.pageUrl;
     console.log(inputUrl);
     var head = parse_url(inputUrl).resource;
-    const sitemapXml = inputUrl + "/sitemap.xml";
-    await getCrawler(sitemapXml);
+    const sitemapXml = "https://"+ inputUrl + "/sitemap.xml";
+    const site = new Site({
+        link: inputUrl
+    });
+    const result = await site.save();
+    const id = result._id;
+    console.log(id);
+    await getCrawler(sitemapXml, id);
     console.log("html dumped crawl start.");
-    await scrapEachPage();
+    await scrapEachPage(id);
     res.status(200).json({message: "website crawled", name:head});
 };
 
 exports.getScrapper = async (req,res,next) => {
-    await scrapEachPage();
+    const result = await Site.find();
+    console.log(result[0]._id);
+    const id = result[0]._id;
+    await scrapEachPage(id);
     res.status(200).json({message: "success"});
 };
 
