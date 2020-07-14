@@ -3,7 +3,7 @@ import './main.css'
 import { Button } from '@material-ui/core';
 import Axios from "axios";
 import Spinner from "../Spinner/Spinner";
-import Cards from "../cards/cards";
+import Cardlist from "../cardlist/cardlist";
 
 class Main extends Component{
     constructor(){
@@ -22,7 +22,9 @@ class Main extends Component{
             method: 'GET'
         })
             .then(res => res.json())
-            .then(sites => this.setState({sites: sites}));  
+            .then(sites => {
+                this.setState({sites: sites.sites})
+            });  
     }
 
     inputChange = (e) => {
@@ -49,6 +51,7 @@ class Main extends Component{
 
     render(){
         const sites = this.state.sites;
+        console.log(sites);
         return(
             <div>
                 <div>
@@ -64,7 +67,7 @@ class Main extends Component{
                     ""
                   )}
                 {this.state.loading ? <Spinner /> : null}
-                {this.state.sites ? <Cards sites={sites} /> : <h2>No sites under monitor.</h2>}
+                {this.state.sites.length !== 0 ? <Cardlist sites={sites} /> : <h2>No sites under monitor.</h2>}
             </div>
         );
     }
