@@ -1,0 +1,10 @@
+.card-list{
+    display: flex;
+    flex-direction: row;
+}
+
+.heading{
+    text-align: left;
+    margin-top: 8vh;
+    margin-left: 5vh;
+}

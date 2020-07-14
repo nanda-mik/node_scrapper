@@ -10,6 +10,7 @@ import Paper from '@material-ui/core/Paper';
 import { Button } from '@material-ui/core';
 import { withStyles, makeStyles } from '@material-ui/core/styles';
 import { Redirect } from 'react-router-dom';
+import { useParams } from 'react-router';
 import TablePagination from "@material-ui/core/TablePagination";
 
 const StyledTableCell = withStyles((theme) => ({
@@ -46,8 +47,11 @@ export default function App(){
     const [rowsPerPage, setRowsPerPage] = React.useState(10);
     const [redirect, setRedirect] = useState(false);
 
+  
+    let {id} = useParams();
+    id = id.slice(1);
     useEffect(()=>{
-      fetch('http://localhost:8080/getData',{
+      fetch('http://localhost:8080/getData/'+id,{
             method: 'GET'
         })
           .then(res => res.json())

@@ -15,7 +15,7 @@ class App extends Component{
             <Route exact path="/">
               <Main />
             </Route>
-            <Route exact path="/table">
+            <Route path="/table/:id">
               <Table />
             </Route>
           </Switch>
