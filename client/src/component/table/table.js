@@ -51,11 +51,17 @@ export default function App(){
     let {id} = useParams();
     id = id.slice(1);
     useEffect(()=>{
-      fetch('http://localhost:8080/getData/'+id,{
+      fetch('http://165.22.214.114/api/getData/'+id,{
             method: 'GET'
         })
-          .then(res => res.json())
-          .then(data => setState(data))
+          .then(res => {
+		console.log(res);
+		return res.json();
+	})
+          .then(data => {
+		console.log(data);
+		setState(data);
+	})
     })
 
     const handleChangePage = (event, newPage) => {
