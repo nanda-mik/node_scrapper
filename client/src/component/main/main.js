@@ -18,7 +18,7 @@ class Main extends Component{
 
     
     componentDidMount(){
-        fetch('http://localhost:8080/getScrapper',{
+        fetch('http://165.22.214.114/getScrapper',{
             method: 'GET'
         })
             .then(res => res.json())

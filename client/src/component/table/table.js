@@ -51,7 +51,7 @@ export default function App(){
     let {id} = useParams();
     id = id.slice(1);
     useEffect(()=>{
-      fetch('http://localhost:8080/getData/'+id,{
+      fetch('http://165.22.214.114/getData/'+id,{
             method: 'GET'
         })
           .then(res => res.json())

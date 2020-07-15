@@ -310,8 +310,9 @@ const htmlDumpfunction =async (url, lastmod,id)=>{
         } 
     }else{
         const xmls = result.sitemapindex.sitemap;
-        for(let i=0;i<xmls.length;i++){
-            var x = xmls[i].loc[0];
+        var topXmls = xmls.slice(0,4);
+        for(let i=0;i<topXmls.length;i++){
+            var x = topXmls[i].loc[0];
             console.log("xml: "+x);
             await getCrawler(x,siteId);
         }
@@ -329,10 +330,10 @@ exports.postScrapper = async (req, res, next) => {
     const result = await site.save();
     const id = result._id;
     console.log(id);
+    res.status(200).json({message: "website under crawl you can visit after some time to see the content analysis."});
     await getCrawler(sitemapXml, id);
     console.log("html dumped crawl start.");
     await scrapEachPage(id);
-    res.status(200).json({message: "website crawled", name:head});
 };
 
 exports.getScrapper = async (req,res,next) => {
@@ -347,6 +348,8 @@ exports.getScrapper = async (req,res,next) => {
 
 exports.getData = async (req,res,next) => {
     const id = req.params.id;
+    console.log(id);
     const data = await Crawler.find({siteId: id}).lean();
+    console.log(data.length);
     res.send(data);
 };
