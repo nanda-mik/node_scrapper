@@ -18,7 +18,7 @@ class Main extends Component{
 
     
     componentDidMount(){
-        fetch('http://165.22.214.114/getScrapper',{
+        fetch('http://165.22.214.114/api/getScrapper',{
             method: 'GET'
         })
             .then(res => res.json())
@@ -35,7 +35,7 @@ class Main extends Component{
         this.setState({ message: null, willAppear: null });
         e.preventDefault();
         const pageUrl = this.state.page_url;
-        const url = "http://165.22.214.114/addScrapper";
+        const url = "http://165.22.214.114/api/addScrapper";
         try{
             this.setState({loading: true});
             const result = await Axios.post(url,{pageUrl: pageUrl});
@@ -62,7 +62,7 @@ class Main extends Component{
                     </form>
                 </div>
                 {this.state.message ? (
-                    <div style={{ color: "black" }}>{this.state.message}</div>
+                    <div style={{ color: "black" }}><h3>{this.state.message}</h3></div>
                   ) : (
                     ""
                   )}

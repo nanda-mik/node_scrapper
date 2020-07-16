@@ -101,14 +101,6 @@ const crawlSchema = new Schema({
         type:Number,
         required:true
     },
-    broke404_arr:{
-        type: Array,
-        required: true
-    },
-    no_of_404:{
-        type:Number,
-        required:true
-    },
     author:{
         type: String
     },

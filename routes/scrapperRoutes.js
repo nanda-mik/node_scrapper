@@ -4,11 +4,11 @@ const router = express.Router();
 const scrapController = require('../controller/scrapeController'); 
 
 
-router.post('/addScrapper', scrapController.postScrapper);
+router.post('/api/addScrapper', scrapController.postScrapper);
 
-router.get('/getScrapper', scrapController.getScrapper);
+router.get('/api/getScrapper', scrapController.getScrapper);
 
-router.get('/getData/:id', scrapController.getData);
+router.get('/api/getData/:id', scrapController.getData);
 
 // router.post('/postdumpPage',scrapController.postdumpPage);
 
