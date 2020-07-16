@@ -107,7 +107,6 @@ export default function App(){
                   <StyledTableCell align="right">Keyword density</StyledTableCell>
                   <StyledTableCell align="right">No of tags</StyledTableCell>
                   <StyledTableCell align="right">Broken image</StyledTableCell>
-                  <StyledTableCell align="right">404 external link</StyledTableCell>
                   <StyledTableCell align="right">Other article linking.</StyledTableCell>
                   <StyledTableCell align="right">Keyword in image alt name</StyledTableCell>
                   <StyledTableCell align="right">No of images</StyledTableCell>
@@ -119,9 +118,7 @@ export default function App(){
                   .slice(page * rowsPerPage, page * rowsPerPage + rowsPerPage)
                   .map(row => (
                     <StyledTableRow key={row.url}>
-                      <StyledTableCell component="th" scope="row">
-                        {row.url}
-                      </StyledTableCell>
+                      <StyledTableCell component="th" scope="row">{row.url}</StyledTableCell>
                       <StyledTableCell align="right">{row.lastmod}</StyledTableCell>
                       <StyledTableCell align="right">{row.total_words}</StyledTableCell>
                       <StyledTableCell align="right">{row.keyword}</StyledTableCell>
@@ -136,7 +133,6 @@ export default function App(){
                       <StyledTableCell align="right">{row.keyword_density}</StyledTableCell>
                       <StyledTableCell align="right">{row.no_of_tags}</StyledTableCell>
                       <StyledTableCell align="right">{row.no_of_brokeimg}</StyledTableCell>
-                      <StyledTableCell align="right">{row.no_of_404}</StyledTableCell>
                       <StyledTableCell align="right">{row.no_other_link}</StyledTableCell>
                       <StyledTableCell align="right">{row.isKeyPresent_img}</StyledTableCell>
                       <StyledTableCell align="right">{row.no_of_img}</StyledTableCell>
