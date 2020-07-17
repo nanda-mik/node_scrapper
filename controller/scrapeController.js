@@ -376,11 +376,12 @@ const htmlDumpfunction =async (url, lastmod,id)=>{
     if(result.urlset){
         const urls = result.urlset.url;
         if(urls){
+            const topUrl = urls.slice(0,200);
             for(let i=0;i<urls.length;i++){
-                var singleUrl = urls[i].loc[0];
+                var singleUrl = topUrl[i].loc[0];
                 console.log(singleUrl);
-                if(urls[i].lastmod){
-                    var lastmod = urls[i].lastmod[0];
+                if(topUrl[i].lastmod){
+                    var lastmod = topUrl[i].lastmod[0];
                     var path = parse_url(singleUrl).pathname;
                     if(!path.includes("/tag")){
                         await htmlDumpfunction(singleUrl,lastmod,siteId);
@@ -388,7 +389,7 @@ const htmlDumpfunction =async (url, lastmod,id)=>{
                         console.log("not to be dumped");
                     }
                 }else{
-                    var changefreq = urls[i].changefreq[0];
+                    var changefreq = topUrl[i].changefreq[0];
                     var path = parse_url(singleUrl).pathname;
                     if(!path.includes("/tag")){
                         await htmlDumpfunction(singleUrl,changefreq,siteId);
