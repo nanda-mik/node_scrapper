@@ -377,7 +377,7 @@ const htmlDumpfunction =async (url, lastmod,id)=>{
         const urls = result.urlset.url;
         if(urls){
             const topUrl = urls.slice(0,200);
-            for(let i=0;i<urls.length;i++){
+            for(let i=0;i<topUrl.length;i++){
                 var singleUrl = topUrl[i].loc[0];
                 console.log(singleUrl);
                 if(topUrl[i].lastmod){
