@@ -86,7 +86,7 @@ export default function App(){
     return (
       <div className="table">
          <div className="btn-table"><Button variant="contained" color="primary" onClick={onSubmit}>Home</Button></div>
-        <h2>Content Analysis- StartupTalky</h2>
+        <h2>Content Analysis</h2>
         <Paper className={classes.root}>
           <TableContainer className={classes.container}>
             <Table stickyHeader aria-label="sticky table">
