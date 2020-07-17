@@ -16,6 +16,30 @@ const requestPromise = require('request-promise');
 const { Mongoose } = require('mongoose');
 const { type } = require('os');
 
+const getKeyword = async(content) => {     
+    var keyword = "";
+    var res = ke.extract(content,{
+        language: "english",
+        remove_digits: true,
+        remove_duplicates: false
+    });
+    var arr2 = [];
+    for(let i=0;i<res.length;i++){
+        arr2[i] = res[i]+" "+res[i+1];
+    }
+    var freqMap = {};
+    for(let i=0;i<arr2.length;i++){
+        if(!freqMap[arr2[i]]){
+            freqMap[arr2[i]]=0;
+        }
+            freqMap[arr2[i]]+=1;
+    }
+    const sortedMap = Object.keys(freqMap).sort((a,b) => {return freqMap[b]-freqMap[a]});
+    keyword = sortedMap[0];
+    return keyword;
+}
+
+
 const scrapEachPage = async (id) => {
     const htmlpages = await htmlDump.find({siteId: id}).lean();
     console.log(htmlpages.length);
@@ -23,7 +47,7 @@ const scrapEachPage = async (id) => {
         const $ = cheerio.load(htmlpages[i].html);
         const lastmod = htmlpages[i].lastmod;
         const url = htmlpages[i].url;
-
+        console.log(url);
         //meta and post title
         const meta = $('head title').text();
 
@@ -46,98 +70,36 @@ const scrapEachPage = async (id) => {
         }
        
         
-        //total words, keyword and keyword density
+        //total words and keyword
         var content = "";
-        var n_words = 0;
         var keyword = "";
+        var n_words = 0;
         var keyword_density = 0;
-        if($('article .entry-content').text() !== ""){
-            content = $('article .entry-content').text().replace(/\s\s+/g, ' ');
+        if($('article').text() !== ""){
+            content = $('article').text().replace(/\s\s+/g, ' ');
             if(typeof content !== "undefined"){
                 n_words = content.split(' ').length;
-                var res = ke.extract(content,{
-                    language: "english",
-                    remove_digits: true,
-                    remove_duplicates: false
-                });
-                var arr2 = [];
-                for(let i=0;i<res.length;i++){
-                    arr2[i] = res[i]+" "+res[i+1];
-                }
-                var freqMap = {};
-                for(let i=0;i<arr2.length;i++){
-                    if(!freqMap[arr2[i]]){
-                    freqMap[arr2[i]]=0;
-                    }
-                    freqMap[arr2[i]]+=1;
-                }
-                const sortedMap = Object.keys(freqMap).sort((a,b) => {return freqMap[b]-freqMap[a]});
-                keyword = sortedMap[0];
-            }
-            if(typeof keyword === "undefined" || n_words === 0)
-                keyword_density = 0;
-            else{
-                var density = (((keyword.length)/(n_words))*100);
-                keyword_density = density.toFixed(2);
-            }
-        }else if($('article .post-content').text() !== ""){
-            content = $('article .post-content').text().replace(/\s\s+/g, ' ');
+                keyword = await getKeyword(content);
+            }   
+        }else if($('#content').text() !== ""){
+            content = $('#content').text().replace(/\s\s+/g, ' ');
             if(typeof content !== "undefined"){
                 n_words = content.split(' ').length;
-                var res = ke.extract(content,{
-                    language: "english",
-                    remove_digits: true,
-                    remove_duplicates: false
-                });
-                var arr2 = [];
-                for(let i=0;i<res.length;i++){
-                    arr2[i] = res[i]+" "+res[i+1];
-                }
-                var freqMap = {};
-                for(let i=0;i<arr2.length;i++){
-                    if(!freqMap[arr2[i]]){
-                    freqMap[arr2[i]]=0;
-                    }
-                    freqMap[arr2[i]]+=1;
-                }
-                const sortedMap = Object.keys(freqMap).sort((a,b) => {return freqMap[b]-freqMap[a]});
-                keyword = sortedMap[0];
+                keyword = await getKeyword(content);
             }
-            if(typeof keyword === "undefined" || n_words === 0)
-                keyword_density = 0;
-            else{
-                var density = (((keyword.length)/(n_words))*100);
-                keyword_density = density.toFixed(2);
-            }
-        }else if($('#content .container-fluid').text() !== ""){
-            content = $('#content .container-fluid').text().replace(/\s\s+/g, ' ');
+        }else{
+            content = $('body').text().replace(/\s\s+/g,' ');
             if(typeof content !== "undefined"){
                 n_words = content.split(' ').length;
-                var res = ke.extract(content,{
-                    language: "english",
-                    remove_digits: true,
-                    remove_duplicates: false
-                });
-                var arr2 = [];
-                for(let i=0;i<res.length;i++){
-                    arr2[i] = res[i]+" "+res[i+1];
-                }
-                var freqMap = {};
-                for(let i=0;i<arr2.length;i++){
-                    if(!freqMap[arr2[i]]){
-                    freqMap[arr2[i]]=0;
-                    }
-                    freqMap[arr2[i]]+=1;
-                }
-                const sortedMap = Object.keys(freqMap).sort((a,b) => {return freqMap[b]-freqMap[a]});
-                keyword = sortedMap[0];
+                keyword = await getKeyword(content);
             }
-            if(typeof keyword === "undefined" || n_words === 0)
+        }
+        //keyword density
+        if(typeof keyword === "undefined" || n_words === 0)
                 keyword_density = 0;
-            else{
-                var density = (((keyword.length)/(n_words))*100);
-                keyword_density = density.toFixed(2);
-            }
+        else{
+            var density = (((keyword.length)/(n_words))*100);
+            keyword_density = density.toFixed(2);
         }
 
         //isKeywordPresent
@@ -146,14 +108,20 @@ const scrapEachPage = async (id) => {
             isKeyPresent_title = false;
         
         var para;
-        if($('.post-content').text() !== ""){
-            para = $('.post-content p');
+        if($('article').text() !== ""){
+            para = $('article p');
             if(typeof para !== "undefined"){
                 var first_para = $(para[0]).text().trim();
                 isKeyPresent_para = first_para.includes(keyword);
             }
-        }else if($('.entry-content').text() !== ""){
-            para = $('.entry-content p');
+        }else if($('#content').text() !== ""){
+            para = $('#content p');
+            if(typeof para !== "undefined"){
+                var first_para = $(para[0]).text().trim();
+                isKeyPresent_para = first_para.includes(keyword);
+            }
+        }else{
+            para = $('body p');
             if(typeof para !== "undefined"){
                 var first_para = $(para[0]).text().trim();
                 isKeyPresent_para = first_para.includes(keyword);
@@ -170,96 +138,95 @@ const scrapEachPage = async (id) => {
         var doFext_link = [];
         var noFext_link = [];
         var int_link = [];
-        if($('#content .container-fluid').text() !== ""){
-            const links = $('#content .container-fluid a');
-            const baseUrl = 'https://internshala.com';
+        if($('#content').text() !== ""){
+            const links = $('#content a');
+            const baseUrl = parse_url(url).resource;
             if(typeof links !== "undefined"){
                 for(let i=0;i<links.length;i++){
                     var x = $(links[i]).attr('href');
-                    console.log(x);
                     if(typeof x !== "undefined"){
-                        var head = parse_url(x).resource;
-                        if(head.includes("internshala.com")){
-                            if(!int_link.includes(x)){
-                                int_link.push(x);
-                            }
-                        }else if(head === ''){
-                            var y = urlPack.resolve(baseUrl,x);
-                            if(!int_link.includes(y)){
-                                int_link.push(y);
-                            }
-                        }else{
-                            var z = $(links[i]).attr('rel');
-                            if(typeof z !== "undefined"){
-                                if(z.includes('nofollow')){
-                                    noFext_link.push(x);
-                                }else{
-                                    doFext_link.push(x);
+                        if(x.length !==0){
+                            if(x.includes(baseUrl)){
+                                if(!int_link.includes(x)){
+                                    int_link.push(x);
                                 }
+                            }else if(parse_url(x).resource === ""){
+                                if(!int_link.includes(x)){
+                                    int_link.push(x);
+                                }
+                            }else{
+                                var z = $(links[i]).attr('rel');
+                                if(typeof z !== "undefined"){
+                                    if(z.includes('nofollow')){
+                                        noFext_link.push(x);
+                                    }else{
+                                        doFext_link.push(x);
+                                    }
+                                }
+                                doFext_link.push(x);
                             }
-                            doFext_link.push(x);
                         }
                     }
                 }
             }
-        }else if($('article .post-content').text() !== ""){
-            const baseUrl = 'https://startuptalky.com';
-            var links = $('article .post-content a');
+        }else if($('article').text() !== ""){
+            const baseUrl = parse_url(url).resource;
+            var links = $('article a');
             if(typeof links !== "undefined"){
                 for(let i=0;i<links.length;i++){
                     var x = $(links[i]).attr('href');
                     if(typeof x !== "undefined"){
-                        var head = parse_url(x).resource;
-                        if(head.includes("startuptalky.com")){
-                            if(!int_link.includes(x)){
-                                int_link.push(x);
-                            }
-                        }else if(head === ''){
-                            var y = urlPack.resolve(baseUrl,x);
-                            if(!int_link.includes(y)){
-                                int_link.push(y);
-                            }
-                        }else{
-                            var z = $(links[i]).attr('rel');
-                            if(typeof z !== "undefined"){
-                                if(z.includes('nofollow')){
-                                    noFext_link.push(x);
-                                }else{
-                                    doFext_link.push(x);
+                        if(x.length !==0){
+                            if(x.includes(baseUrl)){
+                                if(!int_link.includes(x)){
+                                    int_link.push(x);
                                 }
+                            }else if(parse_url(x).resource === ""){
+                                if(!int_link.includes(x)){
+                                    int_link.push(x);
+                                }
+                            }else{
+                                var z = $(links[i]).attr('rel');
+                                if(typeof z !== "undefined"){
+                                    if(z.includes('nofollow')){
+                                        noFext_link.push(x);
+                                    }else{
+                                        doFext_link.push(x);
+                                    }
+                                }
+                                doFext_link.push(x);
                             }
-                            doFext_link.push(x);
                         }
                     }
                 }
             }
-        }else if($('article .entry-content').text() !== ""){
-            const baseUrl = 'https://inc42.com';
-            var links = $('article .entry-content a');
+        }else{
+            const links = $('body a');
+            const baseUrl = parse_url(url).resource;
             if(typeof links !== "undefined"){
                 for(let i=0;i<links.length;i++){
                     var x = $(links[i]).attr('href');
                     if(typeof x !== "undefined"){
-                        var head = parse_url(x).resource;
-                        if(head.includes("inc42.com")){
-                            if(!int_link.includes(x)){
-                                int_link.push(x);
-                            }
-                        }else if(head === ''){
-                            var y = urlPack.resolve(baseUrl,x);
-                            if(!int_link.includes(y)){
-                                int_link.push(y);
-                            }
-                        }else{
-                            var z = $(links[i]).attr('rel');
-                            if(typeof z !== "undefined"){
-                                if(z.includes('nofollow')){
-                                    noFext_link.push(x);
-                                }else{
-                                    doFext_link.push(x);
+                        if(x.length !==0){
+                            if(x.includes(baseUrl)){
+                                if(!int_link.includes(x)){
+                                    int_link.push(x);
                                 }
+                            }else if(parse_url(x).resource === ""){
+                                if(!int_link.includes(x)){
+                                    int_link.push(x);
+                                }
+                            }else{
+                                var z = $(links[i]).attr('rel');
+                                if(typeof z !== "undefined"){
+                                    if(z.includes('nofollow')){
+                                        noFext_link.push(x);
+                                    }else{
+                                        doFext_link.push(x);
+                                    }
+                                }
+                                doFext_link.push(x);
                             }
-                            doFext_link.push(x);
                         }
                     }
                 }
@@ -278,19 +245,6 @@ const scrapEachPage = async (id) => {
         }
 
 
-        //404 ext_link
-        // var ext_link = doFext_link.concat(noFext_link);
-        var broke404_arr =[];
-        // for(let i=0;i<ext_link.length;i++){
-        //     try {
-        //           resp = await axios.get(ext_link[i]);
-        //     } catch (err) {
-        //         console.log(err);
-        //         broke404_arr.push(ext_link[i]);
-        //     }  
-        // }
-
-
         //no of tags
         var tag_array =[];
         if($('.post-tags').text() !== ""){
@@ -306,8 +260,8 @@ const scrapEachPage = async (id) => {
         //images alt name
         var img_arr =[];
         var brokeimg_arr =[];
-        if($('.post-content').text() !== ""){
-            const images = $('.post-content img');
+        if($('article').text() !== ""){
+            const images = $('article img');
             var isKeyPresent_img = true;
             images.each((i,el)=>{
                 var rel = $(el).attr('alt');
@@ -324,8 +278,8 @@ const scrapEachPage = async (id) => {
                     }
                 }
             })
-        }else if($('#content .container-fluid').text() !== ""){
-            const images = $('#content .container-fluid img');
+        }else if($('#content').text() !== ""){
+            const images = $('#content img');
             var isKeyPresent_img = true;
             images.each((i,el)=>{
                 var rel = $(el).attr('alt');
@@ -342,8 +296,8 @@ const scrapEachPage = async (id) => {
                     }
                 }
             })
-        }else if($('.entry-content').text() !== ""){
-            const images = $('.entry-content img');
+        }else{
+            const images = $('body img');
             var isKeyPresent_img = true;
             images.each((i,el)=>{
                 var rel = $(el).attr('alt');
@@ -424,6 +378,7 @@ const htmlDumpfunction =async (url, lastmod,id)=>{
         if(urls){
             for(let i=0;i<urls.length;i++){
                 var singleUrl = urls[i].loc[0];
+                console.log(singleUrl);
                 if(urls[i].lastmod){
                     var lastmod = urls[i].lastmod[0];
                     var path = parse_url(singleUrl).pathname;
@@ -466,10 +421,10 @@ exports.postScrapper = async (req, res, next) => {
     const result = await site.save();
     const id = result._id;
     console.log(id);
+    res.status(200).json({message: "website under crawl, check table after some time.", name:head});
     await getCrawler(sitemapXml, id);
     console.log("html dumped crawl start.");
     await scrapEachPage(id);
-    res.status(200).json({message: "website crawled", name:head});
 };
 
 exports.getScrapper = async (req,res,next) => {
