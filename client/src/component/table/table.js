@@ -12,6 +12,7 @@ import { withStyles, makeStyles } from '@material-ui/core/styles';
 import { Redirect } from 'react-router-dom';
 import { useParams } from 'react-router';
 import TablePagination from "@material-ui/core/TablePagination";
+import Popup from "reactjs-popup";
 
 const StyledTableCell = withStyles((theme) => ({
     head: {
