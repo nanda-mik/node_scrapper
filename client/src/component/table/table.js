@@ -117,25 +117,51 @@ export default function App(){
                 {rows
                   .slice(page * rowsPerPage, page * rowsPerPage + rowsPerPage)
                   .map(row => (
-                    <StyledTableRow key={row.url}>
-                      <StyledTableCell component="th" scope="row">{row.url}</StyledTableCell>
+                    <StyledTableRow key={row._id}>
+                      <StyledTableCell component="th" scope="row">
+                        {row.url}
+                      </StyledTableCell>
                       <StyledTableCell align="right">{row.lastmod}</StyledTableCell>
                       <StyledTableCell align="right">{row.total_words}</StyledTableCell>
                       <StyledTableCell align="right">{row.keyword}</StyledTableCell>
-                      <StyledTableCell align="right">{row.no_int_link}</StyledTableCell>
-                      <StyledTableCell align="right">{row.no_doF_link}</StyledTableCell>
-                      <StyledTableCell align="right">{row.no_noF_link}</StyledTableCell>
+                      <StyledTableCell align="right">
+                        <Popup trigger={<button>{row.no_int_link}</button>}>
+                          <div>{row.int_link}</div>
+                        </Popup>
+                      </StyledTableCell>
+                      <StyledTableCell align="right">
+                        <Popup trigger={<button>{row.no_doF_link}</button>}>
+                          <div>{row.dF_ext_link}</div>
+                        </Popup>
+                      </StyledTableCell>
+                      <StyledTableCell align="right">
+                        <Popup trigger={<button>{row.no_noF_link}</button>}>
+                          <div>{row.nf_ext_link}</div>
+                        </Popup>
+                      </StyledTableCell>
                       <StyledTableCell align="right">{row.isKeyPresent_para}</StyledTableCell>
                       <StyledTableCell align="right">{row.isKeyPresent_meta}</StyledTableCell>
                       <StyledTableCell align="right">{row.isKeyPresent_title}</StyledTableCell>
                       <StyledTableCell align="right">{row.title_length}</StyledTableCell>
                       <StyledTableCell align="right">{row.meta_length}</StyledTableCell>
                       <StyledTableCell align="right">{row.keyword_density}</StyledTableCell>
-                      <StyledTableCell align="right">{row.no_of_tags}</StyledTableCell>
+                      <StyledTableCell align="right">
+                        <Popup trigger={<button>{row.no_of_tags}</button>} position="center center">
+                          <div>{row.tag_array}</div>
+                        </Popup>
+                      </StyledTableCell>
                       <StyledTableCell align="right">{row.no_of_brokeimg}</StyledTableCell>
-                      <StyledTableCell align="right">{row.no_other_link}</StyledTableCell>
+                      <StyledTableCell align="right">
+                        <Popup trigger={<button>{row.no_other_link}</button>}>
+                          <div>{row.other_linkArticle}</div>
+                        </Popup>
+                      </StyledTableCell>
                       <StyledTableCell align="right">{row.isKeyPresent_img}</StyledTableCell>
-                      <StyledTableCell align="right">{row.no_of_img}</StyledTableCell>
+                      <StyledTableCell align="right">
+                        <Popup trigger={<button>{row.no_of_img}</button>}>
+                          <div>{row.img_array}</div>
+                        </Popup>
+                      </StyledTableCell>
                       <StyledTableCell align="right">{row.author}</StyledTableCell>
                     </StyledTableRow>
                   ))}
