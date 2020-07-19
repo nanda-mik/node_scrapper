@@ -75,18 +75,21 @@ const scrapEachPage = async (id) => {
         var keyword_density = 0;
         if($('.container').text() !== ""){
             content = $('.container').text().replace(/\s\s+/g, ' ');
+            content = content.replace(/[^a-zA-Z ]/g, "");
             if(typeof content !== "undefined"){
                 n_words = content.split(' ').length;
                 keyword = await getKeyword(content);
             }   
         }else if($('#content').text() !== ""){
             content = $('#content').text().replace(/\s\s+/g, ' ');
+            content = content.replace(/[^a-zA-Z ]/g, "");
             if(typeof content !== "undefined"){
                 n_words = content.split(' ').length;
                 keyword = await getKeyword(content);
             }
         }else{
             content = $('body').text().replace(/\s\s+/g,' ');
+            content = content.replace(/[^a-zA-Z ]/g, "");
             if(typeof content !== "undefined"){
                 n_words = content.split(' ').length;
                 keyword = await getKeyword(content);
@@ -387,12 +390,20 @@ const htmlDumpfunction =async (url, lastmod,id)=>{
                     }else{
                         console.log("not to be dumped");
                     }
-                }else{
+                }else if(topUrl[i].changefreq){
                     var changefreq = urls[i].changefreq[0];
                     var path = parse_url(singleUrl).pathname;
                     console.log(path);
                     if(!path.includes("/tag")){
                         await htmlDumpfunction(singleUrl,changefreq,siteId);
+                    }else{
+                        console.log("not to be dumped");
+                    }
+                }else{
+                    var path = parse_url(singleUrl).pathname;
+                    console.log(path);
+                    if(!path.includes("/tag")){
+                        await htmlDumpfunction(singleUrl,"not found",siteId);
                     }else{
                         console.log("not to be dumped");
                     }
