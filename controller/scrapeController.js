@@ -10,6 +10,7 @@ const isRelativeUrl = require("is-relative-url");
 const axios = require('axios');
 
 const Site = require('../models/site');
+const Crawler = require('../models/scrapper');
 const htmlDump = require('../models/htmlPages');
 
 const getKeyword = async(content) => {     
