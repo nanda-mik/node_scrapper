@@ -9,12 +9,8 @@ const isImage = require('is-image');
 const isRelativeUrl = require("is-relative-url");
 const axios = require('axios');
 
-const Crawler = require('../models/scrapper');
-const htmlDump = require('../models/htmlPages');
 const Site = require('../models/site');
-const requestPromise = require('request-promise');
-const { Mongoose } = require('mongoose');
-const { type } = require('os');
+const htmlDump = require('../models/htmlPages');
 
 const getKeyword = async(content) => {     
     var keyword = "";
@@ -46,6 +42,7 @@ const scrapEachPage = async (id) => {
     for(let i=0;i<htmlpages.length;i++){
         const $ = cheerio.load(htmlpages[i].html);
         const lastmod = htmlpages[i].lastmod;
+        const htmlPageId = htmlpages[i]._id;
         const url = htmlpages[i].url;
         console.log(url);
         //meta and post title
@@ -75,8 +72,8 @@ const scrapEachPage = async (id) => {
         var keyword = "";
         var n_words = 0;
         var keyword_density = 0;
-        if($('article').text() !== ""){
-            content = $('article').text().replace(/\s\s+/g, ' ');
+        if($('.container').text() !== ""){
+            content = $('.container').text().replace(/\s\s+/g, ' ');
             if(typeof content !== "undefined"){
                 n_words = content.split(' ').length;
                 keyword = await getKeyword(content);
@@ -108,8 +105,8 @@ const scrapEachPage = async (id) => {
             isKeyPresent_title = false;
         
         var para;
-        if($('article').text() !== ""){
-            para = $('article p');
+        if($('.container').text() !== ""){
+            para = $('.container p');
             if(typeof para !== "undefined"){
                 var first_para = $(para[0]).text().trim();
                 isKeyPresent_para = first_para.includes(keyword);
@@ -169,9 +166,9 @@ const scrapEachPage = async (id) => {
                     }
                 }
             }
-        }else if($('article').text() !== ""){
+        }else if($('.container').text() !== ""){
             const baseUrl = parse_url(url).resource;
-            var links = $('article a');
+            var links = $('.container a');
             if(typeof links !== "undefined"){
                 for(let i=0;i<links.length;i++){
                     var x = $(links[i]).attr('href');
@@ -260,8 +257,8 @@ const scrapEachPage = async (id) => {
         //images alt name
         var img_arr =[];
         var brokeimg_arr =[];
-        if($('article').text() !== ""){
-            const images = $('article img');
+        if($('.container').text() !== ""){
+            const images = $('.container img');
             var isKeyPresent_img = true;
             images.each((i,el)=>{
                 var rel = $(el).attr('alt');
@@ -344,7 +341,8 @@ const scrapEachPage = async (id) => {
             brokeimg_arr: brokeimg_arr,
             no_of_brokeimg: brokeimg_arr.length,
             author: author_anime,
-            siteId: id
+            siteId: id,
+            htmlPageId: htmlPageId
         });
         // console.log(crawler);
         try{
@@ -379,18 +377,19 @@ const htmlDumpfunction =async (url, lastmod,id)=>{
             const topUrl = urls.slice(0,200);
             for(let i=0;i<topUrl.length;i++){
                 var singleUrl = topUrl[i].loc[0];
-                console.log(singleUrl);
                 if(topUrl[i].lastmod){
                     var lastmod = topUrl[i].lastmod[0];
                     var path = parse_url(singleUrl).pathname;
+                    console.log(path);
                     if(!path.includes("/tag")){
                         await htmlDumpfunction(singleUrl,lastmod,siteId);
                     }else{
                         console.log("not to be dumped");
                     }
                 }else{
-                    var changefreq = topUrl[i].changefreq[0];
+                    var changefreq = urls[i].changefreq[0];
                     var path = parse_url(singleUrl).pathname;
+                    console.log(path);
                     if(!path.includes("/tag")){
                         await htmlDumpfunction(singleUrl,changefreq,siteId);
                     }else{
@@ -422,24 +421,11 @@ exports.postScrapper = async (req, res, next) => {
     const result = await site.save();
     const id = result._id;
     console.log(id);
-    res.status(200).json({message: "website under crawl, check table after some time.", name:head});
+    res.status(200).json({message: "website under crawl visit after sometime.", name:head});
     await getCrawler(sitemapXml, id);
     console.log("html dumped crawl start.");
     await scrapEachPage(id);
 };
 
-exports.getScrapper = async (req,res,next) => {
-    const result = await Site.find();
-    res.status(200).json({message: "success", sites: result});
-    // console.log(result[0]._id);
-    // const id = result[0]._id;
-    // await scrapEachPage(id);
-    // res.status(200).json({message: "done"});
-};
 
 
-exports.getData = async (req,res,next) => {
-    const id = req.params.id;
-    const data = await Crawler.find({siteId: id}).lean();
-    res.send(data);
-};

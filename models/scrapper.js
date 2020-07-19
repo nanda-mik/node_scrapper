@@ -108,6 +108,11 @@ const crawlSchema = new Schema({
         type:Schema.Types.ObjectId,
         ref: 'Sites',
         required: true
+    },
+    htmlPageId:{
+        type: Schema.Types.ObjectId,
+        ref: 'html',
+        required: true
     }
 });
 
