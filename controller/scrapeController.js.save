@@ -387,20 +387,11 @@ const htmlDumpfunction =async (url, lastmod,id)=>{
                     }else{
                         console.log("not to be dumped");
                     }
-                }else if(topUrl[i].changefreq){
                     var changefreq = urls[i].changefreq[0];
                     var path = parse_url(singleUrl).pathname;
                     console.log(path);
                     if(!path.includes("/tag")){
                         await htmlDumpfunction(singleUrl,changefreq,siteId);
-                    }else{
-                        console.log("not to be dumped");
-                    }
-                }else{
-                    var path = parse_url(singleUrl).pathname;
-                    console.log(path);
-                    if(!path.includes("/tag")){
-                        await htmlDumpfunction(singleUrl,"not found",siteId);
                     }else{
                         console.log("not to be dumped");
                     }
@@ -423,7 +414,7 @@ exports.postScrapper = async (req, res, next) => {
     const inputUrl = req.body.pageUrl;
     console.log(inputUrl);
     var head = parse_url(inputUrl).resource;
-    const sitemapXml = inputUrl + "sitemap.xml";
+    const sitemapXml = inputUrl + "/sitemap.xml";
     const site = new Site({
         link: inputUrl
     });
