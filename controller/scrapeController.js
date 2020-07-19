@@ -75,18 +75,21 @@ const scrapEachPage = async (id) => {
         var keyword_density = 0;
         if($('.container').text() !== ""){
             content = $('.container').text().replace(/\s\s+/g, ' ');
+            content = content.replace(/[^a-zA-Z ]/g, "");
             if(typeof content !== "undefined"){
                 n_words = content.split(' ').length;
                 keyword = await getKeyword(content);
             }   
         }else if($('#content').text() !== ""){
             content = $('#content').text().replace(/\s\s+/g, ' ');
+            content = content.replace(/[^a-zA-Z ]/g, "");
             if(typeof content !== "undefined"){
                 n_words = content.split(' ').length;
                 keyword = await getKeyword(content);
             }
         }else{
             content = $('body').text().replace(/\s\s+/g,' ');
+            content = content.replace(/[^a-zA-Z ]/g, "");
             if(typeof content !== "undefined"){
                 n_words = content.split(' ').length;
                 keyword = await getKeyword(content);
