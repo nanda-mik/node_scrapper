@@ -14,9 +14,16 @@ const crawlSchema = new Schema({
         type: Number,
         required:true
     },
+    title:{
+        type: String
+    },
     title_length:{
         type: Number,
         required:true
+    },
+    meta:{
+        type: String,
+        required: true
     },
     meta_length:{
         type: Number,
@@ -25,6 +32,10 @@ const crawlSchema = new Schema({
     int_link:{
         type: Array,
         required:true
+    },
+    int_text:{
+        type: Array,
+        required: true
     },
     no_int_link:{
         type:Number,
@@ -46,6 +57,14 @@ const crawlSchema = new Schema({
         type:Number,
         required:true
     },
+    ext_link:{
+        type: Array,
+        required: true
+    },
+    ext_text:{
+        type: Array,
+        required: true
+    },
     other_linkArticle:{
         type: Array,
         required:true
@@ -62,8 +81,13 @@ const crawlSchema = new Schema({
         type:Number,
         required:true
     },
-    keyword:{
-        type: String
+    keywordArr:{
+        type: Array,
+        required: true
+    },
+    keywordArr_length: {
+        type: Number,
+        required: true
     },
     keyword_density:{
         type: Number,
@@ -93,27 +117,36 @@ const crawlSchema = new Schema({
         type: String,
         required: true
     },
-    brokeimg_arr:{
+    broken_link:{
         type: Array,
         required: true
     },
-    no_of_brokeimg:{
+    no_of_brokelink:{
         type:Number,
         required:true
     },
     author:{
         type: String
     },
+    fb_share:{
+        type: Number,
+        required: true
+    },
     siteId:{
-        type:Schema.Types.ObjectId,
-        ref: 'Sites',
+        type: Schema.Types.ObjectId,
+        ref: 'websites',
+        required: true
+    },
+    userId:{
+        type: Schema.Types.ObjectId,
+        ref:'users',
         required: true
     },
     htmlPageId:{
         type: Schema.Types.ObjectId,
-        ref: 'html',
+        ref: 'htmlDump',
         required: true
     }
 });
 
-module.exports = mongoose.model('collection',crawlSchema);
+module.exports = mongoose.model('scrapData',crawlSchema);
