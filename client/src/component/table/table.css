@@ -4,6 +4,12 @@
 
 .btn-table{
     text-align: left;
+    margin: 0 5px;
+}
+
+.btn-list{
+  display: flex;
+  flex-direction: row;
 }
 
 .modal {

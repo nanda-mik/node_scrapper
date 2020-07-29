@@ -5,8 +5,12 @@
 
 .input{
     font-weight: bold;
-    width: 500px;
     height: 30px;
     padding: 2px;
+}
+
+.form-to-add{
+    text-align: center;
+    margin: 0 20vh;
 }
 

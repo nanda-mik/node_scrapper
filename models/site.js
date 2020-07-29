@@ -8,4 +8,4 @@ const siteSchema = new Schema({
     }
 },{timestamps: true});
 
-module.exports = mongoose.model('Sites',siteSchema);
+module.exports = mongoose.model('websites',siteSchema);

@@ -8,8 +8,8 @@ const siteController = require('../controller/sitesController');
 router.post('/api/addScrapper', scrapController.postScrapper);
 
 router.post('/api/editKey/:id',dataController.editKey);
-router.get('/api/getData/:id', dataController.getData);
+router.post('/api/getData/:id', dataController.getData);
 
-router.get('/api/getScrapper', siteController.getScrapper);
+router.post('/api/getSites', siteController.getSites);
 
 module.exports = router;
