@@ -1,0 +1,615 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>62 Business Ideas with Low Investment and High Profit</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<!-- stylesheets -->
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="/assets/css/bootstrap.min.css?v=f8ab24f360">
+	<link rel="stylesheet" type="text/css" href="/assets/css/font-awesome.min.css?v=f8ab24f360">
+	<link rel="stylesheet" type="text/css" href="/assets/css/hl-styles/atom-one-dark.css?v=f8ab24f360">
+	<link rel="stylesheet" type="text/css" href="/assets/css/screen.css?v=f8ab24f360">
+	<link rel="stylesheet" type="text/css" href="/assets/css/custom.css?v=f8ab24f360">
+	<script>
+/*====================================================
+  THEME SETTINGS & GLOBAL VARIABLES
+====================================================*/
+//  1. Disqus comment settings
+var disqus_shortname = 'example'; // required: replace example with your forum shortname
+
+//  2. Fixed navbar
+var fixed_navbar = true;
+
+// 3. Content API key ( it required to search work)
+var api_key = '0a15270b18f5a513dc70dfa252';
+</script>
+	<meta name="description" content="Do you have less capital to invest or even zero? Are you looking for small investment business ideas which you can run without much technical knowledge? Here in this article we have compiled 62 business ideas with low investment and high returns." />
+    <link rel="shortcut icon" href="/favicon.png" type="image/png" />
+    <link rel="canonical" href="https://startuptalky.com/business-ideas-low-investment-high-return/" />
+    <meta name="referrer" content="no-referrer-when-downgrade" />
+    
+    <meta property="og:site_name" content="StartupTalky" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="62 Business Ideas with Low Investment and High Profit" />
+    <meta property="og:description" content="Do you have less capital to invest or even zero? Are you looking for small investment business ideas which you can run without much technical knowledge? Here in this article we have compiled 62 business ideas with low investment and high returns." />
+    <meta property="og:url" content="https://startuptalky.com/business-ideas-low-investment-high-return/" />
+    <meta property="og:image" content="https://static.startuptalky.com/2019/12/low-investment-business-ideas-startuptalky.png" />
+    <meta property="article:published_time" content="2020-07-27T10:30:00.000Z" />
+    <meta property="article:modified_time" content="2020-07-27T16:07:35.000Z" />
+    <meta property="article:tag" content="Business ideas" />
+    <meta property="article:tag" content="Low investment" />
+    <meta property="article:tag" content="high returns" />
+    <meta property="article:tag" content="wedding planner" />
+    <meta property="article:tag" content="technical freelancer" />
+    <meta property="article:tag" content="gym" />
+    <meta property="article:tag" content="fitness center" />
+    <meta property="article:tag" content="yoga center" />
+    <meta property="article:tag" content="medication center" />
+    <meta property="article:tag" content="freelance photographer" />
+    <meta property="article:tag" content="e commerce website" />
+    <meta property="article:tag" content="blogging" />
+    <meta property="article:tag" content="SEO consultancy firm" />
+    <meta property="article:tag" content="computer trainer" />
+    <meta property="article:tag" content="youtube channel" />
+    <meta property="article:tag" content="cooking class" />
+    <meta property="article:tag" content="business broker" />
+    <meta property="article:tag" content="fast food restaurants" />
+    <meta property="article:tag" content="driving school" />
+    <meta property="article:tag" content="mobile food service" />
+    <meta property="article:tag" content="low investment business idea" />
+    <meta property="article:tag" content="small scale business idea" />
+    <meta property="article:tag" content="business idea" />
+    <meta property="article:tag" content="small business" />
+    <meta property="article:tag" content="low investment high returns" />
+    <meta property="article:tag" content="event management" />
+    <meta property="article:tag" content="blogging agency" />
+    <meta property="article:tag" content="ecommerce" />
+    <meta property="article:tag" content="food delivery startup" />
+    <meta property="article:tag" content="coaching center" />
+    
+    <meta property="article:publisher" content="https://www.facebook.com/startuptalky/" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="62 Business Ideas with Low Investment and High Profit" />
+    <meta name="twitter:description" content="Do you have less capital to invest or even zero? Are you looking for small investment business ideas which you can run without much technical knowledge? Here in this article we have compiled 62 business ideas with low investment and high returns." />
+    <meta name="twitter:url" content="https://startuptalky.com/business-ideas-low-investment-high-return/" />
+    <meta name="twitter:image" content="https://static.startuptalky.com/2019/12/low-investment-business-ideas-startuptalky.png" />
+    <meta name="twitter:label1" content="Written by" />
+    <meta name="twitter:data1" content="Shubham Kumar" />
+    <meta name="twitter:label2" content="Filed under" />
+    <meta name="twitter:data2" content="Business ideas, Low investment, high returns, wedding planner, technical freelancer, gym, fitness center, yoga center, medication center, freelance photographer, e commerce website, blogging, SEO consultancy firm, computer trainer, youtube channel, cooking class, business broker, fast food restaurants, driving school, mobile food service, low investment business idea, small scale business idea, business idea, small business, low investment high returns, event management, blogging agency, ecommerce, food delivery startup, coaching center" />
+    <meta name="twitter:site" content="@StartupTalky" />
+    <meta property="og:image:width" content="560" />
+    <meta property="og:image:height" content="315" />
+    
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name": "StartupTalky",
+        "url": "https://startuptalky.com/",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://static.startuptalky.com/2019/02/StartupTalky_logo-3.png"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Shubham Kumar",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://static.startuptalky.com/2020/06/logo_st.jpg",
+            "width": 400,
+            "height": 400
+        },
+        "url": "https://startuptalky.com/author/startuptalky/",
+        "sameAs": []
+    },
+    "headline": "62 Business Ideas with Low Investment and High Profit",
+    "url": "https://startuptalky.com/business-ideas-low-investment-high-return/",
+    "datePublished": "2020-07-27T10:30:00.000Z",
+    "dateModified": "2020-07-27T16:07:35.000Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://static.startuptalky.com/2019/12/low-investment-business-ideas-startuptalky.png",
+        "width": 560,
+        "height": 315
+    },
+    "keywords": "Business ideas, Low investment, high returns, wedding planner, technical freelancer, gym, fitness center, yoga center, medication center, freelance photographer, e commerce website, blogging, SEO consultancy firm, computer trainer, youtube channel, cooking class, business broker, fast food restaurants, driving school, mobile food service, low investment business idea, small scale business idea, business idea, small business, low investment high returns, event management, blogging agency, ecommerce, food delivery startup, coaching center",
+    "description": "One of the most desired things an entrepreneur wants in business is a small\ninvestment business idea and high profits. To achieve this, they sought every\nway to make their business run smoothly and increase revenue thus profitability.\nIf you land on this article chances are you are looking for Business Ideas with\nLow Investment and High Profit. \n\nNot only you, nowadays we find several young and dynamic individuals who aspire\nto start a small business and follow their dreams than work under someo",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://startuptalky.com/"
+    }
+}
+    </script>
+
+    <meta name="generator" content="Ghost 3.21" />
+    <link rel="alternate" type="application/rss+xml" title="StartupTalky" href="https://startuptalky.com/rss/" />
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MN965ZD');</script>
+<!-- End Google Tag Manager -->
+
+<meta name="google-site-verification" content="DZU8U9RwDkRaZIsWgzoChUYdSNfLEyO1yn-UGvB4SBI" /><script data-ad-client="ca-pub-6079861242160523" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+</head>
+
+<body class="post-template tag-business-ideas tag-low-investment tag-high-returns tag-wedding-planner tag-technical-freelancer tag-gym tag-fitness-center tag-yoga-center tag-medication-center tag-freelance-photographer tag-e-commerce-website tag-blogging tag-seo-consultancy-firm tag-computer-trainer tag-youtube-channel tag-cooking-class tag-business-broker tag-fast-food-restaurants tag-driving-school tag-mobile-food-service tag-low-investment-business-idea tag-small-scale-business-idea tag-business-idea tag-small-business tag-low-investment-high-returns tag-event-management tag-blogging-agency tag-ecommerce tag-food-delivery-startup tag-coaching-center">
+	<!-- start header -->
+<header class="site-header" id="main-navbar">
+	<div class="container">
+		<div class="row">
+			<div class="navbar-header">
+				<!-- start logo -->
+				<a class="logo image-logo" href="https://startuptalky.com"><img src="https://static.startuptalky.com/2019/02/StartupTalky_logo-3.png" alt="StartupTalky"></a>
+				<!-- end logo -->
+			</div>
+			<nav class="main-menu hidden-sm hidden-xs" id="main-menu">
+	<ul>
+		<li class="profiles"><a href="https://startuptalky.com/tag/successful-company-profiles/">Profiles</a></li>
+		<li class="insights"><a href="https://startuptalky.com/tag/Insights/">Insights</a></li>
+		<li class="learning"><a href="https://startuptalky.com/tag/learning/">Learning</a></li>
+		<li class="startuptalkers"><a href="https://startuptalky.com/tag/startuptalkers/">StartupTalkers</a></li>
+		<li class="collections"><a href="https://startuptalky.com/tag/collections/">Collections</a></li>
+		<li class="news"><a href="https://startuptalky.com/tag/news/">News</a></li>
+		<li class="events"><a href="https://startuptalky.com/tag/startup-events/">Events</a></li>
+		<li class="contact"><a href="https://startuptalky.com/contact-us/">Contact</a></li>
+	</ul>
+</nav>
+			<div class="nav-right pull-right align-right">
+				<span class="search-toggle" id="search-button" data-toggle="modal" data-target="#searchmodal"><i class="fa fa-search align-center"></i></span>
+				<span class="mobile-menu-toggle hidden-md hidden-lg" id="nav-toggle-button"><i class="fa fa-bars align-center"></i></span>
+			</div>
+			<nav class="mobile-menu visible-sm visible-xs" id="mobile-menu"></nav>
+			<div class="backdrop hidden-md hidden-lg" id="backdrop">
+				<span class="menu-close align-center"><i class="fa fa-arrow-left"></i></span>
+			</div>
+		</div>
+	</div>
+</header>
+<!-- end header -->	
+<!-- start content area -->
+<div class="main-content-area single-post">
+	<article>
+		<div class="post-head"
+			style="background-image:url(https://static.startuptalky.com/2019/12/low-investment-business-ideas-startuptalky.png);" >
+			<div class="container align-center">
+				<div class="row">
+					<div class="col-md-offset-1 col-md-10">
+
+						<h1 class="title">62 Business Ideas With Low Investment and High Profit</h1>
+
+						<div class="post-meta">
+							<a class="author" href="/author/startuptalky/" rel="author">
+								<span class="name">Shubham Kumar</span>
+							</a>
+							<time class="time" datetime="2020-07-27 16:07:00"
+								itemprop="datePublished">July 27, 2020</time>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="share-wrap clearfix align-center">
+	<div class="share-text h5">Share this article</div>
+	<ul class="share-links">
+		<!-- facebook -->
+		<li>
+			<a class="facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://startuptalky.com/business-ideas-low-investment-high-return/" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;" title="Share on Facebook"><i class="fa fa-facebook"></i>Facebook</a>
+		</li>
+		<!-- twitter -->
+		<li>
+			<a class="twitter" href="https://twitter.com/share?text=62%20Business%20Ideas%20With%20Low%20Investment%20and%20High%20Profit&amp;url=https://startuptalky.com/business-ideas-low-investment-high-return/" onclick="window.open(this.href, 'twitter-share', 'width=580,height=296');return false;" title="Share on Twitter"><i class="fa fa-twitter"></i>Twitter</a>
+		</li>
+		<!-- linkedin -->
+		<li>
+			<a class="linkedin" href="http://www.linkedin.com/shareArticle?mini=true&url=https://startuptalky.com/business-ideas-low-investment-high-return/&title=62%20Business%20Ideas%20With%20Low%20Investment%20and%20High%20Profit" onclick="window.open(this.href, 'linkedin-share', 'width=580,height=296');return false;" title="Share on Linkedin"><i class="fa fa-linkedin"></i>Linkedin</a>
+		</li>
+		<!-- pinterest -->
+		<li>
+			<a class="pinterest" href="http://pinterest.com/pin/create/button/?url=https://startuptalky.com/business-ideas-low-investment-high-return/&description=62%20Business%20Ideas%20With%20Low%20Investment%20and%20High%20Profit" onclick="window.open(this.href, 'linkedin-share', 'width=580,height=296');return false;" title="Share on Pinterest"><i class="fa fa-pinterest"></i>Pinterest</a>
+		</li>
+	</ul>
+</div>				<div class="col-md-9 col-xs-12">
+					<div class="post-content">
+						<p>One of the most desired things an entrepreneur wants in business is a <strong>small investment business idea and high profits</strong>. To achieve this, they sought every way to make their business run smoothly and increase revenue thus profitability. If you land on this article chances are you are looking for <strong>Business Ideas with Low Investment and High Profit</strong>. </p><p>Not only you, nowadays we find several young and dynamic individuals who aspire to start a small business and follow their dreams than work under someone else. They are looking for <strong>low investment business ideas</strong> and high profits. ‘Return on Investment’ or ROI has become a predominant factor in setting up any kind of business. It’s a weighing scale that ultimately decides whether to go ahead or not.</p><p>A common misconception is that earning big profits requires a huge <a href="https://startuptalky.com/tag/investors/">investment</a> in the form of money, labor, equipment, etc. But that’s definitely not the situation if one is aware of the variety of business ideas that can be started with minimum investment. Do you have less capital to invest or even zero? If, you can are looking for an investment template you can get one from <a href="https://www.template.net/editable/investment/?ref=startuptalky">here</a>.</p><p>Here in this article, we have compiled business ideas with <strong>low investment </strong>and <strong>high returns</strong>. These are some of the <strong>best profitable business in India. </strong>So let's get started!</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas" > 62 Business Ideas with Low Investment and High Profit </h3><!--kg-card-end: html--><!--kg-card-begin: markdown--><p><a href="#low_investment_high_profit_business_ideas_wedding_planner">Wedding Planner</a><br>
+<a href="#low_investment_high_profit_business_ideas_technical_freelancer">Technical Freelancer</a><br>
+<a href="#low_investment_high_profit_business_ideas_gym_fitness_center">Gym or Fitness Center</a><br>
+<a href="#low_investment_high_profit_business_ideas_yoga_meditation_center">Yoga and Meditation Center</a><br>
+<a href="#low_investment_high_profit_business_ideas_mechanical_electrical_works">Mechanical / Electrical Works</a><br>
+<a href="#low_investment_high_profit_business_ideas_e_commerce_websites">E commerce Websites</a><br>
+<a href="#low_investment_high_profit_business_ideas_blogging">Blogging</a><br>
+<a href="#low_investment_high_profit_business_ideas_online_surveys_captcha_solving">Online Surveys and Captcha Solving</a><br>
+<a href="#low_investment_high_profit_business_ideas_domain_trading">Domain Trading</a><br>
+<a href="#low_investment_high_profit_business_ideas_selling_photos">Selling Photos</a><br>
+<a href="#low_investment_high_profit_business_ideas_ebook_publishing">E-book Publishing</a><br>
+<a href="#low_investment_high_profit_business_ideas_podcasts">Podcasts</a><br>
+<a href="#low_investment_high_profit_business_ideas_stock_trading">Stock Trading</a><br>
+<a href="#low_investment_high_profit_business_ideas_influencer">Become an Influencer</a><br>
+<a href="#low_investment_high_profit_business_ideas_mobile_food_service">Mobile Food Service</a><br>
+<a href="#low_investment_high_profit_business_ideas_recruitment_services">Recruitment Services</a><br>
+<a href="#low_investment_high_profit_business_ideas_event_organizer">Event Organizer</a><br>
+<a href="#low_investment_high_profit_business_ideas_social_media_services">Social Media Services</a><br>
+<a href="#low_investment_high_profit_business_ideas_interior_designer">Interior Designer</a><br>
+<a href="#low_investment_high_profit_business_ideas_grocery">Grocery</a><br>
+<a href="#low_investment_high_profit_business_ideas_coaching_class">Coaching Class</a><br>
+<a href="#low_investment_high_profit_business_ideas_mobile_shop">Mobile Shop</a><br>
+<a href="#low_investment_high_profit_business_ideas_translation_services">Translation Services</a><br>
+<a href="#low_investment_high_profit_business_ideas_mobile_computer_repairing">Mobile / Computer Repairing</a><br>
+<a href="#low_investment_high_profit_business_ideas_driving_school">Driving School</a><br>
+<a href="#low_investment_high_profit_business_ideas_car_parking">Car Parking</a><br>
+<a href="#low_investment_high_profit_business_ideas_public_speaking_lessons">Public Speaking Lessons</a><br>
+<a href="#low_investment_high_profit_business_ideas_dance_classes">Dance Classes</a><br>
+<a href="#low_investment_high_profit_business_ideas_baby_sitter">Baby Sitter</a><br>
+<a href="#low_investment_high_profit_business_ideas_courier_company">Courier Company</a><br>
+<a href="#low_investment_high_profit_business_ideas_consultancy">Consultancy</a><br>
+<a href="#low_investment_high_profit_business_ideas_digital_marketing_consultancy">Digital Marketing Consultancy</a><br>
+<a href="#low_investment_high_profit_business_ideas_dietary_consultancy">Dietary Consultancy</a><br>
+<a href="#low_investment_high_profit_business_ideas_packers_and_movers">Packers and Movers</a><br>
+<a href="#low_investment_high_profit_business_ideas_ice_cream_parlour">Ice Cream Parlour</a><br>
+<a href="#low_investment_high_profit_business_ideas_content_writing_copy_writing">Content Writing and Copy Writing</a><br>
+<a href="#low_investment_high_profit_business_ideas_freelancer">Freelancer</a><br>
+<a href="#low_investment_high_profit_business_ideas_book_store">Book Store</a><br>
+<a href="#low_investment_high_profit_business_ideas_computer_trainer">Computer Trainer</a><br>
+<a href="#low_investment_high_profit_business_ideas_online_store">Online Store</a><br>
+<a href="#low_investment_high_profit_business_ideas_travel_agency">Travel Agency</a><br>
+<a href="#low_investment_high_profit_business_ideas_security_spy_agency">Security &amp; Spy Agency</a><br>
+<a href="#low_investment_high_profit_business_ideas_data_entry">Data Entry</a><br>
+<a href="#low_investment_high_profit_business_ideas_resume_writer">Resume Writer</a><br>
+<a href="#low_investment_high_profit_business_ideas_dj_services">DJ Services</a><br>
+<a href="#low_investment_high_profit_business_ideas_music_classes">Music Classes</a><br>
+<a href="#low_investment_high_profit_business_ideas_laundry">Laundry</a><br>
+<a href="#low_investment_high_profit_business_ideas_web_designing">Web Designing</a><br>
+<a href="#low_investment_high_profit_business_ideas_affiliate_marketing">Affiliate Marketing</a><br>
+<a href="#low_investment_high_profit_business_ideas_xerox_book_binding">Xerox Book Binding</a><br>
+<a href="#low_investment_high_profit_business_ideas_real_estate_agent">Real Estate Agent</a><br>
+<a href="#low_investment_high_profit_business_ideas_youtube_channel">YouTube Channel</a><br>
+<a href="#low_investment_high_profit_business_ideas_cooking_classes">Cooking Classes</a><br>
+<a href="#low_investment_high_profit_business_ideas_business_broker">Business Broker</a><br>
+<a href="#low_investment_high_profit_business_ideas_fast_food_restaurant">Fast Food Restaurant</a><br>
+<a href="#low_investment_high_profit_business_ideas_pharmacy">Pharmacy</a><br>
+<a href="#low_investment_high_profit_business_ideas_beauty_parlour_fashion_boutique">Beauty Parlour / Fashion Boutique</a><br>
+<a href="#low_investment_high_profit_business_gardening_business">Gardening Business</a><br>
+<a href="#low_investment_high_profit_business_ideas_clean_green_services">Clean and Green Services</a><br>
+<a href="#low_investment_high_profit_business_ideas_jewelery_designing">Jewelry Designing</a><br>
+<a href="#low_investment_high_profit_business_ideas_bouquet_greeting_card_making">Bouquet and Greeting Card Making</a><br>
+<a href="#low_investment_high_profit_business_ideas_accounting_tax_preparation">Accounting and Tax Preparation</a></p>
+<!--kg-card-end: markdown--><p></p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_wedding_planner" > 1. Wedding Planner</h3><!--kg-card-end: html--><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://static.startuptalky.com/2019/05/Wedding-planner-business-startuptalky.jpg" class="kg-image" alt="Wedding-planner-business-startuptalky"><figcaption>Being a Wedding Planner is one of the best business with low investment</figcaption></figure><p><a href="https://startuptalky.com/tag/wedding-planner/">A wedding</a> is a big industry in India. It is something that is never offseason. With just some of your managing skills and brains, you can easily earn a lot. The best part of this business idea is that all you need to do is take, give, and earn in between. Wedding Business can be started with minimal investment and there high returns in this business.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_technical_freelancer" > 2. Technical Freelancer</h3><!--kg-card-end: html--><p>If you have some of the geek qualities in your blood and the knowledge of any programming language you can easily get hired by just posting your resume and work experience (optional) to any website that hires freelancers. The investment will be minimum and sometimes even nothing.</p><hr><figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="https://startuptalky.com/become-best-freelancer-india/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">How to Become a Freelancer in India? | Freelancing in India</div><div class="kg-bookmark-description">Freelancing in India has become quite popular for last few years. The
+freelancing industry is growing so fast that freelancers are expected to
+comprise about 50% of India’s workforce by 2021. Nevertheless, freelancing in
+India is quite a private haven that not only breaks this monotonicity but also
+…</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="https://startuptalky.com/favicon.png"><span class="kg-bookmark-author">Piyush Mishra</span><span class="kg-bookmark-publisher">StartupTalky</span></div></div><div class="kg-bookmark-thumbnail"><img src="https://static.startuptalky.com/2020/04/How-to-Become-a-Freelancer-in-India_startuptalky.jpg"></div></a></figure><hr><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_gym_fitness_center" > 3. Gym or Fitness Center</h3><!--kg-card-end: html--><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://static.startuptalky.com/2019/05/Gym-center-business-startuptalky.jpg" class="kg-image" alt="Gym-center-business-startuptalky"><figcaption>With People becoming fitness conscious, starting a gym is one of the best business ideas with less investment</figcaption></figure><p>We live in a world where we often forget to take care of our body resulting in worse physical conditions. To avoid such condition we prefer going to gyms or fitness centers. Starting a gym with a minimum number of necessary equipment at a good place will definitely be a profitable business idea.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_yoga_meditation_center" > 4. Yoga and Meditation Center</h3><!--kg-card-end: html--><p>With that busy schedule, hectic life, and a lot of work stress nobody can live a healthy life. Your Yoga and meditation center will help people to fight with all these never-ending problems. Apart from that, it also a very profitable business idea. The investment will just be a good place and some workers (optional). You can also hire a trainer if you don’t have a knowledge of Yoga and meditation.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_mechanical_electrical_works" >5. Mechanical / Electrical Works</h3><!--kg-card-end: html--><p>The development of present generation technologies requires many mechanical and electrical goods. Therefore, the establishment of a garage for servicing of vehicles or sale of any electrical goods finds profit in present times. Although, the business involves some amount of investment yet the profit accrued is always higher.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_e_commerce_websites" > 6. E commerce Websites</h3><!--kg-card-end: html--><p>Online shopping is the new era trend. It is the easiest way of shopping and getting the best product from thousands of options. All you need is a website and the products you want to sell, it can be anything like jewelry, shoes, or even the everyday household items.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_blogging" > 7. Blogging</h3><!--kg-card-end: html--><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://static.startuptalky.com/2019/05/blogging-gif-startuptalky-1.gif" class="kg-image" alt="blogging-gif-startuptalky"><figcaption>Blogging is one of the best business ideas with low investment</figcaption></figure><p>Blogging is one business that can give us a high profit. Our investment only in the form of the ability in writing a blog, an Internet connection, and a laptop or PC. It’s very simple but it can deliver high profits. If the blog you create ranks first on Google, then the blogger can be paid by Google. This is really beneficial and easy to start. Moreover, blogging is being done by many people and they are earning filthy money without investment.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_online_surveys_captcha_solving" > 8. Online Surveys and Captcha Solving</h3><!--kg-card-end: html--><p>An earning mechanism not at all painstaking, completing surveys, and solving captchas can generate revenue while staying at home. The skills required basic English knowledge, knowledge about numbers, and the internet. The earnings may seem small, but when accrued, the time and efforts show the results. It’s important to know that scammers are widespread in this domain. </p><p>So, do careful research before signing up for some survey company to avoid indulging in the illegitimate ones. Also, if the company is asking for registration fees then that's your cue to know it's a fraud site. You can also Google "scam" after mentioning the website name and you will get all the information needed.</p><hr><figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="https://startuptalky.com/business-development-tools/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Best Business Development Tools in 2020 | Business Development Software</div><div class="kg-bookmark-description">The life of an entrepreneur [/tag/entrepreneurs/] is loaded with numerous
+tensions and the most frequent tension is business development constantly.
+Running a business is an ongoing process and need various business development
+tools, you can’t take rest for one minute and apart from doing regular f…</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="https://startuptalky.com/favicon.png"><span class="kg-bookmark-author">Ashwini</span><span class="kg-bookmark-publisher">StartupTalky</span></div></div><div class="kg-bookmark-thumbnail"><img src="https://static.startuptalky.com/2020/07/busieness-development-tools.jpg"></div></a></figure><hr><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_domain_trading" > 9. Domain Trading</h3><!--kg-card-end: html--><p>Did you know that selling of .com and other web domains is a lucrative field? But expertise and initial investment are required before stepping into the shoes of a domain trader. The job revolves around identifying domains that hold potential, waiting for the right opportunity, and then selling it to interested parties, usually companies and organizations. Here you have to be creative and also have to research a lot. </p><p>You need to search for the brands which you think are going to be popular after one or two years, then buy a domain name by the name of the brand. That way when the brand will become popular they have to buy the domain name from you at the price decided by you and that's how you will make money. You can buy domain names from GoDaddy, Namecheap, or any other websites. It is one of the <strong>most profitable businesses in India with low investment.</strong></p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_selling_photos" >10. Selling Photos</h3><!--kg-card-end: html--><p>Coming across pictures with bookmarks such as Photobucket and ShutterStock hold significance for a reason—high-quality images can be sold online for a great price. You have to submit photos to such sites and when people purchase the same from these platforms, you will get paid as per the price set. You can start this business without any major investment. </p><p>If the camera quality of your smartphone is good then you are all set to go. But you have to make sure that you are uploading high-quality pictures. Otherwise, you will not be able to make money by selling photos online as those pictures will be used on a website and other online platforms.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_ebook_publishing" >11. E-book Publishing</h3><!--kg-card-end: html--><p><a href="https://startuptalky.com/everything-about-ebooks/">E-books</a> and PDFs can generate cash if they have the substance and ingenuity to stand out. Amateur and experienced authors can use online publishing not only to showcase their talent but also to earn money through sales. If you are an amateur then you can use Kindle direct publishing to start your fiction and can promote it online. Many authors are making a lot of money simply by selling their books online. You can publish your ebooks without any investment.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_podcasts" > 12. Podcasts</h3><!--kg-card-end: html--><p>Audio and video sessions constitute <a href="https://startuptalky.com/podcasts-to-grow-buisness/">podcasting</a>, though it’s generally audio files that make up the majority. Podcasts are digital files that subscribed users can download or listen to online. You can start your Podcasts just by using your smartphone and earphones. But before starting your Podcast channel make sure that you have something that can give value to the people. </p><p>You can earn money by including advertisements either in the beginning, middle, or end of the session. Audiobooks are another form of Podcasts. People like to listen to audiobooks more than reading a book. You create your website where you can sell your audiobooks that way you can earn a huge amount of money both from the website traffic and also by selling the audiobooks.</p><hr><figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="https://startuptalky.com/podcasts-to-grow-buisness/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">How to create a Podcast &amp; Which Podcast to follow Entrepreneurs</div><div class="kg-bookmark-description">You must have come up with the term “Podcast” online numerous times. Podcasts
+have become very popular these days. They are now overtaking the internet videos
+and television. Slowly, they will get ahead of YouTube
+[https://startuptalky.com/tag/youtube-channel/] for a certain category of
+people. In f…</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="https://startuptalky.com/favicon.png"><span class="kg-bookmark-author">Vidhi Punamiya</span><span class="kg-bookmark-publisher">StartupTalky</span></div></div><div class="kg-bookmark-thumbnail"><img src="https://static.startuptalky.com/2019/08/Podcasts-for-business-startuptalky.jpg"></div></a></figure><hr><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_stock_trading" > 13. Stock Trading</h3><!--kg-card-end: html--><p>Stock Trading is a great option to earn a huge amount of money. You can start Stock Trading with a low amount of money and make that money work for you. But before you starting Stock Trading, gather knowledge about the share market as much as possible. Then only you will be able to make money by trading stocks. This is a high risk, high gamble field and requires experience, acumen, and luck. There are millions of success stories as well as disheartening ones. Go for trading only when you can bear the brunt of falling on your face. This also requires some skills to earn a good amount of income.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_influencer" > 14. Become an Influencer</h3><!--kg-card-end: html--><p>If you have humongous followers on social media and they are dedicated to your posts, then you can start promoting products from the various company and can get paid for the promotions. If you can generate more sales to the company, there are chances that you can turn out as their brand ambassador. People are getting heavily paid for it. Also, if you are a good model cum influencer, you can catch the eye of modeling companies and get a kick start to your career.</p><hr><figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="https://startuptalky.com/become-influencer/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">10 Foundation Tips On How To Become An Influencer</div><div class="kg-bookmark-description">An influencer is someone who can influence the lives of others or the group of
+people. An influencer is also capable of changing the world for the better.
+Influential people have more power to create movement and change than others.
+According to a survey, 17% of companies spend over half of their ma…</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="https://startuptalky.com/favicon.png"><span class="kg-bookmark-author">Parnas Ghosh</span><span class="kg-bookmark-publisher">StartupTalky</span></div></div><div class="kg-bookmark-thumbnail"><img src="https://static.startuptalky.com/2019/12/Influencer--startuptalky.png"></div></a></figure><hr><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_mobile_food_service" > 15. Mobile Food Service</h3><!--kg-card-end: html--><p>Either you contact some restaurant or cook yourself. All you need is a delivery boy or more (depends on the demand) and vehicles. Give the service on time and most importantly serve tasty food.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_recruitment_services" > 16. Recruitment Services</h3><!--kg-card-end: html--><p>You can start your own firm for providing recruitment services to other companies. Contact companies and find people who need jobs. You will just have to connect them both.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_event_organizer" > 17. Event Organizer</h3><!--kg-card-end: html--><p>Starting a small company which <a href="https://startuptalky.com/tag/event-management/">organizes events</a> could be a good idea but this may need special ability and workers for the same.</p><p>The most important skills for this business are your personality and event management skills. Just like wedding planning, it requires a large amount of hard work to acquire the first clients in an event management business and the scale is dependent on the value that is added to the initial set of clients, as word-of-mouth is a huge source of publicity in both the businesses. However, event management can grow faster as it caters to a larger audience, whereas wedding planning deals with a niche vertical. From birthday parties to client meetings in corporate companies are all handled by professional event managers.</p><p>In fact, many event planners start their business working from home. This can be a great model for setting up an event planning business as it keeps overhead costs down in those critical early stages of business and can maximize productivity.</p><hr><figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="https://startuptalky.com/become-best-event-planner/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">How To The Become Best At Event Planning | Become A Event Planner</div><div class="kg-bookmark-description">Event planning is a cool job to have but hard to execute and make a living out
+of it. The event planning business is a grey area which only a limited number of
+experts know in and out. This post will hopefully help you become an event
+planner if that’s your aim. There are five basic skills you need…</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="https://startuptalky.com/favicon.png"><span class="kg-bookmark-author">Devashish Shrivastava</span><span class="kg-bookmark-publisher">StartupTalky</span></div></div><div class="kg-bookmark-thumbnail"><img src="https://cdn.startuptalky.com/2020/05/how-to-become-best-at-event-planning_startuptalky-min.jpg"></div></a></figure><hr><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_social_media_services" > 18. Social Media Services</h3><!--kg-card-end: html--><p>This low investment business includes services like Ghost-writing for businesses, posting on blogs, Facebook, LinkedIn and Twitter accounts &amp; Facebook pages. Overall you need to take care of a brand's social media presence and get them traffic and customers through social media.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_interior_designer" > 19. Interior Designer</h3><!--kg-card-end: html--><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://static.startuptalky.com/2019/08/Interior-Best-Profitable-Business-In-India.jpg" class="kg-image" alt="Interior Designing business need very low investment"><figcaption>Interior Decoration is a great small investment business idea</figcaption></figure><p>There is a significant amount of people belonging to the creamy layer of wealth in our country. And they are willing to spend heavily on the expensive mansions, full facilities, and the luxury to express their level. And hence the furniture is one of the most valued products as an interior. The amount spent on these luxury interiors is high and therefore the level of expectation is also high. The style, design, and quality of the interior elements which make up the value of the product are the factors that every decoration storekeeper should prioritize the focus on.</p><p>Interior <a href="https://startuptalky.com/tag/designer/">designer</a> business could be the best deal with low investment but this may need special skills. This kind of business is very suitable for someone familiar with and passionate about interior design. An interior designer has a creative side for art and aesthetics and gets paid for providing the same to its clients. Therefore it must be of good taste and match that of the potential customer. If you deal with the unique, fancy, and stylish furniture and can target the right people then the profit margins in this business is very high. You can also do only designing work from home.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_grocery" >20. Grocery</h3><!--kg-card-end: html--><p><a href="https://startuptalky.com/tag/grocery/">Grocery</a> is the most needful business for the selling of different goods that humans need daily. This is a profitable and no loss business as grocery is the daily basic need for all humans. You just have to invest a few thousand to buy some inventory from a seller and sell it in the market. You can purchase every product sold. You can start from a mall grocery shop and gradually expand as per need.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_coaching_class" >21. Coaching Class</h3><!--kg-card-end: html--><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://static.startuptalky.com/2019/08/Taylor-Best-Profitable-Business-In-India.jpg" class="kg-image" alt="Coaching Classes business can be scaled with time"><figcaption>Coaching Classes is a small yet profitable business idea</figcaption></figure><p>The <a href="https://startuptalky.com/tag/edtech/">business of education</a> will never stop. Nowadays due to fierce competition, students preparing for the competitive exams need some guidance for the preparation so they join coaching centers. These coaching centers are evergreen low investment businesses with higher profits which help in spreading knowledge and train students to become adept in clearing competitive examinations.</p><p>However, you just have to make sure you have an in-depth knowledge of the subject and explain the topic well to the students. Not only you need to teach maths or science, if you are a professional in sports you can start acting as a professional sports coach. Looking at its popularity, coaching is one of the best <strong>less investment business in India</strong>.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_mobile_shop" > 22. Mobile Shop</h3><!--kg-card-end: html--><p>Starting a small mobile shop is a good small business idea with low investment. With an increasing number of mobile phone users, a well-stocked mobile store in a good locality has a high probability of turning profitable.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_translation_services" > 23. Translation Services</h3><!--kg-card-end: html--><p>You need Specialization in one or two languages you speak fluently or to hire other translators who know multiple languages, for this business.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_mobile_computer_repairing" > 24. Mobile / Computer Repairing</h3><!--kg-card-end: html--><p>Technology is an inevitable component in today’s time. It is now a necessity and not a luxury. Learning how to repair devices such as laptops and computers is a one-time investment. Take the necessary diploma/education and get your hands dirty. Every vendor selling mobiles and PCs has a small space in the corner of his store that is for the repair guy. No, you’re not being asked to go and sit there but doing the same from the comforts of your home is a plausible way of earning money.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_driving_school" > 25. Driving School</h3><!--kg-card-end: html--><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://static.startuptalky.com/2019/05/Car-school-business-startuptalky.jpg" class="kg-image" alt="Car-school-business-startuptalky"><figcaption>Driving Schools have a high demand&nbsp;</figcaption></figure><p>To start this business, you need some cars and a good team of drivers who can teach driving. Or you can just contact your friends, neighbors, etc. if they want to learn driving. Some people even bring their own car and ask people to teach them driving. Thus driving school makes for a great <strong>minimum investment business</strong>.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_car_parking" > 26. Car Parking</h3><!--kg-card-end: html--><p>Having a huge space for providing safe and secure car parking will be the best deal. Investments required will be in hiring security guards, installing security cameras, and organizing the parking area properly.</p><hr><figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="https://startuptalky.com/side-business-ideas-to-start/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">15 Side Business Ideas You Should Know About [2020] | Business Ideas</div><div class="kg-bookmark-description">This post will cover a few side business ideas you can execute from the comforts
+of your home in 2020. You will be able to supplement your existing income or
+even rebuild one from scratch. It’s all about using one’s entrepreneurship
+skills and existing abilities. Regardless of where you’re, thanks …</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="https://startuptalky.com/favicon.png"><span class="kg-bookmark-author">Devashish Shrivastava</span><span class="kg-bookmark-publisher">StartupTalky</span></div></div><div class="kg-bookmark-thumbnail"><img src="https://cdn.startuptalky.com/2020/05/15-business-ideas-to-start-immediately_startuptalky-min.jpg"></div></a></figure><hr><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_public_speaking_lessons" > 27. Public Speaking Lessons</h3><!--kg-card-end: html--><p>Stage fright is a fear that strikes a chord with every individual. Some are born with the inherent ability to converse with confidence but some of us are devoid of this skill in childhood. If you’ve got the knack of speaking in front of a large audience with clarity and elegance that makes people jealous, then this attribute of yours can help rake in some moolah while improving the lives of others.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_dance_classes" > 28. Dance Classes</h3><!--kg-card-end: html--><p>If you are very good at dance, then you can think of starting a dance academy which is a very good business idea with a minimum budget. Many parents look for a good dance class for their children. Related to the earlier business, music, and dance classes are immensely popular. There is no dearth of the genre to choose from. All you need is a room in case of dance lessons. Businesses of these kinds gain traction as time passes. So, perseverance is of utmost importance.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_baby_sitter" >29. Baby Sitter</h3><!--kg-card-end: html--><p>If you start a business of baby keeping in the metro city you will surely see success very soon. Most of the people in the metro cities of India are very busy. So, people will definitely buy your services.</p><hr><figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="https://startuptalky.com/best-ideas-home-based-business/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">10 Best Ideas For Home-Based Business</div><div class="kg-bookmark-description">In this article, I am going to demonstrate to you some home-based business ideas you can begin with no wealth in 2020 if you have an extremely short fund or no
+budget at all to launch a home-based business. You can restore your business
+ultimately with any of these corporations. If you perform them…</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="https://startuptalky.com/favicon.png"><span class="kg-bookmark-author">Piyush Mishra</span><span class="kg-bookmark-publisher">StartupTalky</span></div></div><div class="kg-bookmark-thumbnail"><img src="https://cdn.startuptalky.com/2020/05/10-beat-ideas-for-home-based-business_startuptalky-min.jpg"></div></a></figure><hr><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_courier_company" > 30. Courier Company</h3><!--kg-card-end: html--><p>Many people today look for better shipping costs and timely delivery. If you can manage it this business is for you.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_consultancy" > 31. Consultancy</h3><!--kg-card-end: html--><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://static.startuptalky.com/2019/05/Consultancy-business-startuptalky.jpg" class="kg-image" alt="Consultancy-business-startuptalky"><figcaption>Consultancy Services is a low capital an high profit business</figcaption></figure><p>The consultancy firm includes agents who help people in getting things done. A consultancy works to reduce people’s workload and involves zero investment with higher profits. The best example of consultancy service is TATA in India. Legal, financial to technical the plethora of fields means it’s best to generalize this broad category for this category of business. Experience and success in your niche dictate the profitability you’re going to enjoy.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_digital_marketing_consultancy" > 32. Digital Marketing Consultancy</h3><!--kg-card-end: html--><p>With more and more people coming online for the first time and who wants to rank number on google, Digital marketing consultancy is an all-time high. With a good knowledge of Search Engine Optimization or social media, you can easily set up a DM Consultancy Firm and help the business grow in the minimum time required.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_dietary_consultancy" > 33. Dietary Consultancy</h3><!--kg-card-end: html--><p>With more and more people trying to fit and smart than ever in India, dietary consulting has become a very important service. If you can learn food dietary and nutrition you can make good money with low investment.</p><hr><figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="https://startuptalky.com/best-finance-business-ideas/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Best Financial Business Ideas For 2020 | Financial Industry</div><div class="kg-bookmark-description">Here we’re getting on to understand about finance. What is finance? How it’s
+established? What are the categories of finance? How a person or the company can
+get funded? What is the effect of finance on company and economizing? And how to
+begin an economic business and the various impressions about …</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="https://startuptalky.com/favicon.png"><span class="kg-bookmark-author">Piyush Mishra</span><span class="kg-bookmark-publisher">StartupTalky</span></div></div><div class="kg-bookmark-thumbnail"><img src="https://cdn.startuptalky.com/2020/05/best-financial-business-ideas-for-2020_startuptalky-min.jpg"></div></a></figure><hr><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_packers_and_movers" > 34. Packers and Movers</h3><!--kg-card-end: html--><p>It is a business idea with the largest amount of clients coming from the central government services public limited companies. If scaled, you can convert your small business into a big <a href="https://startuptalky.com/tag/logistics/">logistics</a> company.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_ice_cream_parlour" > 35.Ice Cream Parlour</h3><!--kg-card-end: html--><p>Starting an ice cream parlor is another good business idea to begin with.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_content_writing_copy_writing" > 36. Content Writing and Copy Writing</h3><!--kg-card-end: html--><p>Websites ought to have content to obtain the much-needed traffic (yeah, there are exceptions). Anyone with the flair of writing great content can generate a secondary source of income by delivering articles, columns, and what not for websites. The magnitude of clients and amount earned per write-up may be less initially but once the flow sets in, the sky is the limit. Sound knowledge of the language and its intricacies is the primary requirement. And this has to be complemented with innovation and inventiveness. </p><p>Also, you can apply for content writing jobs from various job application sites and can work for the companies. Internshala provides a lot of such jobs of content writing, that too work from home. With the increasing number of websites, the need for content writers is also increasing day by day. In India, the pay of a content writer is too low but if you think that the quality of your content is best. You can start content writing for international companies and can make a career as a content writer.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_freelancer" > 37. Freelancer </h3><!--kg-card-end: html--><p>When you have a skill, why let it go waste! Can you create amazing websites? Teach your native language like a pro? Write catchy and interesting articles? If you have any kind of talent, start freelancing to earn money online without any investment. </p><p><strong>Freelancing </strong>refers to an individual who is self-employed and working solely based on the fees given. If you are a freelancer, then you don't have to be particularly associated with an individual company and you can work with various companies, allowing yourself to get more exposure. Websites such as Upwork, Fiverr, LinkedIn are where this talent can earn some being. If you are not interested in such websites, you can create your own website or can create your social media profile to promote your freelancing skills to attract customers. </p><p>The biggest obstacle has to be presenting testament to one’s knowledge because the platforms ask for concrete evidence to demonstrate one’s proficiency in the niche field chosen for freelancing. You have to build a portfolio before you start your freelancing journey. Now the competition is too tough but if you have a strong portfolio you can win the race.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_book_store" > 38. Book Store</h3><!--kg-card-end: html--><p><a href="https://startuptalky.com/best-books-entrepreneurs">Book</a> lover always buy multiple books, thus, making the idea of a starting bookstore attractive.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_computer_trainer" > 39. Computer Trainer</h3><!--kg-card-end: html--><p>If you are good at providing computer training this could be a good business idea to educate about the computer operation which is must in today’s world.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_online_store" > 40. Online Store</h3><!--kg-card-end: html--><p>Many people prefer to shop in the online store. This is because they do not have to bother to come to the store to buy something. Simply by using their mobile, they can buy the products they want and the product will reach their home immediately. It can become an opportunity for you to do business in the field of the online store. You do not need to invest by buying products, just by selling other people's products. Thus, you can earn high profits.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_travel_agency" > 41. Travel Agency</h3><!--kg-card-end: html--><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://static.startuptalky.com/2019/08/Travel-Best-Profitable-Business-In-India-2.jpg" class="kg-image" alt="Tour &amp; Travel Agency is a great low investment business"><figcaption>Travel and Tourism is a Profitable Business&nbsp;</figcaption></figure><p>The <a href="https://startuptalky.com/tag/travel-startup/">travel agency</a> is a link between the traveler or tourist and the principal suppliers such as tour packages, hotels, airlines, etc. The tourism industry is one of the fastest-growing industries in our country. The tourist attraction points bring more and more people exploring these places while taking vacations and traveling. With the spin of globalization across the world, it is easier to travel around countries now. It is more accessible and requires less time to roam any country – and the same is the case with India. It is a great time to start a travel agency since there is such a huge client base to cater to.</p><hr><figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="https://startuptalky.com/scoutmytrip-road-trip-planner/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">ScoutMyTrip: Helping You Plan Those Memorable Road Trips!</div><div class="kg-bookmark-description">Company Profile is an initiative by StartupTalky to publish verified information
+on different startups and organizations. The content in this post has been a
+pproved by the organization it is based on. Road trips have a different charm altogether. Stopping by to click photos,
+trying local food on t…</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="https://startuptalky.com/favicon.png"><span class="kg-bookmark-author">Chayanika Goswami</span><span class="kg-bookmark-publisher">StartupTalky</span></div></div><div class="kg-bookmark-thumbnail"><img src="https://static.startuptalky.com/2019/06/ScoutMyTrip-Founders-StartupTalky-Image-1.jpg"></div></a></figure><hr><p>You can start a very promising business by setting up a travel and tourism agency and give out the services of booking tickets, hotel rooms, visiting sites, tourist hotspots, sending a travel consultant, a translator/guide, and so on. The primary job of a travel agency is to provide easy and trouble-free travel to the traveler. It is also important for a travel agency to provide enough information to the tourist so that the tourist is not cheated during his or her travel and has a hassle-free trip.</p><p>To run a successful travel agency business and attract more customers (domestic or foreign) to use the services, you need to research, analyze, and meet the needs of the customers most effectively and efficiently. There is a huge list of places that attract tourism – the Taj Mahal, Red Fort, India Gate, the valleys, the greenery of South India, the urbanization of Bangalore, the modernity of Mumbai, and so much more. It is endless. Hence, a business in tourism is so popular as it perishes on the history, monuments, the weather and mountains, the ethnicity of a country.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_security_spy_agency" > 42. Security & Spy Agency</h3><!--kg-card-end: html--><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://static.startuptalky.com/2019/05/Spy-business-startuptalky.gif" class="kg-image" alt="Spy-business-startuptalky"><figcaption>Security and Spy Agency is a good business with less investment</figcaption></figure><p>With growing security needs you can start your own security agency another good option is to work as a spy.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_data_entry" > 43. Data Entry</h3><!--kg-card-end: html--><p>Many companies today earn money by doing data entry work, so you may start providing services like this.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_resume_writer" > 44. Resume Writer</h3><!--kg-card-end: html--><p>If you are good at designing a resume and have a deep knowledge of the subject you can become resume writers.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_dj_services" > 45. DJ Services</h3><!--kg-card-end: html--><p>Disk jockey service is the part-time innovative business idea. People look for DJ on multiple occasions. If you are very good at music you can rock this business</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_music_classes" > 46. Music Classes</h3><!--kg-card-end: html--><p>Business in the field of music is a very profitable business. You can earn a lot of profit from this business. All you need to capitalize on is expertise in music and having a musical instrument such as piano or guitar. If you do not have a building to open music classes, you can open this class in your home. You can take advantage of the empty garage to make a music class so that your students can comfortably learn.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_laundry" > 47. Laundry</h3><!--kg-card-end: html--><p>Laundry is one <strong>business</strong> that can be started <strong>with small capital</strong>, that is easy to handle and quickly get into the public market. Many people seek these services for their daily lives. Laundry business is a business that is suitable for you because you have enough to capitalize on the washing machine and detergent alone. There is already a lot of laundry business that has been successful. Do you want to follow their success? If yes then start with this low investment business idea which could return a high profit to you.</p><hr><figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="https://startuptalky.com/best-small-business-ideas/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Top 10 Small Business Ideas To Start In 2020 | Best Business Ideas 2020</div><div class="kg-bookmark-description">The first six months of the year have brought severe turmoil and tension to
+economy, the COVID-19 pandemic [/tag/covid-19/] being the biggest challenge.
+Countries have had to implement lockdown [/tag/lockdown/] measures to contain
+the disease. Thus, starting a new business won’t be the same as earli…</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="https://startuptalky.com/favicon.png"><span class="kg-bookmark-author">Devashish Shrivastava</span><span class="kg-bookmark-publisher">StartupTalky</span></div></div><div class="kg-bookmark-thumbnail"><img src="https://cdn.startuptalky.com/2020/05/10-best-business-ideas-for-2020_startuptalky-min.jpg"></div></a></figure><hr><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_web_designing" > 48. Web Designing</h3><!--kg-card-end: html--><p>Web designing is a good business to start in low investment. Web designing services are needed now. You just have investments in the form of a laptop or PC and Internet networks. A job as a web designer only includes web designing and content. You can do this job easier when you are equipped with the knowledge, expertise, and experience in this arena. You can also work at home as a freelance web designer. Because the business of web designing is needed by the people, so many people are looking for it and pay dearly to those who provide these services. This business doesn't involve any investment. Although your skills in web development decide your pay scale for projects you undertake.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_affiliate_marketing" > 49. Affiliate Marketing</h3><!--kg-card-end: html--><p>One business that is most preferred by people today is affiliate marketing. No need for high investment, you can sell other people’s products. Promoting a merchant’s product or services through some link provided (aka affiliate link) is the core of this kind of marketing. The interested individual signs a deal with the merchant like Clickbank, CJ, Flipkart, Amazon, etc. through its affiliate program, and receives a link in return. </p><p>The candidate promotes the link on social media and other platforms, and whenever a user clicks on the link, he/she is directed to the merchant’s portal. Any purchase done on the portal through this link is considered as a sale done by the affiliate marketer (in this case, you), and the merchant tracks all the sales done by the affiliate marketer.</p><p>The number of sales and the transaction amount involved determine the commission. You can start affiliate marketing without any investment. But affiliate marketing needs a strong virtual presence to garner the needed attention and awareness. If you have a small audience and if the audience trusts you then you can sell them anything you want.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_xerox_book_binding" >50. Xerox Book Binding</h3><!--kg-card-end: html--><p>Many college and school areas in India, don’t have this facility and this could be the potential business in that area.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_real_estate_agent" > 51. Real Estate Agent</h3><!--kg-card-end: html--><p>The Cost of land keeps increasing every day and people are unable to find one that satisfies their needs. This is where <a href="https://startuptalky.com/tag/real-estate-startups/">real estate</a> agents can pitch in as helpers to search for the best deals. Being a real estate agent or broker is extremely beneficial. You can put up tariffs to find a potential buyer or looking for real estate required by prospective. It takes just communication tools and proficiency in speaking to please customers and make money.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_youtube_channel" > 52. YouTube Channel</h3><!--kg-card-end: html--><p>Everyone knows about YouTube. Many famous personalities got their fame just because of YouTube. All you need to do is start a YouTube channel, create your videos, and publish them. The more often you upload the more viewers you get and the more you earn from online advertisements. Make-up tutorials, fashion tips, and tricks, educational content, enticing videos, comedy vlogs, inspirational videos, etc. dominate the scene of YouTube. However, for YouTube popularity, you should have patience and cleverness along with the talent. Then, maybe you can be the next name on the list of famous YouTubers.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_cooking_classes" > 53. Cooking Classes</h3><!--kg-card-end: html--><p>Whether you are a housewife or a cooking maniac, you can easily start it in your own kitchen with all your favorite recipes. Investing a lot is not necessary. Just start your cooking class, get the groceries, advertise a bit, and start earning.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_business_broker" > 54. Business Broker</h3><!--kg-card-end: html--><p>This is the term where there is no initial investment. Just like Quikr and ebay does, get the people who want to sell their used products and connect them to those who want to buy those used products. Get the commission when the deal is exchanged.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_fast_food_restaurant" > 55. Fast Food Restaurant</h3><!--kg-card-end: html--><p>The food service industry in India was projected to grow at over 15% of CAGR (Compound Annual Growth Rate) between 2014 and 2020 according to the India Food Report released in January 2016.</p><p>Offering food and beverages by starting up a restaurant is probably the best business idea that is sure to create maximum value and profits, however, it is also very competitive. There are many cases of a failed restaurant or fast-food joint. You need to select the right location, it should be preferred to be situated in a crowd-friendly area where a constant flow of customers is present. You also need to consider what type of customers you want to attract – the niche. And depending upon that you should alter your style of serving food, offering services, and build up the interior thereafter. </p><p>Quality too plays an important role in the restaurant business. In today's busy world where working people, students who eat most of the time out looking for quality food. You need to maintain the quality of the food. Online food delivery is also very trending and feasible nowadays. Grab a place, get a cook (or cook yourself), get a name, cook delicious food, and start earning. This is the only business where you start earning from the very first day and if customers like your food you can easily be a successful business owner.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_pharmacy" > 56. Pharmacy</h3><!--kg-card-end: html--><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://static.startuptalky.com/2019/08/Pharamacy-Best-Profitable-Business-In-India-1.jpg" class="kg-image" alt><figcaption>Starting a Pharmacy is a profitable low investment business idea</figcaption></figure><p>India is known for providing low-cost generic drugs to foreign countries, which has grown and matured more with the rising development of technology and product research. India is now gaining one of the top spots in health tourism, as people from Western countries find the best of health services matching international standards at more affordable rates. </p><p>Today India is the largest exporter of generic drugs in the world, and it is also the fastest growing and very competitive. India also has patents for pharmaceutical inventions that are in huge demand. And it can be a very profitable and lucrative business in India. The amount of doctors our country generates is very high and keeps on increasing day by day. </p><p>Earlier the doctor’s clinic and pharmacy used to be at distance from them, nowadays they have started attaching both and it is turning out to be very profitable for them. Although there is a huge investment in the initial stage, the profit after some amount of time is also huge. The medical shop earns huge revenue because most of the patients visit the doctor in the clinic and purchase the medicines from the shop itself.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_beauty_parlour_fashion_boutique" > 57. Beauty Parlour / Fashion Boutique</h3><!--kg-card-end: html--><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://static.startuptalky.com/2019/08/Beauty-Best-Profitable-Business-In-India.jpg" class="kg-image" alt="Beauty parlour/fashion boutiques require less investment and beget good returns"><figcaption>Beauty parlour / fashion boutiques are some great less investment business you can start</figcaption></figure><p>People, especially women, are very conscious about their appearances. And the beauty industry caters to them. It includes beauty treatments of all sorts but much of the need is of basic hygiene. The beauty parlors do well if they are situated at the right place where the customer visits are often high and provide the services at an economical value. The fashion industry is thriving and is never out of business.</p><p>With new trends of Bollywood and around the globe - the brands of clothing, footwear, and accessories are always getting their inspiration from them and they are demanded by a huge base of customers. They sell at a very fast rate too. Opening up a boutique is therefore very opportunistic and can get you a lot of returns if operated efficiently. They both are therefore a very profitable business to enter in, especially for aspiring women who want to contribute to the income of their households.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_gardening_business" > 58. Gardening Business</h3><!--kg-card-end: html--><p>Gardening Business involves growing plants and mainly these days herbs are becoming tremendously popular. From small shops to the largest warehouses, one can find medicinal herbs, herbal teas, baths, and candles. The herbs can be planted and raised and then further sold to wholesale or retail customers. The major advantage of this business is that you just need Mother Nature which is real back to basic stuff, good for the body and the soul and it can be started from the comfort of one’s home as a pastime hobby. </p><p>It is good to start small, growing the herbs in a large backyard or by renting inexpensive land. The profit margins would be small. One would need a solid working knowledge of growing and nurturing herbs to scale the business. For working large areas of land, one would need to know the farming techniques in detail.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_clean_green_services" > 59. Clean and Green Services</h3><!--kg-card-end: html--><p>Clean and green services add immense value to the people in families where everyone in the house is employed and doesn’t have time for basic housekeeping. Clean the house, water the plants, etc. So this type of business is catching up fast nowadays in metropolitan cities. This business is less capital intensive and has great margins in terms of profits. You will have to start by setting up a team and managing them. Training them is a crucial task as you besides just teaching them the techniques, you will have to give them moral lessons too. It will help to create a good image of the company. You will also require good communication skills to constantly manage your employees.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_jewelery_designing" > 60. Jewelry Designing</h3><!--kg-card-end: html--><p>Many people enjoy wearing authentic, handmade jewelry. The beauty of handmade jewelry lies in the fact that each and every piece is unique and the person who wears it feel a unique sense of pride and grace by wearing it. Jewelry designing involves the following steps:</p><ul><li>Learn how to design jewelry.</li><li>Purchase the tool kit required.</li><li>Experiment with making various designs of jewelry at home.</li><li>Reach out to different jewelers to show them your designs. Try to find the jeweler who knows you personally so that they don't steal your idea.</li></ul><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_bouquet_greeting_card_making" > 61. Bouquet and Greeting Card Making</h3><!--kg-card-end: html--><p>No matter what the occasion might be, there is nothing that expresses our emotions better than a bouquet of flowers and a greeting card! There are different styles of bouquets to express our feelings. Whatever the feeling or the occasion, flowers play a prominent role. Making different types of bouquets and designing cards for various occasions is an art. For people with the right talent and passion for this, this business is very simple and less capital intensive. It also reaps great profit margins as it caters to a niche market segment. This business can be interlinked with the wedding planning business and both can be done simultaneously to bring out the best ROI.</p><!--kg-card-begin: html--><h3 id =  "low_investment_high_profit_business_ideas_accounting_tax_preparation" > 62. Accounting and Tax Preaparation</h3><!--kg-card-end: html--><p>If you are good with numbers, accounting and tax preparation business is a low budget business idea to start. Having sound knowledge regarding accounting, taxation, etc, you can handle financial records and tax-related issues of businesses and earn a good amount of profit with very less investment. You will need a computer and internet facilities and may need to hire a few people as you scale up.</p><hr><figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="https://startuptalky.com/start-tax-preparation-business/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">How To Start Your Own Tax Preparation Business | Become Tax Preparer</div><div class="kg-bookmark-description">Many tax preparers find that their passion lies in helping others with tax
+related issues, and going above and beyond to guarantee the most favorable tax
+outcome possible for their clients. This drive often leads these individuals to
+pursue an independent tax business of their own, but the question …</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="https://startuptalky.com/favicon.png"><span class="kg-bookmark-author">Devashish Shrivastava</span><span class="kg-bookmark-publisher">StartupTalky</span></div></div><div class="kg-bookmark-thumbnail"><img src="https://cdn.startuptalky.com/2020/05/how-to-start-your-own-tax-preparation-buusiness_startuptalky-min.jpg"></div></a></figure><hr><h2 id="conclusion">Conclusion</h2><p>We hope the above list of business ideas with low investment and high profit in India will help you to make an informed decision. We will definitely update this list of low investment business ideas with high returns as we get more industry information. With upgraded technology and machinery, now it's also easy to start a manufacturing <strong>business with low investment</strong>. Check our list of <a href="https://startuptalky.com/manufacturing-business-ideas/"><strong>small manufacturing businesses</strong></a><strong> </strong>you can start with low investment.</p><p>Well, you can always join our <a href="https://www.facebook.com/groups/startuptalkygroup/">Facebook group</a> which is one of the largest startup communities to get more <strong>low-cost business ideas with high profit</strong>.</p>
+					</div>
+					<div class="post-tags tagcloud">
+						<b>Tags</b>&nbsp;&nbsp;<a href="/tag/business-ideas/">Business ideas</a><a href="/tag/low-investment/">Low investment</a><a href="/tag/high-returns/">high returns</a><a href="/tag/wedding-planner/">wedding planner</a><a href="/tag/technical-freelancer/">technical freelancer</a><a href="/tag/gym/">gym</a><a href="/tag/fitness-center/">fitness center</a><a href="/tag/yoga-center/">yoga center</a><a href="/tag/medication-center/">medication center</a><a href="/tag/freelance-photographer/">freelance photographer</a><a href="/tag/e-commerce-website/">e commerce website</a><a href="/tag/blogging/">blogging</a><a href="/tag/seo-consultancy-firm/">SEO consultancy firm</a><a href="/tag/computer-trainer/">computer trainer</a><a href="/tag/youtube-channel/">youtube channel</a><a href="/tag/cooking-class/">cooking class</a><a href="/tag/business-broker/">business broker</a><a href="/tag/fast-food-restaurants/">fast food restaurants</a><a href="/tag/driving-school/">driving school</a><a href="/tag/mobile-food-service/">mobile food service</a><a href="/tag/low-investment-business-idea/">low investment business idea</a><a href="/tag/small-scale-business-idea/">small scale business idea</a><a href="/tag/business-idea/">business idea</a><a href="/tag/small-business/">small business</a><a href="/tag/low-investment-high-returns/">low investment high returns</a><a href="/tag/event-management/">event management</a><a href="/tag/blogging-agency/">blogging agency</a><a href="/tag/ecommerce/">ecommerce</a><a href="/tag/food-delivery-startup/">food delivery startup</a><a href="/tag/coaching-center/">coaching center</a>
+					</div>
+					<div class="subscribe-box-wrap">
+											</div>
+					<div class="about-author-wrap">
+						<!-- start about the author -->
+<div class="about-author clearfix">
+		<a href="/author/startuptalky/" title="Shubham Kumar"><img src="https://static.startuptalky.com/2020/06/logo_st.jpg" alt="Author image" class="avatar pull-left"></a>
+	<div class="details">
+		<h4 class="author h4">About <a href='/author/startuptalky/'>Shubham Kumar</a></h4>
+		<ul class="meta-info">
+		</ul>
+	</div>
+</div>
+<!-- end about the author -->					</div>
+					<div class="prev-next-wrap has-next has-prev">
+	<div class="row is-flex">
+		<div class="col-sm-6 col-xs-12">
+			<article class="post post-card">
+				<div class="prev-next-link align-center">
+					<a class="" href="https://startuptalky.com/rentroomi-success-story/">Previous Post</a>
+				</div>
+				<a href="https://startuptalky.com/rentroomi-success-story/" class="permalink">
+					<div class="featured-image" style="background-image: url(https://static.startuptalky.com/2020/07/Rent-Roomi-Nitin-Sharma_Startuptalky.jpg)"></div>
+				</a>
+				<div class="content-wrap">
+					<div class="entry-header align-center">
+						
+						<h3 class="title h4"><a href="https://startuptalky.com/rentroomi-success-story/" rel="bookmark">RentRoomi- Find Your Preferred Room and Roommate</a></h3>
+					</div>
+					<div class="entry-footer clearfix">
+						<div class="author">
+							<a href="/author/chayanika/" rel="author">
+								<img class="avatar" src="https://static.startuptalky.com/2019/07/Chayanika-Goswami--StartupTalky--1-.jpg" alt="avatar">
+								<span class="name">Chayanika Goswami</span>
+							</a>
+						</div>
+						<div class="published-date">
+							<time class="time" datetime="2020-07-27 03:07:00">July 27, 2020</time>
+						</div>
+					</div>
+				</div>
+			</article>
+		</div>
+		<div class="col-sm-6 col-xs-12">
+			<article class="post post-card">
+				<div class="prev-next-link align-center">
+					<a class="" href="https://startuptalky.com/droom-success-story/">Next Post</a>
+				</div>
+				<a href="https://startuptalky.com/droom-success-story/" class="permalink">
+					<div class="featured-image" style="background-image: url(https://static.startuptalky.com/2020/07/drrom-success-story-startuptalky.jpg)"></div>
+				</a>
+				<div class="content-wrap">
+					<div class="entry-header align-center">
+						
+						<h3 class="title h4"><a href="https://startuptalky.com/droom-success-story/" rel="bookmark">Droom - India&#x27;s First Online Market Place for Automobiles!</a></h3>
+					</div>
+					<div class="entry-footer clearfix">
+						<div class="author">
+							<a href="/author/rishabhrathi22/" rel="author">
+								<img class="avatar" src="https://static.startuptalky.com/2020/06/WhatsApp-Image-2020-01-18-at-10.03.34-AM.jpg" alt="avatar">
+								<span class="name">Rishabh Rathi</span>
+							</a>
+						</div>
+						<div class="published-date">
+							<time class="time" datetime="2020-07-27 17:07:00">July 27, 2020</time>
+						</div>
+					</div>
+				</div>
+			</article>
+		</div>
+	</div>
+</div>					<div class="comment-wrap">
+						<div class="fb-comments" data-href="https://startuptalky.com/business-ideas-low-investment-high-return" data-numposts="5"></div>
+					</div>
+				</div>
+				<div class="col-md-3 col-xs-12">
+					<div class="hidden-xs">
+						<!-- start recent post widget -->
+<div class="widget">
+	<h4 class="widget-title h6">Recent Post</h4>
+	<div class="content recent-post">
+		<div class="recent-single-post clearfix have-image">
+			<a href="/rise-of-no-code-platform/">
+					<div class="post-thumb pull-left" style="background-image: url(https://static.startuptalky.com/2020/07/Rise-Of-No-Code-Platform-startuptalky-1.jpg);"></div>
+			</a>
+			<div class="post-info">
+				<h4 class="post-title"><a href="/rise-of-no-code-platform/">Best No-Code Development Platforms | Why No-Code? | Benefits of No-Code Platforms</a></h4>
+				<div class="date"><a href="/rise-of-no-code-platform/">July 29, 2020</a></div>
+			</div>
+		</div>
+		<div class="recent-single-post clearfix have-image">
+			<a href="/blockonomics-success-story/">
+					<div class="post-thumb pull-left" style="background-image: url(https://static.startuptalky.com/2020/07/Blockonomics---Bitccoin-Payment-Processing-Platform.jpg);"></div>
+			</a>
+			<div class="post-info">
+				<h4 class="post-title"><a href="/blockonomics-success-story/">Blockonomics - Simplifying Bitcoin Transactions</a></h4>
+				<div class="date"><a href="/blockonomics-success-story/">July 29, 2020</a></div>
+			</div>
+		</div>
+		<div class="recent-single-post clearfix have-image">
+			<a href="/reasons-to-hire-business-consultant/">
+					<div class="post-thumb pull-left" style="background-image: url(https://static.startuptalky.com/2020/07/5-Reasons-Why-your-startup-Needs-Business-Consultant_startuptalky.jpg);"></div>
+			</a>
+			<div class="post-info">
+				<h4 class="post-title"><a href="/reasons-to-hire-business-consultant/">5 Reasons Why your Business Needs Business Consultant</a></h4>
+				<div class="date"><a href="/reasons-to-hire-business-consultant/">July 28, 2020</a></div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- end widget -->					</div>
+					<!-- Appsumo -->
+					<div style="margin: 20px 0px">
+						<a href="https://appsumo.8odi.net/gnJWg" target="_blank"><img src="https://static.startuptalky.com/sumo.png" alt=""></a>
+					</div>
+					<!-- Semrush -->
+					<!-- Wishpond embed code -->
+					<script type="text/javascript"
+						src="//cdn.wishpond.net/connect.js?merchantId=1502107&writeKey=321d46968c23" async></script>
+					<div class="wishpond-campaign" data-wishpond-id="2513483"
+						data-wishpond-href="https://embedded.wishpondpages.com/lp/2513483/"></div>
+
+					<!-- Media.net embed code -->
+					<div id="938307776">
+						<script type="text/javascript">
+							try {
+								window._mNHandle.queue.push(function () {
+									window._mNDetails.loadTag("938307776", "300x250", "938307776");
+								});
+							}
+							catch (error) { }
+						</script>
+					</div>
+
+					
+				</div>
+			</div>
+		</div>
+	</article>
+</div>
+<!-- end content area -->
+	<!-- start footer -->
+<footer class="site-footer">
+    <div class="footer-top">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-4">
+                    <!-- start recent post widget -->
+<div class="widget">
+	<h4 class="widget-title h6">Recent Post</h4>
+	<div class="content recent-post">
+		<div class="recent-single-post clearfix have-image">
+			<a href="/rise-of-no-code-platform/">
+					<div class="post-thumb pull-left" style="background-image: url(https://static.startuptalky.com/2020/07/Rise-Of-No-Code-Platform-startuptalky-1.jpg);"></div>
+			</a>
+			<div class="post-info">
+				<h4 class="post-title"><a href="/rise-of-no-code-platform/">Best No-Code Development Platforms | Why No-Code? | Benefits of No-Code Platforms</a></h4>
+				<div class="date"><a href="/rise-of-no-code-platform/">July 29, 2020</a></div>
+			</div>
+		</div>
+		<div class="recent-single-post clearfix have-image">
+			<a href="/blockonomics-success-story/">
+					<div class="post-thumb pull-left" style="background-image: url(https://static.startuptalky.com/2020/07/Blockonomics---Bitccoin-Payment-Processing-Platform.jpg);"></div>
+			</a>
+			<div class="post-info">
+				<h4 class="post-title"><a href="/blockonomics-success-story/">Blockonomics - Simplifying Bitcoin Transactions</a></h4>
+				<div class="date"><a href="/blockonomics-success-story/">July 29, 2020</a></div>
+			</div>
+		</div>
+		<div class="recent-single-post clearfix have-image">
+			<a href="/reasons-to-hire-business-consultant/">
+					<div class="post-thumb pull-left" style="background-image: url(https://static.startuptalky.com/2020/07/5-Reasons-Why-your-startup-Needs-Business-Consultant_startuptalky.jpg);"></div>
+			</a>
+			<div class="post-info">
+				<h4 class="post-title"><a href="/reasons-to-hire-business-consultant/">5 Reasons Why your Business Needs Business Consultant</a></h4>
+				<div class="date"><a href="/reasons-to-hire-business-consultant/">July 28, 2020</a></div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- end widget -->                </div>
+                <div class="col-sm-4">
+                    <!-- start tag widget -->
+<div class="widget">
+	<h4 class="widget-title h6">Tag Cloud</h4>
+	<div class="content tagcloud">
+		<a href="/tag/semrush-site-audit-or-seo-resume-job/">&quot;semrush&quot; &quot;site audit&quot; or seo -resume -job</a><a href="/tag/10-cold-calling-tips-and-tricks/">10 Cold Calling Tips and Tricks</a><a href="/tag/10-minute-loan-app/">10 minute loan app</a><a href="/tag/10-no-code-platforms/">10 no code platforms</a><a href="/tag/10-skills-every-entrepreneur-should-have/">10 skills every entrepreneur should have</a><a href="/tag/10-steps-to-ultimate-guide-of-writing-business-plan/">10 Steps To Ultimate Guide Of Writing Business Plan</a><a href="/tag/10-times/">10 times</a><a href="/tag/10-ways-to-make-tough-decisions-faster-in-your-startup/">10 Ways To Make Tough Decisions Faster In Your Startup</a><a href="/tag/100pillars-constructions/">100Pillars Constructions</a><a href="/tag/1010-data/">1010 data</a><a href="/tag/11-online/">11 online</a><a href="/tag/111-startups/">111 startups</a>
+	</div>
+</div>
+<!-- end tag widget -->                                    </div>
+                <div class="col-sm-4">
+                    <!-- start tag widget -->
+<div class="widget">
+	<h4 class="widget-title h6">About StartupTalky</h4>
+	<div class="content about">
+		<p>
+			StartupTalky is India’s leading media platform for entrepreneurs to read and share startup stories, startup news,
+			research reports and start events. Connect with us to share your opinions and learnings with fellow
+			StartupTalkers.
+		</p>
+	</div>
+	<div>
+		<ul style="list-style: none; padding: 0;">
+			<li style="padding: 5px 5px 5px 2px; cursor: pointer;">
+				<a href="/copyright">Copyright</a>
+			</li>
+			<li style="padding: 5px 5px 5px 2px; cursor: pointer;">
+				<a href="/privacy-policy">Privacy Policy</a>
+			</li>
+			<li style="padding: 5px 5px 5px 2px; cursor: pointer;">
+				<a href="/contact-us">Contact Us</a>
+			</li>
+			<li style="padding: 5px 5px 5px 2px; cursor: pointer;">
+				<a href="/about-us">About us</a>
+			</li>
+			<li style="padding: 5px 5px 5px 2px; cursor: pointer;">
+				<a href="/startuptalky-contributor">Become a contributor</a>
+			</li>
+			<li style="padding: 5px 5px 5px 2px; cursor: pointer;">
+				<a href="/sitemap.xml">Sitemap</a>
+			</li>
+		</ul>
+	</div>
+</div>
+<!-- end tag widget -->                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-bottom">
+		<div class="container">
+            <div class="footer-bottom-wrap clearfix">
+                <div class="social-links-wrap">
+                    <ul class="social-links">
+    <li><a href="https://www.facebook.com/startuptalky/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+    <li><a href="https://twitter.com/startuptalky" target="_blank"><i class="fa fa-twitter"></i></a></li>
+    <li><a href="https://www.instagram.com/startup_talky/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+    <li><a href="https://www.linkedin.com/company/14405761" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+    <li><a href="https://startuptalky.com/rss/"><i class="fa fa-rss"></i></a></li>
+</ul>                </div>
+                <div class="copyright-info">
+                    &copy; 2020 <a href="https://startuptalky.com">StartupTalky</a>. All rights Reserved.
+                </div>
+            </div>
+		</div>
+	</div>
+</footer>
+<!-- end footer -->
+<span class="back-to-top pull-right" id="back-to-top"><i class="fa fa-angle-up"></i></span>
+<!-- start share modal -->
+<div class="modal" id="searchmodal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title align-center" id="myModalLabel">Search</h4>
+      </div>
+      <div class="modal-body">
+        <form id="search-form">
+            <div class="input-group url-wrap">
+                
+                <input type="text" id="search-input" class="form-control" spellcheck="false" placeholder="Type to Search ...">
+                <!-- <span class="input-group-addon" id=""><i class="fa fa-search"></i></span> -->
+                <div class="input-group-btn">
+                    <button type="submit" class="btn btn-primary"><i class="fa fa-search"></i></button>
+                </div>
+            </div>
+        </form>
+        <div id="search-results">
+            <ul class=""></ul>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- end share modal -->
+	<script>
+		var searchApi = 'https://startuptalky.com/ghost/api/v3/content/posts/?key=' + api_key + '&limit=all&fields=id,title,excerpt,custom_excerpt,url,published_at&formats=plaintext';
+	</script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="/assets/js/bootstrap.min.js?v=f8ab24f360"></script>
+	<script src="/assets/js/plugins.js?v=f8ab24f360"></script>
+	<script src="/assets/js/main.js?v=f8ab24f360"></script>
+	<script src="/assets/js/custom.js?v=f8ab24f360"></script>
+	<!-- pinterest-->
+<meta name="p:domain_verify" content="2e0b5faab2236061ce36e975b5d8bf2c"/>
+<!-- end pinterest -->
+</body>
+
+</html>

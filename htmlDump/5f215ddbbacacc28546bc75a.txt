@@ -1,0 +1,564 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>How To Build Your Personal Brand | 8 Best Ways To Do Personal Branding</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<!-- stylesheets -->
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="/assets/css/bootstrap.min.css?v=f8ab24f360">
+	<link rel="stylesheet" type="text/css" href="/assets/css/font-awesome.min.css?v=f8ab24f360">
+	<link rel="stylesheet" type="text/css" href="/assets/css/hl-styles/atom-one-dark.css?v=f8ab24f360">
+	<link rel="stylesheet" type="text/css" href="/assets/css/screen.css?v=f8ab24f360">
+	<link rel="stylesheet" type="text/css" href="/assets/css/custom.css?v=f8ab24f360">
+	<script>
+/*====================================================
+  THEME SETTINGS & GLOBAL VARIABLES
+====================================================*/
+//  1. Disqus comment settings
+var disqus_shortname = 'example'; // required: replace example with your forum shortname
+
+//  2. Fixed navbar
+var fixed_navbar = true;
+
+// 3. Content API key ( it required to search work)
+var api_key = '0a15270b18f5a513dc70dfa252';
+</script>
+	<meta name="description" content="Best ways to do personal branding.8 Steps to Build Your Personal Brand..1.Nihe selection..Ultimate guide to personal branding.Do you want to build a personal brand?" />
+    <link rel="shortcut icon" href="/favicon.png" type="image/png" />
+    <link rel="canonical" href="https://startuptalky.com/personal-branding-ways/" />
+    <meta name="referrer" content="no-referrer-when-downgrade" />
+    
+    <meta property="og:site_name" content="StartupTalky" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="How To Build Your Personal Brand | 8 Best Ways To Do Personal Branding" />
+    <meta property="og:description" content="Best ways to do personal branding.8 Steps to Build Your Personal Brand..1.Nihe selection..Ultimate guide to personal branding.Do you want to build a personal brand?" />
+    <meta property="og:url" content="https://startuptalky.com/personal-branding-ways/" />
+    <meta property="og:image" content="https://static.startuptalky.com/2020/07/personal-branding_startuptalky.jpg" />
+    <meta property="article:published_time" content="2020-07-25T19:03:00.000Z" />
+    <meta property="article:modified_time" content="2020-07-28T14:52:14.000Z" />
+    <meta property="article:tag" content="Learning  📖" />
+    <meta property="article:tag" content="personal branding" />
+    <meta property="article:tag" content="linkedin" />
+    <meta property="article:tag" content="brand identity" />
+    <meta property="article:tag" content="brand ambassador" />
+    <meta property="article:tag" content="interviews" />
+    <meta property="article:tag" content="Online Marketing Tools" />
+    <meta property="article:tag" content="business networking" />
+    <meta property="article:tag" content="networking" />
+    <meta property="article:tag" content="industry leaders" />
+    
+    <meta property="article:publisher" content="https://www.facebook.com/startuptalky/" />
+    <meta property="article:author" content="https://www.facebook.com/avantika17200012/" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="How To Build Your Personal Brand | 8 Best Ways To Do Personal Branding" />
+    <meta name="twitter:description" content="Best ways to do personal branding.8 Steps to Build Your Personal Brand..1.Nihe selection..Ultimate guide to personal branding.Do you want to build a personal brand?" />
+    <meta name="twitter:url" content="https://startuptalky.com/personal-branding-ways/" />
+    <meta name="twitter:image" content="https://static.startuptalky.com/2020/07/personal-branding_startuptalky.jpg" />
+    <meta name="twitter:label1" content="Written by" />
+    <meta name="twitter:data1" content="Avantika Bhardwaj" />
+    <meta name="twitter:label2" content="Filed under" />
+    <meta name="twitter:data2" content="Learning  📖, personal branding, linkedin, brand identity, brand ambassador, interviews, Online Marketing Tools, business networking, networking, industry leaders" />
+    <meta name="twitter:site" content="@StartupTalky" />
+    <meta name="twitter:creator" content="@AvantikaBhard19" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="700" />
+    
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name": "StartupTalky",
+        "url": "https://startuptalky.com/",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://static.startuptalky.com/2019/02/StartupTalky_logo-3.png"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Avantika Bhardwaj",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://static.startuptalky.com/2020/06/rsz_avantika.jpg",
+            "width": 100,
+            "height": 100
+        },
+        "url": "https://startuptalky.com/author/avantika/",
+        "sameAs": [
+            "https://www.facebook.com/avantika17200012/",
+            "https://twitter.com/AvantikaBhard19"
+        ]
+    },
+    "headline": "How To Build Your Personal Brand | 8 Best Ways To Do Personal Branding",
+    "url": "https://startuptalky.com/personal-branding-ways/",
+    "datePublished": "2020-07-25T19:03:00.000Z",
+    "dateModified": "2020-07-28T14:52:14.000Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://static.startuptalky.com/2020/07/personal-branding_startuptalky.jpg",
+        "width": 1200,
+        "height": 700
+    },
+    "keywords": "Learning  📖, personal branding, linkedin, brand identity, brand ambassador, interviews, Online Marketing Tools, business networking, networking, industry leaders",
+    "description": "Often big companies and celebrities are seen with their own personal brands.\nIt’s “personal branding” and it refers mostly to establishing and promoting what\nyou stand for. If it’s your personal brand then it has to be sure the unique\ncombination of skills and experiences that enhances it even more. There has to\nbe the best way to do personal branding so that your work promotes your brand.\n\n\n\nWhat is Personal Branding?\nWhat Could A Brand Be Nowadays Like?\nBest Ways To Personal Branding To Break ",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://startuptalky.com/"
+    }
+}
+    </script>
+
+    <meta name="generator" content="Ghost 3.21" />
+    <link rel="alternate" type="application/rss+xml" title="StartupTalky" href="https://startuptalky.com/rss/" />
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MN965ZD');</script>
+<!-- End Google Tag Manager -->
+
+<meta name="google-site-verification" content="DZU8U9RwDkRaZIsWgzoChUYdSNfLEyO1yn-UGvB4SBI" /><script data-ad-client="ca-pub-6079861242160523" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "What is personal branding?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Personal Branding is a way of establishing and promoting what you actually stand for, who you are, the values you embrace, and the way in which you express those values."
+    }
+  },{
+    "@type": "Question",
+    "name": "What are the three keys to personal branding?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Your brand is your identity and reputation. Here is how to make sure you project yourself as interesting and valuable.
+Authenticity
+Consistency 
+Harmonic"
+    }
+  },{
+    "@type": "Question",
+    "name": "What is the strategy to personal branding?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "A personal branding strategy is a plan to take your reputation and career from relative obscurity to high visibility. It describes where you stand today and what level of visibility you want to achieve in the future."
+    }
+  },{
+    "@type": "Question",
+    "name": "How do you build a powerful personal brand?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "8 Tips for Developing Your Personal Brand
+1. Find Your Niche
+2. Inject Your Personality Into Your Personal Brand
+3. Define Your Audience
+4. Create Your Brand Identity
+5. Grow Your Online Presence
+6. Ask For Informational Interviews
+7. Embrace And Enhance Your Networking
+8. Seek Out Mentors And Thought-Leaders"
+    }
+  }]
+}
+</script>
+</head>
+
+<body class="post-template tag-learning tag-personal-branding tag-linkedin-2 tag-brand-identity tag-brand-ambassador tag-interviews tag-online-marketing-tools tag-business-networking tag-networking tag-industry-leaders">
+	<!-- start header -->
+<header class="site-header" id="main-navbar">
+	<div class="container">
+		<div class="row">
+			<div class="navbar-header">
+				<!-- start logo -->
+				<a class="logo image-logo" href="https://startuptalky.com"><img src="https://static.startuptalky.com/2019/02/StartupTalky_logo-3.png" alt="StartupTalky"></a>
+				<!-- end logo -->
+			</div>
+			<nav class="main-menu hidden-sm hidden-xs" id="main-menu">
+	<ul>
+		<li class="profiles"><a href="https://startuptalky.com/tag/successful-company-profiles/">Profiles</a></li>
+		<li class="insights"><a href="https://startuptalky.com/tag/Insights/">Insights</a></li>
+		<li class="learning"><a href="https://startuptalky.com/tag/learning/">Learning</a></li>
+		<li class="startuptalkers"><a href="https://startuptalky.com/tag/startuptalkers/">StartupTalkers</a></li>
+		<li class="collections"><a href="https://startuptalky.com/tag/collections/">Collections</a></li>
+		<li class="news"><a href="https://startuptalky.com/tag/news/">News</a></li>
+		<li class="events"><a href="https://startuptalky.com/tag/startup-events/">Events</a></li>
+		<li class="contact"><a href="https://startuptalky.com/contact-us/">Contact</a></li>
+	</ul>
+</nav>
+			<div class="nav-right pull-right align-right">
+				<span class="search-toggle" id="search-button" data-toggle="modal" data-target="#searchmodal"><i class="fa fa-search align-center"></i></span>
+				<span class="mobile-menu-toggle hidden-md hidden-lg" id="nav-toggle-button"><i class="fa fa-bars align-center"></i></span>
+			</div>
+			<nav class="mobile-menu visible-sm visible-xs" id="mobile-menu"></nav>
+			<div class="backdrop hidden-md hidden-lg" id="backdrop">
+				<span class="menu-close align-center"><i class="fa fa-arrow-left"></i></span>
+			</div>
+		</div>
+	</div>
+</header>
+<!-- end header -->	
+<!-- start content area -->
+<div class="main-content-area single-post">
+	<article>
+		<div class="post-head"
+			style="background-image:url(https://static.startuptalky.com/2020/07/personal-branding_startuptalky.jpg);" >
+			<div class="container align-center">
+				<div class="row">
+					<div class="col-md-offset-1 col-md-10">
+
+						<h1 class="title">What Are The Best Ways To Do Personal Branding?</h1>
+
+						<div class="post-meta">
+							<a class="author" href="/author/avantika/" rel="author">
+								<span class="name">Avantika Bhardwaj</span>
+							</a>
+							<time class="time" datetime="2020-07-26 00:07:00"
+								itemprop="datePublished">July 26, 2020</time>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="share-wrap clearfix align-center">
+	<div class="share-text h5">Share this article</div>
+	<ul class="share-links">
+		<!-- facebook -->
+		<li>
+			<a class="facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://startuptalky.com/personal-branding-ways/" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;" title="Share on Facebook"><i class="fa fa-facebook"></i>Facebook</a>
+		</li>
+		<!-- twitter -->
+		<li>
+			<a class="twitter" href="https://twitter.com/share?text=What%20Are%20The%20Best%20Ways%20To%20Do%20Personal%20Branding%3F&amp;url=https://startuptalky.com/personal-branding-ways/" onclick="window.open(this.href, 'twitter-share', 'width=580,height=296');return false;" title="Share on Twitter"><i class="fa fa-twitter"></i>Twitter</a>
+		</li>
+		<!-- linkedin -->
+		<li>
+			<a class="linkedin" href="http://www.linkedin.com/shareArticle?mini=true&url=https://startuptalky.com/personal-branding-ways/&title=What%20Are%20The%20Best%20Ways%20To%20Do%20Personal%20Branding%3F" onclick="window.open(this.href, 'linkedin-share', 'width=580,height=296');return false;" title="Share on Linkedin"><i class="fa fa-linkedin"></i>Linkedin</a>
+		</li>
+		<!-- pinterest -->
+		<li>
+			<a class="pinterest" href="http://pinterest.com/pin/create/button/?url=https://startuptalky.com/personal-branding-ways/&description=What%20Are%20The%20Best%20Ways%20To%20Do%20Personal%20Branding%3F" onclick="window.open(this.href, 'linkedin-share', 'width=580,height=296');return false;" title="Share on Pinterest"><i class="fa fa-pinterest"></i>Pinterest</a>
+		</li>
+	</ul>
+</div>				<div class="col-md-9 col-xs-12">
+					<div class="post-content">
+						<p>Often big companies and celebrities are seen with their own personal brands. It’s “personal branding” and it refers mostly to establishing and promoting what you stand for. If it’s your personal brand then it has to be sure the unique combination of skills and experiences that enhances it even more. There has to be the<strong> best way to do personal branding </strong>so that your work promotes your brand.</p><p></p><!--kg-card-begin: markdown--><p><a href="#personalbranding_WhatisPersonalBranding?">What is Personal Branding?</a><br>
+<a href="#personalbranding_WhatCouldABrandBeNowadaysLike?">What Could A Brand Be Nowadays Like?</a><br>
+<a href="#personalbranding_BestWaysToPersonalBrandingToBreakThroughACrowdedSpace">Best Ways To Personal Branding To Break Through A Crowded Space</a><br>
+<a href="#personalbranding_WhyPersonalBrandingMatters?">Why Personal Branding Matters?</a><br>
+<a href="#personalbranding_PersonalBranding-FAQs">Personal Branding - FAQs</a></p>
+<!--kg-card-end: markdown--><!--kg-card-begin: html--> <h2 id =  "personalbranding_WhatisPersonalBranding?"> What is Personal Branding?</h2><!--kg-card-end: html--><p>Personal Branding is a way of establishing and promoting what you actually stand for, who you are, the values you embrace, and the way in which you express those values. Because, if it’s your personal brand then it has to be sure the unique combination of skills and experiences that enhances it even more. This type of effective branding can make you different from other professionals in your sector.</p><blockquote><strong><em>Apple challenged the world to “Think Different.” Nike encouraged people, regardless of age, gender, or physical fitness level, to “Just Do It.” Dunkin’ Donuts persuaded busy professionals that “America Runs on Dunkin’.”</em></strong></blockquote><p>If we do a quick search to observe how individuals around the world are actually using new tools to craft <strong>personal brands. </strong>And, so we can see that is what attracts countless people to their websites and big social media profiles.</p><p>Now, it’s crystal clear that the biggest tactic is to know exactly where to spend your time to get the results you’ve been chasing for.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://static.startuptalky.com/2020/07/personal-brand_startuptalky.jpg" class="kg-image" alt="Personal Brand" width="800" height="450"><figcaption>Personal Brand</figcaption></figure><!--kg-card-begin: html--> <h2 id =  "personalbranding_WhyPersonalBrandingMatters?"> Why Personal Branding Matters?</h2><!--kg-card-end: html--><p>Some people dismiss the whole process of branding themselves, as being time-consuming, or not that efficient. When it comes to building a personal brand, you have to devote time and energy into personal branding. Your personal brand should highlight your strengths, establish a reputation, build trust among employees, and communicate the unique attributes that you bring to your current industry.</p><blockquote><strong>"More than half of employers won't hire potential candidates without some sort of online presence today." – CARRIER BUILDERS</strong></blockquote><p>Whatever your age or professional achievements maybe, someone is always screening you online. What they observe can have major implications for your professional and well being. So, if you aren’t properly managing your online reputation, then you are actively losing out on upcoming business opportunities. Never lose out on an interview because that’s something you can control- like your personal brand.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://static.startuptalky.com/2020/07/people-screening-every-stagepersonal-branding_startuptalky.jpg" class="kg-image" alt="Someone is always screening you online." width="800" height="450"><figcaption>Someone is always screening you online.</figcaption></figure><!--kg-card-begin: html--> <h2 id =  "personalbranding_WhatCouldABrandBeNowadaysLike?"> What Could A Brand Be Nowadays Like?</h2><!--kg-card-end: html--><p>If someone asks you of a popular brand, then it’s obvious that you are going to say a popular brand like Apple, Samsung, or McDonald. <strong>A brand can be anything</strong>nowadays, so even as an individual, you have a personal brand.</p><p>What’s your personal brand going to be like or you have a brand that exists online and offline both, but isn’t performing that well. Fortunately, there are a lot of best tools and resources that might help you with the whole process of personal branding. While the specific unavoidable circumstances and goals vary person-to-person. But, the overall concepts and processes are still relevant to everyone.</p><figure class="kg-card kg-embed-card kg-card-hascaption"><iframe width="612" height="344" src="https://www.youtube.com/embed/9q-AlAG8a2Q?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><figcaption>How to build your Personal Brand?</figcaption></figure><p>The idea of <strong>personal branding</strong> makes most people uncomfortable due to a lot of hard-work involved both online and offline. But, if you don’t take control of your personal brand online, then you are obviously going to miss out on opportunities and let others control your narrative.</p><p>Building a personal brand might sound like a challenging task, and it is for sure, but there are incremental steps you can take to build credibility in your field. Below there are <strong>personal branding tips</strong> which is going to help you create an authentic personal brand- and catalyze your career in the process.</p><!--kg-card-begin: html--> <h2 id =  "personalbranding_BestWaysToPersonalBrandingToBreakThroughACrowdedSpace"> Best Ways To Personal Branding To Break Through A Crowded Space</h2><!--kg-card-end: html--><h3 id="1-find-your-niche"><br>1. Find Your Niche</h3><p>The basic step to build a personal brand is to make it one that truly reflects your personal and professional identity. Pick something specific that you can do better than 90% of the world. Or, it can go like:</p><ul><li>In which areas do I perform better?</li><li>What motivates me?</li><li>What characteristics others have that complimented me on?</li><li>Which role seems to drain my energy?</li><li>Which projects can I spend hours on without feeling nauseous or overwhelmed?</li></ul><p>These questions can definitely give you a great deal of help because that’s what describes the different facets of your personality.</p><p>The <strong>niche selection</strong> process is really important! You don’t want to spend all the time and energy necessary to link your brand to a niche that’s not growing.</p><h3 id="2-inject-your-personality-into-your-personal-brand">2. Inject Your Personality Into Your Personal Brand</h3><p>Always think about what you are actually known for because the personal brand is more than the reflection of you are today. This method is what you personally bring to the table. It’s about you and ‘your ideas’ which will help you differentiate you from everyone else who is from your field.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://static.startuptalky.com/2020/07/personal-branding-tips_startuptalky.jpg" class="kg-image" alt="What does your brand personify?" width="800" height="450"><figcaption>What does your brand personify?</figcaption></figure><p>It's good understanding your already existing skill-set and competencies but it will be best if you assess your strengths and weaknesses timely as they relate to your industry and career. By doing this, you’re going to unleash the latent skills and traits that make you unique.</p><h3 id="3-define-your-audience">3. Define Your Audience</h3><p>Determining who you’re trying to reach is the crucial step. Is it an individual in particular? Recruiters? Entrepreneurs? Is it another industry thought leaders? The sooner you define your audience, the easier it will be to craft the brand.</p><p>For instance, if your goal is to reach out to recruiters, then you have to start with updating the Linkedin profile. Why? It’s so because<strong> 87%</strong> of <a href="https://startuptalky.com/linkedin-marketing-guide/">recruiters use Linkedin</a> to find high-quality candidates and <strong>92%</strong> of recruiters use social media as their basis.</p><figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="https://startuptalky.com/linkedin-tips-job-seekers/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">10 Techniques To Get Noticed On LinkedIn</div><div class="kg-bookmark-description">LinkedIn has been a great platform for offering jobs to millions of people
+around the world and has a great user base globally. Founded in May 2003 by Reid
+Hoffman, it’s main aim is professional networking. It creates an Eco system in
+which a person seeking job posts up his or her CV and an organiza…</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="https://startuptalky.com/favicon.png"><span class="kg-bookmark-author">Yash Raj Srivastava</span><span class="kg-bookmark-publisher">StartupTalky</span></div></div><div class="kg-bookmark-thumbnail"><img src="https://cdn.startuptalky.com/2020/06/Linkedin_Startuptalky--2--1.jpg"></div></a></figure><h3 id="4-create-your-brand-identity">4. Create Your Brand Identity</h3><p>The design of your website should be impeccable because that’s what people go back and look at. Websites are the only one that tells everything real fast and what they notice should be unique. One thing to be noticed should be that they each have custom sites, beautiful photographs, and even their logo are eye-catching.</p><p>And for a shock why am I emphasizing the design and logo? Because according to <strong>one academic study, </strong>94 percent of the first impressions  were only based on design, and it only takes 50 milliseconds for that split-seconds actual decisions to get made.</p><p>There are some crowdsources which might help you with<a href="https://startuptalky.com/make-best-logo-for-startups-10-simple-steps-to-follow/"> special tools to make logos and design.</a> Professional designs are often what separates the ‘real’ experts from everyone else in the market.</p><p>A small piece of advice here would be that start small (in terms of funds) with a logo to establish that working relationship with a designer you like because when it comes to redesigning the website, it’s going to be worth their weight in gold.</p><h3 id="5-grow-your-online-presence">5. Grow Your Online Presence</h3><p>One of the most important aspects of personal branding is about making sure your <strong>online presence is a lot engaging to hire</strong> manager, co-workers, and employees. In the era of digitalization it’s important you realize that your story should match all platforms. Beware of separating your personal social media by adjusting the privacy settings, so that potential employees don’t stumble upon any information that could harm your opportunities of landing a job. Linkedin, Twitter, and many social media tools are of great help to define your brand if you manage these key points effectively:</p><figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="https://startuptalky.com/linkedin-automation-tools/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Top 7 LinkedIn Automation Tools You Should Use Right Now</div><div class="kg-bookmark-description">Get a Free Demo of Zopto [https://zopto.com/?fp_ref=shubham93]</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="https://startuptalky.com/favicon.png"><span class="kg-bookmark-author">Rishabh Rathi</span><span class="kg-bookmark-publisher">StartupTalky</span></div></div><div class="kg-bookmark-thumbnail"><img src="https://static.startuptalky.com/2020/03/post-image--3--1.png"></div></a></figure><ul><li>Focus on key industrial skills because recruiters search for the roles they’re trying to fit in.</li><li>Quantify your accomplishments</li><li>Complete your profile with a professional photo</li><li>Highlight and build upon your industry expertise</li><li>Incorporate your personal brand in your bio and for the feed <a href="https://startuptalky.com/hashtag-marketing-guide/">use hashtags</a></li></ul><h3 id="6-ask-for-informational-interviews">6. Ask For Informational Interviews</h3><p>When there’s a list of companies you have always aspired to work for and leaders you admire from the industry, always consider reaching out to these professionals to ask for an <strong>informational interview</strong>. When you meet these high-profile individuals, then ask them specific questions that help you garner new insights about your field, for instance:</p><ul><li>How do you see your industry evolving?</li><li>How did you break into the idea of industrializing your brand?</li><li>How do you stay up-to-date with the upcoming trends in the industry?</li><li>How are you going to transform your brand all over again?</li><li>Are there any trade or professional associations, I should join?</li></ul><p>Informational Interviews like this not only adds to your knowledge but also help you to envision the ideal candidate to build a personal brand in the industry.</p><h3 id="7-embrace-and-enhance-your-networking">7. Embrace And Enhance Your Networking</h3><p>It is so very important to <strong>network regularly</strong> and effectively to grow your professional circle. Connect with industry thought leaders and your peers from formal to informal networking events. Because it’s whole of a chain, the more connections you make - the more value you provide to your interactions – the more is your personal brand is going to be recognized.</p><p>At these events, don’t be shy to fellow attendees to reschedule a meeting again for an informational interview or a casual meet. And if by chance, you weren’t able to attend the event, then just reach out via email and spark a conversation there.</p><figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="https://startuptalky.com/online-marketing-tools/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Must Have Online Marketing Tools For Every Marketer in 2020 [Many Are FREE]</div><div class="kg-bookmark-description">Marketing is the key to get the popularity a business requires. It is the way of
+getting the business to where it needs to be taken. Hence, the marketing game
+needs to be very strong and every major company has its strategy of marketing
+which they change quite often. According to some reports, 17% o…</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="https://startuptalky.com/favicon.png"><span class="kg-bookmark-author">Niku Mandal</span><span class="kg-bookmark-publisher">StartupTalky</span></div></div><div class="kg-bookmark-thumbnail"><img src="https://static.startuptalky.com/2019/11/The-Best-10-Online-Marketing-Tools-for-Businesses.png"></div></a></figure><h3 id="8-seek-out-mentors-and-thought-leaders">8. Seek Out Mentors And Thought-Leaders</h3><p>First of all, there’s no such thing as a “self-made” successful person and that too in a field like branding yourselves. They had had help from someone, somewhere, at some time in their life. You are obviously in the need of other big names from the industries to recognize your brand and ‘you as an expert’. According to a survey, <strong>80% of CEOs</strong> in one study said they had a mentor by their side to help them early in their careers.</p><p>Even <strong>Tiger Woods</strong>, the most successful golfer of all time, has worked with a swing coach for almost his entire career. Almost all successful entrepreneurs have had mentors, to help them and they surely became the recognized experts, they are today.</p><p>In the process of becoming the recognized expert in your industry isn’t an overnight proposition to be made. It’s obviously going to take a lot of hard work and effort to reach the top. As the digital era changes transform, so does your career evolves and as a result, your personal brand will shine like a star. You, surely, have to invest the time, money and work to slowly break through a crowded industry.</p><p><strong>And in the whole process, Never ever forget to reinvent your personal brand as you grow.</strong></p><p></p><!--kg-card-begin: html--> <h2 id =  "personalbranding_PersonalBranding-FAQs"> Personal Branding - FAQs</h2><!--kg-card-end: html--><h3 id="what-is-personal-branding">What is personal branding?</h3><p>Personal Branding is a way of establishing and promoting what you actually stand for, who you are, the values you embrace, and the way in which you express those values.</p><h3 id="what-are-the-three-keys-to-personal-branding">What are the three keys to personal branding?</h3><p>Authenticity<br>Consistency<br>Harmonic</p><h3 id="what-is-the-strategy-to-personal-branding">What is the strategy to personal branding?</h3><p>A personal branding strategy is a plan to take your reputation and career from relative obscurity to high visibility. It describes where you stand today and what level of visibility you want to achieve in the future.</p><h3 id="how-do-you-build-a-powerful-personal-brand">How do you build a powerful personal brand?</h3><h4 id="8-tips-for-developing-your-personal-brand">8 Tips for Developing Your Personal Brand</h4><ol><li>Find Your Niche</li><li>Inject Your Personality Into Your Personal Brand</li><li>Define Your Audience</li><li>Create Your Brand Identity</li><li>Grow Your Online Presence</li><li>Ask For Informational Interviews</li><li>Embrace And Enhance Your Networking</li><li>Seek Out Mentors And Thought-Leaders</li></ol>
+					</div>
+					<div class="post-tags tagcloud">
+						<b>Tags</b>&nbsp;&nbsp;<a href="/tag/learning/">Learning  📖</a><a href="/tag/personal-branding/">personal branding</a><a href="/tag/linkedin-2/">linkedin</a><a href="/tag/brand-identity/">brand identity</a><a href="/tag/brand-ambassador/">brand ambassador</a><a href="/tag/interviews/">interviews</a><a href="/tag/online-marketing-tools/">Online Marketing Tools</a><a href="/tag/business-networking/">business networking</a><a href="/tag/networking/">networking</a><a href="/tag/industry-leaders/">industry leaders</a>
+					</div>
+					<div class="subscribe-box-wrap">
+											</div>
+					<div class="about-author-wrap">
+						<!-- start about the author -->
+<div class="about-author clearfix">
+		<a href="/author/avantika/" title="Avantika Bhardwaj"><img src="https://static.startuptalky.com/2020/06/rsz_avantika.jpg" alt="Author image" class="avatar pull-left"></a>
+	<div class="details">
+		<h4 class="author h4">About <a href='/author/avantika/'>Avantika Bhardwaj</a></h4>
+		<ul class="meta-info">
+			<li><a href="https://twitter.com/AvantikaBhard19" target="_blank"><i class="fa fa-twitter"></i></a></li>
+			<li><a href="https://www.facebook.com/avantika17200012/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+			<li class="location"><i class="fa fa-map-marker"></i>New Delhi,  India </li>
+		</ul>
+	</div>
+</div>
+<!-- end about the author -->					</div>
+					<div class="prev-next-wrap has-next has-prev">
+	<div class="row is-flex">
+		<div class="col-sm-6 col-xs-12">
+			<article class="post post-card">
+				<div class="prev-next-link align-center">
+					<a class="" href="https://startuptalky.com/most-apps-downloaded/">Previous Post</a>
+				</div>
+				<a href="https://startuptalky.com/most-apps-downloaded/" class="permalink">
+					<div class="featured-image" style="background-image: url(https://static.startuptalky.com/2020/07/most-downloaded-apps-2020_startuptalky.jpg)"></div>
+				</a>
+				<div class="content-wrap">
+					<div class="entry-header align-center">
+						
+						<h3 class="title h4"><a href="https://startuptalky.com/most-apps-downloaded/" rel="bookmark">The A - Z Of Most Downloaded Apps 2020</a></h3>
+					</div>
+					<div class="entry-footer clearfix">
+						<div class="author">
+							<a href="/author/avantika/" rel="author">
+								<img class="avatar" src="https://static.startuptalky.com/2020/06/rsz_avantika.jpg" alt="avatar">
+								<span class="name">Avantika Bhardwaj</span>
+							</a>
+						</div>
+						<div class="published-date">
+							<time class="time" datetime="2020-07-26 00:07:00">July 26, 2020</time>
+						</div>
+					</div>
+				</div>
+			</article>
+		</div>
+		<div class="col-sm-6 col-xs-12">
+			<article class="post post-card">
+				<div class="prev-next-link align-center">
+					<a class="" href="https://startuptalky.com/guerrilla-marketing-ideas-tips/">Next Post</a>
+				</div>
+				<a href="https://startuptalky.com/guerrilla-marketing-ideas-tips/" class="permalink">
+					<div class="featured-image" style="background-image: url(https://static.startuptalky.com/2020/07/Guerrilla-Marketing-For-Startups_Startuptalky.jpg)"></div>
+				</a>
+				<div class="content-wrap">
+					<div class="entry-header align-center">
+						
+						<h3 class="title h4"><a href="https://startuptalky.com/guerrilla-marketing-ideas-tips/" rel="bookmark">Guerrilla Marketing For Startups | Guerrilla Tips And Ideas For Startups</a></h3>
+					</div>
+					<div class="entry-footer clearfix">
+						<div class="author">
+							<a href="/author/yash-taneja/" rel="author">
+								<img class="avatar" src="https://static.startuptalky.com/2020/06/95801872_249998139538331_5633029241416187904_n.jpg" alt="avatar">
+								<span class="name">Yash Taneja</span>
+							</a>
+						</div>
+						<div class="published-date">
+							<time class="time" datetime="2020-07-26 00:07:00">July 26, 2020</time>
+						</div>
+					</div>
+				</div>
+			</article>
+		</div>
+	</div>
+</div>					<div class="comment-wrap">
+						<div class="fb-comments" data-href="https://startuptalky.com/personal-branding-ways" data-numposts="5"></div>
+					</div>
+				</div>
+				<div class="col-md-3 col-xs-12">
+					<div class="hidden-xs">
+						<!-- start recent post widget -->
+<div class="widget">
+	<h4 class="widget-title h6">Recent Post</h4>
+	<div class="content recent-post">
+		<div class="recent-single-post clearfix have-image">
+			<a href="/best-things-leaders-do/">
+					<div class="post-thumb pull-left" style="background-image: url(https://static.startuptalky.com/2020/07/leaders_startuptalky.jpg);"></div>
+			</a>
+			<div class="post-info">
+				<h4 class="post-title"><a href="/best-things-leaders-do/">Being A Rockstar In Your Company Is A Matter Of 10 Best Things Leaders Do Every Day</a></h4>
+				<div class="date"><a href="/best-things-leaders-do/">July 29, 2020</a></div>
+			</div>
+		</div>
+		<div class="recent-single-post clearfix have-image">
+			<a href="/best-business-ideas-2020/">
+					<div class="post-thumb pull-left" style="background-image: url(https://static.startuptalky.com/2020/07/Top-Business-Ideas_Startuptalky.jpg);"></div>
+			</a>
+			<div class="post-info">
+				<h4 class="post-title"><a href="/best-business-ideas-2020/">Best Business Ideas To Try In 2020</a></h4>
+				<div class="date"><a href="/best-business-ideas-2020/">July 29, 2020</a></div>
+			</div>
+		</div>
+		<div class="recent-single-post clearfix have-image">
+			<a href="/porsche-case-study-analysis/">
+					<div class="post-thumb pull-left" style="background-image: url(https://static.startuptalky.com/2020/07/Porsche-case-study_startuptalky.jpg);"></div>
+			</a>
+			<div class="post-info">
+				<h4 class="post-title"><a href="/porsche-case-study-analysis/">Porsche Case Study- Analysis About Its Business Model</a></h4>
+				<div class="date"><a href="/porsche-case-study-analysis/">July 29, 2020</a></div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- end widget -->					</div>
+					<!-- Appsumo -->
+					<div style="margin: 20px 0px">
+						<a href="https://appsumo.8odi.net/gnJWg" target="_blank"><img src="https://static.startuptalky.com/sumo.png" alt=""></a>
+					</div>
+					<!-- Semrush -->
+					<!-- Wishpond embed code -->
+					<script type="text/javascript"
+						src="//cdn.wishpond.net/connect.js?merchantId=1502107&writeKey=321d46968c23" async></script>
+					<div class="wishpond-campaign" data-wishpond-id="2513483"
+						data-wishpond-href="https://embedded.wishpondpages.com/lp/2513483/"></div>
+
+					<!-- Media.net embed code -->
+					<div id="938307776">
+						<script type="text/javascript">
+							try {
+								window._mNHandle.queue.push(function () {
+									window._mNDetails.loadTag("938307776", "300x250", "938307776");
+								});
+							}
+							catch (error) { }
+						</script>
+					</div>
+
+					
+				</div>
+			</div>
+		</div>
+	</article>
+</div>
+<!-- end content area -->
+	<!-- start footer -->
+<footer class="site-footer">
+    <div class="footer-top">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-4">
+                    <!-- start recent post widget -->
+<div class="widget">
+	<h4 class="widget-title h6">Recent Post</h4>
+	<div class="content recent-post">
+		<div class="recent-single-post clearfix have-image">
+			<a href="/best-things-leaders-do/">
+					<div class="post-thumb pull-left" style="background-image: url(https://static.startuptalky.com/2020/07/leaders_startuptalky.jpg);"></div>
+			</a>
+			<div class="post-info">
+				<h4 class="post-title"><a href="/best-things-leaders-do/">Being A Rockstar In Your Company Is A Matter Of 10 Best Things Leaders Do Every Day</a></h4>
+				<div class="date"><a href="/best-things-leaders-do/">July 29, 2020</a></div>
+			</div>
+		</div>
+		<div class="recent-single-post clearfix have-image">
+			<a href="/best-business-ideas-2020/">
+					<div class="post-thumb pull-left" style="background-image: url(https://static.startuptalky.com/2020/07/Top-Business-Ideas_Startuptalky.jpg);"></div>
+			</a>
+			<div class="post-info">
+				<h4 class="post-title"><a href="/best-business-ideas-2020/">Best Business Ideas To Try In 2020</a></h4>
+				<div class="date"><a href="/best-business-ideas-2020/">July 29, 2020</a></div>
+			</div>
+		</div>
+		<div class="recent-single-post clearfix have-image">
+			<a href="/porsche-case-study-analysis/">
+					<div class="post-thumb pull-left" style="background-image: url(https://static.startuptalky.com/2020/07/Porsche-case-study_startuptalky.jpg);"></div>
+			</a>
+			<div class="post-info">
+				<h4 class="post-title"><a href="/porsche-case-study-analysis/">Porsche Case Study- Analysis About Its Business Model</a></h4>
+				<div class="date"><a href="/porsche-case-study-analysis/">July 29, 2020</a></div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- end widget -->                </div>
+                <div class="col-sm-4">
+                    <!-- start tag widget -->
+<div class="widget">
+	<h4 class="widget-title h6">Tag Cloud</h4>
+	<div class="content tagcloud">
+		<a href="/tag/semrush-site-audit-or-seo-resume-job/">&quot;semrush&quot; &quot;site audit&quot; or seo -resume -job</a><a href="/tag/10-cold-calling-tips-and-tricks/">10 Cold Calling Tips and Tricks</a><a href="/tag/10-minute-loan-app/">10 minute loan app</a><a href="/tag/10-no-code-platforms/">10 no code platforms</a><a href="/tag/10-skills-every-entrepreneur-should-have/">10 skills every entrepreneur should have</a><a href="/tag/10-steps-to-ultimate-guide-of-writing-business-plan/">10 Steps To Ultimate Guide Of Writing Business Plan</a><a href="/tag/10-times/">10 times</a><a href="/tag/10-ways-to-make-tough-decisions-faster-in-your-startup/">10 Ways To Make Tough Decisions Faster In Your Startup</a><a href="/tag/100pillars-constructions/">100Pillars Constructions</a><a href="/tag/1010-data/">1010 data</a><a href="/tag/11-online/">11 online</a><a href="/tag/111-startups/">111 startups</a>
+	</div>
+</div>
+<!-- end tag widget -->                                    </div>
+                <div class="col-sm-4">
+                    <!-- start tag widget -->
+<div class="widget">
+	<h4 class="widget-title h6">About StartupTalky</h4>
+	<div class="content about">
+		<p>
+			StartupTalky is India’s leading media platform for entrepreneurs to read and share startup stories, startup news,
+			research reports and start events. Connect with us to share your opinions and learnings with fellow
+			StartupTalkers.
+		</p>
+	</div>
+	<div>
+		<ul style="list-style: none; padding: 0;">
+			<li style="padding: 5px 5px 5px 2px; cursor: pointer;">
+				<a href="/copyright">Copyright</a>
+			</li>
+			<li style="padding: 5px 5px 5px 2px; cursor: pointer;">
+				<a href="/privacy-policy">Privacy Policy</a>
+			</li>
+			<li style="padding: 5px 5px 5px 2px; cursor: pointer;">
+				<a href="/contact-us">Contact Us</a>
+			</li>
+			<li style="padding: 5px 5px 5px 2px; cursor: pointer;">
+				<a href="/about-us">About us</a>
+			</li>
+			<li style="padding: 5px 5px 5px 2px; cursor: pointer;">
+				<a href="/startuptalky-contributor">Become a contributor</a>
+			</li>
+			<li style="padding: 5px 5px 5px 2px; cursor: pointer;">
+				<a href="/sitemap.xml">Sitemap</a>
+			</li>
+		</ul>
+	</div>
+</div>
+<!-- end tag widget -->                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-bottom">
+		<div class="container">
+            <div class="footer-bottom-wrap clearfix">
+                <div class="social-links-wrap">
+                    <ul class="social-links">
+    <li><a href="https://www.facebook.com/startuptalky/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+    <li><a href="https://twitter.com/startuptalky" target="_blank"><i class="fa fa-twitter"></i></a></li>
+    <li><a href="https://www.instagram.com/startup_talky/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+    <li><a href="https://www.linkedin.com/company/14405761" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+    <li><a href="https://startuptalky.com/rss/"><i class="fa fa-rss"></i></a></li>
+</ul>                </div>
+                <div class="copyright-info">
+                    &copy; 2020 <a href="https://startuptalky.com">StartupTalky</a>. All rights Reserved.
+                </div>
+            </div>
+		</div>
+	</div>
+</footer>
+<!-- end footer -->
+<span class="back-to-top pull-right" id="back-to-top"><i class="fa fa-angle-up"></i></span>
+<!-- start share modal -->
+<div class="modal" id="searchmodal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title align-center" id="myModalLabel">Search</h4>
+      </div>
+      <div class="modal-body">
+        <form id="search-form">
+            <div class="input-group url-wrap">
+                
+                <input type="text" id="search-input" class="form-control" spellcheck="false" placeholder="Type to Search ...">
+                <!-- <span class="input-group-addon" id=""><i class="fa fa-search"></i></span> -->
+                <div class="input-group-btn">
+                    <button type="submit" class="btn btn-primary"><i class="fa fa-search"></i></button>
+                </div>
+            </div>
+        </form>
+        <div id="search-results">
+            <ul class=""></ul>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- end share modal -->
+	<script>
+		var searchApi = 'https://startuptalky.com/ghost/api/v3/content/posts/?key=' + api_key + '&limit=all&fields=id,title,excerpt,custom_excerpt,url,published_at&formats=plaintext';
+	</script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="/assets/js/bootstrap.min.js?v=f8ab24f360"></script>
+	<script src="/assets/js/plugins.js?v=f8ab24f360"></script>
+	<script src="/assets/js/main.js?v=f8ab24f360"></script>
+	<script src="/assets/js/custom.js?v=f8ab24f360"></script>
+	<!-- pinterest-->
+<meta name="p:domain_verify" content="2e0b5faab2236061ce36e975b5d8bf2c"/>
+<!-- end pinterest -->
+</body>
+
+</html>

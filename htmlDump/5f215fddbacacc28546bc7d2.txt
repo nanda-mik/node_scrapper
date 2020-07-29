@@ -1,0 +1,1199 @@
+<!DOCTYPE html><html lang="en-US" class="no-js"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="cc38427473376bb0683a9d95-|49"></script><link rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" id="ao_optimized_gfonts" href="https://fonts.googleapis.com/css?family=Monda%3A500%2C400%7COpen+Sans%3Ainherit%2Cinherititalic%2C400&amp;display=swap" /><link rel="profile" href="https://gmpg.org/xfn/11"> <script type="cc38427473376bb0683a9d95-text/javascript">(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script> <script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">//
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+//</script> <meta name="google-site-verification" content="h__t14aH4KCSmW8JRpC9ITgIu-YEINK1VL_LkAdOr_c" /><meta name="msvalidate.01" content="A4C6FEB0E3162AD917341D52087BA093" /><meta name="p:domain_verify" content="8e998febb5441e4be3359a745e93c40e" /> <script type="cc38427473376bb0683a9d95-text/javascript">(function(w,i,g,z,o){
+			var a,m;w['WigzoObject']=o;w[o]=w[o]||function(){
+				(w[o].q=w[o].q||[]).push(arguments)},w[o].l=1*new Date();w[o].h=z;a=i.createElement(g),
+				m=i.getElementsByTagName(g)[0];a.async=1;a.src=z;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//app.wigzo.com/wigzo.compressed.js','wigzo');
+		wigzo ('configure', '7e09360d-cc35-499e-b1ae-4790c938cbed');</script> <link media="all" href="https://inc42.com/wp-content/cache/autoptimize/css/autoptimize_138634d489558688b46049eea92675dc.css" rel="stylesheet" /><title>Meru Cabs Raises INR 300 Cr From India Value Fund, Another $100 Mn Coming Soon - Inc42 Media</title><meta name="description" content="Meru, has raised $50 Mn (over INR 300 Cr) in a new round of funding led by its existing investor, India Value Fund Advisors (IVF). India Value Fund Advisors (IVFA) had 80% stake in Meru Cabs prior to this round." /><meta name="robots" content="index, follow" /><meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" /><meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" /><link rel="canonical" href="https://inc42.com/buzz/meru-cabs-raises-inr-300-cr-from-india-value-fund-another-100-mn-coming-soon/" /><meta property="og:locale" content="en_US" /><meta property="og:type" content="article" /><meta property="og:title" content="Meru Cabs Raises INR 300 Cr From India Value Fund, Another $100 Mn Coming Soon - Inc42 Media" /><meta property="og:description" content="Meru, has raised $50 Mn (over INR 300 Cr) in a new round of funding led by its existing investor, India Value Fund Advisors (IVF). India Value Fund Advisors (IVFA) had 80% stake in Meru Cabs prior to this round." /><meta property="og:url" content="https://inc42.com/buzz/meru-cabs-raises-inr-300-cr-from-india-value-fund-another-100-mn-coming-soon/" /><meta property="og:site_name" content="Inc42 Media" /><meta property="article:publisher" content="https://facebook.com/Inc42" /><meta property="article:author" content="kathy.aks" /><meta property="article:published_time" content="2015-03-16T10:35:17+00:00" /><meta property="og:image" content="https://inc42.com/wp-content/uploads/2015/02/meru-e1422880990272.jpg" /><meta property="og:image:width" content="700" /><meta property="og:image:height" content="438" /><meta property="fb:app_id" content="220194138351091" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:creator" content="@kathyaks" /><meta name="twitter:site" content="@inc42" /> <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://inc42.com/#organization","name":"Inc42 Media","url":"https://inc42.com/","sameAs":["https://facebook.com/Inc42","https://www.instagram.com/inc42.media/","http://linkedin.com/company/inc42","https://www.youtube.com/user/inc42tv","https://twitter.com/inc42"],"logo":{"@type":"ImageObject","@id":"https://inc42.com/#logo","inLanguage":"en-US","url":"https://inc42.com/wp-content/uploads/2017/03/inc42-amp-logo.png","width":120,"height":36,"caption":"Inc42 Media"},"image":{"@id":"https://inc42.com/#logo"}},{"@type":"WebSite","@id":"https://inc42.com/#website","url":"https://inc42.com/","name":"Inc42 Media","description":"Indian Startups, Entrepreneurship, News, Resources &amp; More","publisher":{"@id":"https://inc42.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://inc42.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://inc42.com/buzz/meru-cabs-raises-inr-300-cr-from-india-value-fund-another-100-mn-coming-soon/#primaryimage","inLanguage":"en-US","url":"https://inc42.com/wp-content/uploads/2015/02/meru-e1422880990272.jpg","width":700,"height":438},{"@type":"WebPage","@id":"https://inc42.com/buzz/meru-cabs-raises-inr-300-cr-from-india-value-fund-another-100-mn-coming-soon/#webpage","url":"https://inc42.com/buzz/meru-cabs-raises-inr-300-cr-from-india-value-fund-another-100-mn-coming-soon/","name":"Meru Cabs Raises INR 300 Cr From India Value Fund, Another $100 Mn Coming Soon - Inc42 Media","isPartOf":{"@id":"https://inc42.com/#website"},"primaryImageOfPage":{"@id":"https://inc42.com/buzz/meru-cabs-raises-inr-300-cr-from-india-value-fund-another-100-mn-coming-soon/#primaryimage"},"datePublished":"2015-03-16T10:35:17+00:00","dateModified":"2015-03-16T10:35:17+00:00","description":"Meru, has raised $50 Mn (over INR 300 Cr) in a new round of funding led by its existing investor, India Value Fund Advisors (IVF). India Value Fund Advisors (IVFA) had 80% stake in Meru Cabs prior to this round.","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://inc42.com/buzz/meru-cabs-raises-inr-300-cr-from-india-value-fund-another-100-mn-coming-soon/"]}]},{"@type":"NewsArticle","@id":"https://inc42.com/buzz/meru-cabs-raises-inr-300-cr-from-india-value-fund-another-100-mn-coming-soon/#article","isPartOf":{"@id":"https://inc42.com/buzz/meru-cabs-raises-inr-300-cr-from-india-value-fund-another-100-mn-coming-soon/#webpage"},"author":{"@id":"https://inc42.com/#/schema/person/c09ae04b47499192db1e1ff590a5f593"},"headline":"Meru Cabs Raises INR 300 Cr From India Value Fund, Another $100 Mn Coming Soon","datePublished":"2015-03-16T10:35:17+00:00","dateModified":"2015-03-16T10:35:17+00:00","commentCount":"2","mainEntityOfPage":{"@id":"https://inc42.com/buzz/meru-cabs-raises-inr-300-cr-from-india-value-fund-another-100-mn-coming-soon/#webpage"},"publisher":{"@id":"https://inc42.com/#organization"},"image":{"@id":"https://inc42.com/buzz/meru-cabs-raises-inr-300-cr-from-india-value-fund-another-100-mn-coming-soon/#primaryimage"},"keywords":"India Value Fund,Meru,Neeraj Gupta,taxi Operators","articleSection":"News","inLanguage":"en-US","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://inc42.com/buzz/meru-cabs-raises-inr-300-cr-from-india-value-fund-another-100-mn-coming-soon/#respond"]}],"copyrightYear":"2015","copyrightHolder":{"@id":"https://inc42.com/#organization"}},{"@type":["Person"],"@id":"https://inc42.com/#/schema/person/c09ae04b47499192db1e1ff590a5f593","name":"Akanksha Pahwa","image":{"@type":"ImageObject","@id":"https://inc42.com/#personlogo","inLanguage":"en-US","url":"https://secure.gravatar.com/avatar/b96ec3472bf19934d7c7855ee35f2758?s=96&d=mm&r=g","caption":"Akanksha Pahwa"},"description":"Passion for writing and inclination of being updated in technology brings Akanksha together to be a content writer. Her prior experience in PR firms widens her genres in Media planning, Corporate Communication and Research Analyses.","sameAs":["kathy.aks","https://in.linkedin.com/pub/akanksha-pahwa-sareen/18/396/676","https://twitter.com/kathyaks"]}]}</script> <link rel="amphtml" href="https://inc42.com/buzz/meru-cabs-raises-inr-300-cr-from-india-value-fund-another-100-mn-coming-soon/amp/?hvid=4t1Rp" /><meta name="generator" content="AMP for WP 1.0.58" /><link rel='dns-prefetch' href='//static.play.ht' /><link rel='dns-prefetch' href='//s.w.org' /><link rel='dns-prefetch' href='//cdn.inc42.com' /><link href='https://fonts.gstatic.com' crossorigin='anonymous' rel='preconnect' /><link rel="alternate" type="application/rss+xml" title="Inc42 Media &raquo; Feed" href="https://inc42.com/feed/" /><link rel="alternate" type="application/rss+xml" title="Inc42 Media &raquo; Comments Feed" href="https://inc42.com/comments/feed/" /><link rel="alternate" type="text/calendar" title="Inc42 Media &raquo; iCal Feed" href="https://inc42.com/events/?ical=1" /><link rel="alternate" type="application/rss+xml" title="Inc42 Media &raquo; Meru Cabs Raises INR 300 Cr From India Value Fund, Another $100 Mn Coming Soon Comments Feed" href="https://inc42.com/buzz/meru-cabs-raises-inr-300-cr-from-india-value-fund-another-100-mn-coming-soon/feed/" /> <script type="cc38427473376bb0683a9d95-text/javascript">window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/inc42.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);</script> <style type="text/css">img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}</style><style id='wp-block-library-inline-css' type='text/css'>.has-text-align-justify{text-align:justify;}</style><style id='mashsb-styles-inline-css' type='text/css'>.mashsb-count {color:#cccccc;}@media only screen and (min-width:568px){.mashsb-buttons a {min-width: 32px;}}</style><link rel='stylesheet' id='dashboard_wppp_pageplayer_styles-css' href='https://static.play.ht/playht-pageplayer-plugin-v10.css?ver=3.0.12' type='text/css' media='all' /><style id='ai-core-style-inline-css' type='text/css'>.aesop-gallery-component .aesop-component-caption {
+  color: #333;
+  padding: 0.25rem 0.75rem;
+  background: rgba(255, 255, 255, 0.8);
+  font-size: 14px;
+}
+.aesop-stacked-img {
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  left: 0;
+  top: 0;
+  position: relative;
+  overflow: hidden;
+}
+.aesop-stacked-img .aesop-stacked-caption {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  z-index: 0;
+  color: #333;
+  padding: 0.25rem 0.75rem;
+  background: rgba(255, 255, 255, 0.8);
+  font-size: 14px;
+  -webkit-transition: all 0.75s ease-in-out;
+  transition: all 0.75s ease-in-out;
+}
+.aesop-sequence-img-wrap .aesop-sequence-caption {
+  padding-left: 4.5rem;
+}
+.aesop-sequence-img-wrap .aesop-sequence-caption:before {
+  left: 0;
+  bottom: -4px;
+  font-weight: bold;
+  line-height: 1;
+  padding: 0.6rem 0.75rem;
+  border: 1px solid;
+  border-color: inherit;
+  content: counter(sequence-counter, decimal-leading-zero);
+  counter-increment: sequence-counter;
+}
+.aesop-sequence-img-wrap .aesop-sequence-img {
+  width: 100%;
+  max-width: 1200px;
+  display: block;
+}
+.aesop-hero-gallery-wrapper {
+  clear: both;
+  position: relative;
+}
+.aesop-hero-gallery-content {
+  position: absolute;
+  top: 20px;
+  /*-webkit-transform: translate(0, -50%);
+     -moz-transform: translate(0, -50%);
+      -ms-transform: translate(0, -50%);
+          transform: translate(0, -50%);
+  color: #fff; 
+  font-size: 300%; // arbitrary number.
+  text-align: center;*/
+}
+.aesopicon-search-plus {
+  position: relative;
+}
+.aesopicon-search-plus:after {
+  display: inline-block;
+  font-family: 'Dashicons';
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  content: '\f179';
+}
+.aesop-parallax-component {
+  clear: both;
+}
+.aesop-parallax-component .aesop-parallax-sc {
+  margin: 0;
+}
+.aesop-content-component .aesop-content-comp-wrap {
+  padding: 1.5em 2em;
+}
+@media (max-width: 766px) {
+  .aesop-content-component .aesop-content-comp-wrap {
+    padding: 1em;
+  }
+}
+.aesop-content-component .aesop-content-comp-inner p {
+  line-height: 1.2em;
+}
+.aesop-content-component .aesop-content-img .aesop-content-comp-inner {
+  word-wrap: break-word;
+  background: rgba(255, 255, 255, 0.4);
+  padding: 1rem;
+  line-height: 1.3;
+}
+.aesop-content-component .aesop-content-img .aesop-content-comp-inner p {
+  margin-bottom: 0;
+}
+.aesop-image-component img {
+  -webkit-box-shadow: 0 0 6px -1px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px -1px rgba(0, 0, 0, 0.5);
+}
+.aesop-image-component .aesop-lightbox {
+  text-decoration: none;
+  display: block;
+}
+.aesop-image-component .aesop-img-enlarge {
+  margin: 0 0 0.5rem;
+}
+.aesop-image-component .aesop-img-enlarge:hover {
+  text-decoration: none;
+}
+.aesop-image-component .aesop-img-enlarge i {
+  position: relative;
+  top: 1px;
+}
+.aesop-image-component .aesop-img-enlarge,
+.aesop-image-component .aesop-image-component-caption {
+  color: #b3b3b3;
+  font-size: 12px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.aesop-image-component .aesop-cap-cred,
+.aesop-image-component .aesop-img-enlarge {
+  color: #b3b3b3;
+}
+.aesop-image-component .aesop-cap-cred {
+  border-top: 1px dotted #b3b3b3;
+  font-size: 9px;
+}
+.aesop-image-component:hover {
+  opacity: 0.85;
+  filter: alpha(opacity=85);
+  -webkit-transition: opacity 0.25s ease-in-out;
+  transition: opacity 0.25s ease-in-out;
+}
+.aesop-image-component:active img {
+  box-shadow: none;
+}
+.aesop-video-component .aesop-video-component-caption {
+  color: #b3b3b3;
+}
+.aesop-video-component .aesop-component-caption {
+  color: #333;
+  padding: 0.25rem 0.75rem;
+  background: rgba(255, 255, 255, 0.8);
+  font-size: 14px;
+}
+.mejs-container {
+  width: 100%;
+  max-width: 800px !important;
+  margin-left: auto;
+  margin-right: auto;
+}
+.mejs-container + p {
+  margin-top: 1rem;
+}
+.aesop-quote-component {
+  padding: 3rem 2rem;
+}
+.aesop-quote-component blockquote {
+  font-style: italic;
+}
+.aesop-quote-component cite {
+  display: block;
+  font-size: 14px;
+}
+.aesop-on-genesis .aesop-quote-component blockquote:before {
+  content: none;
+}
+.aesop-story-collection {
+  clear: both;
+}
+.aesop-story-collection .aesop-story-collection-title {
+  text-align: center;
+  background: #fff;
+  text-transform: uppercase;
+  font-size: 1.75rem;
+  line-height: 1.75rem;
+  letter-spacing: 0.05rem;
+  padding: 0.8rem 0 0.6rem;
+  margin: 0;
+  z-index: 2;
+  position: relative;
+  -webkit-box-shadow: 0 7px 7px -7px #000000;
+  box-shadow: 0 7px 7px -7px #000000;
+}
+.aesop-story-collection .aesop-collection-item {
+  float: left;
+  position: relative;
+  height: 220px;
+  overflow: hidden;
+}
+.aesop-story-collection .aesop-collection-item .aesop-collection-item-link {
+  display: table;
+  height: 100%;
+  width: 100%;
+  color: white;
+  -webkit-transition: all 0.25s ease-in-out;
+  transition: all 0.25s ease-in-out;
+}
+.aesop-story-collection .aesop-collection-item .aesop-collection-item-link:before {
+  position: absolute;
+  content: '';
+  width: 100%;
+  height: 100%;
+  background: black;
+  opacity: 0.65;
+  filter: alpha(opacity=65);
+  z-index: 1;
+}
+.aesop-story-collection .aesop-collection-item .aesop-collection-item-link:hover {
+  text-decoration: none;
+  -webkit-transition: all 0.25s ease-in-out;
+  transition: all 0.25s ease-in-out;
+}
+.aesop-story-collection .aesop-collection-item .aesop-collection-item-link:hover:before {
+  -webkit-transition: opacity 0.25s linear;
+  transition: opacity 0.25s linear;
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+.aesop-story-collection .aesop-collection-item .aesop-collection-item-link:hover .aesop-collection-item-inner {
+  background: rgba(0, 0, 0, 0.5);
+}
+.aesop-story-collection .aesop-collection-item .aesop-collection-item-inner {
+  display: table-cell;
+  vertical-align: middle;
+  width: 100%;
+  height: 100%;
+  padding: 0 2.5rem;
+  position: relative;
+  text-align: center;
+  z-index: 1;
+  overflow: hidden;
+  text-shadow: 0 0 3px rgba(0, 0, 0, 0.6);
+}
+.aesop-story-collection .aesop-collection-item .aesop-collection-item-inner .aesop-collection-entry-title {
+  font-weight: 800;
+  text-transform: uppercase;
+  color: white;
+  margin: auto;
+}
+.aesop-story-collection .aesop-collection-item .aesop-collection-item-inner .aesop-collection-item-excerpt {
+  font-size: 12px;
+}
+.aesop-story-collection .aesop-collection-item .aesop-collection-item-inner .aesop-collection-meta {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 12px;
+  margin-bottom: 3rem;
+  font-style: italic;
+}
+.aesop-story-collection .aesop-collection-item .aesop-collection-item-img {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  z-index: 0;
+  background-position: center center;
+}
+.aesop-story-collection .aesop-collection-splash .aesop-collection-item-link:before {
+  content: none;
+}
+.aesop-story-collection .aesop-collection-splash .aesop-collection-item-link:hover .aesop-collection-item-inner {
+  background: transparent;
+}
+.aesop-story-collection .aesop-collection-splash .aesop-collection-item-inner .aesop-collection-entry-title {
+  color: #333;
+  text-shadow: none;
+}
+.aesop-story-collection .aesop-collection-load-more {
+  background: black;
+  opacity: 0.65;
+  filter: alpha(opacity=65);
+  z-index: 1;
+  height: 70px;
+  line-height: 70px;
+  color: white;
+}
+.jorgen-article-cover-wrap {
+  position: fixed;
+}
+.aesop-article-chapter-wrap {
+  position: relative;
+}
+.aesop-article-chapter-wrap.aesop-video-chapter .aesop-cover-title {
+  max-width: 100%;
+  margin: 0;
+  padding-bottom: 20px;
+  top: 150px;
+  border-bottom: 1px solid #fff;
+  font-size: 62px !important;
+  color: #fff;
+  width: 90%;
+  left: 10%;
+  position: absolute;
+  z-index: 1;
+}
+.aesop-article-chapter-wrap.aesop-video-chapter .aesop-cover-title small {
+  font-size: 40px;
+}
+@media (max-width: 800px) {
+  .aesop-article-chapter-wrap .aesop-cover-title {
+    font-size: 52px;
+  }
+  .aesop-article-chapter-wrap .aesop-cover-title small {
+    font-size: 42px;
+  }
+}
+@media (max-width: 480px) {
+  .aesop-article-chapter-wrap .aesop-cover-title {
+    display: block;
+    bottom: 30px;
+    font-size: 32px;
+  }
+  .aesop-article-chapter-wrap .aesop-cover-title small {
+    display: block;
+    font-size: 20px;
+  }
+}
+.aesop-cover-title {
+  max-width: 100%;
+  margin: 0;
+  padding-bottom: 20px;
+  bottom: 100px;
+  border-bottom: 1px solid #fff;
+  font-size: 62px !important;
+  color: #fff;
+  width: 90%;
+  left: 10%;
+  position: absolute;
+  z-index: 1;
+}
+.aesop-cover-title small {
+  font-size: 40px;
+}
+.aesop-toggle-chapter-menu {
+  position: fixed;
+  right: -1px;
+  bottom: 57px;
+  height: 44px;
+  width: 44px;
+  background: #e6e6e6;
+  border-top-left-radius: 2px;
+  border-bottom-left-radius: 2px;
+  z-index: 150;
+  -webkit-transition: right 0.25s ease;
+  transition: right 0.25s ease;
+}
+.aesop-toggle-chapter-menu:hover {
+  background: #007aac;
+  text-decoration: none;
+}
+.aesop-toggle-chapter-menu:hover i {
+  color: white;
+}
+.aesop-toggle-chapter-menu i {
+  color: #007aac;
+}
+.aesop-chapter-menu-open .aesop-chapter-menu {
+  right: 0;
+}
+.aesop-chapter-menu-open .aesop-toggle-chapter-menu {
+  right: 250px;
+}
+.aesop-close-chapter-menu {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  z-index: 1;
+}
+.aesop-close-chapter-menu:hover {
+  cursor: pointer;
+}
+.aesop-chapter-menu {
+  right: -250px;
+  width: 250px;
+  top: 0;
+  position: fixed;
+  bottom: 0;
+  background: #e6e6e6;
+  -webkit-transition: right 0.25s ease;
+  transition: right 0.25s ease;
+  z-index: 500;
+  counter-reset: sequence-counter;
+  color: #777;
+}
+.aesop-chapter-menu .scroll-nav__list {
+  margin: 0;
+  padding: 0;
+}
+.aesop-chapter-menu * {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+.aesop-chapter-menu li {
+  display: block;
+  margin-bottom: 0;
+  position: relative;
+  padding-left: 15px;
+  font: normal 14px/28px Arial, Helvetica, sans-serif;
+}
+.aesop-chapter-menu li:before {
+  content: counter(sequence-counter, upper-roman);
+  counter-increment: sequence-counter;
+  position: absolute;
+  left: 0;
+}
+.aesop-chapter-menu a:link,
+.aesop-chapter-menu .scroll-nav__link {
+  color: #777;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.admin-bar .aesop-chapter-menu {
+  top: 32px;
+}
+.aesop-chapter-menu--inner {
+  padding: 15px;
+}
+.aesop-character-component .aesop-character-float {
+  margin: .65rem 0;
+  width: 150px;
+  text-align: center;
+}
+.aesop-character-component .aesop-character-float .aesop-character-title {
+  vertical-align: top;
+  font-size: 12px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #b3b3b3;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  display: block;
+  text-align: center;
+  margin: 0 0 0.5rem;
+}
+.aesop-character-component .aesop-character-float.aesop-character-right {
+  float: right;
+  margin-left: 1.75rem;
+}
+.aesop-character-component .aesop-character-float.aesop-character-center {
+  margin-left: auto;
+  margin-right: auto;
+}
+.aesop-character-component .aesop-character-float.aesop-character-center .aesop-character-name {
+  text-align: center;
+}
+.aesop-character-component .aesop-character-float.aesop-character-left {
+  float: left;
+  margin-right: 1.75rem;
+}
+.aesop-character-component .aesop-character-avatar {
+  width: 90%;
+  border-radius: 50%;
+}
+.aesop-character-component .aesop-character-cap {
+  font-size: 12px;
+  line-height: 14px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #b3b3b3;
+  font-style: italic;
+  margin-top: 0.8rem;
+  border-top: 1px dotted #b3b3b3;
+  padding-top: 0.3rem;
+}
+.aesop-document-component a {
+  font-size: 12px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #b3b3b3;
+  line-height: 12px;
+  text-decoration: none;
+}
+.aesop-document-component a span {
+  border-bottom: 1px solid #e6e6e6;
+  font-size: 12px;
+  color: #808080;
+}
+.aesop-document-component a span:before {
+  content: '\f498';
+  font-family: Dashicons;
+  position: absolute;
+  left: 0;
+}
+.aesop-timeline {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+.aesop-timeline ol {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  background: #e6e6e6;
+  padding: 5px 10px;
+  -webkit-box-shadow: inset 0 7px 7px -7px #808080;
+  box-shadow: inset 0 7px 7px -7px #808080;
+}
+.aesop-timeline ol:before,
+.aesop-timeline ol:after {
+  content: " ";
+  display: table;
+}
+.aesop-timeline ol:after {
+  clear: both;
+}
+.aesop-timeline ol li {
+  display: inline-block;
+  margin-right: 5px;
+}
+.aesop-timeline ol li:last-child {
+  margin-right: 0;
+}
+.aesop-timeline ol li a {
+  text-transform: uppercase;
+  font-size: 14px;
+  color: inherit;
+  padding: 2px 10px 8px;
+  display: block;
+  position: relative;
+}
+.aesop-timeline ol li a:after {
+  content: '';
+  height: 20px;
+  border-right: 1px solid #666666;
+  width: 1px;
+  position: absolute;
+  left: 50%;
+  bottom: -10px;
+}
+.aesop-timeline ol li.active a {
+  color: #428bca;
+}
+.aesop-timeline ol li.active a:after {
+  border-right-color: #428bca;
+}</style><link rel='stylesheet' id='tf-compiled-options-ect-css' href='https://inc42.com/wp-content/uploads/titan-framework-ect-css.css?ver=5.4.2' type='text/css' media='all' /> <script type="cc38427473376bb0683a9d95-text/javascript" src='https://inc42.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script> <script type="cc38427473376bb0683a9d95-text/javascript">var related_posts_js_options = {"post_heading":"h4"};</script> <script type="cc38427473376bb0683a9d95-text/javascript">var mashsb = {"shares":"243","round_shares":"1","animate_shares":"1","dynamic_buttons":"0","share_url":"https:\/\/inc42.com\/buzz\/meru-cabs-raises-inr-300-cr-from-india-value-fund-another-100-mn-coming-soon\/","title":"Meru+Cabs+Raises+INR+300+Cr+From+India+Value+Fund%2C+Another+%24100+Mn+Coming+Soon","image":"https:\/\/inc42.com\/wp-content\/uploads\/2015\/02\/meru-e1422880990272.jpg","desc":"Mumbai-based radio cab service, Meru, has raised $50 Mn (over INR 300 Cr) in a new round of funding led by its existing investor, India Value Fund Advisors (IVF).\u00a0India Value Fund Advisors (IVFA) had 80% \u2026","hashtag":"inc42","subscribe":"content","subscribe_url":"","activestatus":"1","singular":"1","twitter_popup":"1","refresh":"0","nonce":"5453b218fb","postid":"19414","servertime":"1596013826","ajaxurl":"https:\/\/inc42.com\/wp-admin\/admin-ajax.php"};</script> <script type="cc38427473376bb0683a9d95-text/javascript">var mashnet = {"body":"Check out this article: ","subject":"I wanted you to see this site","pinterest_select":"1","pinterest_image":"https:\/\/inc42.com\/wp-content\/uploads\/2015\/02\/meru-e1422880990272.jpg","pinterest_desc":"Mumbai-based radio cab service, Meru, has raised $50 Mn (over INR 300 Cr) in a new round of funding led by its existing investor, India Value Fund Advisors (IVF).\u00a0India Value Fund Advisors (IVFA) had 80% \u2026"};</script> <script type="cc38427473376bb0683a9d95-text/javascript">var inc42DfpAdsData = {"leaderboard":{"adUnit":"\/222908369\/rt-Inc42-Leaderboard","sizes":[[320,50],[600,90],[728,90],[970,90]]},"article_top":{"adUnit":"\/222908369\/rt-Inc42-Article-Top","sizes":[[300,250],[336,280],[600,90],[600,250]]},"article_middle_01":{"adUnit":"\/222908369\/rt-Inc42-Article-Middle-01","sizes":[[300,250],[336,280],[600,90],[600,250]]},"article_middle_02":{"adUnit":"\/222908369\/rt-Inc42-Article-Middle-02","sizes":[[300,250],[336,280],[600,90],[600,250]]},"article_middle":{"adUnit":"\/222908369\/rt-Inc42-Article-Middle","sizes":[[300,250],[320,50],[320,150],[300,250],[600,90],[600,250]]},"article_bottom":{"adUnit":"\/222908369\/rt-Inc42-Article-Bottom","sizes":[[300,250],[320,50],[320,150],[336,280],[300,250],[600,90],[600,250]]},"sidebar":{"adUnit":"\/222908369\/rt-Inc42-Sidebar","sizes":[[300,250],[600,90],[600,250]]},"targetingData":{"category":["buzz"],"tag":["india-value-fund","meru","neeraj-gupta","taxi-operators"],"postName":"meru-cabs-raises-inr-300-cr-from-india-value-fund-another-100-mn-coming-soon","postId":19414,"contentType":"post"},"siteDomain":"inc42.com","fluid_header":{"adUnit":"\/222908369\/rt_Inc42_fluid_header","sizes":["fluid",[320,50],[600,250],[970,250],[970,90],[320,100],[300,250]]},"fluid_infinite_scroll":{"adUnit":"\/222908369\/rt_inc42_fluid_ad","sizes":["fluid",[600,250],[970,250],[300,250],[320,100]]}};
+var is_adult_url = "0";</script> <script type="cc38427473376bb0683a9d95-text/javascript">var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};</script> <link rel='https://api.w.org/' href='https://inc42.com/wp-json/' /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://inc42.com/xmlrpc.php?rsd" /><link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://inc42.com/wp-includes/wlwmanifest.xml" /><meta name="generator" content="WordPress 5.4.2" /><link rel='shortlink' href='https://inc42.com/?p=19414' /> <script data-cfasync="false">document.cookie = "__adblocker=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/";
+    var setNptTechAdblockerCookie = function(adblocker) {
+        var d = new Date();
+        d.setTime(d.getTime() + 60 * 60 * 24 * 2 * 1000);
+        document.cookie = "__adblocker=" + (adblocker ? "true" : "false") + "; expires=" + d.toUTCString() + "; path=/";
+    };
+    var script = document.createElement("script");
+    script.setAttribute("async", true);
+    script.setAttribute("src", "//www.npttech.com/advertising.js");
+    script.setAttribute("onerror", "setNptTechAdblockerCookie(true);");
+    document.getElementsByTagName("head")[0].appendChild(script);</script> <script type="cc38427473376bb0683a9d95-text/javascript">(function(e,a){if(!a.__SV){var b=window;try{var c,l,i,j=b.location,g=j.hash;c=function(a,b){return(l=a.match(RegExp(b+"=([^&]*)")))?l[1]:null};g&&c(g,"state")&&(i=JSON.parse(decodeURIComponent(c(g,"state"))),"mpeditor"===i.action&&(b.sessionStorage.setItem("_mpcehash",g),history.replaceState(i.desiredHash||"",e.title,j.pathname+j.search)))}catch(m){}var k,h;window.mixpanel=a;a._i=[];a.init=function(b,c,f){function e(b,a){var c=a.split(".");2==c.length&&(b=b[c[0]],a=c[1]);b[a]=function(){b.push([a].concat(Array.prototype.slice.call(arguments,
+0)))}}var d=a;"undefined"!==typeof f?d=a[f]=[]:f="mixpanel";d.people=d.people||[];d.toString=function(b){var a="mixpanel";"mixpanel"!==f&&(a+="."+f);b||(a+=" (stub)");return a};d.people.toString=function(){return d.toString(1)+".people (stub)"};k="disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config reset people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
+for(h=0;h<k.length;h++)e(d,k[h]);a._i.push([b,c,f])};a.__SV=1.2;b=e.createElement("script");b.type="text/javascript";b.async=!0;b.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";c=e.getElementsByTagName("script")[0];c.parentNode.insertBefore(b,c)}})(document,window.mixpanel||[]);
+mixpanel.init("445a20962eeb2090ff18ec9d30d52323");</script> <script type="cc38427473376bb0683a9d95-text/javascript">var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "25278130" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();</script> <noscript> <img src="http://b.scorecardresearch.com/p?c1=2&c2=25278130&cv=2.0&cj=1" /> </noscript> <script type="cc38427473376bb0683a9d95-text/javascript">(function(w, d, e, u, c, g, a, b){
+    w["SSJSConnectorObj"] = w["SSJSConnectorObj"] || {ss_cid : c, domain_info: g};
+    a = d.createElement(e);
+    a.async = true;
+    a.src = u;
+    b = d.getElementsByTagName(e)[0];
+    b.parentNode.insertBefore(a, b);
+    
+  })(window,document,"script","https://cdn.perfdrive.com/aperture/aperture.js","adb9","auto");</script>
+<script type="cc38427473376bb0683a9d95-text/javascript">!function(q,e,v,n,t,s){if(q.qp) return; n=q.qp=function(){n.qp?n.qp.apply(n,arguments):n.queue.push(arguments);}; n.queue=[];t=document.createElement(e);t.async=!0;t.src=v; s=document.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s);}(window, 'script', 'https://a.quora.com/qevents.js');
+qp('init', '39b2fd4eba284eab83eabcb60df26c89');
+qp('track', 'ViewContent');</script> <noscript><img height="1" width="1" style="display:none" src="https://q.quora.com/_/ad/39b2fd4eba284eab83eabcb60df26c89/pixel?tag=ViewContent&noscript=1"/></noscript> <script type="cc38427473376bb0683a9d95-text/javascript">window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '220194138351091',
+      xfbml      : true,
+      version    : 'v2.10'
+    });
+    FB.AppEvents.logPageView();
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "https://connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));</script> <script type="cc38427473376bb0683a9d95-text/javascript">!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+// Insert Twitter Pixel ID and Standard Event data below
+twq('init','o1qxb');
+twq('track','PageView');</script> <script type="cc38427473376bb0683a9d95-text/javascript">(function(src){var a=document.createElement("script");a.type="text/javascript";a.async=true;a.src=src;var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)})("https://experience.tinypass.com/xbuilder/experience/load?aid=nOKpnHtS1Q");</script> <script type="cc38427473376bb0683a9d95-text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/1792595.js"></script> <script type="cc38427473376bb0683a9d95-text/javascript">(function(e,t){var n=e.amplitude||{_q:[],_iq:{}};var r=t.createElement("script")
+  ;r.type="text/javascript"
+  ;r.integrity="sha384-d/yhnowERvm+7eCU79T/bYjOiMmq4F11ElWYLmt0ktvYEVgqLDazh4+gW9CKMpYW"
+  ;r.crossOrigin="anonymous";r.async=true
+  ;r.src="https://cdn.amplitude.com/libs/amplitude-5.2.2-min.gz.js"
+  ;r.onload=function(){if(!e.amplitude.runQueuedFunctions){
+  console.log("[Amplitude] Error: could not load SDK")}}
+  ;var i=t.getElementsByTagName("script")[0];i.parentNode.insertBefore(r,i)
+  ;function s(e,t){e.prototype[t]=function(){
+  this._q.push([t].concat(Array.prototype.slice.call(arguments,0)));return this}}
+  var o=function(){this._q=[];return this}
+  ;var a=["add","append","clearAll","prepend","set","setOnce","unset"]
+  ;for(var u=0;u<a.length;u++){s(o,a[u])}n.Identify=o;var c=function(){this._q=[]
+  ;return this}
+  ;var l=["setProductId","setQuantity","setPrice","setRevenueType","setEventProperties"]
+  ;for(var p=0;p<l.length;p++){s(c,l[p])}n.Revenue=c
+  ;var d=["init","logEvent","logRevenue","setUserId","setUserProperties","setOptOut","setVersionName","setDomain","setDeviceId","setGlobalUserProperties","identify","clearUserProperties","setGroup","logRevenueV2","regenerateDeviceId","groupIdentify","onInit","logEventWithTimestamp","logEventWithGroups","setSessionId","resetSessionId"]
+  ;function v(e){function t(t){e[t]=function(){
+  e._q.push([t].concat(Array.prototype.slice.call(arguments,0)))}}
+  for(var n=0;n<d.length;n++){t(d[n])}}v(n);n.getInstance=function(e){
+  e=(!e||e.length===0?"$default_instance":e).toLowerCase()
+  ;if(!n._iq.hasOwnProperty(e)){n._iq[e]={_q:[]};v(n._iq[e])}return n._iq[e]}
+  ;e.amplitude=n})(window,document);
+
+  amplitude.getInstance().init("25e3465afe0d8684354e6185d8f681a2");</script> <script type="cc38427473376bb0683a9d95-text/javascript">_linkedin_partner_id = "243468";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);</script><script type="cc38427473376bb0683a9d95-text/javascript">(function(){var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})();</script> <noscript> <img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=243468&fmt=gif" /> </noscript> <script src='//cdn.freshmarketer.com/599257/1622282.js' type="cc38427473376bb0683a9d95-text/javascript"></script> <script type="cc38427473376bb0683a9d95-text/javascript">adroll_adv_id = "2IJV7ISWDBCTFP54HS7OZX";
+    adroll_pix_id = "PBQIWDLNQNBDPKHQKSIYIF";
+    adroll_version = "2.0";
+
+    (function(w, d, e, o, a) {
+        w.__adroll_loaded = true;
+        w.adroll = w.adroll || [];
+        w.adroll.f = [ 'setProperties', 'identify', 'track' ];
+        var roundtripUrl = "https://s.adroll.com/j/" + adroll_adv_id
+                + "/roundtrip.js";
+        for (a = 0; a < w.adroll.f.length; a++) {
+            w.adroll[w.adroll.f[a]] = w.adroll[w.adroll.f[a]] || (function(n) {
+                return function() {
+                    w.adroll.push([ n, arguments ])
+                }
+            })(w.adroll.f[a])
+        }
+
+        e = d.createElement('script');
+        o = d.getElementsByTagName('script')[0];
+        e.async = 1;
+        e.src = roundtripUrl;
+        o.parentNode.insertBefore(e, o);
+    })(window, document);
+    adroll.track("pageView");</script> <style>.single-feature-thumb-featured-container .lazyload, .single-feature-thumb-featured-container .lazyloading {
+     opacity:1;
+}
+ .inc42-plus__button_medium {
+    max-width: 350px
+}
+ @media only screen and (max-width: 450px) {
+     .inc42-plus__button_medium {
+        font-size: 14px
+    }
+}
+ .page-template-plus-library .site-inc42-plus .menu-item .inc42-plus__back {
+     display: none;
+}
+ @media only screen and (min-width: 1025px) {
+     .inc42-main-navigation ul.primary-menu>li {
+         padding: 0 0.7rem !important;
+    }
+}
+ .site-inc42-plus.page-template-plus-library .site-header:before, .site-inc42-plus.single-guide .site-header:before {
+     height: 7.25rem;
+}
+ #guide-hero {
+     padding-top: 6rem !important;
+}
+ .page-template-plus-library .piano-menu-login .piano-library-link {
+     display: none !important;
+}
+ .single-guide .loading-article {
+     display: none;
+}
+ body .widget-search .widget-title{
+    padding-left: 10px;
+}
+ .lazyloading {
+     opacity: 1 !important;
+}
+ .login form .input, .login input[type=password], .login input[type=text]{
+     display: block;
+}
+ .guide-testimonial-body img {
+     border-radius: 50%;
+}
+ #testimonials button.slick-arrow {
+     display: none !important;
+}
+ .meta-wrapper .jetpack-lazy-image {
+     display: none;
+}
+ @media screen and (max-width: 63.9375em) {
+     #site-navigation .custom-logo-link {
+         display: flex;
+         align-items: center;
+    }
+     #site-navigation .custom-logo-link > img {
+         max-height: 24px;
+    }
+     .mobile-menu-item {
+         display: flex !important;
+    }
+}
+ @media only screen and (max-width: 39.9375em) {
+     #plus-pop .site-inc42-plus .inc42-plus_accordion_lead .panel {
+         margin-left: 0;
+         padding-left: 30px;
+    }
+}
+ .inc42-dropdown .inc42-dropdown-content {
+     top: 56px;
+}
+ .dark .site-header .inc42-dropdown .inc42-dropdown-content a {
+     color: #030303;
+     line-height: 1.2;
+     padding: 20px 15px;
+     text-decoration: none;
+     display: block;
+     text-align: left;
+     cursor: pointer;
+     border: 0;
+     border-bottom: 1px solid #eee;
+}
+ .dark .site-header .inc42-dropdown .inc42-dropdown-content a:hover, .dark .site-header .inc42-dropdown .inc42-dropdown-content a:active {
+     color: #030303;
+     background-color:#f1f1f1;
+     border-radius: 0;
+}
+ .dark .site-header .inc42-dropdown .inc42-dropdown-content a:hover, .dark .site-header .inc42-dropdown .inc42-dropdown-content a:active {
+     color: #030303;
+     background-color:#f1f1f1;
+     border-radius: 0;
+}
+ .menu-item.new {
+     position: relative;
+}
+ .menu-item.new:before {
+     content: 'NEW';
+     position: absolute;
+     font-size: 10px;
+     font-weight: lighter;
+     text-transform: uppercase;
+     top: -5px;
+     left: 25px;
+     color: #fff;
+     background-color: #fe1919;
+     line-height: 1;
+     padding: 3px 7px;
+     border-radius: 0 0 2px 2px;
+     z-index: 1;
+}
+ .menu-item.new:after {
+     content: '';
+     width: 0;
+     height: 0;
+     background: transparent;
+     position: absolute;
+     left: 20px;
+     top: -5px;
+     border-left: 5px solid transparent;
+     border-right: 5px solid transparent;
+     border-bottom: 5px solid #000;
+}
+ @media screen and (max-width: 63.9375em) {
+     .menu-item.new:before {
+         font-size: 9px;
+         color: #fe1919;
+         background-color: #fff;
+    }
+     #mobile-menu-trigger.icon-menu.notification:after {
+         content: '';
+         position: absolute;
+         right: -3px;
+         background: red;
+         width: 7px;
+         height: 7px;
+         border-radius: 50%;
+         top: 17px;
+    }
+     #mobile-menu-trigger.icon-menu.notification:hover {
+         color: #030303;
+    }
+     #mobile-menu-trigger.icon-menu.notification:before {
+         margin: 0;
+         position: relative;
+    }
+}
+ @media only screen and (max-width: 540px){
+     #guide-hero {
+         padding-top: 3rem !important;
+    }
+     .single-guide .entry-header {
+         max-width: 100% 
+    }
+     .single-guide .entry-header .plus-pop, .single-guide .entry-header .plus-pop .button {
+         margin-bottom: 0;
+    }
+     .single-guide .workbook-list li:before {
+         width: 0.75rem;
+         margin-left: -0.75rem;
+    }
+     .single-guide #testimonials, .single-guide #chapters, .single-guide #insights {
+         padding-top: 3rem;
+    }
+     .page-template-plus-offering .menu-main-menu-container > :last-child {
+         display: none !important;
+    }
+     .inc42-premium .ad-container {
+         display: none !important;
+    }
+     .inc42-premium span[id^='article_seperator'] {
+         display: block !important;
+    }
+     .page.page-template-startup-hotline #primary.column {
+         -ms-flex: 0 0 100% !important;
+         flex: 0 0 100% !important;
+         max-width: 100% !important;
+         padding: 0 !important;
+    }
+     .page.page-template-startup-hotline .slick-slider.slick-dotted {
+         margin-bottom: 0;
+    }
+     #essentials .filters {
+         display: none;
+    }
+ }
+ @media only screen and (max-width: 63.9375em) {
+     .category-header .row-featured .featured-picture{
+         margin-top: 3rem;
+    }
+     .site-inc42-plus .header-sticky-wrapper, .site-inc42-plus .site-header {
+         background-color: #0d0d0d;
+    }
+     #essentials .row .column.small-12 {
+         margin-bottom: 2rem;
+    }
+}
+@media screen and (max-width: 63.9375em) {
+    .menu-main-menu-container {
+         max-height: 56px;
+         overflow: hidden;
+    }
+.page-template-plus-library #exclusives .slick-slide .column { margin-bottom: 0; }
+.page-template-plus-library #exclusives .slick-dots { display: none; }
+}
+.site-inc42-plus .site-header:before {
+height: 7.25rem;
+    background-color: #0d0d0d !important;
+}
+body.site-inc42-plus .header-sticky-wrapper {
+background-color: #0d0d0d !important;
+}
+#essentials .row .row .column { margin-bottom: 1.5rem; }
+.single.single-datalabs #hero { padding-top: 7rem; }
+@media screen and (max-width: 63.9375em) {
+.single.single-datalabs #hero { padding-top: 3rem; }
+}
+.page-template-plus-offering .site-inc42-plus .site-header:before { height: 76px; }
+.page-template-plus-offering .row.essentials > .column > .row > .column, .page-template-plus-library  .row.essentials > .column > .row > .column { margin-bottom: 1.5rem; }
+.single-guide #authors img.author-avatar { border-radius: 50%;margin: 0 auto 1rem; }
+@media screen and (max-width: 33.9375em) {
+.singular.page-template-datalabs #lead { max-height: 100%; }
+.page-template-datalabs #lead .inc42-plus__lead_content { text-align: center; }
+.singular.page-template-datalabs .brand .brand-thumb { max-width: 100%; }
+.page-template-datalabs #brands .brand { margin-bottom: 2rem; }
+.page-template-datalabs .reports-filters-wrapper { text-align: center; }
+.singular.page-template-datalabs .slick-dots { margin-top: 2rem; }
+.page-template-startup-essentials #lead h2.inc42-plus__text_lead { font-size: 1.9rem; }
+.page-template-startup-essentials #lead .inc42-plus__cta.animated-scroll { margin-bottom: 1rem !important; }
+.site-inc42-plus .essential-pop .inc42-plus__desc_modal { max-height: 100% !important; }
+}
+@media screen and (max-width: 63.9375em) {
+.site-inc42-plus .site-navigation-container {
+    display: block !Important;
+}
+.category-header .featured-fixed .row-featured .columns { padding-left: 0; }
+}
+.single-guide .entry-title { font-size: 3rem; }
+.single-guide .entry-description { max-width: 95%; margin-bottom: 1rem; }
+.single-guide.site-inc42-plus .ebook-thumb { margin-left:auto;margin-right:auto; }
+@media only screen and (max-width: 540px) {
+.single-guide .entry-title {
+    font-size: 1.8rem;
+}
+.single-guide .entry-header .plus-pop { margin-bottom: 20px; }
+.single-guide .entry-description { max-width: 100%; line-height: 1.4; }
+}
+.category .category-header { box-shadow: none; -webkit-box-shadow: none; }
+img#wpstats{position:absolute;top:0;width:0px;height:0px;overflow:hidden}
+@media screen and (max-width: 63.9375em) {
+.page-template-plus-library #exclusives .slick-slide .column, .page-template-plus-library #exclusives .slick-slide .column .card-wrapper { margin-bottom: 0; }
+.page-template-plus-library #exclusives .slick-dots { display: none !important; }
+}
+.page-template-plus-library #exclusives .slick-slide > div, .page-template-plus-library #exclusives .slick-slide .column, .page-template-plus-library #exclusives .slick-slide .card-wrapper { height: 100%; }
+.admin-bar.page-template-plus-offering .decoration { display: none; }
+.gradient-title, .inc42-main-navigation ul li.search a:before {
+    -webkit-text-fill-color: transparent !important;
+}
+.single.single-datalabs #report-frame, .single.single-guide #guide-report-frame {
+    height: 500px;
+    height: -webkit-calc(100vh - 130px);
+    height: calc(100vh - 130px);
+}
+.single.single-datalabs #report-frame iframe, .single.single-guide #guide-report-frame iframe {
+    height: calc(100vh - 200px)!important;
+}
+.single .premium-container:before {
+    position: relative;
+    content: '';
+    height: 300px;
+    margin-top: -300px;
+    width: 100%;
+    display: block;
+    background-image: -webkit-gradient(linear,left bottom,left top,from(#fff),to(rgba(255,255,255,0)));
+    background-image: -webkit-linear-gradient(bottom,#fff,rgba(255,255,255,0));
+    background-image: linear-gradient(0deg,#fff,rgba(255,255,255,0));
+}
+.slick-prev:before, [dir=rtl] .slick-prev:before, .slick-next:before, [dir=rtl] .slick-next:before {
+    -webkit-text-fill-color: transparent;
+}
+.page-template-plus-offering .slick-prev:before, [dir=rtl] .page-template-plus-offering .slick-prev:before, .page-template-plus-offering .slick-next:before, [dir=rtl] .page-template-plus-offering .slick-next:before {
+    -webkit-text-fill-color: #fff;
+}
+.page-template-plus-offering-v2 .site-inc42-plus .site-header:before, .page-template-plus-gradient .site-inc42-plus .site-header:before {
+    height: 76px;
+}
+.page-template-plus-offering-v2 .slick-prev:before, [dir=rtl] .page-template-plus-offering-v2 .slick-prev:before, .page-template-plus-offering-v2 .slick-next:before, [dir=rtl] .page-template-plus-offering-v2 .slick-next:before {
+    -webkit-text-fill-color: #fff;
+}
+.site-inc42-plus.page-template-plus-offering-v2 #playbooks .slick-slider .slick-list .slick-slide, .site-inc42-plus.page-template-plus-offering-v2 #reports .slick-slider .slick-list .slick-slide, .site-inc42-plus.page-template-plus-offering-v2 #startup-essentials .slick-slider .slick-list .slick-slide, .site-inc42-plus.page-template-plus-offering-v2 #ebooks .slick-slider .slick-list .slick-slide {
+    margin: 0 40px;
+}
+.site-inc42-plus.page-template-plus-offering-v2 #playbooks .slick-slider .slick-list, .site-inc42-plus.page-template-plus-offering-v2 #reports .slick-slider .slick-list, .site-inc42-plus.page-template-plus-offering-v2 #startup-essentials .slick-slider .slick-list, .site-inc42-plus.page-template-plus-offering-v2 #ebooks .slick-slider .slick-list {
+    margin: 0 -40px;
+}
+@media screen and (max-width: 63.9375em){
+.site-inc42-plus.page-template-plus-offering-gradient #playbooks .slick-slider .slick-list .slick-slide, .site-inc42-plus.page-template-plus-offering-gradient #reports .slick-slider .slick-list .slick-slide, .site-inc42-plus.page-template-plus-offering-gradient #startup-essentials .slick-slider .slick-list .slick-slide, .site-inc42-plus.page-template-plus-offering-gradient #ebooks .slick-slider .slick-list .slick-slide, .site-inc42-plus.page-template-plus-offering-v2 #playbooks .slick-slider .slick-list .slick-slide, .site-inc42-plus.page-template-plus-offering-v2 #reports .slick-slider .slick-list .slick-slide, .site-inc42-plus.page-template-plus-offering-v2 #startup-essentials .slick-slider .slick-list .slick-slide, .site-inc42-plus.page-template-plus-offering-v2 #ebooks .slick-slider .slick-list .slick-slide {
+    margin: 0 20px;
+}
+.site-inc42-plus.page-template-plus-offering-gradient #playbooks .slick-slider .slick-list, .site-inc42-plus.page-template-plus-offering-gradient #reports .slick-slider .slick-list, .site-inc42-plus.page-template-plus-offering-gradient #startup-essentials .slick-slider .slick-list, .site-inc42-plus.page-template-plus-offering-gradient #ebooks .slick-slider .slick-list, .site-inc42-plus.page-template-plus-offering-v2 #playbooks .slick-slider .slick-list, .site-inc42-plus.page-template-plus-offering-v2 #reports .slick-slider .slick-list, .site-inc42-plus.page-template-plus-offering-v2 #startup-essentials .slick-slider .slick-list, .site-inc42-plus.page-template-plus-offering-v2 #ebooks .slick-slider .slick-list {
+    margin: 0 -20px;
+}
+}
+@media screen and (max-width: 33.9375em) {
+.site-inc42-plus.page-template-plus-offering-v2 #playbooks .slick-slider .slick-list .slick-slide, .site-inc42-plus.page-template-plus-offering-v2 #reports .slick-slider .slick-list .slick-slide, .site-inc42-plus.page-template-plus-offering-v2 #startup-essentials .slick-slider .slick-list .slick-slide, .site-inc42-plus.page-template-plus-offering-v2 #ebooks .slick-slider .slick-list .slick-slide, .site-inc42-plus.page-template-plus-offering-gradient #playbooks .slick-slider .slick-list .slick-slide, .site-inc42-plus.page-template-plus-offering-gradient #reports .slick-slider .slick-list .slick-slide, .site-inc42-plus.page-template-plus-offering-gradient #startup-essentials .slick-slider .slick-list .slick-slide, .site-inc42-plus.page-template-plus-offering-gradient #ebooks .slick-slider .slick-list .slick-slide {
+    margin: 0 10px;
+}
+.site-inc42-plus.page-template-plus-offering-v2 #playbooks .slick-slider .slick-list, .site-inc42-plus.page-template-plus-offering-v2 #reports .slick-slider .slick-list, .site-inc42-plus.page-template-plus-offering-v2 #startup-essentials .slick-slider .slick-list, .site-inc42-plus.page-template-plus-offering-v2 #ebooks .slick-slider .slick-list, .site-inc42-plus.page-template-plus-offering-gradient #playbooks .slick-slider .slick-list, .site-inc42-plus.page-template-plus-offering-gradient #reports .slick-slider .slick-list, .site-inc42-plus.page-template-plus-offering-gradient #startup-essentials .slick-slider .slick-list, .site-inc42-plus.page-template-plus-offering-gradient #ebooks .slick-slider .slick-list {
+    margin: 0 -10px;
+}
+}
+.site-inc42-plus .inc42-plus__title_decoration.inc42-plus__title_decoration_qna { max-width: 100% !important; }
+@media screen and (max-width: 33.9375em) {
+.site-inc42-plus.page-template-plus-offering-gradient .inc42-plus__title_decoration, .site-inc42-plus.page-template-plus-offering-v2 .inc42-plus__title_decoration {
+    height: auto !important;
+}
+.site-inc42-plus.page-template-plus-offering-v2 h2.inc42-plus__text_title {
+    font-size: 2.5rem;
+}
+.site-inc42-plus.page-template-plus-offering-gradient .inc42-plus__text_title, .site-inc42-plus.page-template-plus-offering-v2 .inc42-plus__text_title {
+    text-align: center;
+}
+.site-inc42-plus.page-template-plus-offering-v2 #research .inc42-plus__text_title, .site-inc42-plus.page-template-plus-offering-v2 #membership .inc42-plus__text_title, .site-inc42-plus.page-template-plus-offering-v2 #research .inc42-plus__text_title, .site-inc42-plus.page-template-plus-offering-v2 #faq .inc42-plus__text_title, .site-inc42-plus.page-template-plus-offering-v2 #contact .inc42-plus__text_title, .site-inc42-plus.page-template-plus-offering-v2 #why .inc42-plus__text_title {
+text-align: left;
+}
+.site-inc42-plus.page-template-plus-offering-v2 #view-playbooks, .site-inc42-plus.page-template-plus-offering-v2 #view-reports, .site-inc42-plus.page-template-plus-offering-v2 #view-essentials { display: none; }
+.site-inc42-plus.page-template-plus-offering-gradient #startup-essentials .inc42-plus__lead_subtext, .site-inc42-plus.page-template-plus-offering-v2 #startup-essentials .inc42-plus__lead_subtext {
+    margin-bottom: 2rem;
+}
+.site-inc42-plus.page-template-plus-offering-gradient .ebook-thumb-wrapper .ebook-thumb, .site-inc42-plus.page-template-plus-offering-v2 .ebook-thumb-wrapper .ebook-thumb {
+    height: 360px;
+    max-height: 415px;
+}
+.site-inc42-plus .ebook-thumb-wrapper {
+    max-height: 360px;
+}
+.site-inc42-plus .inc42_plus__benefit_feature_img {
+    max-height: 20px;
+}
+.site-inc42-plus.page-template-plus-offering-gradient .inc42_plus__benefit_compact h4, .site-inc42-plus.page-template-plus-offering-v2 .inc42_plus__benefit_compact h4 {
+    line-height: 1.4;
+}
+.site-inc42-plus .ebook-thumb-wrapper { min-height: 360px; }
+.site-inc42-plus .inc42-plus .inc42-plus_accordion .accordion { line-height: 1.2 }
+.site-inc42-plus .essential-title, .site-inc42-plus.page-template-plus-offering-v2 .essential-title {
+    font-size: 0.9rem;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+.site-inc42-plus .essential-amount, .site-inc42-plus.page-template-plus-offering-v2  .essential-amount {
+    font-size: 2.5rem;
+}
+.site-inc42-plus .essential-value, .site-inc42-plus .essential-excerpt, .site-inc42-plus.page-template-plus-offering-v2 .essential-amount, .site-inc42-plus.page-template-plus-offering-v2 .essential-excerpt { margin-bottom: 1rem; }
+.site-inc42-plus .essential, .site-inc42-plus .essential .inc42-plus__cta.inc42-plus__cta_lead { margin-bottom: 0; }
+.site-inc42-plus.page-template-plus-offering-v2 .essential, .site-inc42-plus.page-template-plus-offering-v2 .essential .inc42-plus__cta.inc42-plus__cta_lead { margin-bottom: 0; }
+.site-inc42-plus.page-template-plus-offering-v2 .essential-value { margin-bottom: 0; }
+.site-inc42-plus.page-template-plus-offering-v2 #reports .ebook-thumb-wrapper { marign-bottom: 1rem; }
+}
+@media screen and (max-width: 20em){
+.site-inc42-plus.page-template-plus-offering-v2 .inc42-plus .inc42-plus__lead_content .inc42-plus_accordion .accordion {
+    font-size: .65rem;
+}
+.site-inc42-plus.page-template-plus-offering-v2 #perks {
+    text-align: left;
+}
+}</style><meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://inc42.com"><link rel="https://theeventscalendar.com/" href="https://inc42.com/wp-json/tribe/events/v1/" /> <script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">//
+var google_tag_params = {"pageTitle":"Meru Cabs Raises INR 300 Cr From India Value Fund, Another $100 Mn Coming Soon - Inc42 Media","pagePostType":"post","pagePostType2":"single-post","pageCategory":["buzz"],"pageAttributes":["india-value-fund","meru","neeraj-gupta","taxi-operators"],"pagePostAuthorID":102,"pagePostAuthor":"Akanksha Pahwa","pagePostDate":"March 16, 2015","pagePostDateYear":"2015","pagePostDateMonth":"03","pagePostDateDay":"16","pagePostTerms":{"category":["News"],"post_tag":["India Value Fund","Meru","Neeraj Gupta","taxi Operators"],"yst_prominent_words":["cab","cabs","cr","fund advisors","india","india value","india value fund","india value fund advisors","inr","market","meru","meru cabs","mn","round","stake in meru","stake in meru cabs","taxi market","value","value fund","value fund advisors"]},"postCountOnPage":1,"postCountTotal":1,"postID":19414,"postFormat":"standard"};
+	var dataLayer_content = {"visitorLoginState":"logged-out","visitorType":"visitor-logged-out","visitorEmail":"","visitorUsername":"","pageTitle":"Meru Cabs Raises INR 300 Cr From India Value Fund, Another $100 Mn Coming Soon - Inc42 Media","pagePostType":"post","pagePostType2":"single-post","pageCategory":["buzz"],"pageAttributes":["india-value-fund","meru","neeraj-gupta","taxi-operators"],"pagePostAuthorID":102,"pagePostAuthor":"Akanksha Pahwa","pagePostDate":"March 16, 2015","pagePostDateYear":"2015","pagePostDateMonth":"03","pagePostDateDay":"16","pagePostTerms":{"category":["News"],"post_tag":["India Value Fund","Meru","Neeraj Gupta","taxi Operators"],"yst_prominent_words":["cab","cabs","cr","fund advisors","india","india value","india value fund","india value fund advisors","inr","market","meru","meru cabs","mn","round","stake in meru","stake in meru cabs","taxi market","value","value fund","value fund advisors"]},"postCountOnPage":1,"postCountTotal":1,"postID":19414,"postFormat":"standard","google_tag_params":window.google_tag_params};
+	dataLayer.push( dataLayer_content );//</script> <script data-cfasync="false">//
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P3MF7FZ');//</script> <script type="application/ld+json" class="saswp-schema-markup-output">[{"@context":"https:\/\/schema.org","@type":"NewsArticle","@id":"https:\/\/inc42.com\/buzz\/meru-cabs-raises-inr-300-cr-from-india-value-fund-another-100-mn-coming-soon\/#newsarticle","url":"https:\/\/inc42.com\/buzz\/meru-cabs-raises-inr-300-cr-from-india-value-fund-another-100-mn-coming-soon\/","headline":"Meru Cabs Raises INR 300 Cr From India Value Fund, Another $100 Mn Coming Soon","mainEntityOfPage":"https:\/\/inc42.com\/buzz\/meru-cabs-raises-inr-300-cr-from-india-value-fund-another-100-mn-coming-soon\/","datePublished":"2015-03-16T16:05:17+05:30","dateModified":"2015-03-16T16:05:17+05:30","description":"Mumbai-based radio cab service, Meru, has raised $50 Mn (over INR 300 Cr) in a new round of funding led","articleSection":"News","articleBody":"Mumbai-based radio cab service, Meru, has raised $50 Mn (over INR 300 Cr) in a new round of funding led by its existing investor, India Value Fund Advisors (IVF).\u00a0India Value Fund Advisors (IVFA) had 80% stake in Meru Cabs prior to this round.    The company is also expecting to raise another $100 Mn from new investors including PEs and hedge funds by this month end.    Meru Cabs was founded by Neeraj Gupta in 2011 and currently, it is operational in 15 cities with a fleet of over 12000 cabs.    Previously, there were rumors that Uber was planning to buy a majority stake in Meru Cabs in order to boost its market share in India. In one of the biggest consolidation in the Indian cab booking space, just a couple of days back Ola had announced the acquisition of TaxiForSure, for $200 Mn earlier. CarzOnRent\u2019s EasyCabs, Taxipixi etc. are other players dealing in this space.    Related: The Evolution Of The Indian Taxi Market \u2013 Comparing The Biggies    India's unorganized taxi market is estimated at $6-8 Bn with about 600,000 commercial vehicles and combined yearly revenue of INR 11,000 Cr. According to Valoriser Consultants, the sector has been growing at 20% annually.","keywords":"India Value Fund, Meru, Neeraj Gupta, taxi Operators, ","name":"Meru Cabs Raises INR 300 Cr From India Value Fund, Another $100 Mn Coming Soon","thumbnailUrl":"https:\/\/inc42.com\/wp-content\/uploads\/2015\/02\/meru-e1422880990272-150x150.jpg","wordCount":"195","timeRequired":"52","mainEntity":{"@type":"WebPage","@id":"https:\/\/inc42.com\/buzz\/meru-cabs-raises-inr-300-cr-from-india-value-fund-another-100-mn-coming-soon\/"},"author":{"@type":"Person","name":"Akanksha Pahwa","description":"Passion for writing and inclination of being updated in technology brings Akanksha together to be a content writer. Her prior experience in PR firms widens her genres in Media planning, Corporate Communication and Research Analyses.","url":"https:\/\/inc42.com\/author\/akanksha\/","sameAs":["kathy.aks","kathyaks","https:\/\/in.linkedin.com\/pub\/akanksha-pahwa-sareen\/18\/396\/676"],"image":{"@type":"ImageObject","url":"https:\/\/secure.gravatar.com\/avatar\/b96ec3472bf19934d7c7855ee35f2758?s=96&d=mm&r=g","height":96,"width":96}},"publisher":{"@type":"Organization","name":"inc42","logo":{"@type":"ImageObject","url":"https:\/\/cdn.inc42.com\/wp-content\/uploads\/2017\/03\/inc42-amp-logo.png","width":"120","height":"36"}},"image":[{"@type":"ImageObject","@id":"https:\/\/inc42.com\/buzz\/meru-cabs-raises-inr-300-cr-from-india-value-fund-another-100-mn-coming-soon\/#primaryimage","url":"https:\/\/inc42.com\/wp-content\/uploads\/2015\/02\/meru-e1422880990272-1200x750.jpg","width":"1200","height":"750"}]}]</script> <style>.algolia-search-highlight {
+				background-color: #fffbcc;
+				border-radius: 2px;
+				font-style: normal;
+			}</style> <script type="cc38427473376bb0683a9d95-text/javascript">var algolia = {"debug":true,"application_id":"VZW3KNFV02","search_api_key":"0d26d2598038e74fbaa0325128dad9f2","powered_by_enabled":false,"query":"","autocomplete":{"sources":[{"index_id":"searchable_posts","index_name":"wp_searchable_posts","label":"All Articles","admin_name":"All posts","position":0,"max_suggestions":5,"tmpl_suggestion":"autocomplete-post-suggestion","enabled":true},{"index_id":"terms_category","index_name":"wp_terms_category","label":"Categories","admin_name":"Categories","position":1,"max_suggestions":3,"tmpl_suggestion":"autocomplete-term-suggestion","enabled":true}],"input_selector":"input[name='s']:not('.no-autocomplete')"},"indices":{"searchable_posts":{"name":"wp_searchable_posts","id":"searchable_posts","enabled":true,"replicas":[]},"terms_category":{"name":"wp_terms_category","id":"terms_category","enabled":true,"replicas":[]}}};</script> <style type="text/css">/* If html does not have either class, do not show lazy loaded images. */
+				html:not( .jetpack-lazy-images-js-enabled ):not( .js ) .jetpack-lazy-image {
+					display: none;
+				}</style> <script type="cc38427473376bb0683a9d95-text/javascript">document.documentElement.classList.add(
+					'jetpack-lazy-images-js-enabled'
+				);</script> <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js' type="cc38427473376bb0683a9d95-text/javascript"></script> <link rel='manifest' href='https://inc42.com/wp-content/themes/inc42/manifest.json'><link rel="icon" href="https://inc42.com/wp-content/uploads/2016/02/cropped-favicon-150x150.png" sizes="32x32" /><link rel="icon" href="https://inc42.com/wp-content/uploads/2016/02/cropped-favicon-200x200.png" sizes="192x192" /><link rel="apple-touch-icon" href="https://inc42.com/wp-content/uploads/2016/02/cropped-favicon-200x200.png" /><meta name="msapplication-TileImage" content="https://inc42.com/wp-content/uploads/2016/02/cropped-favicon-300x300.png" /> <script type="cc38427473376bb0683a9d95-text/javascript">!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+				n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+				n.push=n;n.loaded=!0;n.version='2.0';n.agent='dvpixelcaffeinewordpress';n.queue=[];t=b.createElement(e);t.async=!0;
+				t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+				document,'script','https://connect.facebook.net/en_US/fbevents.js');
+			
+			var aepc_pixel = {"pixel_id":"862840770475518","user":{},"enable_advanced_events":"yes","fire_delay":"0"},
+				aepc_pixel_args = {},
+				aepc_extend_args = function( args ) {
+					if ( typeof args === 'undefined' ) {
+						args = {};
+					}
+
+					for(var key in aepc_pixel_args)
+						args[key] = aepc_pixel_args[key];
+
+					return args;
+				};
+
+			// Extend args
+			if ( 'yes' === aepc_pixel.enable_advanced_events ) {
+				aepc_pixel_args.language = navigator.language;
+
+				if ( document.referrer.indexOf( document.domain ) < 0 ) {
+					aepc_pixel_args.referrer = document.referrer;
+				}
+			}
+
+						fbq('init', '862840770475518', aepc_pixel.user);
+
+						setTimeout( function() {
+				fbq('track', "PageView", aepc_pixel_args);
+			}, aepc_pixel.fire_delay * 1000 );</script> <noscript><img height="1" width="1" style="display:none"
+ src="https://www.facebook.com/tr?id=862840770475518&ev=PageView&noscript=1"
+ /></noscript> <style type="text/css" id="wp-custom-css">.tribe-bar-disabled #tribe-bar-form .tribe-bar-filters input[type=text]{
+	color:#ffffff;
+}
+
+.single-author-image .jetpack-lazy-image, .single-author-bio .jetpack-lazy-image{display:none}
+
+.card-wrapper .meta-wrapper .avatar.jetpack-lazy-image, .author-header .avatar.jetpack-lazy-image,
+.author-list figure .avatar.jetpack-lazy-image
+{display:none}
+
+body.tag-member-exclusive .ad-container, 
+body.postid-195734 #inc42_fluid_header-0-container,
+#inc42-full-post-195734 .ad-container,
+body.page-template-plus-offering .ad-container,
+body.page-template-plus-library .ad-container,
+body.page-id-166099 .ad-container,
+body.category-indias-edtech-moment .ad-container,
+body.category-indias-electric-future .ad-container,
+body.category-farming-2-0 .ad-container,
+body.category-podcasts .ad-container,
+body.category-blueprint .ad-container,
+body.category-moonshot .ad-container,
+body.category-solving-for-x .ad-container,
+body.category-indias-edtech-moment .ad-container,
+body.category-playbooks .ad-container
+{
+    display: none!important;
+}</style><meta name="theme-color" content="#D81757"></head><body class="post-template-default single single-post postid-19414 single-format-standard wp-custom-logo tribe-no-js tribe-bar-is-disabled tribe-events-filter-view tribe-filters-closed tribe-filters-horizontal browser-chrome os-windows aesop-core aesop-on-inc42 chrome windows group-blog masthead-fixed singular no-sticky-menu"> <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P3MF7FZ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><div id="page" class="hfeed site"> <a class="skip-link screen-reader-text" href="#content">Skip to content</a><div class="header-sticky-wrapper"><header id="masthead" class="site-header" role="banner"><div class="row align-justify align-top"><div class="site-branding shrink column"> <a href="https://inc42.com/" class="custom-logo-link" rel="home"><img src="https://inc42.com/wp-content/uploads/2018/07/inc42-logo.svg" class="custom-logo jetpack-lazy-image" alt="Inc42 Media" data-lazy-src="https://inc42.com/wp-content/uploads/2018/07/inc42-logo.svg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" /></a><h2 class="site-title screen-reader-text"><a href="https://inc42.com/" rel="home">Inc42 Media</a></h2><p class="site-description screen-reader-text">Indian Startups, Entrepreneurship, News, Resources &amp; More</p></div><ul class="nav-follow shrink column"><li class="piano-menu-login menu-item"> <a href="javascript:void(0);" class="subscribe login" title="Login / Register">Login</a></li><li class="piano-menu-login menu-item"> <a href="https://inc42.com/plus/" class="subscribe" title="Become a member" target="_blank">Become a member</a></li><li class="hide-for-small-only"> <a href="https://www.facebook.com/Inc42/?utm_source=inc42-header-social&utm_medium=website&utm_campaign=header-social" class="facebook" title="Follow us on Facebook" target="_blank"><i class="icon-facebook-squared"></i></a></li><li class="hide-for-small-only"> <a href="https://twitter.com/Inc42?utm_source=inc42-header-social&utm_medium=website&utm_campaign=header-social" class="twitter" title="Follow us on Twitter" target="_blank"><i class="icon-twitter"></i></a></li><li class="hide-for-small-only"> <a href="https://in.linkedin.com/company/inc42?utm_source=inc42-header-social&utm_medium=website&utm_campaign=header-social" class="linkedin" title="Follow us on Linked In" target="_blank"><i class="icon-linkedin"></i></a></li><li class="nav-follow-extra hide-for-small-only"><ul><li> <a href="https://t.me/inc42media?utm_source=inc42-header-social&utm_medium=website&utm_campaign=header-social" class="telegram" title="Join us on Telegram" target="_blank"><i class="icon-telegram"></i></a></li><li> <a href="https://www.youtube.com/user/inc42tv/?utm_source=inc42-header-social&utm_medium=website&utm_campaign=header-social" class="youtube" title="Watch our videos on YouTube" target="_blank"><i class="icon-youtube-play"></i></a></li></ul></li><li class="nav-follow-more nav-follow-toggle hide-for-small-only"> <a href="#"><i class="icon-dot-3"></i></a></li><li class="nav-follow-less nav-follow-toggle hide-for-small-only"> <a href="#"><i class="icon-cancel-1"></i></a></li></ul><div class="mobile-header-search hide-for-large"> <a href="#inc-search-popup" id="#inc-search-popup-lity" class="icon-search" data-lity></a></div><div class="site-navigation-container"><nav id="site-navigation" class="inc42-main-navigation large-12 medium-12 small-12 column" role="navigation" aria-label="Primary Menu"><div class="menu-main-menu-container clearfix"> <a href="https://inc42.com" class="custom-logo-link" alt="inc42 mobile logo"> <noscript><img src="https://inc42.com/wp-content/themes/inc42/img/inc42-sticky-logo.svg" class="custom-logo" alt="Inc42 Media"></noscript><img src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E' data-src="https://inc42.com/wp-content/themes/inc42/img/inc42-sticky-logo.svg" class="lazyload custom-logo" alt="Inc42 Media"> </a> <a id="mobile-menu-trigger" href="#inc-menu-popup" class="icon-menu menu-toggle mobile-menu-item float-right notification" data-lity=""></a><div class="mobile-menu-item float-right inc42-dropdown"> <a id="mobile-menu-user" href="javascript:void(0);" class="icon-user-circle-o inc42-dropbtn"></a><div class="inc42-dropdown-content"> <a id="menu-dropdown-login" class="subscribe piano-login-link" href="javascript:void(0);" title="Login">Login</a> <a id="menu-dropdown-member" href="https://inc42.com/plus/" class="subscribe" title="Become a member">Become a member</a> <a id="menu-dropdown-logout" class="piano-logout-link gradient-title hide" href="javascript:void(0);" title="Logout">Logout</a></div></div> <a id="mobile-menu-search" href="#inc-search-popup" class="icon-search mobile-menu-item float-right" data-lity=""></a><ul id="primary-menu" class="primary-menu clearfix menu"><li class="search menu-item hide-for-small-only"><a href="#inc-search-popup" class="icon-search" data-lity></a></li><li id="menu-item-194760" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-194760"><a href="https://inc42.com/buzz/">News</a></li><li id="menu-item-195668" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-195668"><a href="https://inc42.com/features/">Features</a></li><li id="menu-item-195671" class="new menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-195671"><a href="https://inc42.com/plus/">Inc42+</a><ul class="dropdown-menu sub-menu depth-0"><li id="menu-item-197842" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-197842"><a href="https://inc42.com/playbooks/">Playbooks</a></li><li id="menu-item-214129" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-214129"><a href="https://inc42.com/guide/decoding-term-sheets-for-early-stage-startups/">GUIDES</a></li><li id="menu-item-203268" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-203268"><a href="https://inc42.com/tag/member-exclusive">Member Exclusive</a></li><li id="menu-item-211452" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-211452"><a href="https://inc42.com/datalabs/">Datalabs</a></li><li id="menu-item-211786" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-211786"><a href="https://inc42.com/startup-deals/">Startup Deals</a></li></ul></li><li id="menu-item-195670" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-195670"><a href="https://inc42.com/startups/">Startup Stories</a></li><li id="menu-item-204172" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-204172"><a href="https://inc42.com/infocus/">Infocus</a><ul class="dropdown-menu sub-menu depth-0"><li id="menu-item-196371" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-196371"><a href="https://inc42.com/infocus/what-the-financials/">What The Financials</a></li><li id="menu-item-198347" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-198347"><a href="https://inc42.com/infocus/startup-watchlist/">Startup Watchlist</a></li><li id="menu-item-198346" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-198346"><a href="https://inc42.com/infocus/electric-vehicles-this-week/">Electric Vehicles This Week</a></li><li id="menu-item-198349" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-198349"><a href="https://inc42.com/infocus/funding-galore/">Funding Galore</a></li><li id="menu-item-198345" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-198345"><a href="https://inc42.com/infocus/blockchain-this-week/">Blockchain This Week</a></li><li id="menu-item-196368" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-196368"><a href="https://inc42.com/infocus/indian-startup-hubs/">Indian Startup Hubs</a></li><li id="menu-item-196370" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-196370"><a href="https://inc42.com/infocus/upnext/">UpNext</a></li><li id="menu-item-196369" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-196369"><a href="https://inc42.com/infocus/moneyball/">Moneyball</a></li></ul></li><li id="menu-item-195667" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-195667"><a href="https://inc42.com/datalab/">Insights</a></li><li id="menu-item-195675" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-195675"><a href="https://inc42.com/videos/">Videos</a><ul class="dropdown-menu sub-menu depth-0"><li id="menu-item-195676" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-195676"><a href="https://inc42.com/videos-category/inc42-shots/">Inc42 Shots</a></li><li id="menu-item-211392" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-211392"><a href="https://inc42.com/videos-category/ama/">AMA</a></li><li id="menu-item-195679" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-195679"><a href="https://inc42.com/videos-category/startupsvscovid19-ama/">#StartupsVsCovid19 AMA</a></li><li id="menu-item-195677" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-195677"><a href="https://inc42.com/videos-category/webinar/">Webinar</a></li><li id="menu-item-206915" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-206915"><a href="https://inc42.com/videos-category/the-inc42-show/">The Inc42 Show</a></li></ul></li><li id="menu-item-195680" class="last-menu-item menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-195680"><a href="#">More</a><ul class="dropdown-menu sub-menu depth-0"><li id="menu-item-204173" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-204173 dropdown-submenu"><a href="https://inc42.com/startupsvscovid19/">#StartupsVsCovid19</a><ul class="dropdown-menu sub-menu depth-1"><li id="menu-item-204174" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-204174"><a href="https://inc42.com/infocus/covid19-tech-impact/">Covid19 Tech Impact</a></li><li id="menu-item-204175" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-204175"><a href="https://inc42.com/infocus/the-crusaders/">The Crusaders</a></li><li id="menu-item-204176" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-204176"><a href="https://inc42.com/infocus/the-framework/">The Framework</a></li><li id="menu-item-204177" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-204177"><a href="https://inc42.com/infocus/the-reset/">The Reset</a></li></ul></li><li id="menu-item-195669" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-195669"><a href="https://inc42.com/resources/">Resources</a></li><li id="menu-item-195684" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-195684"><a href="https://brandlabs.inc42.com/?itm_source=top-menu&#038;itm_medium=website&#038;itm_campaign=menu">Advertise With Us</a></li><li id="menu-item-195685" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-195685"><a href="https://inc42.com/startup-submission/?itm_source=top-menu&#038;itm_medium=website&#038;itm_campaign=menu">Submit Your Startup</a></li><li id="menu-item-195687" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-195687"><a href="https://pages.inc42.com/submit-your-guest-post/?itm_source=top-menu&#038;itm_medium=website&#038;itm_campaign=menu">Submit Your Guest Post</a></li><li id="menu-item-195688" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195688"><a href="https://inc42.com/about/">About Us</a></li><li id="menu-item-195689" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195689"><a href="https://inc42.com/contact/">Contact Us</a></li><li id="menu-item-195690" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-195690 dropdown-submenu"><a href="#">Legal</a><ul class="dropdown-menu sub-menu depth-1"><li id="menu-item-195691" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195691"><a href="https://inc42.com/disclaimer/">Disclaimer</a></li><li id="menu-item-195692" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195692"><a href="https://inc42.com/privacy-policy/">Privacy Policy</a></li><li id="menu-item-195693" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195693"><a href="https://inc42.com/refund-policy/">Refund Policy</a></li></ul></li></ul></li></ul></div></nav></div></div></header><div class="menu-bottom"></div></div><div id="notify_block_wrapper"><div class="overlay"></div><div class="alert"><div> Your browser is currently blocking notification. <br> Please follow this instruction to subscribe: <noscript><img src='https://inc42.com/wp-content/themes/inc42/img/notify_block.png'/></noscript><img class="lazyload" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E' data-src='https://inc42.com/wp-content/themes/inc42/img/notify_block.png' /></div> <span class='close'>X</span></div></div><div id="notify_enabled_wrapper"><div class="overlay"></div><div class="alert"><div> Notifications are already enabled.</div> <span class='close'>X</span></div></div><div id="content" class="site-content"><div id="single-sticky-header"><div class="row hide-for-small-only"><div class="site-branding shrink column large-2 medium-2 small-3 expanded "> <a href="https://inc42.com" class="custom-logo-link" rel="home" itemprop="url"> <noscript><img class="hide-for-small-only" src="https://inc42.com/wp-content/themes/inc42/img/inc42-sticky-logo.svg" class="custom-logo" alt="Inc42 Media"></noscript><img class="lazyload hide-for-small-only" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E' data-src="https://inc42.com/wp-content/themes/inc42/img/inc42-sticky-logo.svg" class="lazyload custom-logo" alt="Inc42 Media"> <noscript><img class="show-for-small-only" src="https://inc42.com/wp-content/themes/inc42/img/inc42-sticky-logo-small.svg" class="custom-logo" alt="Inc42 Media"></noscript><img class="lazyload show-for-small-only" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E' data-src="https://inc42.com/wp-content/themes/inc42/img/inc42-sticky-logo-small.svg" class="lazyload custom-logo" alt="Inc42 Media"> </a></div><div class="column large-6 medium-6 small-9"><div class="sticky-header-title-section "><h2>Meru Cabs Raises INR 300 Cr From India Value Fund, Another $100 Mn Coming Soon</h2></div></div><div class="share-meta large-4 medium-4 small-12 columns hide-for-small-only"><div class="share-meta-label">Share story</div><div class="share-icons"><aside class="mashsb-container mashsb-main "><div class="mashsb-box"><div class="mashsb-buttons"><a class="mashicon-facebook mash-small mashsb-noshadow external" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Finc42.com%2Fbuzz%2Fmeru-cabs-raises-inr-300-cr-from-india-value-fund-another-100-mn-coming-soon%2F%3Futm_source%3Dsharebuttons%26utm_medium%3Dfacebook%26utm_campaign%3Dmashshare" target="_top" rel="nofollow"><span class="icon"></span><span class="text">facebook</span></a><a class="mashicon-twitter mash-small mashsb-noshadow" href="https://twitter.com/intent/tweet?text=Meru%20Cabs%20Raises%20INR%20300%20Cr%20From%20India%20Value%20Fund%2C%20Another%20%24100%20Mn%20Coming%20Soon&url=https://inc42.com/buzz/meru-cabs-raises-inr-300-cr-from-india-value-fund-another-100-mn-coming-soon/&via=inc42" target="_top" rel="nofollow"><span class="icon"></span><span class="text">twitter</span></a><a class="mashicon-linkedin mash-small mashsb-noshadow external" href="https://www.linkedin.com/shareArticle?trk=Meru+Cabs+Raises+INR+300+Cr+From+India+Value+Fund%2C+Another+%24100+Mn+Coming+Soon&amp;url=https%3A%2F%2Finc42.com%2Fbuzz%2Fmeru-cabs-raises-inr-300-cr-from-india-value-fund-another-100-mn-coming-soon%2F%3Futm_source%3Dsharebuttons%26utm_medium%3Dmashshare%26utm_campaign%3Dmashshare" target="_top" rel="nofollow"><span class="icon"></span><span class="text">linkedin</span></a><div class="onoffswitch2 mash-small mashsb-noshadow" style="display:none;"></div></div></div><div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside></div></div></div><div class="progress-bar hide-for-small-only"></div></div><div class="inc42-single-post-row"><div id="inc42-full-post-19414" class="inc42-full-post-container inc42-full-post-normal" data-sponsored="false" data-isfeatured="" data-url="https://inc42.com/buzz/meru-cabs-raises-inr-300-cr-from-india-value-fund-another-100-mn-coming-soon/" data-title="Meru Cabs Raises INR 300 Cr From India Value Fund, Another $100 Mn Coming Soon" data-lock="5"><div class="hidden hidden-post-title "><h2>Meru Cabs Raises INR 300 Cr From India Value Fund, Another $100 Mn Coming Soon</h2></div><div class="row"><div id="primary-19414" class="inc42-primary single-with-sidebar large-8 medium-12 small-12 column inc42-post-19414  clearfix" data-post-id="19414"><main id="main" class="site-main " role="main"><article id="post-19414" class="post-19414 post type-post status-publish format-standard has-post-thumbnail hentry category-buzz tag-india-value-fund tag-meru tag-neeraj-gupta tag-taxi-operators"><div class="single-taxonomy-wrap"><div class="taxonomy-wrap"> <span class="post-category"><a href="https://inc42.com/buzz/" style="color: #d6322e;">News</a></span></div></div><header class="entry-header"><h1 class="entry-title">Meru Cabs Raises INR 300 Cr From India Value Fund, Another $100 Mn Coming Soon</h1></header><div class="meta-wrapper single-meta-wrapper single-meta-wrapper-top entry-meta clearfix"><div class="row meta"><div class="post-meta large-7 medium-6 small-12 columns"> <a class="single-author-image author-gravator-box" href="https://inc42.com/author/akanksha/" title="akanksha"> <noscript><img alt='Akanksha Pahwa' src='https://i2.wp.com/cdn.inc42.com/wp-content/uploads/2015/01/akanksha-pahwa_avatar_1421223207-60x60.jpg' class='avatar avatar-60 photo' height='60' width='60' /></noscript><img alt='Akanksha Pahwa' src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2060%2060%22%3E%3C/svg%3E' data-src='https://i2.wp.com/cdn.inc42.com/wp-content/uploads/2015/01/akanksha-pahwa_avatar_1421223207-60x60.jpg' class='lazyload avatar avatar-60 photo' height='60' width='60' /> </a><div class="author-name large " rel="author"><a href="https://inc42.com/author/akanksha/" title="Posts by Akanksha Pahwa" rel="author">Akanksha Pahwa</a></div><div class="author-role large" rel="author" style="color:">Inc42 Staff</div><div class="date"><span>16 Mar'15</span> <i class="icon-dot"></i> <span class="readtime">1 min read</span></div></div><div class="share-meta large-5 medium-6 small-12 columns hide-for-small-only"><div class="share-meta-label">Share story</div><div class="share-icons"><aside class="mashsb-container mashsb-main "><div class="mashsb-box"><div class="mashsb-buttons"><a class="mashicon-whatsapp mash-small mashsb-noshadow external" href="https://api.whatsapp.com/send?text=Meru%20Cabs%20Raises%20INR%20300%20Cr%20From%20India%20Value%20Fund%2C%20Another%20%24100%20Mn%20Coming%20Soon%20https%3A%2F%2Finc42.com%2Fbuzz%2Fmeru-cabs-raises-inr-300-cr-from-india-value-fund-another-100-mn-coming-soon%2F%3Futm_source%3Dsharebuttons%26utm_medium%3Dmashshare%26utm_campaign%3Dmashshare" target="_top" rel="nofollow"><span class="icon"></span><span class="text">Whatsapp</span></a><a class="mashicon-facebook mash-small mashsb-noshadow external" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Finc42.com%2Fbuzz%2Fmeru-cabs-raises-inr-300-cr-from-india-value-fund-another-100-mn-coming-soon%2F%3Futm_source%3Dsharebuttons%26utm_medium%3Dfacebook%26utm_campaign%3Dmashshare" target="_top" rel="nofollow"><span class="icon"></span><span class="text">Facebook</span></a><a class="mashicon-twitter mash-small mashsb-noshadow" href="https://twitter.com/intent/tweet?text=Meru%20Cabs%20Raises%20INR%20300%20Cr%20From%20India%20Value%20Fund%2C%20Another%20%24100%20Mn%20Coming%20Soon&url=https://inc42.com/buzz/meru-cabs-raises-inr-300-cr-from-india-value-fund-another-100-mn-coming-soon/&via=inc42" target="_top" rel="nofollow"><span class="icon"></span><span class="text">Twitter</span></a><a class="mashicon-linkedin  mash-small mashsb-noshadow external" href="https://www.linkedin.com/shareArticle?trk=Meru+Cabs+Raises+INR+300+Cr+From+India+Value+Fund%2C+Another+%24100+Mn+Coming+Soon&amp;url=https%3A%2F%2Finc42.com%2Fbuzz%2Fmeru-cabs-raises-inr-300-cr-from-india-value-fund-another-100-mn-coming-soon%2F%3Futm_source%3Dsharebuttons%26utm_medium%3Dmashshare%26utm_campaign%3Dmashshare" target="_top" rel="nofollow"><span class="icon"></span><span class="text">Linkedin </span></a><div class="onoffswitch2 mash-small mashsb-noshadow" style="display:none;"></div></div></div><div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside></div><div class="header-share-box hide"><aside class="mashsb-container mashsb-main "><div class="mashsb-box"><div class="mashsb-buttons"><a class="mashicon-facebook mash-small mashsb-noshadow external" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Finc42.com%2Fbuzz%2Fmeru-cabs-raises-inr-300-cr-from-india-value-fund-another-100-mn-coming-soon%2F%3Futm_source%3Dsharebuttons%26utm_medium%3Dfacebook%26utm_campaign%3Dmashshare" target="_top" rel="nofollow"><span class="icon"></span><span class="text">facebook</span></a><a class="mashicon-twitter mash-small mashsb-noshadow" href="https://twitter.com/intent/tweet?text=Meru%20Cabs%20Raises%20INR%20300%20Cr%20From%20India%20Value%20Fund%2C%20Another%20%24100%20Mn%20Coming%20Soon&url=https://inc42.com/buzz/meru-cabs-raises-inr-300-cr-from-india-value-fund-another-100-mn-coming-soon/&via=inc42" target="_top" rel="nofollow"><span class="icon"></span><span class="text">twitter</span></a><a class="mashicon-linkedin mash-small mashsb-noshadow external" href="https://www.linkedin.com/shareArticle?trk=Meru+Cabs+Raises+INR+300+Cr+From+India+Value+Fund%2C+Another+%24100+Mn+Coming+Soon&amp;url=https%3A%2F%2Finc42.com%2Fbuzz%2Fmeru-cabs-raises-inr-300-cr-from-india-value-fund-another-100-mn-coming-soon%2F%3Futm_source%3Dsharebuttons%26utm_medium%3Dmashshare%26utm_campaign%3Dmashshare" target="_top" rel="nofollow"><span class="icon"></span><span class="text">linkedin</span></a><div class="onoffswitch2 mash-small mashsb-noshadow" style="display:none;"></div></div></div><div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside></div></div></div></div><div class="entry-content clearfix"><div class="single-featured-thumb"><div class="single-featured-thumb-container"> <img width="680" height="425" src="https://inc42.com/wp-content/uploads/2015/02/meru-e1422880990272.jpg" class="attachment-single_featured_4:3 size-single_featured_4:3 wp-post-image jetpack-lazy-image" alt="" data-lazy-srcset="https://inc42.com/wp-content/uploads/2015/02/meru-e1422880990272.jpg 700w, https://inc42.com/wp-content/uploads/2015/02/meru-e1422880990272-300x188.jpg 300w, https://inc42.com/wp-content/uploads/2015/02/meru-e1422880990272-400x250.jpg 400w, https://inc42.com/wp-content/uploads/2015/02/meru-e1422880990272-210x131.jpg 210w, https://inc42.com/wp-content/uploads/2015/02/meru-e1422880990272-690x432.jpg 690w" data-lazy-sizes="(max-width: 680px) 100vw, 680px" data-lazy-src="https://inc42.com/wp-content/uploads/2015/02/meru-e1422880990272.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" /></div></div><p>Mumbai-based radio cab service, <a href="https://inc42.com/tag/meru/">Meru</a>, has raised <b>$50 Mn (over INR 300 Cr)</b> in a new round of funding led by its existing investor, India Value Fund Advisors (IVF). India Value Fund Advisors (IVFA) had 80% stake in Meru Cabs prior to this round.</p><p>The company is also expecting to raise <b>another $100 Mn</b> from new investors including PEs and hedge funds by this month end.</p><p>Meru Cabs was founded by <b>Neeraj Gupta in 2011</b> and currently, it is operational in 15 cities with a fleet of over 12000 cabs.</p><p>Previously, there were rumors that Uber was<a href="https://inc42.com/buzz/uber-eyes-acquisition-of-homegrown-radio-taxi-service-meru-cabs/?hvid=6j47co"> planning to buy a majority stake</a> in Meru Cabs in order to boost its market share in India. In one of the biggest consolidation in the Indian cab booking space, just a couple of days back Ola had announced<a href="https://inc42.com/buzz/breaking-ola-finally-acquires-taxiforsure-for-200-mn/"> the acquisition</a> of TaxiForSure, for $200 Mn earlier. CarzOnRent’s EasyCabs, Taxipixi etc. are other players dealing in this space.</p><div class='code-block code-block-20' style='margin: 8px 0; clear: both;'><div id="inc42_article_top-0" class="text-center ad-container inc42-top ad-container-in-content ad-block"></div></div><p><b>Related: </b><a href="https://inc42.com/features/evolution-indian-taxi-market-comparison/">The Evolution Of The Indian Taxi Market – Comparing The Biggies</a></p><div class='code-block code-block-96' style='margin: 8px 0; clear: both;'><style>.entry-footer-banner { margin-bottom: 1.5625rem; }
+.entry-footer-banner iframe { width: 100%; }</style><div class="entry-footer-banner"></div></div><p>India&#8217;s unorganized taxi market is estimated at<b> $6-8 Bn with about 600,000 commercial vehicles</b> and combined yearly revenue of <b>INR 11,000 Cr.</b> According to Valoriser Consultants, the sector has been growing at 20% annually.</p><div class='code-block code-block-43' style='margin: 8px 0; clear: both;'><style>#se-sub {
+  position: relative;border: 1px solid #EEE;border-radius: 0.5rem;box-shadow: 0 2px 12px rgba(0,0,0,0.1);margin: 2em 0;padding: 16px 24px;background-color:#000000;display:flex;max-width:100% !important;text-align: left;
+}
+#se-sub-text {
+  text-decoration:none;font-weight: 600;color: #ffffff;font-size: 1.1rem;margin-bottom:5px;font-family:circularstd,sans-serif;
+}
+#se-sub-button {
+  background-image: -webkit-linear-gradient(45deg, #ed3833 0%, #ed3833 100%);background-image: linear-gradient(45deg, #ed3833 0%, #ed3833 100%);border-radius: 30px;color: #FFF!important;cursor: pointer;display: inline-block;font-size: 13px;font-weight: 700;line-height: 40px;padding: 0 25px;text-decoration:none !important;font-family:'Helvetica Neue',Arial,sans-serif;width:100%;max-width:200px;text-align:center;
+}
+@media only screen and ( max-width: 768px ) {
+  #se-sub > div {
+    text-align: center;
+    justify-content: center;
+  }
+  #se-sub-button {
+    margin-top: 16px;
+  }
+  #se-sub-text {
+    font-size: 1rem;
+  }
+  .se-title-text {
+    line-height: 1;
+    margin-bottom: 12px !important;
+    display: inline-block;
+  }
+}</style><div id="se-sub" class="row"><div class="small-12 large-8" style="display:inline-block;align-items:center;"> <a id="se-sub-text" class="se-title-text" href="https://inc42.com/startup-essentials/?itm_medium=website&itm_source=ad-inserter-pro&itm_campaign=plus-startup-essentials" target="_blank" rel="noopener" style="
+ color: #ed3833;
+">Deal Alert!</a><br><a id="se-sub-text" href="https://inc42.com/startup-essentials/?itm_medium=website&itm_source=ad-inserter-pro&itm_campaign=plus-startup-essentials" target="_blank" rel="noopener">What if we say that you can save upto $150K on your cloud hosting, marketing and other software spends? </a></div><div class="small-12 large-4 text-center" style="display:flex;align-items:center;justify-content:center;margin:0;"> <a id="se-sub-button" class="button gtm-in-article-block" href="https://inc42.com/startup-essentials/?itm_medium=website&itm_source=ad-inserter-pro&itm_campaign=plus-startup-essentials" target="_blank">Show Me How!</a></div></div></div></div><footer class="entry-footer"><div class="footer-meta-wrapper clearfix"><div class="row meta"><div class="post-meta clearfix large-12 medium-12 small-12 columns"> <a href="https://inc42.com/tag/india-value-fund/" rel="tag">India Value Fund</a> <a href="https://inc42.com/tag/meru/" rel="tag">Meru</a> <a href="https://inc42.com/tag/neeraj-gupta/" rel="tag">Neeraj Gupta</a> <a href="https://inc42.com/tag/taxi-operators/" rel="tag">taxi Operators</a> <span class="post-meta-tag-trigger"></span></div></div></div><div class="disclaimer-block"><em>Note: We at Inc42 take our ethics very seriously. More information about it can be found <a href="https://inc42.com/disclaimer/" target="blank">here.</a></em></div></br></footer><div class="footer-share-box-mobile hide"><aside class="mashsb-container mashsb-main "><div class="mashsb-box"><div class="mashsb-buttons"><a class="mashicon-facebook mash-small mashsb-noshadow external" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Finc42.com%2Fbuzz%2Fmeru-cabs-raises-inr-300-cr-from-india-value-fund-another-100-mn-coming-soon%2F%3Futm_source%3Dsharebuttons%26utm_medium%3Dfacebook%26utm_campaign%3Dmashshare" target="_top" rel="nofollow"><span class="icon"></span><span class="text">facebook</span></a><a class="mashicon-twitter mash-small mashsb-noshadow" href="https://twitter.com/intent/tweet?text=Meru%20Cabs%20Raises%20INR%20300%20Cr%20From%20India%20Value%20Fund%2C%20Another%20%24100%20Mn%20Coming%20Soon&url=https://inc42.com/buzz/meru-cabs-raises-inr-300-cr-from-india-value-fund-another-100-mn-coming-soon/&via=inc42" target="_top" rel="nofollow"><span class="icon"></span><span class="text">twitter</span></a><a class="mashicon-whatsapp mash-small mashsb-noshadow external" href="https://api.whatsapp.com/send?text=Meru%20Cabs%20Raises%20INR%20300%20Cr%20From%20India%20Value%20Fund%2C%20Another%20%24100%20Mn%20Coming%20Soon%20https%3A%2F%2Finc42.com%2Fbuzz%2Fmeru-cabs-raises-inr-300-cr-from-india-value-fund-another-100-mn-coming-soon%2F%3Futm_source%3Dsharebuttons%26utm_medium%3Dmashshare%26utm_campaign%3Dmashshare" target="_top" rel="nofollow"><span class="icon"></span><span class="text">whatsapp</span></a><div class="onoffswitch2 mash-small mashsb-noshadow" style="display:none;"></div></div></div><div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside></div></article><div class="single-author-bio single-post-box"><h3>Author</h3><div class="row"><div class="large-12 medium-12 small-12 columns"><a class="author-gravator-box" href="https://inc42.com/author/akanksha/" title="Akanksha Pahwa"><noscript><img alt='Akanksha Pahwa' src='https://i2.wp.com/cdn.inc42.com/wp-content/uploads/2015/01/akanksha-pahwa_avatar_1421223207-60x60.jpg' class='avatar avatar-60 photo' height='60' width='60' /></noscript><img alt='Akanksha Pahwa' src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2060%2060%22%3E%3C/svg%3E' data-src='https://i2.wp.com/cdn.inc42.com/wp-content/uploads/2015/01/akanksha-pahwa_avatar_1421223207-60x60.jpg' class='lazyload avatar avatar-60 photo' height='60' width='60' /></a><h4 class="author-name "><a href="https://inc42.com/author/akanksha/" title="Posts by Akanksha Pahwa" rel="author">Akanksha Pahwa</a></h4><div class="author-role" style="color:">Inc42 Staff</div></div><div class="author-bio-description large-12 medium-12 small-12  columns"><p class="description">Passion for writing and inclination of being updated in technology brings Akanksha together to be a content writer. Her prior experience in PR firms widens her genres in Media planning, Corporate Communication and Research Analyses.</p></div></div></div></main></div><aside id="secondary" class="inc42-secondary widget-area large-4 medium-12 small-12 cell column  clearfix hide-for-small-only hide-for-medium-only" role="complementary"><div id="inc42_most_read_widget-6" class="widget widget-sidebar inc42_most_read_widget"><h3 class="widget-title">Popular On Inc42</h3><ul class="home-editor-pick-list"><li data-card-id="219165" data-card-image="https://inc42.com/wp-content/uploads/2019/05/jackma-feature-1-490x360.jpg"><div class="list-content"><div class="taxonomy-wrap"> <span class="post-category"><a href="https://inc42.com/buzz/" style="color: #d6322e;">News</a></span></div><h3> <a href="https://inc42.com/buzz/alibabas-jack-ma-summoned-as-india-ramps-up-fake-news/?itm_source=inc42-popular-read&#038;itm_medium=website&#038;itm_campaign=popular-read-widget"> Former Alibaba Employee Alleges Wrongful Termination, Censorship, Fake... </a></h3><div class="meta"> <span class="author" rel="author"> <a href="https://inc42.com/author/teaminc42/" title="By Team Inc42" rel="author">By Team Inc42</a> </span> <i class="icon-dot"></i> <span class="date">26 Jul'20</span> <i class="icon-dot"></i> <span class="readtime">4 min read</span></div></div></li><li data-card-id="219056" data-card-image="https://inc42.com/wp-content/uploads/2020/07/altbalaji-feature-490x360.jpg"><div class="list-content"><div class="taxonomy-wrap"> <span class="post-category"><a href="https://inc42.com/features/" style="color: #d6322e;">Features</a></span></div><h3> <a href="https://inc42.com/features/altbalaji-doubles-subscription-revenue-in-fy2020-as-bold-content-strategy-pays-off/?itm_source=inc42-popular-read&#038;itm_medium=website&#038;itm_campaign=popular-read-widget"> ALTBalaji Doubles Subscription Revenue In FY2020 As Bold Content Strat... </a></h3><div class="meta"> <span class="author" rel="author"> <a href="https://inc42.com/author/bhumika-khatri/" title="By Bhumika Khatri" rel="author">By Bhumika K.</a> </span> <i class="icon-dot"></i> <span class="date">25 Jul'20</span> <i class="icon-dot"></i> <span class="readtime">4 min read</span></div></div></li><li data-card-id="219113" data-card-image="https://inc42.com/wp-content/uploads/2020/07/Shaukat-Shamim-Youplus-490x360.jpg"><div class="list-content"><div class="taxonomy-wrap"> <span class="post-category"><a href="https://inc42.com/buzz/" style="color: #d6322e;">News</a></span></div><h3> <a href="https://inc42.com/buzz/founder-in-valley-accused-of-11-mn-funding-fraud-for-faking-revenues-ai-tech/?itm_source=inc42-popular-read&#038;itm_medium=website&#038;itm_campaign=popular-read-widget"> YouPlus Founder Accused Of $11 Mn Fraud For Faking Revenues And AI Tec... </a></h3><div class="meta"> <span class="author" rel="author"> <a href="https://inc42.com/author/teaminc42/" title="By Team Inc42" rel="author">By Team Inc42</a> </span> <i class="icon-dot"></i> <span class="date">26 Jul'20</span> <i class="icon-dot"></i> <span class="readtime">7 min read</span></div></div></li><li data-card-id="218801" data-card-image="https://inc42.com/wp-content/uploads/2020/07/2-2-490x360.jpg"><div class="list-content"><div class="taxonomy-wrap"> <span class="post-category"><a href="https://inc42.com/datalab/" style="color: #d6322e;">DataLabs</a></span></div><h3> <a href="https://inc42.com/datalab/whats-driving-consumers-to-the-healthtech-market-in-india/?itm_source=inc42-popular-read&#038;itm_medium=website&#038;itm_campaign=popular-read-widget"> Price Vs Customer Service Vs App: What’s Driving Indian Consumers To O... </a></h3><div class="meta"> <span class="author" rel="author"> <a href="https://inc42.com/author/sandeep/" title="By Sandeep Singh" rel="author">By Sandeep S.</a> </span> <i class="icon-dot"></i> <span class="date">23 Jul'20</span> <i class="icon-dot"></i> <span class="readtime">8 min read</span></div></div></li><li data-card-id="219142" data-card-image="https://inc42.com/wp-content/uploads/2020/07/Untitled-design-2020-07-26T094758.142-490x360.jpg"><div class="list-content"><div class="taxonomy-wrap"> <span class="post-category"><a href="https://inc42.com/resources/" style="color: #f9735c;">Resources</a></span></div><h3> <a href="https://inc42.com/resources/artificial-intelligence-a-potent-weapon-against-covid-19/?itm_source=inc42-popular-read&#038;itm_medium=website&#038;itm_campaign=popular-read-widget"> Artificial Intelligence: A Potent Weapon Against Covid-19 </a></h3><div class="meta"> <span class="author" rel="author"> <a href="https://inc42.com/author/kunal-kislay/" title="By Kunal Kislay" rel="author">By Kunal K.</a> </span> <i class="icon-dot"></i> <span class="date">26 Jul'20</span> <i class="icon-dot"></i> <span class="readtime">5 min read</span></div></div></li></ul></div></aside> <span class="footer-next-post-mobile hide">https://inc42.com/buzz/bingo-rbi-mulls-2-factor-authentication-for-transactions-below-inr-2000/</span></div><div style="display: none;"> <input type="hidden" name="datalayer-content" value='{"visitorLoginState":"logged-out","visitorType":"visitor-logged-out","visitorEmail":"","visitorUsername":"","pageTitle":"Meru Cabs Raises INR 300 Cr From India Value Fund, Another $100 Mn Coming Soon - Inc42 Media","pagePostType":"post","pagePostType2":"single-post","pageCategory":["buzz"],"pageAttributes":["india-value-fund","meru","neeraj-gupta","taxi-operators"],"pagePostAuthorID":102,"pagePostAuthor":"Akanksha Pahwa","pagePostDate":"March 16, 2015","pagePostDateYear":"2015","pagePostDateMonth":"03","pagePostDateDay":"16","pagePostTerms":{"category":["News"],"post_tag":["India Value Fund","Meru","Neeraj Gupta","taxi Operators"],"yst_prominent_words":["cab","cabs","cr","fund advisors","india","india value","india value fund","india value fund advisors","inr","market","meru","meru cabs","mn","round","stake in meru","stake in meru cabs","taxi market","value","value fund","value fund advisors"]},"postCountOnPage":1,"postCountTotal":1,"postID":19414,"postFormat":"standard"}'></div></div><div class="inc42-is-infinite-scroll" style="display: none;">https://inc42.com/buzz/news-startup-thebetterindia-raises-inr-1-cr-from-intellecap-impact-investment/</div><div class='code-block code-block-28' style='margin: 8px 0; clear: both;'><div id="inc42_fluid_infinite_scroll-0" class="inc42-fluid-infinite-scroll aligncenter ad-container text-center"></div></div> <span id="article_seperator-0"></span></div><div class="row"><div class="large-12 medium-12 small-12 column"><div class="loading-article"><div class="loading-title">Loading Next…</div><div class="small-loader"></div><div class="large-loader"></div><div class="large-loader"></div></div></div></div> <span id="inc-back-to-top" class="icon-up-bold" title="Back to Top"></span><div class="featured-stories-wrapper clearfix"><div class="row"><div class="large-12 medium-12 small-12 column"><div class="title-with-more clearfix"><h2 class="entry-title">Featured Stories</h2></div></div></div><div class="category-featured-slider"><div class="card-wrapper common-card" data-card-id="215520"><figure class="card-image"> <a href="https://inc42.com/datalab/telemedicine-preventive-healthcare-to-shape-indias-healthtech-landscape-in-post-covid-world/?itm_source=inc42-category-featured-slider&#038;itm_medium=website&#038;itm_campaign=category-featured-slider" title="Telemedicine, Preventive Healthcare To Shape India’s Healthtech Landscape In Post-Covid World"> <img width="1360" height="1020" src="https://inc42.com/wp-content/uploads/2020/07/REPORT-FEATURE-v2.jpg" class="attachment- size- wp-post-image jetpack-lazy-image" alt="Telemedicine, Preventive Healthcare To Shape India’s Healthtech Landscape In Post-Covid World" data-lazy-srcset="https://inc42.com/wp-content/uploads/2020/07/REPORT-FEATURE-v2.jpg 1360w, https://inc42.com/wp-content/uploads/2020/07/REPORT-FEATURE-v2-300x225.jpg 300w, https://inc42.com/wp-content/uploads/2020/07/REPORT-FEATURE-v2-1024x768.jpg 1024w, https://inc42.com/wp-content/uploads/2020/07/REPORT-FEATURE-v2-1044x783.jpg 1044w, https://inc42.com/wp-content/uploads/2020/07/REPORT-FEATURE-v2-632x474.jpg 632w, https://inc42.com/wp-content/uploads/2020/07/REPORT-FEATURE-v2-536x402.jpg 536w, https://inc42.com/wp-content/uploads/2020/07/REPORT-FEATURE-v2-1250x938.jpg 1250w, https://inc42.com/wp-content/uploads/2020/07/REPORT-FEATURE-v2-400x300.jpg 400w, https://inc42.com/wp-content/uploads/2020/07/REPORT-FEATURE-v2-210x158.jpg 210w, https://inc42.com/wp-content/uploads/2020/07/REPORT-FEATURE-v2-690x518.jpg 690w, https://inc42.com/wp-content/uploads/2020/07/REPORT-FEATURE-v2-490x367.jpg 490w, https://inc42.com/wp-content/uploads/2020/07/REPORT-FEATURE-v2-120x90.jpg 120w, https://inc42.com/wp-content/uploads/2020/07/REPORT-FEATURE-v2-680x510.jpg 680w, https://inc42.com/wp-content/uploads/2020/07/REPORT-FEATURE-v2-1152x864.jpg 1152w" data-lazy-sizes="(max-width: 1360px) 100vw, 1360px" data-lazy-src="https://inc42.com/wp-content/uploads/2020/07/REPORT-FEATURE-v2.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" /> </a></figure><div class="card-content"><div class="not-tagged"><div class="show"><div class="taxonomy-wrap"> <span class="post-category"><a href="https://inc42.com/datalab/" style="color: #d6322e;">DataLabs</a></span></div></div></div><h2 class="entry-title"> <a href="https://inc42.com/datalab/telemedicine-preventive-healthcare-to-shape-indias-healthtech-landscape-in-post-covid-world/?itm_source=inc42-category-featured-slider&#038;itm_medium=website&#038;itm_campaign=category-featured-slider" title="Telemedicine, Preventive Healthcare To Shape India’s Healthtech Landscape In Post-Covid World"> Telemedicine, Preventive Healthcare To Shape India’s Healthtech Landscape In Pos... </a></h2><div class="meta-wrapper entry-meta clearfix "><div class="meta left sponsor-meta-null"> <span class="author" rel="author"> <a href="https://inc42.com/author/teaminc42/" title="By Team Inc42" rel="author">By Team Inc42</a> </span></div><div class="meta right sponsor-meta-null"> <span class="date">01 Jul'20</span> <i class="icon-dot"></i> <span class="readtime">6 min read</span></div></div></div></div><div class="card-wrapper common-card" data-card-id="216079"><figure class="card-image"> <a href="https://inc42.com/datalab/indian-startup-economy-in-turmoil-29-funding-decline-in-first-half-of-2020/?itm_source=inc42-category-featured-slider&#038;itm_medium=website&#038;itm_campaign=category-featured-slider" title="$5.4 Bn Funding, 389 Deals: Indian Startup Funding Dropped By 29% In The First Half Of 2020"> <img width="1361" height="1020" src="https://inc42.com/wp-content/uploads/2020/07/Artboard-1-copy-100-3.jpg" class="attachment- size- wp-post-image jetpack-lazy-image" alt="$5.4 Bn Funding, 389 Deals: Indian Startup Funding Dropped By 29% In The First Half Of 2020" data-lazy-srcset="https://inc42.com/wp-content/uploads/2020/07/Artboard-1-copy-100-3.jpg 1361w, https://inc42.com/wp-content/uploads/2020/07/Artboard-1-copy-100-3-300x225.jpg 300w, https://inc42.com/wp-content/uploads/2020/07/Artboard-1-copy-100-3-1024x767.jpg 1024w, https://inc42.com/wp-content/uploads/2020/07/Artboard-1-copy-100-3-1044x783.jpg 1044w, https://inc42.com/wp-content/uploads/2020/07/Artboard-1-copy-100-3-632x474.jpg 632w, https://inc42.com/wp-content/uploads/2020/07/Artboard-1-copy-100-3-536x402.jpg 536w, https://inc42.com/wp-content/uploads/2020/07/Artboard-1-copy-100-3-1250x937.jpg 1250w, https://inc42.com/wp-content/uploads/2020/07/Artboard-1-copy-100-3-400x300.jpg 400w, https://inc42.com/wp-content/uploads/2020/07/Artboard-1-copy-100-3-210x157.jpg 210w, https://inc42.com/wp-content/uploads/2020/07/Artboard-1-copy-100-3-690x517.jpg 690w, https://inc42.com/wp-content/uploads/2020/07/Artboard-1-copy-100-3-490x367.jpg 490w, https://inc42.com/wp-content/uploads/2020/07/Artboard-1-copy-100-3-120x90.jpg 120w, https://inc42.com/wp-content/uploads/2020/07/Artboard-1-copy-100-3-680x510.jpg 680w, https://inc42.com/wp-content/uploads/2020/07/Artboard-1-copy-100-3-1152x864.jpg 1152w" data-lazy-sizes="(max-width: 1361px) 100vw, 1361px" data-lazy-src="https://inc42.com/wp-content/uploads/2020/07/Artboard-1-copy-100-3.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" /> </a></figure><div class="card-content"><div class="tagged"><div class="hide"><div class="taxonomy-wrap"> <span class="post-category"><a href="https://inc42.com/datalab/" style="color: #d6322e;">DataLabs</a></span></div></div> <a class="sponsor-tag-v2" href="https://inc42.com/tag/member-exclusive/" title="Member Exclusive"><div class="tooltip"><p>Exclusive industry analysis, provocative insights, &#038; deep dives for Inc42+ Members.</p></div> <span> Member Exclusive <span class="info" target="_blank" title="Member Exclusive"> <i class="demo-icon icon-info-circled-alt"></i> </span> </span> </a></div><h2 class="entry-title"> <a href="https://inc42.com/datalab/indian-startup-economy-in-turmoil-29-funding-decline-in-first-half-of-2020/?itm_source=inc42-category-featured-slider&#038;itm_medium=website&#038;itm_campaign=category-featured-slider" title="$5.4 Bn Funding, 389 Deals: Indian Startup Funding Dropped By 29% In The First Half Of 2020"> $5.4 Bn Funding, 389 Deals: Indian Startup Funding Dropped By 29% In The First H... </a></h2><div class="meta-wrapper entry-meta clearfix sponsored-meta"><div class="meta left sponsor-meta-null"> <span class="author" rel="author"> <a href="https://inc42.com/author/sandeep/" title="By Sandeep S." rel="author">By Sandeep S.</a> </span></div><div class="meta right sponsor-meta-null"> <span class="date">04 Jul'20</span> <i class="icon-dot"></i> <span class="readtime">6 min read</span></div></div></div></div><div class="card-wrapper common-card" data-card-id="216885"><figure class="card-image"> <a href="https://inc42.com/datalab/can-indias-gaming-startups-leapfrog-chinese-rivals-after-the-ban/?itm_source=inc42-category-featured-slider&#038;itm_medium=website&#038;itm_campaign=category-featured-slider" title="Can Indian Gaming Startups Capitalise On The Chinese App Ban?"> <img width="1360" height="1020" src="https://inc42.com/wp-content/uploads/2020/07/shutterstock_1578683443-1.jpg" class="attachment- size- wp-post-image jetpack-lazy-image" alt="Can Indian Gaming Startups Capitalise On The Chinese App Ban?" data-lazy-srcset="https://inc42.com/wp-content/uploads/2020/07/shutterstock_1578683443-1.jpg 1360w, https://inc42.com/wp-content/uploads/2020/07/shutterstock_1578683443-1-300x225.jpg 300w, https://inc42.com/wp-content/uploads/2020/07/shutterstock_1578683443-1-1024x768.jpg 1024w, https://inc42.com/wp-content/uploads/2020/07/shutterstock_1578683443-1-1044x783.jpg 1044w, https://inc42.com/wp-content/uploads/2020/07/shutterstock_1578683443-1-632x474.jpg 632w, https://inc42.com/wp-content/uploads/2020/07/shutterstock_1578683443-1-536x402.jpg 536w, https://inc42.com/wp-content/uploads/2020/07/shutterstock_1578683443-1-1250x938.jpg 1250w, https://inc42.com/wp-content/uploads/2020/07/shutterstock_1578683443-1-400x300.jpg 400w, https://inc42.com/wp-content/uploads/2020/07/shutterstock_1578683443-1-210x158.jpg 210w, https://inc42.com/wp-content/uploads/2020/07/shutterstock_1578683443-1-690x518.jpg 690w, https://inc42.com/wp-content/uploads/2020/07/shutterstock_1578683443-1-490x367.jpg 490w, https://inc42.com/wp-content/uploads/2020/07/shutterstock_1578683443-1-120x90.jpg 120w, https://inc42.com/wp-content/uploads/2020/07/shutterstock_1578683443-1-680x510.jpg 680w, https://inc42.com/wp-content/uploads/2020/07/shutterstock_1578683443-1-1152x864.jpg 1152w" data-lazy-sizes="(max-width: 1360px) 100vw, 1360px" data-lazy-src="https://inc42.com/wp-content/uploads/2020/07/shutterstock_1578683443-1.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" /> </a></figure><div class="card-content"><div class="not-tagged"><div class="show"><div class="taxonomy-wrap"> <span class="post-category"><a href="https://inc42.com/datalab/" style="color: #d6322e;">DataLabs</a></span></div></div></div><h2 class="entry-title"> <a href="https://inc42.com/datalab/can-indias-gaming-startups-leapfrog-chinese-rivals-after-the-ban/?itm_source=inc42-category-featured-slider&#038;itm_medium=website&#038;itm_campaign=category-featured-slider" title="Can Indian Gaming Startups Capitalise On The Chinese App Ban?"> Can Indian Gaming Startups Capitalise On The Chinese App Ban? </a></h2><div class="meta-wrapper entry-meta clearfix "><div class="meta left sponsor-meta-null"> <span class="author" rel="author"> <a href="https://inc42.com/author/vaishnavi-dayalani/" title="By Vaishnavi D." rel="author">By Vaishnavi D.</a> </span></div><div class="meta right sponsor-meta-null"> <span class="date">09 Jul'20</span> <i class="icon-dot"></i> <span class="readtime">7 min read</span></div></div></div></div><div class="card-wrapper common-card" data-card-id="218135"><figure class="card-image"> <a href="https://inc42.com/buzz/govt-extends-deadline-for-app-innovation-challenge-to-july-26/?itm_source=inc42-category-featured-slider&#038;itm_medium=website&#038;itm_campaign=category-featured-slider" title="Govt Receives 2,353 Entries For App Innovation Challenge"> <img width="1360" height="1020" src="https://inc42.com/wp-content/uploads/2020/07/app.jpg" class="attachment- size- wp-post-image jetpack-lazy-image" alt="Govt Extends Deadline For App Innovation Challenge To July 26" data-lazy-srcset="https://inc42.com/wp-content/uploads/2020/07/app.jpg 1360w, https://inc42.com/wp-content/uploads/2020/07/app-300x225.jpg 300w, https://inc42.com/wp-content/uploads/2020/07/app-1024x768.jpg 1024w, https://inc42.com/wp-content/uploads/2020/07/app-1044x783.jpg 1044w, https://inc42.com/wp-content/uploads/2020/07/app-632x474.jpg 632w, https://inc42.com/wp-content/uploads/2020/07/app-536x402.jpg 536w, https://inc42.com/wp-content/uploads/2020/07/app-1250x938.jpg 1250w, https://inc42.com/wp-content/uploads/2020/07/app-400x300.jpg 400w, https://inc42.com/wp-content/uploads/2020/07/app-210x158.jpg 210w, https://inc42.com/wp-content/uploads/2020/07/app-690x518.jpg 690w, https://inc42.com/wp-content/uploads/2020/07/app-490x367.jpg 490w, https://inc42.com/wp-content/uploads/2020/07/app-120x90.jpg 120w, https://inc42.com/wp-content/uploads/2020/07/app-680x510.jpg 680w, https://inc42.com/wp-content/uploads/2020/07/app-1152x864.jpg 1152w" data-lazy-sizes="(max-width: 1360px) 100vw, 1360px" data-lazy-src="https://inc42.com/wp-content/uploads/2020/07/app.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" /> </a></figure><div class="card-content"><div class="not-tagged"><div class="show"><div class="taxonomy-wrap"> <span class="post-category"><a href="https://inc42.com/buzz/" style="color: #d6322e;">News</a></span></div></div></div><h2 class="entry-title"> <a href="https://inc42.com/buzz/govt-extends-deadline-for-app-innovation-challenge-to-july-26/?itm_source=inc42-category-featured-slider&#038;itm_medium=website&#038;itm_campaign=category-featured-slider" title="Govt Receives 2,353 Entries For App Innovation Challenge"> Govt Receives 2,353 Entries For App Innovation Challenge </a></h2><div class="meta-wrapper entry-meta clearfix "><div class="meta left sponsor-meta-null"> <span class="author" rel="author"> <a href="https://inc42.com/author/harshit-rakheja/" title="By Harshit R." rel="author">By Harshit R.</a> </span></div><div class="meta right sponsor-meta-null"> <span class="date">18 Jul'20</span> <i class="icon-dot"></i> <span class="readtime">2 min read</span></div></div></div></div><div class="card-wrapper common-card" data-card-id="218124"><figure class="card-image"> <a href="https://inc42.com/buzz/after-stakes-sale-in-jio-reliance-plows-inr-35k-cr-in-debt-mutual-funds/?itm_source=inc42-category-featured-slider&#038;itm_medium=website&#038;itm_campaign=category-featured-slider" title="Reliance Puts INR 35K Cr From Jio’s Fundraise In Debt Mutual Funds"> <img width="1360" height="1020" src="https://inc42.com/wp-content/uploads/2020/07/jio-feature.jpg" class="attachment- size- wp-post-image jetpack-lazy-image" alt="After Stakes Sale in Jio, Reliance Plows INR 35K Cr In Debt Mutual Funds" data-lazy-srcset="https://inc42.com/wp-content/uploads/2020/07/jio-feature.jpg 1360w, https://inc42.com/wp-content/uploads/2020/07/jio-feature-300x225.jpg 300w, https://inc42.com/wp-content/uploads/2020/07/jio-feature-1024x768.jpg 1024w, https://inc42.com/wp-content/uploads/2020/07/jio-feature-1044x783.jpg 1044w, https://inc42.com/wp-content/uploads/2020/07/jio-feature-632x474.jpg 632w, https://inc42.com/wp-content/uploads/2020/07/jio-feature-536x402.jpg 536w, https://inc42.com/wp-content/uploads/2020/07/jio-feature-1250x938.jpg 1250w, https://inc42.com/wp-content/uploads/2020/07/jio-feature-400x300.jpg 400w, https://inc42.com/wp-content/uploads/2020/07/jio-feature-210x158.jpg 210w, https://inc42.com/wp-content/uploads/2020/07/jio-feature-690x518.jpg 690w, https://inc42.com/wp-content/uploads/2020/07/jio-feature-490x367.jpg 490w, https://inc42.com/wp-content/uploads/2020/07/jio-feature-120x90.jpg 120w, https://inc42.com/wp-content/uploads/2020/07/jio-feature-680x510.jpg 680w, https://inc42.com/wp-content/uploads/2020/07/jio-feature-1152x864.jpg 1152w" data-lazy-sizes="(max-width: 1360px) 100vw, 1360px" data-lazy-src="https://inc42.com/wp-content/uploads/2020/07/jio-feature.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" /> </a></figure><div class="card-content"><div class="not-tagged"><div class="show"><div class="taxonomy-wrap"> <span class="post-category"><a href="https://inc42.com/buzz/" style="color: #d6322e;">News</a></span></div></div></div><h2 class="entry-title"> <a href="https://inc42.com/buzz/after-stakes-sale-in-jio-reliance-plows-inr-35k-cr-in-debt-mutual-funds/?itm_source=inc42-category-featured-slider&#038;itm_medium=website&#038;itm_campaign=category-featured-slider" title="Reliance Puts INR 35K Cr From Jio’s Fundraise In Debt Mutual Funds"> Reliance Puts INR 35K Cr From Jio’s Fundraise In Debt Mutual Funds </a></h2><div class="meta-wrapper entry-meta clearfix "><div class="meta left sponsor-meta-null"> <span class="author" rel="author"> <a href="https://inc42.com/author/harshit-rakheja/" title="By Harshit R." rel="author">By Harshit R.</a> </span></div><div class="meta right sponsor-meta-null"> <span class="date">18 Jul'20</span> <i class="icon-dot"></i> <span class="readtime">2 min read</span></div></div></div></div><div class="card-wrapper common-card" data-card-id="218100"><figure class="card-image"> <a href="https://inc42.com/features/national-health-stack-ispirts-attempt-to-replicate-india-stack-deja-vu/?itm_source=inc42-category-featured-slider&#038;itm_medium=website&#038;itm_campaign=category-featured-slider" title="National Health Stack: iSPIRT&#8217;s Attempt To Replicate India Stack (Deja Vu Anyone?)"> <img width="1360" height="1020" src="https://inc42.com/wp-content/uploads/2020/07/National-Health-Stock_Feature-Image_1360x1020.jpg" class="attachment- size- wp-post-image jetpack-lazy-image" alt="National Health Stack: iSPIRT&#039;s Attempt To Replicate India Stack" data-lazy-srcset="https://inc42.com/wp-content/uploads/2020/07/National-Health-Stock_Feature-Image_1360x1020.jpg 1360w, https://inc42.com/wp-content/uploads/2020/07/National-Health-Stock_Feature-Image_1360x1020-300x225.jpg 300w, https://inc42.com/wp-content/uploads/2020/07/National-Health-Stock_Feature-Image_1360x1020-1024x768.jpg 1024w, https://inc42.com/wp-content/uploads/2020/07/National-Health-Stock_Feature-Image_1360x1020-1044x783.jpg 1044w, https://inc42.com/wp-content/uploads/2020/07/National-Health-Stock_Feature-Image_1360x1020-632x474.jpg 632w, https://inc42.com/wp-content/uploads/2020/07/National-Health-Stock_Feature-Image_1360x1020-536x402.jpg 536w, https://inc42.com/wp-content/uploads/2020/07/National-Health-Stock_Feature-Image_1360x1020-1250x938.jpg 1250w, https://inc42.com/wp-content/uploads/2020/07/National-Health-Stock_Feature-Image_1360x1020-400x300.jpg 400w, https://inc42.com/wp-content/uploads/2020/07/National-Health-Stock_Feature-Image_1360x1020-210x158.jpg 210w, https://inc42.com/wp-content/uploads/2020/07/National-Health-Stock_Feature-Image_1360x1020-690x518.jpg 690w, https://inc42.com/wp-content/uploads/2020/07/National-Health-Stock_Feature-Image_1360x1020-490x367.jpg 490w, https://inc42.com/wp-content/uploads/2020/07/National-Health-Stock_Feature-Image_1360x1020-120x90.jpg 120w, https://inc42.com/wp-content/uploads/2020/07/National-Health-Stock_Feature-Image_1360x1020-680x510.jpg 680w, https://inc42.com/wp-content/uploads/2020/07/National-Health-Stock_Feature-Image_1360x1020-1152x864.jpg 1152w" data-lazy-sizes="(max-width: 1360px) 100vw, 1360px" data-lazy-src="https://inc42.com/wp-content/uploads/2020/07/National-Health-Stock_Feature-Image_1360x1020.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" /> </a></figure><div class="card-content"><div class="tagged"><div class="hide"><div class="taxonomy-wrap"> <span class="post-category"><a href="https://inc42.com/features/" style="color: #d6322e;">Features</a></span></div></div> <a class="sponsor-tag-v2" href="https://inc42.com/tag/member-exclusive/" title="Member Exclusive"><div class="tooltip"><p>Exclusive industry analysis, provocative insights, &#038; deep dives for Inc42+ Members.</p></div> <span> Member Exclusive <span class="info" target="_blank" title="Member Exclusive"> <i class="demo-icon icon-info-circled-alt"></i> </span> </span> </a></div><h2 class="entry-title"> <a href="https://inc42.com/features/national-health-stack-ispirts-attempt-to-replicate-india-stack-deja-vu/?itm_source=inc42-category-featured-slider&#038;itm_medium=website&#038;itm_campaign=category-featured-slider" title="National Health Stack: iSPIRT&#8217;s Attempt To Replicate India Stack (Deja Vu Anyone?)"> National Health Stack: iSPIRT’s Attempt To Replicate India Stack (Deja Vu Anyone... </a></h2><div class="meta-wrapper entry-meta clearfix sponsored-meta"><div class="meta left sponsor-meta-null"> <span class="author" rel="author"> <a href="https://inc42.com/author/suprita/" title="By Suprita A." rel="author">By Suprita A.</a> </span></div><div class="meta right sponsor-meta-null"> <span class="date">18 Jul'20</span> <i class="icon-dot"></i> <span class="readtime">22 min read</span></div></div></div></div><div class="card-wrapper common-card" data-card-id="218113"><figure class="card-image"> <a href="https://inc42.com/buzz/news-roundup-indian-startup-news-stories-of-the-week-july-13-18/?itm_source=inc42-category-featured-slider&#038;itm_medium=website&#038;itm_campaign=category-featured-slider" title="News Roundup: Indian Startup News Stories Of The Week [July 13-18]"> <img width="1360" height="1020" src="https://inc42.com/wp-content/uploads/2020/07/Feature_Image_News-2.jpg" class="attachment- size- wp-post-image jetpack-lazy-image" alt="News Roundup: Indian Startup News Stories Of The Week [July 13-18]" data-lazy-srcset="https://inc42.com/wp-content/uploads/2020/07/Feature_Image_News-2.jpg 1360w, https://inc42.com/wp-content/uploads/2020/07/Feature_Image_News-2-300x225.jpg 300w, https://inc42.com/wp-content/uploads/2020/07/Feature_Image_News-2-1024x768.jpg 1024w, https://inc42.com/wp-content/uploads/2020/07/Feature_Image_News-2-1044x783.jpg 1044w, https://inc42.com/wp-content/uploads/2020/07/Feature_Image_News-2-632x474.jpg 632w, https://inc42.com/wp-content/uploads/2020/07/Feature_Image_News-2-536x402.jpg 536w, https://inc42.com/wp-content/uploads/2020/07/Feature_Image_News-2-1250x938.jpg 1250w, https://inc42.com/wp-content/uploads/2020/07/Feature_Image_News-2-400x300.jpg 400w, https://inc42.com/wp-content/uploads/2020/07/Feature_Image_News-2-210x158.jpg 210w, https://inc42.com/wp-content/uploads/2020/07/Feature_Image_News-2-690x518.jpg 690w, https://inc42.com/wp-content/uploads/2020/07/Feature_Image_News-2-490x367.jpg 490w, https://inc42.com/wp-content/uploads/2020/07/Feature_Image_News-2-120x90.jpg 120w, https://inc42.com/wp-content/uploads/2020/07/Feature_Image_News-2-680x510.jpg 680w, https://inc42.com/wp-content/uploads/2020/07/Feature_Image_News-2-1152x864.jpg 1152w" data-lazy-sizes="(max-width: 1360px) 100vw, 1360px" data-lazy-src="https://inc42.com/wp-content/uploads/2020/07/Feature_Image_News-2.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" /> </a></figure><div class="card-content"><div class="not-tagged"><div class="show"><div class="taxonomy-wrap"> <span class="post-category"><a href="https://inc42.com/buzz/" style="color: #d6322e;">News</a></span></div></div></div><h2 class="entry-title"> <a href="https://inc42.com/buzz/news-roundup-indian-startup-news-stories-of-the-week-july-13-18/?itm_source=inc42-category-featured-slider&#038;itm_medium=website&#038;itm_campaign=category-featured-slider" title="News Roundup: Indian Startup News Stories Of The Week [July 13-18]"> News Roundup: Indian Startup News Stories Of The Week [July 13-18] </a></h2><div class="meta-wrapper entry-meta clearfix "><div class="meta left sponsor-meta-null"> <span class="author" rel="author"> <a href="https://inc42.com/author/harshit-rakheja/" title="By Harshit R." rel="author">By Harshit R.</a> </span></div><div class="meta right sponsor-meta-null"> <span class="date">18 Jul'20</span> <i class="icon-dot"></i> <span class="readtime">8 min read</span></div></div></div></div><div class="card-wrapper common-card" data-card-id="217878"><figure class="card-image"> <a href="https://inc42.com/features/can-ready-to-eat-brands-finally-scale-up-beyond-niche-pockets-under-covid-19-spotlight/?itm_source=inc42-category-featured-slider&#038;itm_medium=website&#038;itm_campaign=category-featured-slider" title="Can Ready-To-Eat Brands Finally Scale Up Beyond Niche Pockets Under Covid-19 Spotlight?"> <img width="1360" height="1020" src="https://inc42.com/wp-content/uploads/2020/07/RTE-feature.jpg" class="attachment- size- wp-post-image jetpack-lazy-image" alt="Can Ready-To-Eat Brands Finally Scale Up Beyond Niche Pockets Under Covid-19 Spotlight?" data-lazy-srcset="https://inc42.com/wp-content/uploads/2020/07/RTE-feature.jpg 1360w, https://inc42.com/wp-content/uploads/2020/07/RTE-feature-300x225.jpg 300w, https://inc42.com/wp-content/uploads/2020/07/RTE-feature-1024x768.jpg 1024w, https://inc42.com/wp-content/uploads/2020/07/RTE-feature-1044x783.jpg 1044w, https://inc42.com/wp-content/uploads/2020/07/RTE-feature-632x474.jpg 632w, https://inc42.com/wp-content/uploads/2020/07/RTE-feature-536x402.jpg 536w, https://inc42.com/wp-content/uploads/2020/07/RTE-feature-1250x938.jpg 1250w, https://inc42.com/wp-content/uploads/2020/07/RTE-feature-400x300.jpg 400w, https://inc42.com/wp-content/uploads/2020/07/RTE-feature-210x158.jpg 210w, https://inc42.com/wp-content/uploads/2020/07/RTE-feature-690x518.jpg 690w, https://inc42.com/wp-content/uploads/2020/07/RTE-feature-490x367.jpg 490w, https://inc42.com/wp-content/uploads/2020/07/RTE-feature-120x90.jpg 120w, https://inc42.com/wp-content/uploads/2020/07/RTE-feature-680x510.jpg 680w, https://inc42.com/wp-content/uploads/2020/07/RTE-feature-1152x864.jpg 1152w" data-lazy-sizes="(max-width: 1360px) 100vw, 1360px" data-lazy-src="https://inc42.com/wp-content/uploads/2020/07/RTE-feature.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" /> </a></figure><div class="card-content"><div class="not-tagged"><div class="show"><div class="taxonomy-wrap"> <span class="post-category"><a href="https://inc42.com/features/" style="color: #d6322e;">Features</a></span></div></div></div><h2 class="entry-title"> <a href="https://inc42.com/features/can-ready-to-eat-brands-finally-scale-up-beyond-niche-pockets-under-covid-19-spotlight/?itm_source=inc42-category-featured-slider&#038;itm_medium=website&#038;itm_campaign=category-featured-slider" title="Can Ready-To-Eat Brands Finally Scale Up Beyond Niche Pockets Under Covid-19 Spotlight?"> Can Ready-To-Eat Brands Finally Scale Up Beyond Niche Pockets Under Covid-19 Spo... </a></h2><div class="meta-wrapper entry-meta clearfix "><div class="meta left sponsor-meta-null"> <span class="author" rel="author"> <a href="https://inc42.com/author/bhumika-khatri/" title="By Bhumika K." rel="author">By Bhumika K.</a> </span></div><div class="meta right sponsor-meta-null"> <span class="date">16 Jul'20</span> <i class="icon-dot"></i> <span class="readtime">6 min read</span></div></div></div></div><div class="card-wrapper common-card" data-card-id="218081"><figure class="card-image"> <a href="https://inc42.com/features/the-outline-by-inc42-a-startup-called-jio/?itm_source=inc42-category-featured-slider&#038;itm_medium=website&#038;itm_campaign=category-featured-slider" title="The Outline By Inc42+: A Startup Called Jio"> <img width="1360" height="1020" src="https://inc42.com/wp-content/uploads/2020/07/Feature-2-JIO.jpg" class="attachment- size- wp-post-image jetpack-lazy-image" alt="The Outline By Inc42+: A Startup Called Reliance Jio" data-lazy-srcset="https://inc42.com/wp-content/uploads/2020/07/Feature-2-JIO.jpg 1360w, https://inc42.com/wp-content/uploads/2020/07/Feature-2-JIO-300x225.jpg 300w, https://inc42.com/wp-content/uploads/2020/07/Feature-2-JIO-1024x768.jpg 1024w, https://inc42.com/wp-content/uploads/2020/07/Feature-2-JIO-1044x783.jpg 1044w, https://inc42.com/wp-content/uploads/2020/07/Feature-2-JIO-632x474.jpg 632w, https://inc42.com/wp-content/uploads/2020/07/Feature-2-JIO-536x402.jpg 536w, https://inc42.com/wp-content/uploads/2020/07/Feature-2-JIO-1250x938.jpg 1250w, https://inc42.com/wp-content/uploads/2020/07/Feature-2-JIO-400x300.jpg 400w, https://inc42.com/wp-content/uploads/2020/07/Feature-2-JIO-210x158.jpg 210w, https://inc42.com/wp-content/uploads/2020/07/Feature-2-JIO-690x518.jpg 690w, https://inc42.com/wp-content/uploads/2020/07/Feature-2-JIO-490x367.jpg 490w, https://inc42.com/wp-content/uploads/2020/07/Feature-2-JIO-120x90.jpg 120w, https://inc42.com/wp-content/uploads/2020/07/Feature-2-JIO-680x510.jpg 680w, https://inc42.com/wp-content/uploads/2020/07/Feature-2-JIO-1152x864.jpg 1152w" data-lazy-sizes="(max-width: 1360px) 100vw, 1360px" data-lazy-src="https://inc42.com/wp-content/uploads/2020/07/Feature-2-JIO.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" /> </a></figure><div class="card-content"><div class="tagged"><div class="hide"><div class="taxonomy-wrap"> <span class="post-category"><a href="https://inc42.com/features/" style="color: #d6322e;">Features</a></span></div></div> <a class="sponsor-tag-v2" href="https://inc42.com/tag/member-exclusive/" title="Member Exclusive"><div class="tooltip"><p>Exclusive industry analysis, provocative insights, &#038; deep dives for Inc42+ Members.</p></div> <span> Member Exclusive <span class="info" target="_blank" title="Member Exclusive"> <i class="demo-icon icon-info-circled-alt"></i> </span> </span> </a></div><h2 class="entry-title"> <a href="https://inc42.com/features/the-outline-by-inc42-a-startup-called-jio/?itm_source=inc42-category-featured-slider&#038;itm_medium=website&#038;itm_campaign=category-featured-slider" title="The Outline By Inc42+: A Startup Called Jio"> The Outline By Inc42+: A Startup Called Jio </a></h2><div class="meta-wrapper entry-meta clearfix sponsored-meta"><div class="meta left sponsor-meta-null"> <span class="author" rel="author"> <a href="https://inc42.com/author/yatti-soni/" title="By Yatti Soni" rel="author">By Yatti Soni</a> </span></div><div class="meta right sponsor-meta-null"> <span class="date">18 Jul'20</span> <i class="icon-dot"></i> <span class="readtime">12 min read</span></div></div></div></div></div></div></div><footer id="colophon" class="site-footer" role="contentinfo"><div class="row align-center"><div class="large-10 medium-12 small-12 column"><div class="row"><div class="large-4 medium-12 small-12 large-centered column footer-aside-brand"><div class="footer-logo"> <a href="https://inc42.com/"> <img src="https://inc42.com/wp-content/uploads/2018/07/inc42-footer-logo-1-1.svg" class="attachment-full size-full jetpack-lazy-image" alt="" data-lazy-src="https://inc42.com/wp-content/uploads/2018/07/inc42-footer-logo-1-1.svg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" /> </a></div><div class="copyright-text"> &copy;2020 Inc42 All Rights Reserved</div><ul class="footer-social"><li><a href="https://www.facebook.com/Inc42/" title="Follow us on Facebook" target="_blank" class="external" rel="nofollow"><i class="icon-facebook-squared"></i></a></li><li><a href="https://twitter.com/Inc42" title="Follow us on Twitter" target="_blank" class="external" rel="nofollow"><i class="icon-twitter"></i></a></li><li><a href="https://in.linkedin.com/company/inc42" title="Follow us on Linked In" target="_blank" class="external" rel="nofollow"><i class="icon-linkedin"></i></a></li><li><a href="https://t.me/inc42media" title="Join us on Telegram" target="_blank" class="external" rel="nofollow"><i class="icon-telegram"></i></a></li><li><a href="https://www.youtube.com/user/inc42tv/" title="Watch our videos on YouTube" target="_blank" class="external" rel="nofollow"><i class="icon-youtube-play"></i></a></li></ul></div></div></div></div></footer></div><div id="inc-menu-popup" class="inc-menu-popup lity-hide"> <a href="https://inc42.com/" class="custom-logo-link" rel="home"><img src="https://inc42.com/wp-content/uploads/2018/07/inc42-logo.svg" class="custom-logo jetpack-lazy-image" alt="Inc42 Media" data-lazy-src="https://inc42.com/wp-content/uploads/2018/07/inc42-logo.svg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" /></a><ul id="mobile-menu" class="primary-menu clearfix menu"><li class="search menu-item hide-for-small-only"><a href="#inc-search-popup" class="icon-search" data-lity></a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-194760"><a href="https://inc42.com/buzz/">News</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-195668"><a href="https://inc42.com/features/">Features</a></li><li class="new menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-195671"><a href="https://inc42.com/plus/">Inc42+<i class="icon-plus float-right"></i></a><ul class="dropdown-menu sub-menu depth-0"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-197842"><a href="https://inc42.com/playbooks/">Playbooks</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-214129"><a href="https://inc42.com/guide/decoding-term-sheets-for-early-stage-startups/">GUIDES</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-203268"><a href="https://inc42.com/tag/member-exclusive">Member Exclusive</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-211452"><a href="https://inc42.com/datalabs/">Datalabs</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-211786"><a href="https://inc42.com/startup-deals/">Startup Deals</a></li></ul></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-195670"><a href="https://inc42.com/startups/">Startup Stories</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-204172"><a href="https://inc42.com/infocus/">Infocus<i class="icon-plus float-right"></i></a><ul class="dropdown-menu sub-menu depth-0"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-196371"><a href="https://inc42.com/infocus/what-the-financials/">What The Financials</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-198347"><a href="https://inc42.com/infocus/startup-watchlist/">Startup Watchlist</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-198346"><a href="https://inc42.com/infocus/electric-vehicles-this-week/">Electric Vehicles This Week</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-198349"><a href="https://inc42.com/infocus/funding-galore/">Funding Galore</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-198345"><a href="https://inc42.com/infocus/blockchain-this-week/">Blockchain This Week</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-196368"><a href="https://inc42.com/infocus/indian-startup-hubs/">Indian Startup Hubs</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-196370"><a href="https://inc42.com/infocus/upnext/">UpNext</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-196369"><a href="https://inc42.com/infocus/moneyball/">Moneyball</a></li></ul></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-195667"><a href="https://inc42.com/datalab/">Insights</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-195675"><a href="https://inc42.com/videos/">Videos<i class="icon-plus float-right"></i></a><ul class="dropdown-menu sub-menu depth-0"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-195676"><a href="https://inc42.com/videos-category/inc42-shots/">Inc42 Shots</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-211392"><a href="https://inc42.com/videos-category/ama/">AMA</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-195679"><a href="https://inc42.com/videos-category/startupsvscovid19-ama/">#StartupsVsCovid19 AMA</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-195677"><a href="https://inc42.com/videos-category/webinar/">Webinar</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-206915"><a href="https://inc42.com/videos-category/the-inc42-show/">The Inc42 Show</a></li></ul></li><li class="last-menu-item menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-195680"><a href="#">More<i class="icon-plus float-right"></i></a><ul class="dropdown-menu sub-menu depth-0"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-204173 dropdown-submenu"><a href="https://inc42.com/startupsvscovid19/">#StartupsVsCovid19<i class="icon-plus float-right"></i></a><ul class="dropdown-menu sub-menu depth-1"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-204174"><a href="https://inc42.com/infocus/covid19-tech-impact/">Covid19 Tech Impact</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-204175"><a href="https://inc42.com/infocus/the-crusaders/">The Crusaders</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-204176"><a href="https://inc42.com/infocus/the-framework/">The Framework</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-204177"><a href="https://inc42.com/infocus/the-reset/">The Reset</a></li></ul></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-195669"><a href="https://inc42.com/resources/">Resources</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-195684"><a href="https://brandlabs.inc42.com/?itm_source=top-menu&#038;itm_medium=website&#038;itm_campaign=menu">Advertise With Us</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-195685"><a href="https://inc42.com/startup-submission/?itm_source=top-menu&#038;itm_medium=website&#038;itm_campaign=menu">Submit Your Startup</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-195687"><a href="https://pages.inc42.com/submit-your-guest-post/?itm_source=top-menu&#038;itm_medium=website&#038;itm_campaign=menu">Submit Your Guest Post</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195688"><a href="https://inc42.com/about/">About Us</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195689"><a href="https://inc42.com/contact/">Contact Us</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-195690 dropdown-submenu"><a href="#">Legal<i class="icon-plus float-right"></i></a><ul class="dropdown-menu sub-menu depth-1"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195691"><a href="https://inc42.com/disclaimer/">Disclaimer</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195692"><a href="https://inc42.com/privacy-policy/">Privacy Policy</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195693"><a href="https://inc42.com/refund-policy/">Refund Policy</a></li></ul></li></ul></li></ul></div> <script type="cc38427473376bb0683a9d95-text/javascript">(function(e,t,o,n,p,r,i){e.visitorGlobalObjectAlias=n;e[e.visitorGlobalObjectAlias]=e[e.visitorGlobalObjectAlias]||function(){(e[e.visitorGlobalObjectAlias].q=e[e.visitorGlobalObjectAlias].q||[]).push(arguments)};e[e.visitorGlobalObjectAlias].l=(new Date).getTime();r=t.createElement("script");r.src=o;r.async=true;i=t.getElementsByTagName("script")[0];i.parentNode.insertBefore(r,i)})(window,document,"https://diffuser-cdn.app-us1.com/diffuser/diffuser.js","vgo");
+    vgo('setAccount', '476013207');
+    vgo('setTrackByDefault', true);
+
+    vgo('process');</script> <style>.plus-bottom-bar:before {
+		content: '';
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		height: 105px;
+		background: rgb(34, 36, 47);
+		z-index: 1;
+		width: 100%;
+	}
+	.plus-bottom-bar .tp-container-inner {
+		position: relative;
+		z-index: 2;
+	}
+.plus-bottom-bar {
+display: none !important;
+position: fixed;
+    bottom: 0px;
+    width: 100%;
+    z-index: 9999;
+}
+.single-post .plus-bottom-bar {
+display: block !important;
+}
+.single-post .plus-bottom-bar iframe {
+width: 100% !important;
+}
+.single-post .plus-bottom-bar:empty {
+display: none !important;
+}
+.single.single-datalabs .toc-left-toggle.active, .single.single-datalabs .toc-right-toggle.active {
+    background: linear-gradient(180deg, #ff2500 0%, #ff0055 100%);
+    background: -webkit-linear-gradient(180deg, #ff2500 0%, #ff0055 100%);
+}</style> <script type="cc38427473376bb0683a9d95-text/javascript">( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );</script> <div id="inc-search-popup" class="inc-search-popup lity-hide" style="width: 100%;"><header id="searchhead" class="search-header" role="banner"><div class="row align-justify"><div class="column shrink"> <a href="https://inc42.com/" class="custom-logo-link" rel="home" itemprop="url"> <noscript><img src="https://inc42.com/wp-content/themes/inc42/img/inc42-sticky-logo.svg" class="custom-logo" width="116" alt="Inc42 Media" itemprop="logo" scale="0" /></noscript><img src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20116%2077.333333333333%22%3E%3C/svg%3E' data-src="https://inc42.com/wp-content/themes/inc42/img/inc42-sticky-logo.svg" class="lazyload custom-logo" width="116" alt="Inc42 Media" itemprop="logo" scale="0" /> </a></div><div class="column shrink"> <button class="close-search-popup icon-cancel" data-lity-close></button></div><div class="large-12 medium-12 small-12 column"><div id="inc-algolia-search-box" class="search-box-wrapper"> <i class="icon-left"></i> <a href="#" class="search-clear"><i class="icon-cancel-circled"></i></a></div><div id="algolia-stats"></div></div></div></header><div class="row"><section id="primary" class="inc42-primary large-12 medium-12 small-12 column search-page clearfix"><main id="main" class="site-main" role="main"><div class="row result-state"><div class="large-12 medium-12 small-12 column"><div id="relevant" class="tab-content current hide"><div id='inc-algolia-hits' class="load-result "></div><div id="inc-algolia-pagination"></div></div></div></div></main></section><aside id="secondary" class="inc42-secondary widget-area row clearfix search-sidebar-wrapper search-sidebar-wrapper" role="complementary"><div id="inc42_most_read_widget-8" class="widget widget-sidebar widget-search large-4 medium-6 small-12 columns"><h4 class="widget-title">Trending On Inc42</h4><ul class="home-editor-pick-list"><li data-card-id="219449" data-card-image="https://inc42.com/wp-content/uploads/2020/07/Untitled-design-2020-07-28T204824.057-490x360.jpg"><div class="list-content"><div class="taxonomy-wrap"> <span class="post-category"><a href="https://inc42.com/buzz/" style="color: #d6322e;">News</a></span></div><h3> <a href="https://inc42.com/buzz/indian-railways-set-for-big-digital-leap-with-ai-satellite-tracking/?itm_source=inc42-popular-read&#038;itm_medium=website&#038;itm_campaign=popular-read-widget"> Indian Railways To Rewamp IRCTC Website </a></h3><div class="meta"> <span class="author" rel="author"> <a href="https://inc42.com/author/teaminc42/" title="By Team Inc42" rel="author">By Team Inc42</a> </span> <i class="icon-dot"></i> <span class="date">28 Jul'20</span> <i class="icon-dot"></i> <span class="readtime">3 min read</span></div></div></li><li data-card-id="219468" data-card-image="https://inc42.com/wp-content/uploads/2020/07/feature-2020-07-29T084617.608-490x360.jpg"><div class="list-content"><div class="taxonomy-wrap"> <span class="post-category"><a href="https://inc42.com/buzz/" style="color: #d6322e;">News</a></span></div><h3> <a href="https://inc42.com/buzz/toppr-bags-47-mn-to-expand-code-learning-platform-codr-school-os/?itm_source=inc42-popular-read&#038;itm_medium=website&#038;itm_campaign=popular-read-widget"> Toppr Bags $47 Mn To Expand Code-Learning Platform Codr, School OS </a></h3><div class="meta"> <span class="author" rel="author"> <a href="https://inc42.com/author/kritti-bhalla/" title="By Kritti Bhalla" rel="author">By Kritti B.</a> </span> <i class="icon-dot"></i> <span class="date">29 Jul'20</span> <i class="icon-dot"></i> <span class="readtime">2 min read</span></div></div></li><li data-card-id="219421" data-card-image="https://inc42.com/wp-content/uploads/2020/07/Untitled-design-2020-07-28T182858.021-490x360.jpg"><div class="list-content"><div class="taxonomy-wrap"> <span class="post-category"><a href="https://inc42.com/buzz/" style="color: #d6322e;">News</a></span></div><h3> <a href="https://inc42.com/buzz/drdo-calls-startups-inventors-to-showcase-defence-tech-innovation/?itm_source=inc42-popular-read&#038;itm_medium=website&#038;itm_campaign=popular-read-widget"> DRDO Launches Dare To Dream 2.0 Challenge To Promote Defence Tech Inno... </a></h3><div class="meta"> <span class="author" rel="author"> <a href="https://inc42.com/author/teaminc42/" title="By Team Inc42" rel="author">By Team Inc42</a> </span> <i class="icon-dot"></i> <span class="date">28 Jul'20</span> <i class="icon-dot"></i> <span class="readtime">2 min read</span></div></div></li></ul></div><div id="inc42_most_read_widget-9" class="widget widget-sidebar widget-search large-4 medium-6 small-12 columns"><h4 class="widget-title">Inc42+ Member Exclusive</h4><ul class="home-editor-pick-list"><li data-card-id="218933" data-card-image="https://inc42.com/wp-content/uploads/2020/07/Feature-3-gpt3-490x360.jpg"><div class="list-content"><div class="taxonomy-wrap"> <span class="post-category"><a href="https://inc42.com/features/" style="color: #d6322e;">Features</a></span></div><h3> <a href="https://inc42.com/features/the-outline-by-inc42-meet-gpt-3-the-new-sheriff-in-ai-town/?itm_source=inc42-popular-read&#038;itm_medium=website&#038;itm_campaign=popular-read-widget"> The Outline By Inc42+: Meet GPT-3, The New Sheriff In AI Town </a></h3><div class="meta"> <span class="author" rel="author"> <a href="https://inc42.com/author/yatti-soni/" title="By Yatti Soni" rel="author">By Yatti Soni</a> </span> <i class="icon-dot"></i> <span class="date">25 Jul'20</span> <i class="icon-dot"></i> <span class="readtime">15 min read</span></div></div></li><li data-card-id="218718" data-card-image="https://inc42.com/wp-content/uploads/2020/07/Six-Healthtech-Startups-Feature-2-490x360.jpg"><div class="list-content"><div class="taxonomy-wrap"> <span class="post-category"><a href="https://inc42.com/features/" style="color: #d6322e;">Features</a></span></div><h3> <a href="https://inc42.com/features/six-healthtech-startups-that-hit-the-spotlight-with-their-fight-against-covid-19/?itm_source=inc42-popular-read&#038;itm_medium=website&#038;itm_campaign=popular-read-widget"> Six Healthtech Startups That Hit The Spotlight With Their Fight Agains... </a></h3><div class="meta"> <span class="author" rel="author"> <a href="https://inc42.com/author/suprita/" title="By Suprita Anupam" rel="author">By Suprita A.</a> </span> <i class="icon-dot"></i> <span class="date">24 Jul'20</span> <i class="icon-dot"></i> <span class="readtime">15 min read</span></div></div></li><li data-card-id="218533" data-card-image="https://inc42.com/wp-content/uploads/2020/07/grocery-flop-india-featured-490x360.jpg"><div class="list-content"><div class="taxonomy-wrap"> <span class="post-category"><a href="https://inc42.com/features/" style="color: #d6322e;">Features</a></span></div><h3> <a href="https://inc42.com/features/india-online-grocery-they-came-they-conquered-but-will-they-keep-the-throne/?itm_source=inc42-popular-read&#038;itm_medium=website&#038;itm_campaign=popular-read-widget"> Is India’s Online Grocery Boom About To Fizzle Out? </a></h3><div class="meta"> <span class="author" rel="author"> <a href="https://inc42.com/author/meha/" title="By Meha Agarwal" rel="author">By Meha A.</a> </span> <i class="icon-dot"></i> <span class="date">22 Jul'20</span> <i class="icon-dot"></i> <span class="readtime">18 min read</span></div></div></li></ul></div><div id="inc42_most_read_widget-10" class="widget widget-sidebar widget-search large-4 medium-6 small-12 columns"><h4 class="widget-title">Inc42 Shots</h4><ul class="home-editor-pick-list"><li data-card-id="219450" data-card-image="https://inc42.com/wp-content/uploads/2020/07/feature-2020-07-11T122400.184-1-490x360.jpg"><div class="list-content"><div class="taxonomy-wrap"> <span class="post-category"> <a href="" style="color: #D81757;">Inc42 Shots</a> </span></div><h3> <a href="https://inc42.com/videos/inc42-shots-flipkart-enters-hyperlocal-services-in-bengaluru-to-take-on-dunzo/?itm_source=inc42-popular-read&#038;itm_medium=website&#038;itm_campaign=popular-read-widget"> Inc42 Shots | Flipkart Enters Hyperlocal Services in Bengaluru To Take... </a></h3><div class="meta"> <span class="author" rel="author"> <a href="https://inc42.com/author/harshilinc42-com/" title="By Harshil Khatter" rel="author">By Harshil K.</a> </span> <i class="icon-dot"></i> <span class="date">28 Jul'20</span> <i class="icon-dot"></i> <span class="readtime">1 min read</span></div></div></li><li data-card-id="219283" data-card-image="https://inc42.com/wp-content/uploads/2020/07/pubg-1-490x360.jpg"><div class="list-content"><div class="taxonomy-wrap"> <span class="post-category"> <a href="" style="color: #D81757;">Inc42 Shots</a> </span></div><h3> <a href="https://inc42.com/videos/inc42-shots-india-bans-47-chinese-apps-over-250-under-scanner-over-data-privacy-violation/?itm_source=inc42-popular-read&#038;itm_medium=website&#038;itm_campaign=popular-read-widget"> Inc42 Shots | India Bans 47 Chinese Apps, Over 250 Under Scanner Over ... </a></h3><div class="meta"> <span class="author" rel="author"> <a href="https://inc42.com/author/harshilinc42-com/" title="By Harshil Khatter" rel="author">By Harshil K.</a> </span> <i class="icon-dot"></i> <span class="date">27 Jul'20</span> <i class="icon-dot"></i> <span class="readtime">1 min read</span></div></div></li><li data-card-id="219174" data-card-image="https://inc42.com/wp-content/uploads/2020/07/Erotic-OTT-Platforms-490x360.jpg"><div class="list-content"><div class="taxonomy-wrap"> <span class="post-category"> <a href="" style="color: #D81757;">Inc42 Shots</a> </span></div><h3> <a href="https://inc42.com/videos/inc42-shots-indias-emerging-erotic-ott-market-flourishes-amid-pandemic/?itm_source=inc42-popular-read&#038;itm_medium=website&#038;itm_campaign=popular-read-widget"> Inc42 Shots | India’s Emerging Erotic OTT Market Flourishes Amid Pande... </a></h3><div class="meta"> <span class="author" rel="author"> <a href="https://inc42.com/author/harshilinc42-com/" title="By Harshil Khatter" rel="author">By Harshil K.</a> </span> <i class="icon-dot"></i> <span class="date">26 Jul'20</span> <i class="icon-dot"></i> <span class="readtime">1 min read</span></div></div></li></ul></div></aside></div> <script type="text/html" id="tmpl-instantsearch-hit"><article itemtype="http://schema.org/Article">
+		<# if ( data.images.thumbnail ) { #>
+		<figure class="ais-hits--thumbnail">
+			<a href="{{ data.permalink }}" title="{{ data.post_title }}">
+				<img src="{{ data.images.thumbnail.url }}" alt="{{ data.post_title }}" title="{{ data.post_title }}" itemprop="image" />
+			</a>
+		</figure>
+		<# } #>
+
+		<div class="ais-hits--content content">
+			<h2 itemprop="name headline" class="entry-title"><a href="{{ data.permalink }}" title="{{ data.post_title }}" itemprop="url">{{{ data._highlightResult.post_title.value }}}</a></h2>
+			<div class="meta-wrapper entry-meta">
+				<span class="author" rel="author"><a href="#" title="Posts by {{ data.post_author.display_name }}" rel="author">{{ data.post_author.display_name }}</a></span> | <span class="date">{{ data.post_date_formatted }}</span>
+			</div>
+		</div>
+		<div class="ais-clearfix"></div>
+	</article></script> </div><div class="plus-bottom-bar"></div> <script type="cc38427473376bb0683a9d95-text/javascript">var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};</script><style>.lazyload,.lazyloading{opacity:0;}.lazyloaded{opacity:1;transition:opacity 300ms;}</style><noscript><style>.lazyload{display:none;}</style></noscript><script data-noptimize="1" type="cc38427473376bb0683a9d95-text/javascript">window.lazySizesConfig=window.lazySizesConfig||{};window.lazySizesConfig.loadMode=1;</script><script async data-noptimize="1" src='https://inc42.com/wp-content/plugins/autoptimize/classes/external/js/lazysizes.min.js?ao_version=2.7.3' type="cc38427473376bb0683a9d95-text/javascript"></script><script type="cc38427473376bb0683a9d95-text/javascript">document.querySelectorAll('.playHtListenArea').forEach(function(el) {el.style.display = 'block'});</script><script type="cc38427473376bb0683a9d95-text/javascript" src='https://static.play.ht/playht-pageplayer-plugin-v12.js?ver=3.0.12'></script> <script type="cc38427473376bb0683a9d95-text/javascript">var wppp_page_player = {"current_article_play_data":"","current_article_data":{"ID":19414,"post_author":"102","post_date":"2015-03-16 16:05:17","post_date_gmt":"2015-03-16 10:35:17","post_content":"Mumbai-based radio cab service, <a href=\"https:\/\/inc42.com\/tag\/meru\/\">Meru<\/a>, has raised <b>$50 Mn (over INR 300 Cr)<\/b> in a new round of funding led by its existing investor, India Value Fund Advisors (IVF).\u00a0India Value Fund Advisors (IVFA) had 80% stake in Meru Cabs prior to this round.\r\n\r\nThe company is also expecting to raise <b>another $100 Mn<\/b> from new investors including PEs and hedge funds by this month end.\r\n\r\nMeru Cabs was founded by <b>Neeraj Gupta in 2011<\/b> and currently, it is operational in 15 cities with a fleet of over 12000 cabs.\r\n\r\nPreviously, there were rumors that Uber was<a href=\"https:\/\/inc42.com\/buzz\/uber-eyes-acquisition-of-homegrown-radio-taxi-service-meru-cabs\/?hvid=6j47co\"> planning to buy a majority stake<\/a> in Meru Cabs in order to boost its market share in India. In one of the biggest consolidation in the Indian cab booking space, just a couple of days back Ola had announced<a href=\"https:\/\/inc42.com\/buzz\/breaking-ola-finally-acquires-taxiforsure-for-200-mn\/\"> the acquisition<\/a> of TaxiForSure, for $200 Mn earlier. CarzOnRent\u2019s EasyCabs, Taxipixi etc. are other players dealing in this space.\r\n\r\n<b>Related: <\/b><a href=\"https:\/\/inc42.com\/features\/evolution-indian-taxi-market-comparison\/\">The Evolution Of The Indian Taxi Market \u2013 Comparing The Biggies<\/a>\r\n\r\nIndia's unorganized taxi market is estimated at<b> $6-8 Bn with about 600,000 commercial vehicles<\/b> and combined yearly revenue of <b>INR 11,000 Cr.<\/b> According to Valoriser Consultants, the sector has been growing at 20% annually.","post_title":"Meru Cabs Raises INR 300 Cr From India Value Fund, Another $100 Mn Coming Soon","post_excerpt":"","post_status":"publish","comment_status":"open","ping_status":"open","post_password":"","post_name":"meru-cabs-raises-inr-300-cr-from-india-value-fund-another-100-mn-coming-soon","to_ping":"","pinged":"","post_modified":"2015-03-16 16:05:17","post_modified_gmt":"2015-03-16 10:35:17","post_content_filtered":"","post_parent":0,"guid":"https:\/\/inc42.com\/?p=19414","menu_order":0,"post_type":"post","post_mime_type":"","comment_count":"2","filter":"raw"}};
+var wppp_user_data = {"user_id":"HiwDJ5rWSdV58LWcxEcDiftODVD3","app_id":"Wx1qjA90eKzPlVW","ajax_url":"https:\/\/inc42.com\/wp-admin\/admin-ajax.php","playhtButtonSwitch":"","playhtListenbuttonSwitch":"","playHtbuttonWLabel":"","playHtcolor_backgrund":"#222","playHttextColor":"#fff","FielddesktopPositionID":"right","FieldmobilePositionID":"right","playHtDarkMode":"","playHtPlayerItemsColor":"#fff","playHtPlayerTextColor":"#fff","playHtPlayerBackgroundColor":"#222","fullScreenMobEnabledID":"","playHtListencolor_backgrund":"#222","playHtListenBorderColor":"#222","playHtListenBorderRadius":"2","playHtListenText":"Listen","playHtListentextColor":"#fff"};
+var wppp_player_images = {"close":"https:\/\/inc42.com\/wp-content\/plugins\/play-ht\/assets\/images\/close.png","loader":"https:\/\/inc42.com\/wp-content\/plugins\/play-ht\/assets\/images\/loader.gif","play_btn":"https:\/\/inc42.com\/wp-content\/plugins\/play-ht\/assets\/images\/play-btn.png","pause_btn":"https:\/\/inc42.com\/wp-content\/plugins\/play-ht\/assets\/images\/pause-btn.png","pageplayer_placeholder":"https:\/\/inc42.com\/wp-content\/plugins\/play-ht\/assets\/images\/pageplayer_placeholder.png"};</script> <script type="cc38427473376bb0683a9d95-text/javascript" src='https://inc42.com/wp-content/cache/autoptimize/js/autoptimize_single_d013c84946f344809e2b107962ea456e.js?ver=2.86'></script> <script type="cc38427473376bb0683a9d95-text/javascript" src='https://inc42.com/wp-content/cache/autoptimize/js/autoptimize_single_e4fc776924d0c052ad2361ef04c87133.js?ver=2.86'></script> <script type="cc38427473376bb0683a9d95-text/javascript">jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});</script> <script type="cc38427473376bb0683a9d95-text/javascript" src='https://inc42.com/wp-content/themes/inc42/js/vendor/es6-shim.min.js?ver=2.86'></script> <script type="cc38427473376bb0683a9d95-text/javascript">var single_data = {"is_featured":"false","show_mobile_sidebar":"false"};
+var ajax_object = {"ajax_url":"https:\/\/inc42.com\/wp-admin\/admin-ajax.php","api_nonce":"4fabca1aae","api_url":"https:\/\/inc42.com\/wp-json\/"};</script> <script type="cc38427473376bb0683a9d95-text/javascript">var aepc_pixel_events = {"custom_events":{"AdvancedEvents":[{"params":{"login_status":"not_logged_in","post_type":"post","object_id":19414,"object_type":"single","tax_category":["News"],"tax_post_tag":["India Value Fund","Meru","Neeraj Gupta","taxi Operators"],"tax_yst_prominent_words":["cab","cabs","cr","fund advisors","india","india value","india value fund","india value fund advisors","inr","market","meru","meru cabs","mn","round","stake in meru","stake in meru cabs","taxi market","value","value fund","value fund advisors"]},"delay":0}]}};</script> <script type="cc38427473376bb0683a9d95-text/javascript" src='https://stats.wp.com/e-202031.js' async='async' defer='defer'></script> <script type="cc38427473376bb0683a9d95-text/javascript">_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:8.7',blog:'96736978',post:'19414',tz:'5.5',srv:'inc42.com'} ]);
+	_stq.push([ 'clickTrackerInit', '96736978', '19414' ]);</script> <script defer src="https://inc42.com/wp-content/cache/autoptimize/js/autoptimize_1c435511eb4ee828b97710f4155c92da.js" type="cc38427473376bb0683a9d95-text/javascript"></script><script data-cfasync='false'>!function(t){"use strict";t.loadCSS||(t.loadCSS=function(){});var e=loadCSS.relpreload={};if(e.support=function(){var e;try{e=t.document.createElement("link").relList.supports("preload")}catch(t){e=!1}return function(){return e}}(),e.bindMediaToggle=function(t){function e(){t.media=a}var a=t.media||"all";t.addEventListener?t.addEventListener("load",e):t.attachEvent&&t.attachEvent("onload",e),setTimeout(function(){t.rel="stylesheet",t.media="only x"}),setTimeout(e,3e3)},e.poly=function(){if(!e.support())for(var a=t.document.getElementsByTagName("link"),n=0;n<a.length;n++){var o=a[n];"preload"!==o.rel||"style"!==o.getAttribute("as")||o.getAttribute("data-loadcss")||(o.setAttribute("data-loadcss",!0),e.bindMediaToggle(o))}},!e.support()){e.poly();var a=t.setInterval(e.poly,500);t.addEventListener?t.addEventListener("load",function(){e.poly(),t.clearInterval(a)}):t.attachEvent&&t.attachEvent("onload",function(){e.poly(),t.clearInterval(a)})}"undefined"!=typeof exports?exports.loadCSS=loadCSS:t.loadCSS=loadCSS}("undefined"!=typeof global?global:this);</script><script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="cc38427473376bb0683a9d95-|49" defer=""></script><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"rayId":"5ba68ec69a13e342","version":"2020.7.0","si":10}'></script>
+</body></html>

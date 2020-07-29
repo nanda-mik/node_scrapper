@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>StartupTalky.com - Online Privacy Statement</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<!-- stylesheets -->
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="/assets/css/bootstrap.min.css?v=f8ab24f360">
+	<link rel="stylesheet" type="text/css" href="/assets/css/font-awesome.min.css?v=f8ab24f360">
+	<link rel="stylesheet" type="text/css" href="/assets/css/hl-styles/atom-one-dark.css?v=f8ab24f360">
+	<link rel="stylesheet" type="text/css" href="/assets/css/screen.css?v=f8ab24f360">
+	<link rel="stylesheet" type="text/css" href="/assets/css/custom.css?v=f8ab24f360">
+	<script>
+/*====================================================
+  THEME SETTINGS & GLOBAL VARIABLES
+====================================================*/
+//  1. Disqus comment settings
+var disqus_shortname = 'example'; // required: replace example with your forum shortname
+
+//  2. Fixed navbar
+var fixed_navbar = true;
+
+// 3. Content API key ( it required to search work)
+var api_key = '0a15270b18f5a513dc70dfa252';
+</script>
+	<link rel="shortcut icon" href="/favicon.png" type="image/png" />
+    <link rel="canonical" href="https://startuptalky.com/privacy-policy/" />
+    <meta name="referrer" content="no-referrer-when-downgrade" />
+    
+    <meta property="og:site_name" content="StartupTalky" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="StartupTalky.com - Online Privacy Statement" />
+    <meta property="og:description" content="Privacy is important. We respect yours. Our goal is to go above and beyond in our mission while doing it under the ambit of law. We need you to trust us when we say that your data is in safe hands. However, in order to endow you with an uninterrupted" />
+    <meta property="og:url" content="https://startuptalky.com/privacy-policy/" />
+    <meta property="article:publisher" content="https://www.facebook.com/startuptalky/" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="StartupTalky.com - Online Privacy Statement" />
+    <meta name="twitter:description" content="Privacy is important. We respect yours. Our goal is to go above and beyond in our mission while doing it under the ambit of law. We need you to trust us when we say that your data is in safe hands. However, in order to endow you with an uninterrupted" />
+    <meta name="twitter:url" content="https://startuptalky.com/privacy-policy/" />
+    <meta name="twitter:label1" content="Written by" />
+    <meta name="twitter:data1" content="Shubham Kumar" />
+    <meta name="twitter:site" content="@StartupTalky" />
+    
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name": "StartupTalky",
+        "url": "https://startuptalky.com/",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://static.startuptalky.com/2019/02/StartupTalky_logo-3.png"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Shubham Kumar",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://static.startuptalky.com/2020/06/logo_st.jpg",
+            "width": 400,
+            "height": 400
+        },
+        "sameAs": []
+    },
+    "headline": "StartupTalky.com - Online Privacy Statement",
+    "url": "https://startuptalky.com/privacy-policy/",
+    "description": "Privacy is important. We respect yours. Our goal is to go above and beyond in\nour mission while doing it under the ambit of law. We need you to trust us when\nwe say that your data is in safe hands. However, in order to endow you with an\nuninterrupted and optimum use of our services, we need to collect and, in some\ncircumstances, disclose information about you. To enhance and protect your\nprivacy, and to ensure that both sides are on the same page, this notice\nexplains our information practices a",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://startuptalky.com/"
+    }
+}
+    </script>
+
+    <meta name="generator" content="Ghost 3.21" />
+    <link rel="alternate" type="application/rss+xml" title="StartupTalky" href="https://startuptalky.com/rss/" />
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MN965ZD');</script>
+<!-- End Google Tag Manager -->
+
+<meta name="google-site-verification" content="DZU8U9RwDkRaZIsWgzoChUYdSNfLEyO1yn-UGvB4SBI" /><script data-ad-client="ca-pub-6079861242160523" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+</head>
+
+<body class="page-template page-privacy-policy">
+	<!-- start header -->
+<header class="site-header" id="main-navbar">
+	<div class="container">
+		<div class="row">
+			<div class="navbar-header">
+				<!-- start logo -->
+				<a class="logo image-logo" href="https://startuptalky.com"><img src="https://static.startuptalky.com/2019/02/StartupTalky_logo-3.png" alt="StartupTalky"></a>
+				<!-- end logo -->
+			</div>
+			<nav class="main-menu hidden-sm hidden-xs" id="main-menu">
+	<ul>
+		<li class="profiles"><a href="https://startuptalky.com/tag/successful-company-profiles/">Profiles</a></li>
+		<li class="insights"><a href="https://startuptalky.com/tag/Insights/">Insights</a></li>
+		<li class="learning"><a href="https://startuptalky.com/tag/learning/">Learning</a></li>
+		<li class="startuptalkers"><a href="https://startuptalky.com/tag/startuptalkers/">StartupTalkers</a></li>
+		<li class="collections"><a href="https://startuptalky.com/tag/collections/">Collections</a></li>
+		<li class="news"><a href="https://startuptalky.com/tag/news/">News</a></li>
+		<li class="events"><a href="https://startuptalky.com/tag/startup-events/">Events</a></li>
+		<li class="contact"><a href="https://startuptalky.com/contact-us/">Contact</a></li>
+	</ul>
+</nav>
+			<div class="nav-right pull-right align-right">
+				<span class="search-toggle" id="search-button" data-toggle="modal" data-target="#searchmodal"><i class="fa fa-search align-center"></i></span>
+				<span class="mobile-menu-toggle hidden-md hidden-lg" id="nav-toggle-button"><i class="fa fa-bars align-center"></i></span>
+			</div>
+			<nav class="mobile-menu visible-sm visible-xs" id="mobile-menu"></nav>
+			<div class="backdrop hidden-md hidden-lg" id="backdrop">
+				<span class="menu-close align-center"><i class="fa fa-arrow-left"></i></span>
+			</div>
+		</div>
+	</div>
+</header>
+<!-- end header -->	
+<!-- start content area -->
+	<div class="main-content-area single-post">
+		<article>
+			<div class="post-head no-image" >
+				<div class="container align-center">
+					<div class="row">
+						<div class="col-md-offset-1 col-md-10">
+							<h1 class="title page-title">StartupTalky.com - Online Privacy Statement</h1>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-offset-1 col-md-10">
+						<div class="post-content">
+							<p>Privacy is important. We respect yours. Our goal is to go above and beyond in our mission while doing it under the ambit of law. We need you to trust us when we say that your data is in safe hands. However, in order to endow you with an uninterrupted and optimum use of our services, we need to collect and, in some circumstances, disclose information about you. To enhance and protect your privacy, and to ensure that both sides are on the same page, this notice explains our information practices and the choices you're entitled to when it comes to the way your information is collected and used.</p><p>All visitors to www.startuptalky.com (website) are advised to read and understand our Privacy Policy carefully since by accessing the website, you agree to be bound by the terms and conditions of the below mentioned Privacy Policy and consent to the collection, storage, and use of information pertaining to you as specified herein.</p><p>If you do not agree with the terms and conditions of our Privacy Policy, which includes the manner of collection or use of your information, please do not use or access the website.</p><p><strong>1) Definitions</strong></p><p>“We”, “Our”, and “Us” shall mean and refer to the creators of this privacy policy.</p><p>“You”, “Your”, “Yourself”, and “User” shall mean and refer to natural and legal individuals who use the website.</p><p>“Website” shall mean and refer to www.startuptalky.com.</p><p>“Personal Information” shall mean and refer to any personally identifiable information that we may collect from you. </p><p>“Third Parties” refers to any site, company, or individual apart from the user and the creator of the website.</p><p><strong>2) The Kind Of Information We Collect. </strong></p><p>We collect information to provide better services for our website visitors. We basically collect information about you from the following two sources:</p><p>a. The information you give us (“User Profile”). For example, many of our services require you to create an account. When you do, we'll ask for personal information like your name, email address, and designation.</p><p>b. The information we collect from your use of our website. This information usually relates to the editorial and advertising content you view. This information includes the data provided by Google analytics and third party companies. </p><p><strong>3) How We Use The Information We Collect.</strong></p><p>We may use information held about you in the following ways:</p><p>a. To operate, maintain, provide features &amp; functionality, and to notify you about the enhancements to our website.</p><p>b. To provide you information, products, or services that you request from us, or which we feel may be of interest to you, where you have consented to be contacted for such purposes.</p><p>c. To carry out our obligations arising from any contracts between you and us.</p><p>d. To monitor the effectiveness of our marketing campaigns.</p><p>e. We may also use your data, or permit selected third parties to use your data, to provide you information about goods and services that may be of interest to you. We or the third parties may contact you about these [by SMS or email]. </p><p>f. We do not disclose information about individuals (that causes them to be identified) to our advertisers, but we may provide them with aggregated information about our users. We may also use such aggregated information to help advertisers reach the kind of audience they intend to target. </p><p>You have the right to ask us not to process your personal data for marketing purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at startuptalky@gmil.com. </p><p><strong>4)</strong> <strong>The Advertising On Our Website.</strong></p><p>Advertising on our website makes it possible for us to offer you information and products/services free of charge. We take advertising seriously and make every effort to ensure that the advertising is safe, unobtrusive, and as relevant as possible.</p><p>Cookies are used to make this advertising as relevant as possible to the needs and interests of our website visitors. They are equally important for our advertisers to identify and showcase relevant ads. Cookies are also used to avoid you seeing the same ad multiple times, and to detect and prevent click fraud. We use AdSense and Google Analytics to help us manage and improve our website while assist our advertisers to better understand and track user interaction with their ads. When you visit a location on our website which includes one or more of these ads, various cookies may be sent to your browser.</p><p>We may use other technologies<strong>—</strong>including Flash and HTML5<strong>—</strong>for the functionality used for displaying interactive advertising. We may also use your IP address to provide advertising targeted to that address in order to improve the relevance of the ads you see, and to measure and report to advertisers non-personal, statistical information on the geographical locations of the website visitors viewing their ads.</p><p><strong>5)</strong> <strong>Privacy and Choice.</strong></p><p>People have different concerns about privacy. Our goal is to be clear about what information we collect so that you can make meaningful choices about how that information would be used. You may configure your browser settings through its “options” or “preferences” feature in order to notify you before accepting or disabling cookies. However, it is important to understand that many of the services we provide on our website and to our website visitors may not function properly if your cookies are disabled.</p><p><strong>6)</strong> <strong>The Information You Share.</strong></p><p>Our website allows visitors to share information with others that includes, but is not restricted to, comments on our editorial content and the content they share via social media. When you share information, it may become accessible to others through mechanisms such as search engines. We are not responsible for how others with whom you share information from our website may use it.</p><p><strong>7)</strong> <strong>Updating Your Personal Information.</strong></p><p>It is our policy that whenever you visit our website, you should be able to access your personal information, which is the information used for identifying you through details such as name and email address. If that information is incorrect, we try to provide you ways to update it quickly or to delete it unless we have to keep that information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your identity before we can act on your request.</p><p>We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, requests concerning information residing on backup systems).</p><p>Wherever and whenever we can provide information access and correction, we will do so at no cost to you, except where it would require a disproportionate effort. We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our website, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems.</p><p><strong>8)</strong> <strong>The Information We Share.</strong></p><p>We do not share personal information with companies, organizations, and individuals outside of StartupTalky, unless one of the following circumstances applies:</p><p>a. We will share personal information with companies, organizations, or individuals outside of StartupTalky when we have your consent to do so. </p><p>b. We will share personal information with companies, organizations, or individuals outside of StartupTalky if we have a good-faith belief that access, use, preservation, or disclosure of that information is reasonably necessary to:</p><p>(i) Comply with applicable law, regulations, legal process, or enforceable governmental request.</p><p>(ii) Enforce any of our applicable Terms of Service, including any potential violations.</p><p>(iii) Detect, prevent, and address fraud, security or technical issues.</p><p>(iv) Protect against harm to the rights, property, or safety of our website visitors and service providers, as well as the general public and EMI as required or permitted by law.</p><p><strong>9)</strong> <strong>The Protection Of Your Information.</strong></p><p>We work hard to protect the information provided by, or collected about our website visitors from unauthorized access, alteration, disclosure, or destruction. In particular:</p><p>a. We review our information collection, storage, and processing practices, including physical security measures, to guard against unauthorized access to our systems and the information gathered.</p><p>b. We restrict access to the personal information collected to our employees, contractors, and agents who need to know that information for processing it for us. The employees, contractors, and agents are subjected to the obligation of strict confidentiality about the information accessed, and will face to disciplinary action, including termination, if they violate this obligation.</p><p><strong>10)</strong> <strong>The Scope Of Our Privacy Policy.</strong></p><p>Our Privacy Policy applies to all of the services offered by Startuptalky through its website. However, our Privacy Policy does not apply to the any of the following:</p><p>a. Services offered by other companies or individuals on non-StartupTalky websites, including websites which may be referenced by or linked from our website.</p><p>b. The information collected by, and the information practices of other companies, organizations, or individuals who advertise our website, editorial, advertising content, or any of the products or services offered on our website, and who may use cookies, pixel tags and other technologies to serve and offer relevant ads.</p><p><strong>11)</strong> <strong>Handling Complaints From Our Website Visitors And Regulatory Authorities.</strong></p><p>We regularly review our compliance with this Privacy Policy Statement, and with the industry-recommended best practices, as well as applicable laws and regulations. When we receive a formal written complaint, we will contact the person who made the complaint to follow up and resolve the issue. </p><p><strong>12)</strong> <strong>Notification of Modifications And Changes To The T&amp;C and Privacy Policy.</strong></p><p>We reserve the right to change the Terms and Privacy Policy from time to time as we deem fit, without any intimation to you, and your continued use of the site will signify your acceptance of any amendment to these terms.</p><p>You are therefore advised to re-read the Terms of Service on a regular basis. Should it be that you do not accept any of the modifications or amendments to the Terms, you may terminate your use of this website immediately.</p><p><strong>13)</strong> <strong>Security.</strong></p><p>We treat data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by members inside and outside the LLP. We do not recommend transfer of sensitive information (such as credit card number) and bank account details via the website to other users. Users are recommended to do so offline, on the phone or via personal emails. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and after we receive it. However, “perfect security” does not exist on the internet. You, therefore, agree that security breaches beyond the control of our standard security procedures are at your sole risk and discretion.</p><p><strong>14)</strong> <strong>Disclaimer.</strong>	</p><p>We cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. Therefore, although we are committed to protecting your privacy, we do not promise, and you should not expect, that your personal information will always remain private. As a user of the website, you understand and agree that you assume all responsibility and risk for your use of the website, the internet in general, and the documents you post and access, and for your conduct on and off the website. The views and opinions expressed in guest posts are solely those of the authors and do not necessarily reflect the views held by StartupTalky, its creators or employees. If you find yourself violently disagreeing with something and want to educate the world, please contact us about writing a guest post of your own providing the contentious side of the issue. StartupTalky is not responsible for the accuracy of any of the information supplied by the guest bloggers. We may reproduce a post with permission on behalf of the author. </p><p><strong>15)</strong> <strong>Contacting us.</strong></p><p>We've tried to keep it as simple as possible, but if you're not familiar with any of the terms used or have any questions, do contact us at startuptalky@gmail.com. </p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+</div>
+<!-- end content area -->
+	<!-- start footer -->
+<footer class="site-footer">
+    <div class="footer-top">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-4">
+                    <!-- start recent post widget -->
+<div class="widget">
+	<h4 class="widget-title h6">Recent Post</h4>
+	<div class="content recent-post">
+		<div class="recent-single-post clearfix have-image">
+			<a href="/rise-of-no-code-platform/">
+					<div class="post-thumb pull-left" style="background-image: url(https://static.startuptalky.com/2020/07/Rise-Of-No-Code-Platform-startuptalky-1.jpg);"></div>
+			</a>
+			<div class="post-info">
+				<h4 class="post-title"><a href="/rise-of-no-code-platform/">Best No-Code Development Platforms | Why No-Code? | Benefits of No-Code Platforms</a></h4>
+				<div class="date"><a href="/rise-of-no-code-platform/">July 29, 2020</a></div>
+			</div>
+		</div>
+		<div class="recent-single-post clearfix have-image">
+			<a href="/blockonomics-success-story/">
+					<div class="post-thumb pull-left" style="background-image: url(https://static.startuptalky.com/2020/07/Blockonomics---Bitccoin-Payment-Processing-Platform.jpg);"></div>
+			</a>
+			<div class="post-info">
+				<h4 class="post-title"><a href="/blockonomics-success-story/">Blockonomics - Simplifying Bitcoin Transactions</a></h4>
+				<div class="date"><a href="/blockonomics-success-story/">July 29, 2020</a></div>
+			</div>
+		</div>
+		<div class="recent-single-post clearfix have-image">
+			<a href="/reasons-to-hire-business-consultant/">
+					<div class="post-thumb pull-left" style="background-image: url(https://static.startuptalky.com/2020/07/5-Reasons-Why-your-startup-Needs-Business-Consultant_startuptalky.jpg);"></div>
+			</a>
+			<div class="post-info">
+				<h4 class="post-title"><a href="/reasons-to-hire-business-consultant/">5 Reasons Why your Business Needs Business Consultant</a></h4>
+				<div class="date"><a href="/reasons-to-hire-business-consultant/">July 28, 2020</a></div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- end widget -->                </div>
+                <div class="col-sm-4">
+                    <!-- start tag widget -->
+<div class="widget">
+	<h4 class="widget-title h6">Tag Cloud</h4>
+	<div class="content tagcloud">
+		<a href="/tag/semrush-site-audit-or-seo-resume-job/">&quot;semrush&quot; &quot;site audit&quot; or seo -resume -job</a><a href="/tag/10-cold-calling-tips-and-tricks/">10 Cold Calling Tips and Tricks</a><a href="/tag/10-minute-loan-app/">10 minute loan app</a><a href="/tag/10-no-code-platforms/">10 no code platforms</a><a href="/tag/10-skills-every-entrepreneur-should-have/">10 skills every entrepreneur should have</a><a href="/tag/10-steps-to-ultimate-guide-of-writing-business-plan/">10 Steps To Ultimate Guide Of Writing Business Plan</a><a href="/tag/10-times/">10 times</a><a href="/tag/10-ways-to-make-tough-decisions-faster-in-your-startup/">10 Ways To Make Tough Decisions Faster In Your Startup</a><a href="/tag/100pillars-constructions/">100Pillars Constructions</a><a href="/tag/1010-data/">1010 data</a><a href="/tag/11-online/">11 online</a><a href="/tag/111-startups/">111 startups</a>
+	</div>
+</div>
+<!-- end tag widget -->                                    </div>
+                <div class="col-sm-4">
+                    <!-- start tag widget -->
+<div class="widget">
+	<h4 class="widget-title h6">About StartupTalky</h4>
+	<div class="content about">
+		<p>
+			StartupTalky is India’s leading media platform for entrepreneurs to read and share startup stories, startup news,
+			research reports and start events. Connect with us to share your opinions and learnings with fellow
+			StartupTalkers.
+		</p>
+	</div>
+	<div>
+		<ul style="list-style: none; padding: 0;">
+			<li style="padding: 5px 5px 5px 2px; cursor: pointer;">
+				<a href="/copyright">Copyright</a>
+			</li>
+			<li style="padding: 5px 5px 5px 2px; cursor: pointer;">
+				<a href="/privacy-policy">Privacy Policy</a>
+			</li>
+			<li style="padding: 5px 5px 5px 2px; cursor: pointer;">
+				<a href="/contact-us">Contact Us</a>
+			</li>
+			<li style="padding: 5px 5px 5px 2px; cursor: pointer;">
+				<a href="/about-us">About us</a>
+			</li>
+			<li style="padding: 5px 5px 5px 2px; cursor: pointer;">
+				<a href="/startuptalky-contributor">Become a contributor</a>
+			</li>
+			<li style="padding: 5px 5px 5px 2px; cursor: pointer;">
+				<a href="/sitemap.xml">Sitemap</a>
+			</li>
+		</ul>
+	</div>
+</div>
+<!-- end tag widget -->                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-bottom">
+		<div class="container">
+            <div class="footer-bottom-wrap clearfix">
+                <div class="social-links-wrap">
+                    <ul class="social-links">
+    <li><a href="https://www.facebook.com/startuptalky/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+    <li><a href="https://twitter.com/startuptalky" target="_blank"><i class="fa fa-twitter"></i></a></li>
+    <li><a href="https://www.instagram.com/startup_talky/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+    <li><a href="https://www.linkedin.com/company/14405761" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+    <li><a href="https://startuptalky.com/rss/"><i class="fa fa-rss"></i></a></li>
+</ul>                </div>
+                <div class="copyright-info">
+                    &copy; 2020 <a href="https://startuptalky.com">StartupTalky</a>. All rights Reserved.
+                </div>
+            </div>
+		</div>
+	</div>
+</footer>
+<!-- end footer -->
+<span class="back-to-top pull-right" id="back-to-top"><i class="fa fa-angle-up"></i></span>
+<!-- start share modal -->
+<div class="modal" id="searchmodal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title align-center" id="myModalLabel">Search</h4>
+      </div>
+      <div class="modal-body">
+        <form id="search-form">
+            <div class="input-group url-wrap">
+                
+                <input type="text" id="search-input" class="form-control" spellcheck="false" placeholder="Type to Search ...">
+                <!-- <span class="input-group-addon" id=""><i class="fa fa-search"></i></span> -->
+                <div class="input-group-btn">
+                    <button type="submit" class="btn btn-primary"><i class="fa fa-search"></i></button>
+                </div>
+            </div>
+        </form>
+        <div id="search-results">
+            <ul class=""></ul>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- end share modal -->
+	<script>
+		var searchApi = 'https://startuptalky.com/ghost/api/v3/content/posts/?key=' + api_key + '&limit=all&fields=id,title,excerpt,custom_excerpt,url,published_at&formats=plaintext';
+	</script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="/assets/js/bootstrap.min.js?v=f8ab24f360"></script>
+	<script src="/assets/js/plugins.js?v=f8ab24f360"></script>
+	<script src="/assets/js/main.js?v=f8ab24f360"></script>
+	<script src="/assets/js/custom.js?v=f8ab24f360"></script>
+	<!-- pinterest-->
+<meta name="p:domain_verify" content="2e0b5faab2236061ce36e975b5d8bf2c"/>
+<!-- end pinterest -->
+</body>
+
+</html>

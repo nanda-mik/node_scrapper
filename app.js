@@ -22,7 +22,7 @@ app.use((req,res,next)=>{
 
 app.use(scrapRoutes);
 
-app.use('/api/auth',authRoutes);
+app.use(authRoutes);
 
 app.use((error, req, res, next)=>{
     console.log(error);

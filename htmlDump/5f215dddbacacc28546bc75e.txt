@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>5 Best Investment Options for Retirees in 2020 - Startuptalky</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<!-- stylesheets -->
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="/assets/css/bootstrap.min.css?v=f8ab24f360">
+	<link rel="stylesheet" type="text/css" href="/assets/css/font-awesome.min.css?v=f8ab24f360">
+	<link rel="stylesheet" type="text/css" href="/assets/css/hl-styles/atom-one-dark.css?v=f8ab24f360">
+	<link rel="stylesheet" type="text/css" href="/assets/css/screen.css?v=f8ab24f360">
+	<link rel="stylesheet" type="text/css" href="/assets/css/custom.css?v=f8ab24f360">
+	<script>
+/*====================================================
+  THEME SETTINGS & GLOBAL VARIABLES
+====================================================*/
+//  1. Disqus comment settings
+var disqus_shortname = 'example'; // required: replace example with your forum shortname
+
+//  2. Fixed navbar
+var fixed_navbar = true;
+
+// 3. Content API key ( it required to search work)
+var api_key = '0a15270b18f5a513dc70dfa252';
+</script>
+	<meta name="description" content="Looking for best investment investment scheme after retirement. Click to know top 5 best investment options for you with high returns and lower risk." />
+    <link rel="shortcut icon" href="/favicon.png" type="image/png" />
+    <link rel="canonical" href="https://startuptalky.com/best-investment-options-retirees/" />
+    <meta name="referrer" content="no-referrer-when-downgrade" />
+    
+    <meta property="og:site_name" content="StartupTalky" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="5 Best Investment Options for Retirees in 2020 - Startuptalky" />
+    <meta property="og:description" content="Looking for best investment investment scheme after retirement. Click to know top 5 best investment options for you with high returns and lower risk." />
+    <meta property="og:url" content="https://startuptalky.com/best-investment-options-retirees/" />
+    <meta property="og:image" content="https://static.startuptalky.com/2020/07/5-best-investment-options-for-retirees_Startuptalky-9.jpg" />
+    <meta property="article:published_time" content="2020-07-28T07:26:30.000Z" />
+    <meta property="article:modified_time" content="2020-07-28T08:31:26.000Z" />
+    <meta property="article:tag" content="investment options for retirees" />
+    <meta property="article:tag" content="tax-free bonds" />
+    <meta property="article:tag" content="mutual funds" />
+    <meta property="article:tag" content="bank fixed deposits" />
+    <meta property="article:tag" content="investment schemes" />
+    <meta property="article:tag" content="investment news" />
+    <meta property="article:tag" content="Learning  📖" />
+    <meta property="article:tag" content="PPF" />
+    <meta property="article:tag" content="PMVVY" />
+    
+    <meta property="article:publisher" content="https://www.facebook.com/startuptalky/" />
+    <meta property="article:author" content="https://www.facebook.com/profile.php?id&#x3D;100006449832409" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="5 Best Investment Options for Retirees in 2020 - Startuptalky" />
+    <meta name="twitter:description" content="Looking for best investment investment scheme after retirement. Click to know top 5 best investment options for you with high returns and lower risk." />
+    <meta name="twitter:url" content="https://startuptalky.com/best-investment-options-retirees/" />
+    <meta name="twitter:image" content="https://static.startuptalky.com/2020/07/5-best-investment-options-for-retirees_Startuptalky-9.jpg" />
+    <meta name="twitter:label1" content="Written by" />
+    <meta name="twitter:data1" content="Gorish" />
+    <meta name="twitter:label2" content="Filed under" />
+    <meta name="twitter:data2" content="investment options for retirees, tax-free bonds, mutual funds, bank fixed deposits, investment schemes, investment news, Learning  📖, PPF, PMVVY" />
+    <meta name="twitter:site" content="@StartupTalky" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="800" />
+    
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name": "StartupTalky",
+        "url": "https://startuptalky.com/",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://static.startuptalky.com/2019/02/StartupTalky_logo-3.png"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Gorish",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://static.startuptalky.com/2020/07/Gorish-Dua.jpg",
+            "width": 140,
+            "height": 140
+        },
+        "url": "https://startuptalky.com/author/gorish/",
+        "sameAs": [
+            "https://www.facebook.com/profile.php?id=100006449832409"
+        ]
+    },
+    "headline": "5 Best Investment Options for Retirees in 2020 - Startuptalky",
+    "url": "https://startuptalky.com/best-investment-options-retirees/",
+    "datePublished": "2020-07-28T07:26:30.000Z",
+    "dateModified": "2020-07-28T08:31:26.000Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://static.startuptalky.com/2020/07/5-best-investment-options-for-retirees_Startuptalky-9.jpg",
+        "width": 1200,
+        "height": 800
+    },
+    "keywords": "investment options for retirees, tax-free bonds, mutual funds, bank fixed deposits, investment schemes, investment news, Learning  📖, PPF, PMVVY",
+    "description": "Putting funds into risk-free speculation choices is as significant as having a\ndifferent venture portfolio.\n\nWhen paying attention to contributing, the profits produced from your\nspeculations can give money related steadiness later on.\n\nThe investment can give money related security and pay one in great heights in\nlater stages and that is the major reason for thinking of investment option\nafter retirement.\n\nFixed Deposit\nFor senior residents, Fixed Deposit(FD) is one of the most widely recognize",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://startuptalky.com/"
+    }
+}
+    </script>
+
+    <meta name="generator" content="Ghost 3.21" />
+    <link rel="alternate" type="application/rss+xml" title="StartupTalky" href="https://startuptalky.com/rss/" />
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MN965ZD');</script>
+<!-- End Google Tag Manager -->
+
+<meta name="google-site-verification" content="DZU8U9RwDkRaZIsWgzoChUYdSNfLEyO1yn-UGvB4SBI" /><script data-ad-client="ca-pub-6079861242160523" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+</head>
+
+<body class="post-template tag-investment-options-for-retirees tag-tax-free-bonds tag-mutual-funds tag-bank-fixed-deposits tag-investment-schemes tag-investment-news tag-learning tag-ppf tag-pmvvy">
+	<!-- start header -->
+<header class="site-header" id="main-navbar">
+	<div class="container">
+		<div class="row">
+			<div class="navbar-header">
+				<!-- start logo -->
+				<a class="logo image-logo" href="https://startuptalky.com"><img src="https://static.startuptalky.com/2019/02/StartupTalky_logo-3.png" alt="StartupTalky"></a>
+				<!-- end logo -->
+			</div>
+			<nav class="main-menu hidden-sm hidden-xs" id="main-menu">
+	<ul>
+		<li class="profiles"><a href="https://startuptalky.com/tag/successful-company-profiles/">Profiles</a></li>
+		<li class="insights"><a href="https://startuptalky.com/tag/Insights/">Insights</a></li>
+		<li class="learning"><a href="https://startuptalky.com/tag/learning/">Learning</a></li>
+		<li class="startuptalkers"><a href="https://startuptalky.com/tag/startuptalkers/">StartupTalkers</a></li>
+		<li class="collections"><a href="https://startuptalky.com/tag/collections/">Collections</a></li>
+		<li class="news"><a href="https://startuptalky.com/tag/news/">News</a></li>
+		<li class="events"><a href="https://startuptalky.com/tag/startup-events/">Events</a></li>
+		<li class="contact"><a href="https://startuptalky.com/contact-us/">Contact</a></li>
+	</ul>
+</nav>
+			<div class="nav-right pull-right align-right">
+				<span class="search-toggle" id="search-button" data-toggle="modal" data-target="#searchmodal"><i class="fa fa-search align-center"></i></span>
+				<span class="mobile-menu-toggle hidden-md hidden-lg" id="nav-toggle-button"><i class="fa fa-bars align-center"></i></span>
+			</div>
+			<nav class="mobile-menu visible-sm visible-xs" id="mobile-menu"></nav>
+			<div class="backdrop hidden-md hidden-lg" id="backdrop">
+				<span class="menu-close align-center"><i class="fa fa-arrow-left"></i></span>
+			</div>
+		</div>
+	</div>
+</header>
+<!-- end header -->	
+<!-- start content area -->
+<div class="main-content-area single-post">
+	<article>
+		<div class="post-head"
+			style="background-image:url(https://static.startuptalky.com/2020/07/5-best-investment-options-for-retirees_Startuptalky-9.jpg);" >
+			<div class="container align-center">
+				<div class="row">
+					<div class="col-md-offset-1 col-md-10">
+
+						<h1 class="title">5 Best Investment Options For Retirees</h1>
+
+						<div class="post-meta">
+							<a class="author" href="/author/gorish/" rel="author">
+								<span class="name">Gorish</span>
+							</a>
+							<time class="time" datetime="2020-07-28 12:07:00"
+								itemprop="datePublished">July 28, 2020</time>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="share-wrap clearfix align-center">
+	<div class="share-text h5">Share this article</div>
+	<ul class="share-links">
+		<!-- facebook -->
+		<li>
+			<a class="facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://startuptalky.com/best-investment-options-retirees/" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;" title="Share on Facebook"><i class="fa fa-facebook"></i>Facebook</a>
+		</li>
+		<!-- twitter -->
+		<li>
+			<a class="twitter" href="https://twitter.com/share?text=5%20Best%20Investment%20Options%20For%20Retirees&amp;url=https://startuptalky.com/best-investment-options-retirees/" onclick="window.open(this.href, 'twitter-share', 'width=580,height=296');return false;" title="Share on Twitter"><i class="fa fa-twitter"></i>Twitter</a>
+		</li>
+		<!-- linkedin -->
+		<li>
+			<a class="linkedin" href="http://www.linkedin.com/shareArticle?mini=true&url=https://startuptalky.com/best-investment-options-retirees/&title=5%20Best%20Investment%20Options%20For%20Retirees" onclick="window.open(this.href, 'linkedin-share', 'width=580,height=296');return false;" title="Share on Linkedin"><i class="fa fa-linkedin"></i>Linkedin</a>
+		</li>
+		<!-- pinterest -->
+		<li>
+			<a class="pinterest" href="http://pinterest.com/pin/create/button/?url=https://startuptalky.com/best-investment-options-retirees/&description=5%20Best%20Investment%20Options%20For%20Retirees" onclick="window.open(this.href, 'linkedin-share', 'width=580,height=296');return false;" title="Share on Pinterest"><i class="fa fa-pinterest"></i>Pinterest</a>
+		</li>
+	</ul>
+</div>				<div class="col-md-9 col-xs-12">
+					<div class="post-content">
+						<p>Putting funds into risk-free speculation choices is as significant as having a different venture portfolio.</p><p>When paying attention to contributing, the profits produced from your speculations can give money related steadiness later on.</p><p>The investment can give money related security and pay one in great heights in later stages and that is the major reason for thinking of <strong>investment option after retirement</strong>.</p><h2 id="fixed-deposit">Fixed Deposit</h2><p>For senior residents, <strong>Fixed Deposit(FD)</strong> is one of the most widely recognized budgetary instrument to put away their cash. They want to contribute a lot of their cash in bank FD's because the primary venture sum is viewed as more secure when contrasted with interests in value and the previous likewise offers guaranteed return as interest. And often times this is the only<strong> investment portfolio for 70 year old</strong> people. They usually prefer investment in Fixed Deposits because of <strong>tax exemption under Section 80C</strong>. </p><p>Normally, senior residents open an FD account with the save money with which they as of now have their current bank account. Be that as it may, it will request that you complete your Know-Your-Customer (KYC) process. You will be required to give a self-validated duplicate.</p><p><strong>Some Interesting Facts about Fixed Deposit</strong></p><ul><li>Senior residents are normally offered higher loan costs when contrasted with the overall population. By and large, banks offer a 0.50 percent higher interest rate. Senior residents can pick whether they wish to get customary intrigue payouts i.e, cumulative or non-cumulative interest rates.</li><li>There is no restriction on the most extreme sum that you can put resources into an FD.</li><li>Banks have characterized a period including min and max for which FD record can be opened with them. Normally, one can put money into an FD for a base 7 days and a limit of 10 years. You can pick the period inside this range as per your requirements.</li></ul><figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="https://startuptalky.com/business-ideas-low-investment-high-return/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">62 Business Ideas with Low Investment and High Profit</div><div class="kg-bookmark-description">One of the most desired thing an entrepreneur wants in business is a small
+investment business idea and high profits. To achieve this, they sought every
+way to make their business run smoothly and increase revenue thus profitability.
+If you land on this article chances are you are looking for Busine…</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="https://startuptalky.com/favicon.png"><span class="kg-bookmark-author">Shubham Kumar</span><span class="kg-bookmark-publisher">StartupTalky</span></div></div><div class="kg-bookmark-thumbnail"><img src="https://static.startuptalky.com/2019/12/low-investment-business-ideas-startuptalky.png"></div></a></figure><p>Retirees often don't know<strong> where to invest retirement money </strong>?<strong> </strong>However,<strong> </strong>apart from FD's, there are other <strong>safest investments</strong> schemes too where you can invest your money.</p><h2 id="5-best-investment-schemes">5 Best Investment Schemes</h2><h3 id="1-post-office-monthly-income-scheme">1. Post Office Monthly Income Scheme</h3><p>This is the best reserve funds plot that empowers you to invest a limit of Rs.4.5 lakh for single possession and up to Rs.9 lakh for joint accounts.</p><p>This month to month salary plot in India offers you a loan cost up to 7.6%, according to rates declared in Q2 2019 out of a plan that is known to offer dependable returns, however, the pay is available.</p><p><strong>SCSS is an excellent plan for senior residents who need a not too bad hazard-free profit for a corpus subsidize.</strong></p><p>The post office offers different sorts of store plans for those hoping to contribute. These plans are otherwise called little reserve funds plans. A portion of these plans, for example, NSC, SCSS, and so on additionally offer expense sparing advantages under charge 80C of the Income-charge Act.</p><p><strong>So this scheme offers tax-saving benefits too under section 80C of the Income-tax Act.</strong></p><p>The interest rates  are amended every quarter by the government with a lock-in period of 5 years for the principal allowing pre-mature withdraws after a year. <strong>The Maximum amount invested is 15 lakh.</strong></p><figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="https://startuptalky.com/best-business-ideas-can-start-100000/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Best Business you can start with 1 Lac and less[50+ Ideas]</div><div class="kg-bookmark-description">According to a survey by Randstad Workmonitor in 2017, 83% of Indian workforce
+would like to be an entrepreneur. While there are many who want to start a full
+time business, there are others who plan to start some part time business to
+earn extra income. However, starting a business has many hurdles…</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="https://startuptalky.com/favicon.png"><span class="kg-bookmark-author">Shubham Kumar</span><span class="kg-bookmark-publisher">StartupTalky</span></div></div><div class="kg-bookmark-thumbnail"><img src="https://static.startuptalky.com/2019/09/business-in-100000-startuptalky.jpg"></div></a></figure><h3 id="2-mutual-funds-mf-s-">2. Mutual Funds (MF's)</h3><p>At the point when one resigns and there is a probability of the retirement reaching out for an additional two decades or progressively, at that point contributing a bit of the fund in <strong>mutual funds</strong> expect significance.  </p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://static.startuptalky.com/2020/07/Mutual-Funds_Startuptalky-1.jpg" class="kg-image" alt="Best Investment Options for Retirees" width="800" height="450"><figcaption>Grow with Mutual funds</figcaption></figure><p>MF's can likewise be a piece of a retiree's portfolio. Tax collection from debt fund settles on it, more than normal deposits, particularly for those in the most elevated or high-income society.</p><figure class="kg-card kg-embed-card"><iframe width="612" height="344" src="https://www.youtube.com/embed/utVUG7ayJvg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure><h3 id="3-tax-free-bonds">3. Tax-Free Bonds</h3><p>Tax-exempt securities, even though not as of now accessible in the essential market, can likewise highlight in a retiree's portfolio. They are given principally by government-supported organizations, for example, Indian Railway Finance Corporation Ltd (IRFC), Power Finance Corporation Ltd (PFC), National Highways Authority of India (NHAI) One, they are long haul speculations and full-grown following 10, 15, 20 years.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://static.startuptalky.com/2020/07/Investment-Options-For-retirees_Startuptalky-1.jpg" class="kg-image" alt="5 Best Investment Options for Retirees" width="792" height="1512"><figcaption>Investment options for retirees</figcaption></figure><h3 id="4-public-provident-fund-ppf-">4. Public Provident Fund (PPF)</h3><p>There are two explanations behind this: its tax-exempt intrigue and the annual compounding rule. Since the PPF has a long residency of 15 years, the effect of compounding is tremendous, particularly in the later years.</p><p>Further, because the premium earned is assured by sovereign assurance, it makes it safe speculation. For example, retirement PPF is a debt item and it produces an income flow.</p><h3 id="5-pradhan-mantri-vaya-vandana-yojana-pmvvy-">5. Pradhan Mantri Vaya Vandana Yojana (PMVVY)</h3><p><strong>PMVVY</strong> is for senior residents matured 60 years or more to give them a guaranteed return of 7.4 percent per annum. The plan offers benefits salary payable month to month, quarterly, half-yearly, or yearly as selected. The base amount sum is Rs 1,000 every month and most extreme Rs 9,250 every month. The greatest sum that can be put resources into the plan Rs 15 lakh. The residency of the plan is 10 years. The plan is accessible till March 31, 2023.</p><p>This is a plan offered by the Life protection Corporation (LIC) of India.</p><p>So, these were some of the <strong>best short term investment options</strong> for retirees. However, the considering any of these is totally depends upon the capacity of risk taking power of the individual as some of the schemes are subject to market forces. </p>
+					</div>
+					<div class="post-tags tagcloud">
+						<b>Tags</b>&nbsp;&nbsp;<a href="/tag/investment-options-for-retirees/">investment options for retirees</a><a href="/tag/tax-free-bonds/">tax-free bonds</a><a href="/tag/mutual-funds/">mutual funds</a><a href="/tag/bank-fixed-deposits/">bank fixed deposits</a><a href="/tag/investment-schemes/">investment schemes</a><a href="/tag/investment-news/">investment news</a><a href="/tag/learning/">Learning  📖</a><a href="/tag/ppf/">PPF</a><a href="/tag/pmvvy/">PMVVY</a>
+					</div>
+					<div class="subscribe-box-wrap">
+											</div>
+					<div class="about-author-wrap">
+						<!-- start about the author -->
+<div class="about-author clearfix">
+		<a href="/author/gorish/" title="Gorish"><img src="https://static.startuptalky.com/2020/07/Gorish-Dua.jpg" alt="Author image" class="avatar pull-left"></a>
+	<div class="details">
+		<h4 class="author h4">About <a href='/author/gorish/'>Gorish</a></h4>
+		<div class="bio">
+			Final Year DUtian | Digital Marketer | Netflix lover | Connect with me on Linkedin: https://www.linkedin.com/in/gorish-dua-147700185/
+		</div>
+		<ul class="meta-info">
+			<li><a href="https://www.facebook.com/profile.php?id&#x3D;100006449832409" target="_blank"><i class="fa fa-facebook"></i></a></li>
+			<li class="location"><i class="fa fa-map-marker"></i>Gurgaon</li>
+		</ul>
+	</div>
+</div>
+<!-- end about the author -->					</div>
+					<div class="prev-next-wrap has-next has-prev">
+	<div class="row is-flex">
+		<div class="col-sm-6 col-xs-12">
+			<article class="post post-card">
+				<div class="prev-next-link align-center">
+					<a class="" href="https://startuptalky.com/yulu-success-story/">Previous Post</a>
+				</div>
+				<a href="https://startuptalky.com/yulu-success-story/" class="permalink">
+					<div class="featured-image" style="background-image: url(https://static.startuptalky.com/2019/10/Yulu-company-profile-startuptalky-2.jpg)"></div>
+				</a>
+				<div class="content-wrap">
+					<div class="entry-header align-center">
+						
+						<h3 class="title h4"><a href="https://startuptalky.com/yulu-success-story/" rel="bookmark">YULU: Environmentally Viable Mode of Transportation for the Last Mile</a></h3>
+					</div>
+					<div class="entry-footer clearfix">
+						<div class="author">
+							<a href="/author/chayanika/" rel="author">
+								<img class="avatar" src="https://static.startuptalky.com/2019/07/Chayanika-Goswami--StartupTalky--1-.jpg" alt="avatar">
+								<span class="name">Chayanika Goswami</span>
+							</a>
+						</div>
+						<div class="published-date">
+							<time class="time" datetime="2020-07-28 12:07:00">July 28, 2020</time>
+						</div>
+					</div>
+				</div>
+			</article>
+		</div>
+		<div class="col-sm-6 col-xs-12">
+			<article class="post post-card">
+				<div class="prev-next-link align-center">
+					<a class="" href="https://startuptalky.com/best-small-business-ideas/">Next Post</a>
+				</div>
+				<a href="https://startuptalky.com/best-small-business-ideas/" class="permalink">
+					<div class="featured-image" style="background-image: url(https://cdn.startuptalky.com/2020/05/10-best-business-ideas-for-2020_startuptalky-min.jpg)"></div>
+				</a>
+				<div class="content-wrap">
+					<div class="entry-header align-center">
+						
+						<h3 class="title h4"><a href="https://startuptalky.com/best-small-business-ideas/" rel="bookmark">Top 10 Small Business Ideas to Pursue in 2020</a></h3>
+					</div>
+					<div class="entry-footer clearfix">
+						<div class="author">
+							<a href="/author/devashish/" rel="author">
+								<img class="avatar" src="https://static.startuptalky.com/2020/06/rsz_img_4255-1.jpg" alt="avatar">
+								<span class="name">Devashish Shrivastava</span>
+							</a>
+						</div>
+						<div class="published-date">
+							<time class="time" datetime="2020-07-28 15:07:00">July 28, 2020</time>
+						</div>
+					</div>
+				</div>
+			</article>
+		</div>
+	</div>
+</div>					<div class="comment-wrap">
+						<div class="fb-comments" data-href="https://startuptalky.com/best-investment-options-retirees" data-numposts="5"></div>
+					</div>
+				</div>
+				<div class="col-md-3 col-xs-12">
+					<div class="hidden-xs">
+						<!-- start recent post widget -->
+<div class="widget">
+	<h4 class="widget-title h6">Recent Post</h4>
+	<div class="content recent-post">
+		<div class="recent-single-post clearfix have-image">
+			<a href="/rise-of-no-code-platform/">
+					<div class="post-thumb pull-left" style="background-image: url(https://static.startuptalky.com/2020/07/Rise-Of-No-Code-Platform-startuptalky-1.jpg);"></div>
+			</a>
+			<div class="post-info">
+				<h4 class="post-title"><a href="/rise-of-no-code-platform/">Best No-Code Development Platforms | Why No-Code? | Benefits of No-Code Platforms</a></h4>
+				<div class="date"><a href="/rise-of-no-code-platform/">July 29, 2020</a></div>
+			</div>
+		</div>
+		<div class="recent-single-post clearfix have-image">
+			<a href="/blockonomics-success-story/">
+					<div class="post-thumb pull-left" style="background-image: url(https://static.startuptalky.com/2020/07/Blockonomics---Bitccoin-Payment-Processing-Platform.jpg);"></div>
+			</a>
+			<div class="post-info">
+				<h4 class="post-title"><a href="/blockonomics-success-story/">Blockonomics - Simplifying Bitcoin Transactions</a></h4>
+				<div class="date"><a href="/blockonomics-success-story/">July 29, 2020</a></div>
+			</div>
+		</div>
+		<div class="recent-single-post clearfix have-image">
+			<a href="/reasons-to-hire-business-consultant/">
+					<div class="post-thumb pull-left" style="background-image: url(https://static.startuptalky.com/2020/07/5-Reasons-Why-your-startup-Needs-Business-Consultant_startuptalky.jpg);"></div>
+			</a>
+			<div class="post-info">
+				<h4 class="post-title"><a href="/reasons-to-hire-business-consultant/">5 Reasons Why your Business Needs Business Consultant</a></h4>
+				<div class="date"><a href="/reasons-to-hire-business-consultant/">July 28, 2020</a></div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- end widget -->					</div>
+					<!-- Appsumo -->
+					<div style="margin: 20px 0px">
+						<a href="https://appsumo.8odi.net/gnJWg" target="_blank"><img src="https://static.startuptalky.com/sumo.png" alt=""></a>
+					</div>
+					<!-- Semrush -->
+					<!-- Wishpond embed code -->
+					<script type="text/javascript"
+						src="//cdn.wishpond.net/connect.js?merchantId=1502107&writeKey=321d46968c23" async></script>
+					<div class="wishpond-campaign" data-wishpond-id="2513483"
+						data-wishpond-href="https://embedded.wishpondpages.com/lp/2513483/"></div>
+
+					<!-- Media.net embed code -->
+					<div id="938307776">
+						<script type="text/javascript">
+							try {
+								window._mNHandle.queue.push(function () {
+									window._mNDetails.loadTag("938307776", "300x250", "938307776");
+								});
+							}
+							catch (error) { }
+						</script>
+					</div>
+
+					
+				</div>
+			</div>
+		</div>
+	</article>
+</div>
+<!-- end content area -->
+	<!-- start footer -->
+<footer class="site-footer">
+    <div class="footer-top">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-4">
+                    <!-- start recent post widget -->
+<div class="widget">
+	<h4 class="widget-title h6">Recent Post</h4>
+	<div class="content recent-post">
+		<div class="recent-single-post clearfix have-image">
+			<a href="/rise-of-no-code-platform/">
+					<div class="post-thumb pull-left" style="background-image: url(https://static.startuptalky.com/2020/07/Rise-Of-No-Code-Platform-startuptalky-1.jpg);"></div>
+			</a>
+			<div class="post-info">
+				<h4 class="post-title"><a href="/rise-of-no-code-platform/">Best No-Code Development Platforms | Why No-Code? | Benefits of No-Code Platforms</a></h4>
+				<div class="date"><a href="/rise-of-no-code-platform/">July 29, 2020</a></div>
+			</div>
+		</div>
+		<div class="recent-single-post clearfix have-image">
+			<a href="/blockonomics-success-story/">
+					<div class="post-thumb pull-left" style="background-image: url(https://static.startuptalky.com/2020/07/Blockonomics---Bitccoin-Payment-Processing-Platform.jpg);"></div>
+			</a>
+			<div class="post-info">
+				<h4 class="post-title"><a href="/blockonomics-success-story/">Blockonomics - Simplifying Bitcoin Transactions</a></h4>
+				<div class="date"><a href="/blockonomics-success-story/">July 29, 2020</a></div>
+			</div>
+		</div>
+		<div class="recent-single-post clearfix have-image">
+			<a href="/reasons-to-hire-business-consultant/">
+					<div class="post-thumb pull-left" style="background-image: url(https://static.startuptalky.com/2020/07/5-Reasons-Why-your-startup-Needs-Business-Consultant_startuptalky.jpg);"></div>
+			</a>
+			<div class="post-info">
+				<h4 class="post-title"><a href="/reasons-to-hire-business-consultant/">5 Reasons Why your Business Needs Business Consultant</a></h4>
+				<div class="date"><a href="/reasons-to-hire-business-consultant/">July 28, 2020</a></div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- end widget -->                </div>
+                <div class="col-sm-4">
+                    <!-- start tag widget -->
+<div class="widget">
+	<h4 class="widget-title h6">Tag Cloud</h4>
+	<div class="content tagcloud">
+		<a href="/tag/semrush-site-audit-or-seo-resume-job/">&quot;semrush&quot; &quot;site audit&quot; or seo -resume -job</a><a href="/tag/10-cold-calling-tips-and-tricks/">10 Cold Calling Tips and Tricks</a><a href="/tag/10-minute-loan-app/">10 minute loan app</a><a href="/tag/10-no-code-platforms/">10 no code platforms</a><a href="/tag/10-skills-every-entrepreneur-should-have/">10 skills every entrepreneur should have</a><a href="/tag/10-steps-to-ultimate-guide-of-writing-business-plan/">10 Steps To Ultimate Guide Of Writing Business Plan</a><a href="/tag/10-times/">10 times</a><a href="/tag/10-ways-to-make-tough-decisions-faster-in-your-startup/">10 Ways To Make Tough Decisions Faster In Your Startup</a><a href="/tag/100pillars-constructions/">100Pillars Constructions</a><a href="/tag/1010-data/">1010 data</a><a href="/tag/11-online/">11 online</a><a href="/tag/111-startups/">111 startups</a>
+	</div>
+</div>
+<!-- end tag widget -->                                    </div>
+                <div class="col-sm-4">
+                    <!-- start tag widget -->
+<div class="widget">
+	<h4 class="widget-title h6">About StartupTalky</h4>
+	<div class="content about">
+		<p>
+			StartupTalky is India’s leading media platform for entrepreneurs to read and share startup stories, startup news,
+			research reports and start events. Connect with us to share your opinions and learnings with fellow
+			StartupTalkers.
+		</p>
+	</div>
+	<div>
+		<ul style="list-style: none; padding: 0;">
+			<li style="padding: 5px 5px 5px 2px; cursor: pointer;">
+				<a href="/copyright">Copyright</a>
+			</li>
+			<li style="padding: 5px 5px 5px 2px; cursor: pointer;">
+				<a href="/privacy-policy">Privacy Policy</a>
+			</li>
+			<li style="padding: 5px 5px 5px 2px; cursor: pointer;">
+				<a href="/contact-us">Contact Us</a>
+			</li>
+			<li style="padding: 5px 5px 5px 2px; cursor: pointer;">
+				<a href="/about-us">About us</a>
+			</li>
+			<li style="padding: 5px 5px 5px 2px; cursor: pointer;">
+				<a href="/startuptalky-contributor">Become a contributor</a>
+			</li>
+			<li style="padding: 5px 5px 5px 2px; cursor: pointer;">
+				<a href="/sitemap.xml">Sitemap</a>
+			</li>
+		</ul>
+	</div>
+</div>
+<!-- end tag widget -->                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-bottom">
+		<div class="container">
+            <div class="footer-bottom-wrap clearfix">
+                <div class="social-links-wrap">
+                    <ul class="social-links">
+    <li><a href="https://www.facebook.com/startuptalky/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+    <li><a href="https://twitter.com/startuptalky" target="_blank"><i class="fa fa-twitter"></i></a></li>
+    <li><a href="https://www.instagram.com/startup_talky/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+    <li><a href="https://www.linkedin.com/company/14405761" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+    <li><a href="https://startuptalky.com/rss/"><i class="fa fa-rss"></i></a></li>
+</ul>                </div>
+                <div class="copyright-info">
+                    &copy; 2020 <a href="https://startuptalky.com">StartupTalky</a>. All rights Reserved.
+                </div>
+            </div>
+		</div>
+	</div>
+</footer>
+<!-- end footer -->
+<span class="back-to-top pull-right" id="back-to-top"><i class="fa fa-angle-up"></i></span>
+<!-- start share modal -->
+<div class="modal" id="searchmodal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title align-center" id="myModalLabel">Search</h4>
+      </div>
+      <div class="modal-body">
+        <form id="search-form">
+            <div class="input-group url-wrap">
+                
+                <input type="text" id="search-input" class="form-control" spellcheck="false" placeholder="Type to Search ...">
+                <!-- <span class="input-group-addon" id=""><i class="fa fa-search"></i></span> -->
+                <div class="input-group-btn">
+                    <button type="submit" class="btn btn-primary"><i class="fa fa-search"></i></button>
+                </div>
+            </div>
+        </form>
+        <div id="search-results">
+            <ul class=""></ul>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- end share modal -->
+	<script>
+		var searchApi = 'https://startuptalky.com/ghost/api/v3/content/posts/?key=' + api_key + '&limit=all&fields=id,title,excerpt,custom_excerpt,url,published_at&formats=plaintext';
+	</script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="/assets/js/bootstrap.min.js?v=f8ab24f360"></script>
+	<script src="/assets/js/plugins.js?v=f8ab24f360"></script>
+	<script src="/assets/js/main.js?v=f8ab24f360"></script>
+	<script src="/assets/js/custom.js?v=f8ab24f360"></script>
+	<!-- pinterest-->
+<meta name="p:domain_verify" content="2e0b5faab2236061ce36e975b5d8bf2c"/>
+<!-- end pinterest -->
+</body>
+
+</html>

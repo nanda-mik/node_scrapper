@@ -1,0 +1,682 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Authors</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<!-- stylesheets -->
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="/assets/css/bootstrap.min.css?v=f8ab24f360">
+	<link rel="stylesheet" type="text/css" href="/assets/css/font-awesome.min.css?v=f8ab24f360">
+	<link rel="stylesheet" type="text/css" href="/assets/css/hl-styles/atom-one-dark.css?v=f8ab24f360">
+	<link rel="stylesheet" type="text/css" href="/assets/css/screen.css?v=f8ab24f360">
+	<link rel="stylesheet" type="text/css" href="/assets/css/custom.css?v=f8ab24f360">
+	<script>
+/*====================================================
+  THEME SETTINGS & GLOBAL VARIABLES
+====================================================*/
+//  1. Disqus comment settings
+var disqus_shortname = 'example'; // required: replace example with your forum shortname
+
+//  2. Fixed navbar
+var fixed_navbar = true;
+
+// 3. Content API key ( it required to search work)
+var api_key = '0a15270b18f5a513dc70dfa252';
+</script>
+	<link rel="shortcut icon" href="/favicon.png" type="image/png" />
+    <link rel="canonical" href="https://startuptalky.com/authors/" />
+    <meta name="referrer" content="no-referrer-when-downgrade" />
+    
+    <meta property="og:site_name" content="StartupTalky" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Authors" />
+    <meta property="og:description" content="StartupTalky is top startup media platform for latest startup news, ideas, industry research and reports, inspiring startup stories." />
+    <meta property="og:url" content="https://startuptalky.com/authors/" />
+    <meta property="article:publisher" content="https://www.facebook.com/startuptalky/" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Authors" />
+    <meta name="twitter:description" content="StartupTalky is top startup media platform for latest startup news, ideas, industry research and reports, inspiring startup stories." />
+    <meta name="twitter:url" content="https://startuptalky.com/authors/" />
+    <meta name="twitter:label1" content="Written by" />
+    <meta name="twitter:data1" content="Shubham Kumar" />
+    <meta name="twitter:site" content="@StartupTalky" />
+    
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name": "StartupTalky",
+        "url": "https://startuptalky.com/",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://static.startuptalky.com/2019/02/StartupTalky_logo-3.png"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Shubham Kumar",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://static.startuptalky.com/2020/06/logo_st.jpg",
+            "width": 400,
+            "height": 400
+        },
+        "sameAs": []
+    },
+    "headline": "Authors",
+    "url": "https://startuptalky.com/authors/",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://startuptalky.com/"
+    }
+}
+    </script>
+
+    <meta name="generator" content="Ghost 3.21" />
+    <link rel="alternate" type="application/rss+xml" title="StartupTalky" href="https://startuptalky.com/rss/" />
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MN965ZD');</script>
+<!-- End Google Tag Manager -->
+
+<meta name="google-site-verification" content="DZU8U9RwDkRaZIsWgzoChUYdSNfLEyO1yn-UGvB4SBI" /><script data-ad-client="ca-pub-6079861242160523" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+</head>
+
+<body class="page-template page-authors">
+	<!-- start header -->
+<header class="site-header" id="main-navbar">
+	<div class="container">
+		<div class="row">
+			<div class="navbar-header">
+				<!-- start logo -->
+				<a class="logo image-logo" href="https://startuptalky.com"><img src="https://static.startuptalky.com/2019/02/StartupTalky_logo-3.png" alt="StartupTalky"></a>
+				<!-- end logo -->
+			</div>
+			<nav class="main-menu hidden-sm hidden-xs" id="main-menu">
+	<ul>
+		<li class="profiles"><a href="https://startuptalky.com/tag/successful-company-profiles/">Profiles</a></li>
+		<li class="insights"><a href="https://startuptalky.com/tag/Insights/">Insights</a></li>
+		<li class="learning"><a href="https://startuptalky.com/tag/learning/">Learning</a></li>
+		<li class="startuptalkers"><a href="https://startuptalky.com/tag/startuptalkers/">StartupTalkers</a></li>
+		<li class="collections"><a href="https://startuptalky.com/tag/collections/">Collections</a></li>
+		<li class="news"><a href="https://startuptalky.com/tag/news/">News</a></li>
+		<li class="events"><a href="https://startuptalky.com/tag/startup-events/">Events</a></li>
+		<li class="contact"><a href="https://startuptalky.com/contact-us/">Contact</a></li>
+	</ul>
+</nav>
+			<div class="nav-right pull-right align-right">
+				<span class="search-toggle" id="search-button" data-toggle="modal" data-target="#searchmodal"><i class="fa fa-search align-center"></i></span>
+				<span class="mobile-menu-toggle hidden-md hidden-lg" id="nav-toggle-button"><i class="fa fa-bars align-center"></i></span>
+			</div>
+			<nav class="mobile-menu visible-sm visible-xs" id="mobile-menu"></nav>
+			<div class="backdrop hidden-md hidden-lg" id="backdrop">
+				<span class="menu-close align-center"><i class="fa fa-arrow-left"></i></span>
+			</div>
+		</div>
+	</div>
+</header>
+<!-- end header -->	
+<!-- start content area -->
+<div class="main-content-area single-post archive-page">
+    <article>
+        <div class="post-head no-image" >
+            <div class="container align-center">
+                <div class="row">
+                    <div class="col-md-offset-1 col-md-10">
+                        <h1 class="title page-title">Authors</h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-offset-1 col-md-10">
+                    <div class="post-content">
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </article>
+    <div class="user-list-wrap">
+        <div class="container">
+            <div class="row is-flex">
+                <div class="col-sm-6 col-md-6 col-xs-12">
+                    <div class="about-author clearfix">
+                            <a href="/author/ashwini/" title="Ashwini"><img src="https://static.startuptalky.com/2019/10/img_8536.jpg" alt="Author image" class="avatar pull-left"></a>
+                        <div class="details">
+                            <h4 class="author h4"><a href="/author/ashwini/">Ashwini</a></h4>
+                            <ul class="meta-info">
+                                <li class="location"><i class="fa fa-map-marker"></i>Maharastra</li>
+                                <li class="post-count"><i class="fa fa-pencil"></i>216 Posts</li>
+                            </ul>
+                        </div>
+                    </div>
+                    </div>
+                <div class="col-sm-6 col-md-6 col-xs-12">
+                    <div class="about-author clearfix">
+                            <a href="/author/startuptalky/" title="Shubham Kumar"><img src="https://static.startuptalky.com/2020/06/logo_st.jpg" alt="Author image" class="avatar pull-left"></a>
+                        <div class="details">
+                            <h4 class="author h4"><a href="/author/startuptalky/">Shubham Kumar</a></h4>
+                            <ul class="meta-info">
+                                <li class="post-count"><i class="fa fa-pencil"></i>183 Posts</li>
+                            </ul>
+                        </div>
+                    </div>
+                    </div>
+                <div class="col-sm-6 col-md-6 col-xs-12">
+                    <div class="about-author clearfix">
+                            <a href="/author/chayanika/" title="Chayanika Goswami"><img src="https://static.startuptalky.com/2019/07/Chayanika-Goswami--StartupTalky--1-.jpg" alt="Author image" class="avatar pull-left"></a>
+                        <div class="details">
+                            <h4 class="author h4"><a href="/author/chayanika/">Chayanika Goswami</a></h4>
+                            <ul class="meta-info">
+                                <li class="location"><i class="fa fa-map-marker"></i>Assam</li>
+                                <li class="post-count"><i class="fa fa-pencil"></i>176 Posts</li>
+                            </ul>
+                        </div>
+                    </div>
+                    </div>
+                <div class="col-sm-6 col-md-6 col-xs-12">
+                    <div class="about-author clearfix">
+                            <a href="/author/rishabhrathi22/" title="Rishabh Rathi"><img src="https://static.startuptalky.com/2020/06/WhatsApp-Image-2020-01-18-at-10.03.34-AM.jpg" alt="Author image" class="avatar pull-left"></a>
+                        <div class="details">
+                            <h4 class="author h4"><a href="/author/rishabhrathi22/">Rishabh Rathi</a></h4>
+                            <div class="bio">
+                                Per-Final Year Computer Science Undergrad and a freelancer. 
+Connect with me on LinkedIn - https://www.linkedin.com/in/rishabhrathi22/
+                            </div>
+                            <ul class="meta-info">
+                                <li class="website"><a href="http://www.rishabhrathi.co/" target="_blank"><i class="fa fa-globe"></i></a></li>
+                                <li class="location"><i class="fa fa-map-marker"></i>Nagpur</li>
+                                <li class="post-count"><i class="fa fa-pencil"></i>166 Posts</li>
+                            </ul>
+                        </div>
+                    </div>
+                    </div>
+                <div class="col-sm-6 col-md-6 col-xs-12">
+                    <div class="about-author clearfix">
+                            <a href="/author/lakshya/" title="Lakshya Singh"><img src="https://static.startuptalky.com/2019/07/Lakshya-Singh--1-.jpg" alt="Author image" class="avatar pull-left"></a>
+                        <div class="details">
+                            <h4 class="author h4"><a href="/author/lakshya/">Lakshya Singh</a></h4>
+                            <div class="bio">
+                                I am a visionary content creator and internet researcher. 
+                            </div>
+                            <ul class="meta-info">
+                                <li><a href="https://www.facebook.com/profile.php?id&#x3D;100004231305157" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                <li class="post-count"><i class="fa fa-pencil"></i>142 Posts</li>
+                            </ul>
+                        </div>
+                    </div>
+                    </div>
+                <div class="col-sm-6 col-md-6 col-xs-12">
+                    <div class="about-author clearfix">
+                            <a href="/author/vidhi/" title="Vidhi Punamiya"><img src="https://static.startuptalky.com/2020/03/vidhi_startuptalker.jpeg" alt="Author image" class="avatar pull-left"></a>
+                        <div class="details">
+                            <h4 class="author h4"><a href="/author/vidhi/">Vidhi Punamiya</a></h4>
+                            <ul class="meta-info">
+                                <li class="location"><i class="fa fa-map-marker"></i>Mumbai</li>
+                                <li class="post-count"><i class="fa fa-pencil"></i>80 Posts</li>
+                            </ul>
+                        </div>
+                    </div>
+                    </div>
+                <div class="col-sm-6 col-md-6 col-xs-12">
+                    <div class="about-author clearfix">
+                            <a href="/author/yash/" title="Yash Gupta"><img src="https://static.startuptalky.com/2020/07/rsz_yash_gupta.jpg" alt="Author image" class="avatar pull-left"></a>
+                        <div class="details">
+                            <h4 class="author h4"><a href="/author/yash/">Yash Gupta</a></h4>
+                            <ul class="meta-info">
+                                <li class="post-count"><i class="fa fa-pencil"></i>68 Posts</li>
+                            </ul>
+                        </div>
+                    </div>
+                    </div>
+                <div class="col-sm-6 col-md-6 col-xs-12">
+                    <div class="about-author clearfix">
+                            <a href="/author/tushar/" title="Parnas Ghosh"><img src="https://static.startuptalky.com/2020/06/rsz_parnas-1.jpg" alt="Author image" class="avatar pull-left"></a>
+                        <div class="details">
+                            <h4 class="author h4"><a href="/author/tushar/">Parnas Ghosh</a></h4>
+                            <ul class="meta-info">
+                                <li class="post-count"><i class="fa fa-pencil"></i>63 Posts</li>
+                            </ul>
+                        </div>
+                    </div>
+                    </div>
+                <div class="col-sm-6 col-md-6 col-xs-12">
+                    <div class="about-author clearfix">
+                            <a href="/author/varad-kitey/" title="Varad Kitey"><img src="https://static.startuptalky.com/2020/04/Profile-.jpg" alt="Author image" class="avatar pull-left"></a>
+                        <div class="details">
+                            <h4 class="author h4"><a href="/author/varad-kitey/">Varad Kitey</a></h4>
+                            <ul class="meta-info">
+                                <li><a href="https://twitter.com/VarradKitey" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="https://www.facebook.com/varrad.kitey.5" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                <li class="location"><i class="fa fa-map-marker"></i>Pune</li>
+                                <li class="post-count"><i class="fa fa-pencil"></i>60 Posts</li>
+                            </ul>
+                        </div>
+                    </div>
+                    </div>
+                <div class="col-sm-6 col-md-6 col-xs-12">
+                    <div class="about-author clearfix">
+                            <a href="/author/piyush/" title="Piyush Mishra"><img src="/assets/images/default-user-image.jpg?v=f8ab24f360" alt="Author image" class="avatar pull-left"></a>
+                        <div class="details">
+                            <h4 class="author h4"><a href="/author/piyush/">Piyush Mishra</a></h4>
+                            <ul class="meta-info">
+                                <li class="post-count"><i class="fa fa-pencil"></i>56 Posts</li>
+                            </ul>
+                        </div>
+                    </div>
+                    </div>
+                <div class="col-sm-6 col-md-6 col-xs-12">
+                    <div class="about-author clearfix">
+                            <a href="/author/devashish/" title="Devashish Shrivastava"><img src="https://static.startuptalky.com/2020/06/rsz_img_4255-1.jpg" alt="Author image" class="avatar pull-left"></a>
+                        <div class="details">
+                            <h4 class="author h4"><a href="/author/devashish/">Devashish Shrivastava</a></h4>
+                            <div class="bio">
+                                I work on optimizing articles (SEO).
+ 
+                            </div>
+                            <ul class="meta-info">
+                                <li><a href="https://www.facebook.com/devashish.shrivastava" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                <li class="location"><i class="fa fa-map-marker"></i>Raipur, Chhattisgarh</li>
+                                <li class="post-count"><i class="fa fa-pencil"></i>56 Posts</li>
+                            </ul>
+                        </div>
+                    </div>
+                    </div>
+                <div class="col-sm-6 col-md-6 col-xs-12">
+                    <div class="about-author clearfix">
+                            <a href="/author/niku/" title="Niku Mandal"><img src="https://static.startuptalky.com/2020/03/My-Pic.jpg" alt="Author image" class="avatar pull-left"></a>
+                        <div class="details">
+                            <h4 class="author h4"><a href="/author/niku/">Niku Mandal</a></h4>
+                            <ul class="meta-info">
+                                <li class="post-count"><i class="fa fa-pencil"></i>50 Posts</li>
+                            </ul>
+                        </div>
+                    </div>
+                    </div>
+                <div class="col-sm-6 col-md-6 col-xs-12">
+                    <div class="about-author clearfix">
+                            <a href="/author/joey/" title="Yash Gupta"><img src="/assets/images/default-user-image.jpg?v=f8ab24f360" alt="Author image" class="avatar pull-left"></a>
+                        <div class="details">
+                            <h4 class="author h4"><a href="/author/joey/">Yash Gupta</a></h4>
+                            <div class="bio">
+                                A management enthusiast, an avid reader, and a traveler. 
+                            </div>
+                            <ul class="meta-info">
+                                <li class="post-count"><i class="fa fa-pencil"></i>39 Posts</li>
+                            </ul>
+                        </div>
+                    </div>
+                    </div>
+                <div class="col-sm-6 col-md-6 col-xs-12">
+                    <div class="about-author clearfix">
+                            <a href="/author/arbaaz/" title="Arbaaz sayed"><img src="https://static.startuptalky.com/2020/06/rsz_arbaaz.jpg" alt="Author image" class="avatar pull-left"></a>
+                        <div class="details">
+                            <h4 class="author h4"><a href="/author/arbaaz/">Arbaaz sayed</a></h4>
+                            <div class="bio">
+                                Content editor at startuptalky
+                            </div>
+                            <ul class="meta-info">
+                                <li class="post-count"><i class="fa fa-pencil"></i>24 Posts</li>
+                            </ul>
+                        </div>
+                    </div>
+                    </div>
+                <div class="col-sm-6 col-md-6 col-xs-12">
+                    <div class="about-author clearfix">
+                            <a href="/author/yash-taneja/" title="Yash Taneja"><img src="https://static.startuptalky.com/2020/06/95801872_249998139538331_5633029241416187904_n.jpg" alt="Author image" class="avatar pull-left"></a>
+                        <div class="details">
+                            <h4 class="author h4"><a href="/author/yash-taneja/">Yash Taneja</a></h4>
+                            <ul class="meta-info">
+                                <li><a href="https://www.facebook.com/yash.taneja.37/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                <li class="location"><i class="fa fa-map-marker"></i>Ujjain, M.P.</li>
+                                <li class="post-count"><i class="fa fa-pencil"></i>24 Posts</li>
+                            </ul>
+                        </div>
+                    </div>
+                    </div>
+                <div class="col-sm-6 col-md-6 col-xs-12">
+                    <div class="about-author clearfix">
+                            <a href="/author/sweta/" title="Sweta"><img src="https://static.startuptalky.com/2020/07/rsz_squarepic_20200714_01223190.jpg" alt="Author image" class="avatar pull-left"></a>
+                        <div class="details">
+                            <h4 class="author h4"><a href="/author/sweta/">Sweta</a></h4>
+                            <div class="bio">
+                                Software engineer, ambitious, passion for writing & a happy go lucky girl!!
+                            </div>
+                            <ul class="meta-info">
+                                <li><a href="https://twitter.com/SwetaSi00713937" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="https://www.facebook.com/profile.php?id&#x3D;100010742856742" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                <li class="location"><i class="fa fa-map-marker"></i>Bihar, India</li>
+                                <li class="post-count"><i class="fa fa-pencil"></i>21 Posts</li>
+                            </ul>
+                        </div>
+                    </div>
+                    </div>
+                <div class="col-sm-6 col-md-6 col-xs-12">
+                    <div class="about-author clearfix">
+                            <a href="/author/avantika/" title="Avantika Bhardwaj"><img src="https://static.startuptalky.com/2020/06/rsz_avantika.jpg" alt="Author image" class="avatar pull-left"></a>
+                        <div class="details">
+                            <h4 class="author h4"><a href="/author/avantika/">Avantika Bhardwaj</a></h4>
+                            <ul class="meta-info">
+                                <li><a href="https://twitter.com/AvantikaBhard19" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="https://www.facebook.com/avantika17200012/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                <li class="location"><i class="fa fa-map-marker"></i>New Delhi,  India </li>
+                                <li class="post-count"><i class="fa fa-pencil"></i>21 Posts</li>
+                            </ul>
+                        </div>
+                    </div>
+                    </div>
+                <div class="col-sm-6 col-md-6 col-xs-12">
+                    <div class="about-author clearfix">
+                            <a href="/author/yash-raj-srivastava/" title="Yash Raj Srivastava"><img src="https://static.startuptalky.com/2020/06/rsz_yash_sri.jpg" alt="Author image" class="avatar pull-left"></a>
+                        <div class="details">
+                            <h4 class="author h4"><a href="/author/yash-raj-srivastava/">Yash Raj Srivastava</a></h4>
+                            <div class="bio">
+                                A fellow at Manipal University Jaipur pursuing Btech in Mechanical Engineering. Content editor and love to explore more
+                            </div>
+                            <ul class="meta-info">
+                                <li><a href="https://www.facebook.com/iamyrs.619" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                <li class="location"><i class="fa fa-map-marker"></i>gurgaon</li>
+                                <li class="post-count"><i class="fa fa-pencil"></i>20 Posts</li>
+                            </ul>
+                        </div>
+                    </div>
+                    </div>
+                <div class="col-sm-6 col-md-6 col-xs-12">
+                    <div class="about-author clearfix">
+                            <a href="/author/disha/" title="Disha"><img src="https://static.startuptalky.com/2020/06/IMG_20200602_233844.jpg" alt="Author image" class="avatar pull-left"></a>
+                        <div class="details">
+                            <h4 class="author h4"><a href="/author/disha/">Disha</a></h4>
+                            <div class="bio">
+                                An inquisitive writer and an impulsive poet currently working as a freelancer writing SEO content. 
+                            </div>
+                            <ul class="meta-info">
+                                <li class="location"><i class="fa fa-map-marker"></i>Bangalore, India</li>
+                                <li class="post-count"><i class="fa fa-pencil"></i>16 Posts</li>
+                            </ul>
+                        </div>
+                    </div>
+                    </div>
+                <div class="col-sm-6 col-md-6 col-xs-12">
+                    <div class="about-author clearfix">
+                            <a href="/author/jeenal/" title="Jeenal Jain"><img src="https://static.startuptalky.com/2020/06/rsz_jeenal.jpg" alt="Author image" class="avatar pull-left"></a>
+                        <div class="details">
+                            <h4 class="author h4"><a href="/author/jeenal/">Jeenal Jain</a></h4>
+                            <ul class="meta-info">
+                                <li class="location"><i class="fa fa-map-marker"></i>Bangalore, India</li>
+                                <li class="post-count"><i class="fa fa-pencil"></i>13 Posts</li>
+                            </ul>
+                        </div>
+                    </div>
+                    </div>
+                <div class="col-sm-6 col-md-6 col-xs-12">
+                    <div class="about-author clearfix">
+                            <a href="/author/himaya/" title="Himaya Presthitha"><img src="https://static.startuptalky.com/2020/06/IMG_20191025_165615-2.jpg" alt="Author image" class="avatar pull-left"></a>
+                        <div class="details">
+                            <h4 class="author h4"><a href="/author/himaya/">Himaya Presthitha</a></h4>
+                            <ul class="meta-info">
+                                <li class="location"><i class="fa fa-map-marker"></i>Chennai, Tamil Nadu.</li>
+                                <li class="post-count"><i class="fa fa-pencil"></i>8 Posts</li>
+                            </ul>
+                        </div>
+                    </div>
+                    </div>
+                <div class="col-sm-6 col-md-6 col-xs-12">
+                    <div class="about-author clearfix">
+                            <a href="/author/ayush/" title="Ayush Varshney"><img src="https://static.startuptalky.com/2020/06/rsz_ayush.jpg" alt="Author image" class="avatar pull-left"></a>
+                        <div class="details">
+                            <h4 class="author h4"><a href="/author/ayush/">Ayush Varshney</a></h4>
+                            <ul class="meta-info">
+                                <li><a href="https://www.facebook.com/ayush.varshney3" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                <li class="location"><i class="fa fa-map-marker"></i>Noida</li>
+                                <li class="post-count"><i class="fa fa-pencil"></i>7 Posts</li>
+                            </ul>
+                        </div>
+                    </div>
+                    </div>
+                <div class="col-sm-6 col-md-6 col-xs-12">
+                    <div class="about-author clearfix">
+                            <a href="/author/krishna/" title="Krishna kumar"><img src="https://static.startuptalky.com/2020/06/rsz_krishna.jpg" alt="Author image" class="avatar pull-left"></a>
+                        <div class="details">
+                            <h4 class="author h4"><a href="/author/krishna/">Krishna kumar</a></h4>
+                            <ul class="meta-info">
+                                <li class="post-count"><i class="fa fa-pencil"></i>6 Posts</li>
+                            </ul>
+                        </div>
+                    </div>
+                    </div>
+                <div class="col-sm-6 col-md-6 col-xs-12">
+                    <div class="about-author clearfix">
+                            <a href="/author/athul/" title="ATHUL C K"><img src="https://static.startuptalky.com/2020/07/rsz_9624ac2662ba120deb74b2d341039030-1-.jpg" alt="Author image" class="avatar pull-left"></a>
+                        <div class="details">
+                            <h4 class="author h4"><a href="/author/athul/">ATHUL C K</a></h4>
+                            <ul class="meta-info">
+                                <li class="post-count"><i class="fa fa-pencil"></i>5 Posts</li>
+                            </ul>
+                        </div>
+                    </div>
+                    </div>
+                <div class="col-sm-6 col-md-6 col-xs-12">
+                    <div class="about-author clearfix">
+                            <a href="/author/aayush-verma/" title="Ayush Verma"><img src="https://static.startuptalky.com/2020/01/Business.jpg" alt="Author image" class="avatar pull-left"></a>
+                        <div class="details">
+                            <h4 class="author h4"><a href="/author/aayush-verma/">Ayush Verma</a></h4>
+                            <div class="bio">
+                                A management enthusiast, an avid reader, and a traveler. 
+                            </div>
+                            <ul class="meta-info">
+                                <li class="location"><i class="fa fa-map-marker"></i>Patna</li>
+                                <li class="post-count"><i class="fa fa-pencil"></i>3 Posts</li>
+                            </ul>
+                        </div>
+                    </div>
+                    </div>
+                <div class="col-sm-6 col-md-6 col-xs-12">
+                    <div class="about-author clearfix">
+                            <a href="/author/avinash/" title="Avinash kumar mahato"><img src="https://static.startuptalky.com/2020/07/rsz_screenshot_2019-02-02-15-04-54.jpg" alt="Author image" class="avatar pull-left"></a>
+                        <div class="details">
+                            <h4 class="author h4"><a href="/author/avinash/">Avinash kumar mahato</a></h4>
+                            <div class="bio">
+                                Hi, I am Avinash Kumar Mahato. I am a Content Writer at Startup Talky. 
+                            </div>
+                            <ul class="meta-info">
+                                <li><a href="https://twitter.com/AVINASH21833660" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="https://www.facebook.com/profile.php?id&#x3D;100009212862546" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                <li class="location"><i class="fa fa-map-marker"></i>Bokaro, Jharkhand, India</li>
+                                <li class="post-count"><i class="fa fa-pencil"></i>3 Posts</li>
+                            </ul>
+                        </div>
+                    </div>
+                    </div>
+                <div class="col-sm-6 col-md-6 col-xs-12">
+                    <div class="about-author clearfix">
+                            <a href="/author/shantanu/" title="Shantanu Sengupta"><img src="https://static.startuptalky.com/2020/07/shantanu.PNG" alt="Author image" class="avatar pull-left"></a>
+                        <div class="details">
+                            <h4 class="author h4"><a href="/author/shantanu/">Shantanu Sengupta</a></h4>
+                            <ul class="meta-info">
+                                <li class="post-count"><i class="fa fa-pencil"></i>1 Post</li>
+                            </ul>
+                        </div>
+                    </div>
+                    </div>
+                <div class="col-sm-6 col-md-6 col-xs-12">
+                    <div class="about-author clearfix">
+                            <a href="/author/gorish/" title="Gorish"><img src="https://static.startuptalky.com/2020/07/Gorish-Dua.jpg" alt="Author image" class="avatar pull-left"></a>
+                        <div class="details">
+                            <h4 class="author h4"><a href="/author/gorish/">Gorish</a></h4>
+                            <div class="bio">
+                                Final Year DUtian | Digital Marketer | Netflix lover | Connect with me on Linkedin: https://www.linkedin.com/in/gorish-dua-147700185/
+                            </div>
+                            <ul class="meta-info">
+                                <li><a href="https://www.facebook.com/profile.php?id&#x3D;100006449832409" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                <li class="location"><i class="fa fa-map-marker"></i>Gurgaon</li>
+                                <li class="post-count"><i class="fa fa-pencil"></i>1 Post</li>
+                            </ul>
+                        </div>
+                    </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end content area -->
+	<!-- start footer -->
+<footer class="site-footer">
+    <div class="footer-top">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-4">
+                    <!-- start recent post widget -->
+<div class="widget">
+	<h4 class="widget-title h6">Recent Post</h4>
+	<div class="content recent-post">
+		<div class="recent-single-post clearfix have-image">
+			<a href="/best-things-leaders-do/">
+					<div class="post-thumb pull-left" style="background-image: url(https://static.startuptalky.com/2020/07/leaders_startuptalky.jpg);"></div>
+			</a>
+			<div class="post-info">
+				<h4 class="post-title"><a href="/best-things-leaders-do/">Being A Rockstar In Your Company Is A Matter Of 10 Best Things Leaders Do Every Day</a></h4>
+				<div class="date"><a href="/best-things-leaders-do/">July 29, 2020</a></div>
+			</div>
+		</div>
+		<div class="recent-single-post clearfix have-image">
+			<a href="/best-business-ideas-2020/">
+					<div class="post-thumb pull-left" style="background-image: url(https://static.startuptalky.com/2020/07/Top-Business-Ideas_Startuptalky.jpg);"></div>
+			</a>
+			<div class="post-info">
+				<h4 class="post-title"><a href="/best-business-ideas-2020/">Best Business Ideas To Try In 2020</a></h4>
+				<div class="date"><a href="/best-business-ideas-2020/">July 29, 2020</a></div>
+			</div>
+		</div>
+		<div class="recent-single-post clearfix have-image">
+			<a href="/porsche-case-study-analysis/">
+					<div class="post-thumb pull-left" style="background-image: url(https://static.startuptalky.com/2020/07/Porsche-case-study_startuptalky.jpg);"></div>
+			</a>
+			<div class="post-info">
+				<h4 class="post-title"><a href="/porsche-case-study-analysis/">Porsche Case Study- Analysis About Its Business Model</a></h4>
+				<div class="date"><a href="/porsche-case-study-analysis/">July 29, 2020</a></div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- end widget -->                </div>
+                <div class="col-sm-4">
+                    <!-- start tag widget -->
+<div class="widget">
+	<h4 class="widget-title h6">Tag Cloud</h4>
+	<div class="content tagcloud">
+		<a href="/tag/semrush-site-audit-or-seo-resume-job/">&quot;semrush&quot; &quot;site audit&quot; or seo -resume -job</a><a href="/tag/10-cold-calling-tips-and-tricks/">10 Cold Calling Tips and Tricks</a><a href="/tag/10-minute-loan-app/">10 minute loan app</a><a href="/tag/10-no-code-platforms/">10 no code platforms</a><a href="/tag/10-skills-every-entrepreneur-should-have/">10 skills every entrepreneur should have</a><a href="/tag/10-steps-to-ultimate-guide-of-writing-business-plan/">10 Steps To Ultimate Guide Of Writing Business Plan</a><a href="/tag/10-times/">10 times</a><a href="/tag/10-ways-to-make-tough-decisions-faster-in-your-startup/">10 Ways To Make Tough Decisions Faster In Your Startup</a><a href="/tag/100pillars-constructions/">100Pillars Constructions</a><a href="/tag/1010-data/">1010 data</a><a href="/tag/11-online/">11 online</a><a href="/tag/111-startups/">111 startups</a>
+	</div>
+</div>
+<!-- end tag widget -->                                    </div>
+                <div class="col-sm-4">
+                    <!-- start tag widget -->
+<div class="widget">
+	<h4 class="widget-title h6">About StartupTalky</h4>
+	<div class="content about">
+		<p>
+			StartupTalky is India’s leading media platform for entrepreneurs to read and share startup stories, startup news,
+			research reports and start events. Connect with us to share your opinions and learnings with fellow
+			StartupTalkers.
+		</p>
+	</div>
+	<div>
+		<ul style="list-style: none; padding: 0;">
+			<li style="padding: 5px 5px 5px 2px; cursor: pointer;">
+				<a href="/copyright">Copyright</a>
+			</li>
+			<li style="padding: 5px 5px 5px 2px; cursor: pointer;">
+				<a href="/privacy-policy">Privacy Policy</a>
+			</li>
+			<li style="padding: 5px 5px 5px 2px; cursor: pointer;">
+				<a href="/contact-us">Contact Us</a>
+			</li>
+			<li style="padding: 5px 5px 5px 2px; cursor: pointer;">
+				<a href="/about-us">About us</a>
+			</li>
+			<li style="padding: 5px 5px 5px 2px; cursor: pointer;">
+				<a href="/startuptalky-contributor">Become a contributor</a>
+			</li>
+			<li style="padding: 5px 5px 5px 2px; cursor: pointer;">
+				<a href="/sitemap.xml">Sitemap</a>
+			</li>
+		</ul>
+	</div>
+</div>
+<!-- end tag widget -->                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-bottom">
+		<div class="container">
+            <div class="footer-bottom-wrap clearfix">
+                <div class="social-links-wrap">
+                    <ul class="social-links">
+    <li><a href="https://www.facebook.com/startuptalky/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+    <li><a href="https://twitter.com/startuptalky" target="_blank"><i class="fa fa-twitter"></i></a></li>
+    <li><a href="https://www.instagram.com/startup_talky/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+    <li><a href="https://www.linkedin.com/company/14405761" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+    <li><a href="https://startuptalky.com/rss/"><i class="fa fa-rss"></i></a></li>
+</ul>                </div>
+                <div class="copyright-info">
+                    &copy; 2020 <a href="https://startuptalky.com">StartupTalky</a>. All rights Reserved.
+                </div>
+            </div>
+		</div>
+	</div>
+</footer>
+<!-- end footer -->
+<span class="back-to-top pull-right" id="back-to-top"><i class="fa fa-angle-up"></i></span>
+<!-- start share modal -->
+<div class="modal" id="searchmodal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title align-center" id="myModalLabel">Search</h4>
+      </div>
+      <div class="modal-body">
+        <form id="search-form">
+            <div class="input-group url-wrap">
+                
+                <input type="text" id="search-input" class="form-control" spellcheck="false" placeholder="Type to Search ...">
+                <!-- <span class="input-group-addon" id=""><i class="fa fa-search"></i></span> -->
+                <div class="input-group-btn">
+                    <button type="submit" class="btn btn-primary"><i class="fa fa-search"></i></button>
+                </div>
+            </div>
+        </form>
+        <div id="search-results">
+            <ul class=""></ul>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- end share modal -->
+	<script>
+		var searchApi = 'https://startuptalky.com/ghost/api/v3/content/posts/?key=' + api_key + '&limit=all&fields=id,title,excerpt,custom_excerpt,url,published_at&formats=plaintext';
+	</script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="/assets/js/bootstrap.min.js?v=f8ab24f360"></script>
+	<script src="/assets/js/plugins.js?v=f8ab24f360"></script>
+	<script src="/assets/js/main.js?v=f8ab24f360"></script>
+	<script src="/assets/js/custom.js?v=f8ab24f360"></script>
+	<!-- pinterest-->
+<meta name="p:domain_verify" content="2e0b5faab2236061ce36e975b5d8bf2c"/>
+<!-- end pinterest -->
+</body>
+
+</html>

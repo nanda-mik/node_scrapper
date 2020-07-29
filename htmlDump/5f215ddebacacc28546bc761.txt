@@ -1,0 +1,502 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>How to Advertise on Quora in 5 Simple steps</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<!-- stylesheets -->
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="/assets/css/bootstrap.min.css?v=f8ab24f360">
+	<link rel="stylesheet" type="text/css" href="/assets/css/font-awesome.min.css?v=f8ab24f360">
+	<link rel="stylesheet" type="text/css" href="/assets/css/hl-styles/atom-one-dark.css?v=f8ab24f360">
+	<link rel="stylesheet" type="text/css" href="/assets/css/screen.css?v=f8ab24f360">
+	<link rel="stylesheet" type="text/css" href="/assets/css/custom.css?v=f8ab24f360">
+	<script>
+/*====================================================
+  THEME SETTINGS & GLOBAL VARIABLES
+====================================================*/
+//  1. Disqus comment settings
+var disqus_shortname = 'example'; // required: replace example with your forum shortname
+
+//  2. Fixed navbar
+var fixed_navbar = true;
+
+// 3. Content API key ( it required to search work)
+var api_key = '0a15270b18f5a513dc70dfa252';
+</script>
+	<meta name="description" content="If you are looking out to how to advertise on Quora then Follow these 5 simple steps and get started with advertising on Quora. You can employ Quora advertising to reach a bigger audience." />
+    <link rel="shortcut icon" href="/favicon.png" type="image/png" />
+    <link rel="canonical" href="https://startuptalky.com/how-advertise-quora-simple-steps/" />
+    <meta name="referrer" content="no-referrer-when-downgrade" />
+    
+    <meta property="og:site_name" content="StartupTalky" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="How to Advertise on Quora in 5 Simple steps" />
+    <meta property="og:description" content="If you are looking out to how to advertise on Quora then Follow these 5 simple steps and get started with advertising on Quora. You can employ Quora advertising to reach a bigger audience." />
+    <meta property="og:url" content="https://startuptalky.com/how-advertise-quora-simple-steps/" />
+    <meta property="og:image" content="https://static.startuptalky.com/2020/07/Quora-advertising_Startuptalky--1-.jpg" />
+    <meta property="article:published_time" content="2020-07-27T18:03:13.000Z" />
+    <meta property="article:modified_time" content="2020-07-28T02:46:05.000Z" />
+    <meta property="article:tag" content="Quora advertising" />
+    <meta property="article:tag" content="advertising" />
+    <meta property="article:tag" content="Quora" />
+    <meta property="article:tag" content="cost per click Advertising" />
+    
+    <meta property="article:publisher" content="https://www.facebook.com/startuptalky/" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="How to Advertise on Quora in 5 Simple steps" />
+    <meta name="twitter:description" content="If you are looking out to how to advertise on Quora then Follow these 5 simple steps and get started with advertising on Quora. You can employ Quora advertising to reach a bigger audience." />
+    <meta name="twitter:url" content="https://startuptalky.com/how-advertise-quora-simple-steps/" />
+    <meta name="twitter:image" content="https://static.startuptalky.com/2020/07/Quora-advertising_Startuptalky--1-.jpg" />
+    <meta name="twitter:label1" content="Written by" />
+    <meta name="twitter:data1" content="Arbaaz sayed" />
+    <meta name="twitter:label2" content="Filed under" />
+    <meta name="twitter:data2" content="Quora advertising, advertising, Quora, cost per click Advertising" />
+    <meta name="twitter:site" content="@StartupTalky" />
+    <meta property="og:image:width" content="800" />
+    <meta property="og:image:height" content="450" />
+    
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name": "StartupTalky",
+        "url": "https://startuptalky.com/",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://static.startuptalky.com/2019/02/StartupTalky_logo-3.png"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Arbaaz sayed",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://static.startuptalky.com/2020/06/rsz_arbaaz.jpg",
+            "width": 100,
+            "height": 100
+        },
+        "url": "https://startuptalky.com/author/arbaaz/",
+        "sameAs": []
+    },
+    "headline": "How to Advertise on Quora in 5 Simple steps",
+    "url": "https://startuptalky.com/how-advertise-quora-simple-steps/",
+    "datePublished": "2020-07-27T18:03:13.000Z",
+    "dateModified": "2020-07-28T02:46:05.000Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://static.startuptalky.com/2020/07/Quora-advertising_Startuptalky--1-.jpg",
+        "width": 800,
+        "height": 450
+    },
+    "keywords": "Quora advertising, advertising, Quora, cost per click Advertising",
+    "description": "Advertising is a crucial part of marketing. Advertising is a purpose to inform\nthe consumers about your product. There are many Advertising platforms, Google\nAd, LinkedIn and Facebook. Lately Quora has also entered this market. Quora now\noffers cheap Ads at Cost per click basis. You can employ Quora advertising to\nreach a bigger audience who are already looking for answers to questions that\nrelate to your business or industry.\n\nWhat is Quora Advertising?\nQuora is a self service platform. Any adv",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://startuptalky.com/"
+    }
+}
+    </script>
+
+    <meta name="generator" content="Ghost 3.21" />
+    <link rel="alternate" type="application/rss+xml" title="StartupTalky" href="https://startuptalky.com/rss/" />
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MN965ZD');</script>
+<!-- End Google Tag Manager -->
+
+<meta name="google-site-verification" content="DZU8U9RwDkRaZIsWgzoChUYdSNfLEyO1yn-UGvB4SBI" /><script data-ad-client="ca-pub-6079861242160523" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+</head>
+
+<body class="post-template tag-quora-advertising tag-advertising tag-quora tag-cost-per-click-advertising">
+	<!-- start header -->
+<header class="site-header" id="main-navbar">
+	<div class="container">
+		<div class="row">
+			<div class="navbar-header">
+				<!-- start logo -->
+				<a class="logo image-logo" href="https://startuptalky.com"><img src="https://static.startuptalky.com/2019/02/StartupTalky_logo-3.png" alt="StartupTalky"></a>
+				<!-- end logo -->
+			</div>
+			<nav class="main-menu hidden-sm hidden-xs" id="main-menu">
+	<ul>
+		<li class="profiles"><a href="https://startuptalky.com/tag/successful-company-profiles/">Profiles</a></li>
+		<li class="insights"><a href="https://startuptalky.com/tag/Insights/">Insights</a></li>
+		<li class="learning"><a href="https://startuptalky.com/tag/learning/">Learning</a></li>
+		<li class="startuptalkers"><a href="https://startuptalky.com/tag/startuptalkers/">StartupTalkers</a></li>
+		<li class="collections"><a href="https://startuptalky.com/tag/collections/">Collections</a></li>
+		<li class="news"><a href="https://startuptalky.com/tag/news/">News</a></li>
+		<li class="events"><a href="https://startuptalky.com/tag/startup-events/">Events</a></li>
+		<li class="contact"><a href="https://startuptalky.com/contact-us/">Contact</a></li>
+	</ul>
+</nav>
+			<div class="nav-right pull-right align-right">
+				<span class="search-toggle" id="search-button" data-toggle="modal" data-target="#searchmodal"><i class="fa fa-search align-center"></i></span>
+				<span class="mobile-menu-toggle hidden-md hidden-lg" id="nav-toggle-button"><i class="fa fa-bars align-center"></i></span>
+			</div>
+			<nav class="mobile-menu visible-sm visible-xs" id="mobile-menu"></nav>
+			<div class="backdrop hidden-md hidden-lg" id="backdrop">
+				<span class="menu-close align-center"><i class="fa fa-arrow-left"></i></span>
+			</div>
+		</div>
+	</div>
+</header>
+<!-- end header -->	
+<!-- start content area -->
+<div class="main-content-area single-post">
+	<article>
+		<div class="post-head"
+			style="background-image:url(https://static.startuptalky.com/2020/07/Quora-advertising_Startuptalky--1-.jpg);" >
+			<div class="container align-center">
+				<div class="row">
+					<div class="col-md-offset-1 col-md-10">
+
+						<h1 class="title">How to Advertise on Quora in 5 Simple steps</h1>
+
+						<div class="post-meta">
+							<a class="author" href="/author/arbaaz/" rel="author">
+								<span class="name">Arbaaz sayed</span>
+							</a>
+							<time class="time" datetime="2020-07-27 23:07:00"
+								itemprop="datePublished">July 27, 2020</time>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="share-wrap clearfix align-center">
+	<div class="share-text h5">Share this article</div>
+	<ul class="share-links">
+		<!-- facebook -->
+		<li>
+			<a class="facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://startuptalky.com/how-advertise-quora-simple-steps/" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;" title="Share on Facebook"><i class="fa fa-facebook"></i>Facebook</a>
+		</li>
+		<!-- twitter -->
+		<li>
+			<a class="twitter" href="https://twitter.com/share?text=How%20to%20Advertise%20on%20Quora%20in%205%20Simple%20steps&amp;url=https://startuptalky.com/how-advertise-quora-simple-steps/" onclick="window.open(this.href, 'twitter-share', 'width=580,height=296');return false;" title="Share on Twitter"><i class="fa fa-twitter"></i>Twitter</a>
+		</li>
+		<!-- linkedin -->
+		<li>
+			<a class="linkedin" href="http://www.linkedin.com/shareArticle?mini=true&url=https://startuptalky.com/how-advertise-quora-simple-steps/&title=How%20to%20Advertise%20on%20Quora%20in%205%20Simple%20steps" onclick="window.open(this.href, 'linkedin-share', 'width=580,height=296');return false;" title="Share on Linkedin"><i class="fa fa-linkedin"></i>Linkedin</a>
+		</li>
+		<!-- pinterest -->
+		<li>
+			<a class="pinterest" href="http://pinterest.com/pin/create/button/?url=https://startuptalky.com/how-advertise-quora-simple-steps/&description=How%20to%20Advertise%20on%20Quora%20in%205%20Simple%20steps" onclick="window.open(this.href, 'linkedin-share', 'width=580,height=296');return false;" title="Share on Pinterest"><i class="fa fa-pinterest"></i>Pinterest</a>
+		</li>
+	</ul>
+</div>				<div class="col-md-9 col-xs-12">
+					<div class="post-content">
+						<p><strong>Advertising</strong> is a crucial part of marketing. <strong>Advertising</strong> is a purpose to inform the consumers about your product. There are many Advertising platforms, Google Ad, LinkedIn and Facebook. Lately <strong>Quora</strong> has also entered this market. <strong>Quora</strong> now offers cheap Ads at Cost per click basis. You can employ <strong>Quora advertising</strong> to reach a bigger audience who are already looking for answers to questions that relate to your business or industry.</p><h2 id="what-is-quora-advertising">What is Quora Advertising?</h2><p>Quora is a self service platform. Any advertiser can run ads on quora. Quora enables advertisers to target specific topics and questions on Quora, as well as create and target audiences based on pixel data (behavioral targeting).</p><h2 id="how-to-advertise-on-quora-in-5-simple-steps">How to Advertise on Quora in 5 Simple steps</h2><h3 id="1-get-started">1. Get started</h3><p>To get started with advertising you need to visit Quora.com/business and Click on Start now. After you click on start now you will be asked to log into your account. </p><p>After you sign in to your account fill in your business details and click on create account. Your Quora advertising account will be created.</p><h3 id="2-create-campaign">2. Create Campaign</h3><p>Once you create your advertising account Ads manager page will be displayed. Now You are all set to Create your first campaign. To create your first ad campaign Click on Create Campaign.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://static.startuptalky.com/2020/07/Quora-advertising_Startuptalky--2-.png" class="kg-image" alt="quora advertising" width="800" height="450"><figcaption><strong>Create Campaign</strong></figcaption></figure><p>The ads manager page will be displayed. Fill in the details like Name of your campaign, objective, budget and the Schedule. You can either prefer to start your campaign immediately or can set a start and end date. </p><h3 id="3-create-an-ad-set">3. Create an Ad Set</h3><p>Once your done with setting up the campaign, you have to create an Ad set. Ad Set is the Audience your targeting and how much you will bid for it.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://static.startuptalky.com/2020/07/Quora-advertising_Startuptalky--3-.png" class="kg-image" alt="quora advertising" width="800" height="450"><figcaption><strong>Create Ad Set</strong></figcaption></figure><p>Add a name to your ad set. There are two types of targeting topic targeting and audience targeting. </p><p><strong>Topic targeting-</strong>  You can use topic targeting to reach your target audience with Topics relevant to your business. Topic targeting is widely used for targeting on Quora Ads.</p><p><strong>Audience targeting- </strong>You can use audience targeting to target who or the type of user, that sees your ad on Quora.</p><p>You can choose to show your ads on mobile or desktop. You can also Exclude certain locations where you don't want to target the audience.</p><p>Set a bid on Cost per Click Bid. Cost-per-click (CPC) bidding means that you pay for each click on your ads.</p><hr><figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="https://startuptalky.com/quora-marketing-guide/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">The Ultimate Guide on using Quora for Marketing | Quora Marketing</div><div class="kg-bookmark-description">Marketing on Quora brings a lot of traffic which converts like crazy. The
+Internet is a great place for brands and businesses to connect with their
+audience. Social networks. Bookmarking site and discussion forums have greatly
+helped us to keep building our brand visibility regular promote goodwill …</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="https://startuptalky.com/favicon.png"><span class="kg-bookmark-author">Parnas Ghosh</span><span class="kg-bookmark-publisher">StartupTalky</span></div></div><div class="kg-bookmark-thumbnail"><img src="https://static.startuptalky.com/2019/11/Quora-business-guide-startuptalky.png"></div></a></figure><hr><h3 id="4-create-a-new-ad">4.  Create a new Ad</h3><p>Now you have to create the ad. Add all the details required to create your ad. On the right side you can see your Ad preview. </p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://static.startuptalky.com/2020/07/Quora-advertising_Startuptalky--4-.png" class="kg-image" alt="quora advertising" width="800" height="450"><figcaption><strong>Create an Ad</strong></figcaption></figure><h3 id="5-review-your-ads">5. Review your Ads</h3><p>Review your Ad and Add the suitable payment method. Once you add the Payment method just hit complete order and your campaign will start. </p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://static.startuptalky.com/2020/07/Quora-advertising_Startuptalky--5-.png" class="kg-image" alt="quora advertising" width="800" height="450"><figcaption><strong>Review your Ad</strong></figcaption></figure><hr><figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="https://startuptalky.com/best-storytelling-ads/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">List Of Best Storytelling Ads | Mercedes,Travelers Tops ’Best Storytelling Ads”</div><div class="kg-bookmark-description">We have been telling stories forever and our brains have evolved to love them
+eventually because a story tends to make information way more memorable. Now, we
+have harnessed the power of storytelling power for marketing. These best
+storytelling ads tell not only real-life stories but, historical tal…</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="https://startuptalky.com/favicon.png"><span class="kg-bookmark-author">Avantika Bhardwaj</span><span class="kg-bookmark-publisher">StartupTalky</span></div></div><div class="kg-bookmark-thumbnail"><img src="https://static.startuptalky.com/2020/07/storytelling-ads_startuptalky.jpg"></div></a></figure><hr><p>This is how your Ad will be displayed on Quora.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://static.startuptalky.com/2020/07/Quora-advertising-final_Startuptalky.png" class="kg-image" alt="quora" width="800" height="450"><figcaption><strong>Ad Displayed on website</strong></figcaption></figure><p>You can manage and Review yours Ads using Ads manager.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://static.startuptalky.com/2020/07/Quora-advertising-Review_Startuptalky.png" class="kg-image" alt="quora advertising" width="800" height="450"><figcaption><strong>Manage your Ads</strong></figcaption></figure><h2 id="quora-advertising-cost">Quora Advertising Cost</h2><p>The advertising cost on quora is different than other advertising platforms. Quora Ads are priced on a cost-per-click (CPC) basis, so the cost you pay for an ad is determined by your CPC bid(highest bids gets priority) and other factors.</p><p>When you first start running ads on Quora, you will be charged when you hit your billing threshold, or on the first day of the following month. Billing threshold is 25$, so as you hit 25$ you will be charged by quora. If your account spends 20$ in a month nothing is charged to the account and you will be charged on the first day of the following month.</p><p>Advertising on Quora is not as effective compared to other advertising platforms, Linked in or Facebook. The cost of the Ads on quora is also much cheaper than other advertising platforms. Quora Ads are priced on a cost-per-click (CPC) basis which is quite affordable than other advertising platforms.</p>
+					</div>
+					<div class="post-tags tagcloud">
+						<b>Tags</b>&nbsp;&nbsp;<a href="/tag/quora-advertising/">Quora advertising</a><a href="/tag/advertising/">advertising</a><a href="/tag/quora/">Quora</a><a href="/tag/cost-per-click-advertising/">cost per click Advertising</a>
+					</div>
+					<div class="subscribe-box-wrap">
+											</div>
+					<div class="about-author-wrap">
+						<!-- start about the author -->
+<div class="about-author clearfix">
+		<a href="/author/arbaaz/" title="Arbaaz sayed"><img src="https://static.startuptalky.com/2020/06/rsz_arbaaz.jpg" alt="Author image" class="avatar pull-left"></a>
+	<div class="details">
+		<h4 class="author h4">About <a href='/author/arbaaz/'>Arbaaz sayed</a></h4>
+		<div class="bio">
+			Content editor at startuptalky
+		</div>
+		<ul class="meta-info">
+		</ul>
+	</div>
+</div>
+<!-- end about the author -->					</div>
+					<div class="prev-next-wrap has-next has-prev">
+	<div class="row is-flex">
+		<div class="col-sm-6 col-xs-12">
+			<article class="post post-card">
+				<div class="prev-next-link align-center">
+					<a class="" href="https://startuptalky.com/hire-freelance-graphic-designer/">Previous Post</a>
+				</div>
+				<a href="https://startuptalky.com/hire-freelance-graphic-designer/" class="permalink">
+					<div class="featured-image" style="background-image: url(https://static.startuptalky.com/2020/04/How-to-Hire-A-Freelance-Graphic-Designer--1-.png)"></div>
+				</a>
+				<div class="content-wrap">
+					<div class="entry-header align-center">
+						
+						<h3 class="title h4"><a href="https://startuptalky.com/hire-freelance-graphic-designer/" rel="bookmark">The A-Z Guide of How to Hire A Freelance Graphic Designer</a></h3>
+					</div>
+					<div class="entry-footer clearfix">
+						<div class="author">
+							<a href="/author/joey/" rel="author">
+								<img class="avatar" src="" alt="avatar">
+								<span class="name">Yash Gupta</span>
+							</a>
+						</div>
+						<div class="published-date">
+							<time class="time" datetime="2020-07-27 18:07:00">July 27, 2020</time>
+						</div>
+					</div>
+				</div>
+			</article>
+		</div>
+		<div class="col-sm-6 col-xs-12">
+			<article class="post post-card">
+				<div class="prev-next-link align-center">
+					<a class="" href="https://startuptalky.com/best-storytelling-ads/">Next Post</a>
+				</div>
+				<a href="https://startuptalky.com/best-storytelling-ads/" class="permalink">
+					<div class="featured-image" style="background-image: url(https://static.startuptalky.com/2020/07/storytelling-ads_startuptalky.jpg)"></div>
+				</a>
+				<div class="content-wrap">
+					<div class="entry-header align-center">
+						
+						<h3 class="title h4"><a href="https://startuptalky.com/best-storytelling-ads/" rel="bookmark">Incredible List Of Top 10 Best Storytelling Ads</a></h3>
+					</div>
+					<div class="entry-footer clearfix">
+						<div class="author">
+							<a href="/author/avantika/" rel="author">
+								<img class="avatar" src="https://static.startuptalky.com/2020/06/rsz_avantika.jpg" alt="avatar">
+								<span class="name">Avantika Bhardwaj</span>
+							</a>
+						</div>
+						<div class="published-date">
+							<time class="time" datetime="2020-07-27 23:07:00">July 27, 2020</time>
+						</div>
+					</div>
+				</div>
+			</article>
+		</div>
+	</div>
+</div>					<div class="comment-wrap">
+						<div class="fb-comments" data-href="https://startuptalky.com/how-advertise-quora-simple-steps" data-numposts="5"></div>
+					</div>
+				</div>
+				<div class="col-md-3 col-xs-12">
+					<div class="hidden-xs">
+						<!-- start recent post widget -->
+<div class="widget">
+	<h4 class="widget-title h6">Recent Post</h4>
+	<div class="content recent-post">
+		<div class="recent-single-post clearfix have-image">
+			<a href="/rise-of-no-code-platform/">
+					<div class="post-thumb pull-left" style="background-image: url(https://static.startuptalky.com/2020/07/Rise-Of-No-Code-Platform-startuptalky-1.jpg);"></div>
+			</a>
+			<div class="post-info">
+				<h4 class="post-title"><a href="/rise-of-no-code-platform/">Best No-Code Development Platforms | Why No-Code? | Benefits of No-Code Platforms</a></h4>
+				<div class="date"><a href="/rise-of-no-code-platform/">July 29, 2020</a></div>
+			</div>
+		</div>
+		<div class="recent-single-post clearfix have-image">
+			<a href="/blockonomics-success-story/">
+					<div class="post-thumb pull-left" style="background-image: url(https://static.startuptalky.com/2020/07/Blockonomics---Bitccoin-Payment-Processing-Platform.jpg);"></div>
+			</a>
+			<div class="post-info">
+				<h4 class="post-title"><a href="/blockonomics-success-story/">Blockonomics - Simplifying Bitcoin Transactions</a></h4>
+				<div class="date"><a href="/blockonomics-success-story/">July 29, 2020</a></div>
+			</div>
+		</div>
+		<div class="recent-single-post clearfix have-image">
+			<a href="/reasons-to-hire-business-consultant/">
+					<div class="post-thumb pull-left" style="background-image: url(https://static.startuptalky.com/2020/07/5-Reasons-Why-your-startup-Needs-Business-Consultant_startuptalky.jpg);"></div>
+			</a>
+			<div class="post-info">
+				<h4 class="post-title"><a href="/reasons-to-hire-business-consultant/">5 Reasons Why your Business Needs Business Consultant</a></h4>
+				<div class="date"><a href="/reasons-to-hire-business-consultant/">July 28, 2020</a></div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- end widget -->					</div>
+					<!-- Appsumo -->
+					<div style="margin: 20px 0px">
+						<a href="https://appsumo.8odi.net/gnJWg" target="_blank"><img src="https://static.startuptalky.com/sumo.png" alt=""></a>
+					</div>
+					<!-- Semrush -->
+					<!-- Wishpond embed code -->
+					<script type="text/javascript"
+						src="//cdn.wishpond.net/connect.js?merchantId=1502107&writeKey=321d46968c23" async></script>
+					<div class="wishpond-campaign" data-wishpond-id="2513483"
+						data-wishpond-href="https://embedded.wishpondpages.com/lp/2513483/"></div>
+
+					<!-- Media.net embed code -->
+					<div id="938307776">
+						<script type="text/javascript">
+							try {
+								window._mNHandle.queue.push(function () {
+									window._mNDetails.loadTag("938307776", "300x250", "938307776");
+								});
+							}
+							catch (error) { }
+						</script>
+					</div>
+
+					
+				</div>
+			</div>
+		</div>
+	</article>
+</div>
+<!-- end content area -->
+	<!-- start footer -->
+<footer class="site-footer">
+    <div class="footer-top">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-4">
+                    <!-- start recent post widget -->
+<div class="widget">
+	<h4 class="widget-title h6">Recent Post</h4>
+	<div class="content recent-post">
+		<div class="recent-single-post clearfix have-image">
+			<a href="/rise-of-no-code-platform/">
+					<div class="post-thumb pull-left" style="background-image: url(https://static.startuptalky.com/2020/07/Rise-Of-No-Code-Platform-startuptalky-1.jpg);"></div>
+			</a>
+			<div class="post-info">
+				<h4 class="post-title"><a href="/rise-of-no-code-platform/">Best No-Code Development Platforms | Why No-Code? | Benefits of No-Code Platforms</a></h4>
+				<div class="date"><a href="/rise-of-no-code-platform/">July 29, 2020</a></div>
+			</div>
+		</div>
+		<div class="recent-single-post clearfix have-image">
+			<a href="/blockonomics-success-story/">
+					<div class="post-thumb pull-left" style="background-image: url(https://static.startuptalky.com/2020/07/Blockonomics---Bitccoin-Payment-Processing-Platform.jpg);"></div>
+			</a>
+			<div class="post-info">
+				<h4 class="post-title"><a href="/blockonomics-success-story/">Blockonomics - Simplifying Bitcoin Transactions</a></h4>
+				<div class="date"><a href="/blockonomics-success-story/">July 29, 2020</a></div>
+			</div>
+		</div>
+		<div class="recent-single-post clearfix have-image">
+			<a href="/reasons-to-hire-business-consultant/">
+					<div class="post-thumb pull-left" style="background-image: url(https://static.startuptalky.com/2020/07/5-Reasons-Why-your-startup-Needs-Business-Consultant_startuptalky.jpg);"></div>
+			</a>
+			<div class="post-info">
+				<h4 class="post-title"><a href="/reasons-to-hire-business-consultant/">5 Reasons Why your Business Needs Business Consultant</a></h4>
+				<div class="date"><a href="/reasons-to-hire-business-consultant/">July 28, 2020</a></div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- end widget -->                </div>
+                <div class="col-sm-4">
+                    <!-- start tag widget -->
+<div class="widget">
+	<h4 class="widget-title h6">Tag Cloud</h4>
+	<div class="content tagcloud">
+		<a href="/tag/semrush-site-audit-or-seo-resume-job/">&quot;semrush&quot; &quot;site audit&quot; or seo -resume -job</a><a href="/tag/10-cold-calling-tips-and-tricks/">10 Cold Calling Tips and Tricks</a><a href="/tag/10-minute-loan-app/">10 minute loan app</a><a href="/tag/10-no-code-platforms/">10 no code platforms</a><a href="/tag/10-skills-every-entrepreneur-should-have/">10 skills every entrepreneur should have</a><a href="/tag/10-steps-to-ultimate-guide-of-writing-business-plan/">10 Steps To Ultimate Guide Of Writing Business Plan</a><a href="/tag/10-times/">10 times</a><a href="/tag/10-ways-to-make-tough-decisions-faster-in-your-startup/">10 Ways To Make Tough Decisions Faster In Your Startup</a><a href="/tag/100pillars-constructions/">100Pillars Constructions</a><a href="/tag/1010-data/">1010 data</a><a href="/tag/11-online/">11 online</a><a href="/tag/111-startups/">111 startups</a>
+	</div>
+</div>
+<!-- end tag widget -->                                    </div>
+                <div class="col-sm-4">
+                    <!-- start tag widget -->
+<div class="widget">
+	<h4 class="widget-title h6">About StartupTalky</h4>
+	<div class="content about">
+		<p>
+			StartupTalky is India’s leading media platform for entrepreneurs to read and share startup stories, startup news,
+			research reports and start events. Connect with us to share your opinions and learnings with fellow
+			StartupTalkers.
+		</p>
+	</div>
+	<div>
+		<ul style="list-style: none; padding: 0;">
+			<li style="padding: 5px 5px 5px 2px; cursor: pointer;">
+				<a href="/copyright">Copyright</a>
+			</li>
+			<li style="padding: 5px 5px 5px 2px; cursor: pointer;">
+				<a href="/privacy-policy">Privacy Policy</a>
+			</li>
+			<li style="padding: 5px 5px 5px 2px; cursor: pointer;">
+				<a href="/contact-us">Contact Us</a>
+			</li>
+			<li style="padding: 5px 5px 5px 2px; cursor: pointer;">
+				<a href="/about-us">About us</a>
+			</li>
+			<li style="padding: 5px 5px 5px 2px; cursor: pointer;">
+				<a href="/startuptalky-contributor">Become a contributor</a>
+			</li>
+			<li style="padding: 5px 5px 5px 2px; cursor: pointer;">
+				<a href="/sitemap.xml">Sitemap</a>
+			</li>
+		</ul>
+	</div>
+</div>
+<!-- end tag widget -->                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-bottom">
+		<div class="container">
+            <div class="footer-bottom-wrap clearfix">
+                <div class="social-links-wrap">
+                    <ul class="social-links">
+    <li><a href="https://www.facebook.com/startuptalky/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+    <li><a href="https://twitter.com/startuptalky" target="_blank"><i class="fa fa-twitter"></i></a></li>
+    <li><a href="https://www.instagram.com/startup_talky/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+    <li><a href="https://www.linkedin.com/company/14405761" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+    <li><a href="https://startuptalky.com/rss/"><i class="fa fa-rss"></i></a></li>
+</ul>                </div>
+                <div class="copyright-info">
+                    &copy; 2020 <a href="https://startuptalky.com">StartupTalky</a>. All rights Reserved.
+                </div>
+            </div>
+		</div>
+	</div>
+</footer>
+<!-- end footer -->
+<span class="back-to-top pull-right" id="back-to-top"><i class="fa fa-angle-up"></i></span>
+<!-- start share modal -->
+<div class="modal" id="searchmodal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title align-center" id="myModalLabel">Search</h4>
+      </div>
+      <div class="modal-body">
+        <form id="search-form">
+            <div class="input-group url-wrap">
+                
+                <input type="text" id="search-input" class="form-control" spellcheck="false" placeholder="Type to Search ...">
+                <!-- <span class="input-group-addon" id=""><i class="fa fa-search"></i></span> -->
+                <div class="input-group-btn">
+                    <button type="submit" class="btn btn-primary"><i class="fa fa-search"></i></button>
+                </div>
+            </div>
+        </form>
+        <div id="search-results">
+            <ul class=""></ul>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- end share modal -->
+	<script>
+		var searchApi = 'https://startuptalky.com/ghost/api/v3/content/posts/?key=' + api_key + '&limit=all&fields=id,title,excerpt,custom_excerpt,url,published_at&formats=plaintext';
+	</script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="/assets/js/bootstrap.min.js?v=f8ab24f360"></script>
+	<script src="/assets/js/plugins.js?v=f8ab24f360"></script>
+	<script src="/assets/js/main.js?v=f8ab24f360"></script>
+	<script src="/assets/js/custom.js?v=f8ab24f360"></script>
+	<!-- pinterest-->
+<meta name="p:domain_verify" content="2e0b5faab2236061ce36e975b5d8bf2c"/>
+<!-- end pinterest -->
+</body>
+
+</html>

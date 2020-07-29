@@ -1,0 +1,518 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Top 10 Small Business Ideas To Start In 2020 | Best Business Ideas 2020</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<!-- stylesheets -->
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="/assets/css/bootstrap.min.css?v=f8ab24f360">
+	<link rel="stylesheet" type="text/css" href="/assets/css/font-awesome.min.css?v=f8ab24f360">
+	<link rel="stylesheet" type="text/css" href="/assets/css/hl-styles/atom-one-dark.css?v=f8ab24f360">
+	<link rel="stylesheet" type="text/css" href="/assets/css/screen.css?v=f8ab24f360">
+	<link rel="stylesheet" type="text/css" href="/assets/css/custom.css?v=f8ab24f360">
+	<script>
+/*====================================================
+  THEME SETTINGS & GLOBAL VARIABLES
+====================================================*/
+//  1. Disqus comment settings
+var disqus_shortname = 'example'; // required: replace example with your forum shortname
+
+//  2. Fixed navbar
+var fixed_navbar = true;
+
+// 3. Content API key ( it required to search work)
+var api_key = '0a15270b18f5a513dc70dfa252';
+</script>
+	<meta name="description" content="Following right steps and working on the best small business ideas helps you start your own business with low investment. Here are the top 10 best business ideas." />
+    <link rel="shortcut icon" href="/favicon.png" type="image/png" />
+    <link rel="canonical" href="https://startuptalky.com/best-small-business-ideas/" />
+    <meta name="referrer" content="no-referrer-when-downgrade" />
+    
+    <meta property="og:site_name" content="StartupTalky" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="Top 10 Small Business Ideas To Start In 2020 | Best Business Ideas 2020" />
+    <meta property="og:description" content="Following right steps and working on the best small business ideas helps you start your own business with low investment. Here are the top 10 best business ideas." />
+    <meta property="og:url" content="https://startuptalky.com/best-small-business-ideas/" />
+    <meta property="og:image" content="https://cdn.startuptalky.com/2020/05/10-best-business-ideas-for-2020_startuptalky-min.jpg" />
+    <meta property="article:published_time" content="2020-07-28T09:45:00.000Z" />
+    <meta property="article:modified_time" content="2020-07-28T10:26:59.000Z" />
+    <meta property="article:tag" content="Learning  📖" />
+    <meta property="article:tag" content="small business idea" />
+    <meta property="article:tag" content="best small business idea" />
+    <meta property="article:tag" content="best business ideas" />
+    <meta property="article:tag" content="top 10 small business ideas" />
+    <meta property="article:tag" content="top business trends for 2020" />
+    <meta property="article:tag" content="easy and best small business idea" />
+    <meta property="article:tag" content="ecommerce business ideas in india" />
+    <meta property="article:tag" content="start business in india with low investment" />
+    <meta property="article:tag" content="new business ideas" />
+    
+    <meta property="article:publisher" content="https://www.facebook.com/startuptalky/" />
+    <meta property="article:author" content="https://www.facebook.com/devashish.shrivastava" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Top 10 Small Business Ideas To Start In 2020 | Best Business Ideas 2020" />
+    <meta name="twitter:description" content="Following right steps and working on the best small business ideas helps you start your own business with low investment. Here are the top 10 best business ideas." />
+    <meta name="twitter:url" content="https://startuptalky.com/best-small-business-ideas/" />
+    <meta name="twitter:image" content="https://cdn.startuptalky.com/2020/05/10-best-business-ideas-for-2020_startuptalky-min.jpg" />
+    <meta name="twitter:label1" content="Written by" />
+    <meta name="twitter:data1" content="Devashish Shrivastava" />
+    <meta name="twitter:label2" content="Filed under" />
+    <meta name="twitter:data2" content="Learning  📖, small business idea, best small business idea, best business ideas, top 10 small business ideas, top business trends for 2020, easy and best small business idea, ecommerce business ideas in india, start business in india with low investment, new business ideas" />
+    <meta name="twitter:site" content="@StartupTalky" />
+    <meta property="og:image:width" content="1920" />
+    <meta property="og:image:height" content="1080" />
+    
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name": "StartupTalky",
+        "url": "https://startuptalky.com/",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://static.startuptalky.com/2019/02/StartupTalky_logo-3.png"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Devashish Shrivastava",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://static.startuptalky.com/2020/06/rsz_img_4255-1.jpg",
+            "width": 100,
+            "height": 100
+        },
+        "url": "https://startuptalky.com/author/devashish/",
+        "sameAs": [
+            "https://www.facebook.com/devashish.shrivastava"
+        ]
+    },
+    "headline": "Top 10 Small Business Ideas To Start In 2020 | Best Business Ideas 2020",
+    "url": "https://startuptalky.com/best-small-business-ideas/",
+    "datePublished": "2020-07-28T09:45:00.000Z",
+    "dateModified": "2020-07-28T10:26:59.000Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://cdn.startuptalky.com/2020/05/10-best-business-ideas-for-2020_startuptalky-min.jpg",
+        "width": 1920,
+        "height": 1080
+    },
+    "keywords": "Learning  📖, small business idea, best small business idea, best business ideas, top 10 small business ideas, top business trends for 2020, easy and best small business idea, ecommerce business ideas in india, start business in india with low investment, new business ideas",
+    "description": "The first six months of the year have brought severe turmoil and tension to\neconomy, the COVID-19 pandemic [/tag/covid-19/] being the biggest challenge.\nCountries have had to implement lockdown [/tag/lockdown/] measures to contain\nthe disease. Thus, starting a new business won&#x27;t be the same as earlier. Hence,\nfollowing the right steps and working on the best small business ideas can help\nyou establish your own business with little investment.\n\nThe dynamics of business have changed. New business ",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://startuptalky.com/"
+    }
+}
+    </script>
+
+    <meta name="generator" content="Ghost 3.21" />
+    <link rel="alternate" type="application/rss+xml" title="StartupTalky" href="https://startuptalky.com/rss/" />
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MN965ZD');</script>
+<!-- End Google Tag Manager -->
+
+<meta name="google-site-verification" content="DZU8U9RwDkRaZIsWgzoChUYdSNfLEyO1yn-UGvB4SBI" /><script data-ad-client="ca-pub-6079861242160523" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+</head>
+
+<body class="post-template tag-learning tag-small-business-idea tag-best-small-business-idea tag-best-business-ideas tag-top-10-small-business-ideas tag-top-business-trends-for-2020 tag-easy-and-best-small-business-idea tag-ecommerce-business-ideas-in-india tag-start-business-in-india-with-low-investment tag-new-business-ideas">
+	<!-- start header -->
+<header class="site-header" id="main-navbar">
+	<div class="container">
+		<div class="row">
+			<div class="navbar-header">
+				<!-- start logo -->
+				<a class="logo image-logo" href="https://startuptalky.com"><img src="https://static.startuptalky.com/2019/02/StartupTalky_logo-3.png" alt="StartupTalky"></a>
+				<!-- end logo -->
+			</div>
+			<nav class="main-menu hidden-sm hidden-xs" id="main-menu">
+	<ul>
+		<li class="profiles"><a href="https://startuptalky.com/tag/successful-company-profiles/">Profiles</a></li>
+		<li class="insights"><a href="https://startuptalky.com/tag/Insights/">Insights</a></li>
+		<li class="learning"><a href="https://startuptalky.com/tag/learning/">Learning</a></li>
+		<li class="startuptalkers"><a href="https://startuptalky.com/tag/startuptalkers/">StartupTalkers</a></li>
+		<li class="collections"><a href="https://startuptalky.com/tag/collections/">Collections</a></li>
+		<li class="news"><a href="https://startuptalky.com/tag/news/">News</a></li>
+		<li class="events"><a href="https://startuptalky.com/tag/startup-events/">Events</a></li>
+		<li class="contact"><a href="https://startuptalky.com/contact-us/">Contact</a></li>
+	</ul>
+</nav>
+			<div class="nav-right pull-right align-right">
+				<span class="search-toggle" id="search-button" data-toggle="modal" data-target="#searchmodal"><i class="fa fa-search align-center"></i></span>
+				<span class="mobile-menu-toggle hidden-md hidden-lg" id="nav-toggle-button"><i class="fa fa-bars align-center"></i></span>
+			</div>
+			<nav class="mobile-menu visible-sm visible-xs" id="mobile-menu"></nav>
+			<div class="backdrop hidden-md hidden-lg" id="backdrop">
+				<span class="menu-close align-center"><i class="fa fa-arrow-left"></i></span>
+			</div>
+		</div>
+	</div>
+</header>
+<!-- end header -->	
+<!-- start content area -->
+<div class="main-content-area single-post">
+	<article>
+		<div class="post-head"
+			style="background-image:url(https://cdn.startuptalky.com/2020/05/10-best-business-ideas-for-2020_startuptalky-min.jpg);" >
+			<div class="container align-center">
+				<div class="row">
+					<div class="col-md-offset-1 col-md-10">
+
+						<h1 class="title">Top 10 Small Business Ideas to Pursue in 2020</h1>
+
+						<div class="post-meta">
+							<a class="author" href="/author/devashish/" rel="author">
+								<span class="name">Devashish Shrivastava</span>
+							</a>
+							<time class="time" datetime="2020-07-28 15:07:00"
+								itemprop="datePublished">July 28, 2020</time>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="share-wrap clearfix align-center">
+	<div class="share-text h5">Share this article</div>
+	<ul class="share-links">
+		<!-- facebook -->
+		<li>
+			<a class="facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://startuptalky.com/best-small-business-ideas/" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;" title="Share on Facebook"><i class="fa fa-facebook"></i>Facebook</a>
+		</li>
+		<!-- twitter -->
+		<li>
+			<a class="twitter" href="https://twitter.com/share?text=Top%2010%20Small%20Business%20Ideas%20to%20Pursue%20in%202020&amp;url=https://startuptalky.com/best-small-business-ideas/" onclick="window.open(this.href, 'twitter-share', 'width=580,height=296');return false;" title="Share on Twitter"><i class="fa fa-twitter"></i>Twitter</a>
+		</li>
+		<!-- linkedin -->
+		<li>
+			<a class="linkedin" href="http://www.linkedin.com/shareArticle?mini=true&url=https://startuptalky.com/best-small-business-ideas/&title=Top%2010%20Small%20Business%20Ideas%20to%20Pursue%20in%202020" onclick="window.open(this.href, 'linkedin-share', 'width=580,height=296');return false;" title="Share on Linkedin"><i class="fa fa-linkedin"></i>Linkedin</a>
+		</li>
+		<!-- pinterest -->
+		<li>
+			<a class="pinterest" href="http://pinterest.com/pin/create/button/?url=https://startuptalky.com/best-small-business-ideas/&description=Top%2010%20Small%20Business%20Ideas%20to%20Pursue%20in%202020" onclick="window.open(this.href, 'linkedin-share', 'width=580,height=296');return false;" title="Share on Pinterest"><i class="fa fa-pinterest"></i>Pinterest</a>
+		</li>
+	</ul>
+</div>				<div class="col-md-9 col-xs-12">
+					<div class="post-content">
+						<p>The first six months of the year have brought severe turmoil and tension to economy, the <a href="https://startuptalky.com/tag/covid-19/">COVID-19 pandemic</a> being the biggest challenge. Countries have had to implement <a href="https://startuptalky.com/tag/lockdown/">lockdown</a> measures to contain the disease. Thus, starting a new business won't be the same as earlier. Hence, following the right steps and working on the <strong>best small business ideas</strong> can help you establish your own <strong>business with little investment.</strong></p><p>The dynamics of business have changed. New <strong>business trends in 2020 </strong>have come up in<strong> </strong>and some existing ones have gained traction. This post focuses on the trends in the world of small business ideas. An exciting feature of the <strong><a href="https://startuptalky.com/tag/business-ideas/"> top small business ideas of 2020 </a></strong>discussed below is that even beginners can try them and that too with small investments. </p><p>There are over 4 billion internet users in the world, and 6 out of 10 small businesses have a website to serve these users. According to statistics, 73% of online businesses earn over $50,000 per year. Hence, most of the ideas in this post are online-oriented. If you want to <strong>start your own business in India </strong>and be your own boss, now is the time.  </p><p>Here are the top 10 best business ideas to start a business,</p><!--kg-card-begin: markdown--><p><a href="#freelancing_VirtualAssistant">1. Virtual Assistance - Best Business Idea</a><br>
+<a href="#freelancing_SellYourServices">2. Freelancing</a><br>
+<a href="#byju_ReviewingProducts">3. Reviewing Products</a><br>
+<a href="#byju_AffiliateMarketers">4. Affiliate Marketing - Best Small Business Idea</a><br>
+<a href="#scoopwhoop_GraphicsDesigning">5. Graphic Designing</a><br>
+<a href="#scoopwhoop_CreateAPodcast">6. Podcast</a><br>
+<a href="#scoopwhoop_CreateABlogAndMonetizeIt">7. Blog Monetization</a><br>
+<a href="#scoopwhoop_CreateACourse">8. Online Course Creation</a><br>
+<a href="#byju_SellProductsOnline">9. Selling Products Online</a><br>
+<a href="#rivigo_DoPrintOnDemand">10. Printing On Demand</a></p>
+<!--kg-card-end: markdown--><!--kg-card-begin: html--> <h2 id =  "freelancing_VirtualAssistantBestBusinessIdea"> Virtual Assistance - Best Business Idea</h2><!--kg-card-end: html--><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://startuptalky.com/content/images/2020/05/virtual-assistant_startuptalky-min.jpg" class="kg-image" alt="Virtual Assistance - Small Business Idea"><figcaption>Virtual Assistance - Small Business Idea</figcaption></figure><p>First in the list is virtual assistance. Not every job requires you to be on-site. There are certain services which can be performed online without any hassle. Bookkeeping is one such example. If  you know how to work with software like QuickBooks, an accounting software or bookkeeping software, you can do online bookkeeping for someone. If you have a strong foundation in the basics of income, outgoings, etc., you can make a solid income through online bookkeeping. There are several such <a href="https://startuptalky.com/best-business-ideas-can-start-100000/">services</a> which can be rendered through virtual assistance.</p><hr><p><strong>Also read : </strong><a href="https://startuptalky.com/ecommerce-business-ideas/" rel="bookmark">10 eCommerce Business Ideas Which Can Yield High Profit</a></p><hr><!--kg-card-begin: html--> <h2 id =  "freelancing_SellYourServices"> Freelancing</h2><!--kg-card-end: html--><p>Freelancing is lucrative. Many people value freelancing over a day job. Be it side income or more than that, you can achieve a lot as a reputed freelancer. Sell your services at <strong>Fiverr.com and Freelancer.com</strong>. You could do voice-overs, translations, transcribing people's text, content writing, logo designing or even programming! It's all about finding the match with the perfect client. </p><p>Established freelancers earn hundreds of dollars in a day's work! Working from anywhere and at your own timeline is another perk of freelancing. So freelancing is a tried-and-tested approach of starting a small business and making it big someday. This is the best small business idea because you can follow your passion and make money out of it.</p><!--kg-card-begin: html--> <h2 id =  "byju_ReviewingProducts"> Reviewing Products</h2><!--kg-card-end: html--><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://startuptalky.com/content/images/2020/05/reviewing-products_startuptalky-min.jpg" class="kg-image" alt="on-demand small business ideas"><figcaption>Product Reviewing</figcaption></figure><p>Product review is an <strong>easy small business idea</strong> that can be started online with minimal investment. People like to read and watch reviews before buying products. Leverage this demand to build a small business around reviewing products. A new product has been recently launched? Procure it and upload a video on YouTube to share your review. You can also make tutorials on how to use features and functionalities of devices and other products. There are many out there who purchase fancy gadgets in a whim only to not use it the fullest. </p><hr><p><strong>Also read : </strong><a href="https://startuptalky.com/women-business-ideas/" rel="bookmark">Best Small Business Ideas for Women</a></p><hr><!--kg-card-begin: html--> <h2 id =  "byju_AffiliateMarketers"> Affiliate Marketing - Best Small Business Idea</h2><!--kg-card-end: html--><p>Consider the following example to understand affiliate marketing, You review a newly launched camera, make a video of your review and upload it on YouTube. You also add links in the video description. These links are special because if anyone goes to Amazon by clicking on them and buys the camera from there within 24 hours, you get a certain commission from the purchase. This is why reviewers provide a plethora of links. If you are interested in affiliate marketing, do check out the Amazon associate program and Shopify affiliate program. </p><figure class="kg-card kg-embed-card kg-card-hascaption"><iframe width="480" height="270" src="https://www.youtube.com/embed/G0dzLanYW1E?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><figcaption>Small Business Ideas Popular In 2020</figcaption></figure><!--kg-card-begin: html--> <h2 id =  "scoopwhoop_GraphicsDesigning"> Graphic Designing</h2><!--kg-card-end: html--><p>Content sells only when it's attractive. Logos are effective only when they are pleasing to the eye. Hence, the everlasting need for graphic designing. If you have awesome photo editing and designing skills, then graphic designing is a great way to start a small business. It's a great small business idea.</p><p>Just visit freelancing platforms like Fiverr and Upwork to see the global demand for designing; the pay is mind-blowing and you get to build a nice clientele list. </p><hr><p><strong>Also read : </strong><a href="https://startuptalky.com/business-ideas-low-investment-high-return/" rel="bookmark">62 Business Ideas With Low Investment</a></p><hr><!--kg-card-begin: html--> <h2 id =  "scoopwhoop_CreateAPodcast"> Podcast</h2><!--kg-card-end: html--><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://startuptalky.com/content/images/2020/05/podcast_startuptalky-min.jpg" class="kg-image" alt="top small business ideas for 2020"><figcaption>Create Your Podcast</figcaption></figure><p>Podcasts are booming. They are now seen as the modern form of information sharing and are equal in value to videos and written content. People now actively listen to podcasts. <strong>Joe Rogan podcasts </strong>are highly popular. With over 6 million subscribers and podcasts that are as long as 3 hours, Joe Rogan has become a brand. </p><p>Imagine the number of audio advertisements you can place in your podcasts! If your podcasts eventually gain pace, you can secure brand deals with sponsors like <strong>Squarespace</strong> or <strong>Audible</strong>. They pay a lot to be part of popular podcasts. You can also bring in affiliate marketing. </p><p>Podcasts don't require expensive investment. You can even use your phone's microphone to record an audio file. Upload it to a website like <strong>Anchored.fm </strong>which in turn will share your podcast around the world. Don't know how to do podcasting? Startuptalky will teach you how to <a href="https://startuptalky.com/everything-about-podcasting/">create your own podcast</a>.</p><hr><p><strong>Also read : </strong><a href="https://startuptalky.com/manufacturing-business-ideas/" rel="bookmark">15 Small Scale Manufacturing Business Ideas</a></p><hr><!--kg-card-begin: html--> <h2 id =  "scoopwhoop_CreateABlogAndMonetizeIt"> Blog Monetization </h2><!--kg-card-end: html--><p>Dollar spot is an excellent example of making money through blogs. This blog allows you to contribute posts on topics like banking, how to make money, how to save money, and how to invest. The people working on Dollar spot made three hundred and forty-seven thousand mental dollars blogging this January. Sounds made-up but they have put up revenue reports online for the public to view. This is a easy small business idea to earn money.</p><p>Use AdSense and affiliate marketing to make money from your blog. In fact, market your services through your blog! <a href="https://startuptalky.com/quality-content-guide/">Creating your own blog</a> won't be much difficult if you are passionate about writing.</p><!--kg-card-begin: html--> <h2 id =  "scoopwhoop_CreateACourse"> Online Course Creation</h2><!--kg-card-end: html--><p>What's common between Udemy, Coursera, and edX ? They thrive on paid online courses. If you are highly knowledgeable about something, say machine learning, and know to explain complex content lucidly, then creating an online course is a good business idea for you.</p><p>Come up with an agenda and outline what topics you will cover. Then create videos on each of the topics. Make the visually appealing while not going overboard. Have transcriptions ready for the videos. Once all items are taken care of, bundle everything into a package and search for websites that pay well for your course.</p><hr><p><strong>Also read : </strong><a href="https://startuptalky.com/business-development-tools/" rel="bookmark">Best Business Development Tools For More Profit</a></p><hr><!--kg-card-begin: html--> <h2 id =  "byju_SellProductsOnline"> Sell Products Online</h2><!--kg-card-end: html--><p>Creating an online store is not difficult today. Shopify is one such platform which allows you to create an online store. Professional templates that are super-easy to customize make it a child's play to sell products online through a store. Drop shipping is another popular term that's related to selling products online.</p><!--kg-card-begin: html--> <h2 id =  "rivigo_DoPrintOnDemand"> Printing On Demand</h2><!--kg-card-end: html--><p>There are situations when the design is ready but there's no way to print it. That's where print on demand comes into the picture. Someone else can design T-shirts and you can make money printing them. If you can bring in the distribution component, nothing like it.</p><p>If you know about any other business idea that can be started on a small-scale, do comment.</p>
+					</div>
+					<div class="post-tags tagcloud">
+						<b>Tags</b>&nbsp;&nbsp;<a href="/tag/learning/">Learning  📖</a><a href="/tag/small-business-idea/">small business idea</a><a href="/tag/best-small-business-idea/">best small business idea</a><a href="/tag/best-business-ideas/">best business ideas</a><a href="/tag/top-10-small-business-ideas/">top 10 small business ideas</a><a href="/tag/top-business-trends-for-2020/">top business trends for 2020</a><a href="/tag/easy-and-best-small-business-idea/">easy and best small business idea</a><a href="/tag/ecommerce-business-ideas-in-india/">ecommerce business ideas in india</a><a href="/tag/start-business-in-india-with-low-investment/">start business in india with low investment</a><a href="/tag/new-business-ideas/">new business ideas</a>
+					</div>
+					<div class="subscribe-box-wrap">
+											</div>
+					<div class="about-author-wrap">
+						<!-- start about the author -->
+<div class="about-author clearfix">
+		<a href="/author/devashish/" title="Devashish Shrivastava"><img src="https://static.startuptalky.com/2020/06/rsz_img_4255-1.jpg" alt="Author image" class="avatar pull-left"></a>
+	<div class="details">
+		<h4 class="author h4">About <a href='/author/devashish/'>Devashish Shrivastava</a></h4>
+		<div class="bio">
+			I work on optimizing articles (SEO).
+ 
+		</div>
+		<ul class="meta-info">
+			<li><a href="https://www.facebook.com/devashish.shrivastava" target="_blank"><i class="fa fa-facebook"></i></a></li>
+			<li class="location"><i class="fa fa-map-marker"></i>Raipur, Chhattisgarh</li>
+		</ul>
+	</div>
+</div>
+<!-- end about the author -->					</div>
+					<div class="prev-next-wrap has-next has-prev">
+	<div class="row is-flex">
+		<div class="col-sm-6 col-xs-12">
+			<article class="post post-card">
+				<div class="prev-next-link align-center">
+					<a class="" href="https://startuptalky.com/best-investment-options-retirees/">Previous Post</a>
+				</div>
+				<a href="https://startuptalky.com/best-investment-options-retirees/" class="permalink">
+					<div class="featured-image" style="background-image: url(https://static.startuptalky.com/2020/07/5-best-investment-options-for-retirees_Startuptalky-9.jpg)"></div>
+				</a>
+				<div class="content-wrap">
+					<div class="entry-header align-center">
+						
+						<h3 class="title h4"><a href="https://startuptalky.com/best-investment-options-retirees/" rel="bookmark">5 Best Investment Options For Retirees</a></h3>
+					</div>
+					<div class="entry-footer clearfix">
+						<div class="author">
+							<a href="/author/gorish/" rel="author">
+								<img class="avatar" src="https://static.startuptalky.com/2020/07/Gorish-Dua.jpg" alt="avatar">
+								<span class="name">Gorish</span>
+							</a>
+						</div>
+						<div class="published-date">
+							<time class="time" datetime="2020-07-28 12:07:00">July 28, 2020</time>
+						</div>
+					</div>
+				</div>
+			</article>
+		</div>
+		<div class="col-sm-6 col-xs-12">
+			<article class="post post-card">
+				<div class="prev-next-link align-center">
+					<a class="" href="https://startuptalky.com/reasons-to-hire-business-consultant/">Next Post</a>
+				</div>
+				<a href="https://startuptalky.com/reasons-to-hire-business-consultant/" class="permalink">
+					<div class="featured-image" style="background-image: url(https://static.startuptalky.com/2020/07/5-Reasons-Why-your-startup-Needs-Business-Consultant_startuptalky.jpg)"></div>
+				</a>
+				<div class="content-wrap">
+					<div class="entry-header align-center">
+						
+						<h3 class="title h4"><a href="https://startuptalky.com/reasons-to-hire-business-consultant/" rel="bookmark">5 Reasons Why your Business Needs Business Consultant</a></h3>
+					</div>
+					<div class="entry-footer clearfix">
+						<div class="author">
+							<a href="/author/lakshya/" rel="author">
+								<img class="avatar" src="https://static.startuptalky.com/2019/07/Lakshya-Singh--1-.jpg" alt="avatar">
+								<span class="name">Lakshya Singh</span>
+							</a>
+						</div>
+						<div class="published-date">
+							<time class="time" datetime="2020-07-28 20:07:00">July 28, 2020</time>
+						</div>
+					</div>
+				</div>
+			</article>
+		</div>
+	</div>
+</div>					<div class="comment-wrap">
+						<div class="fb-comments" data-href="https://startuptalky.com/best-small-business-ideas" data-numposts="5"></div>
+					</div>
+				</div>
+				<div class="col-md-3 col-xs-12">
+					<div class="hidden-xs">
+						<!-- start recent post widget -->
+<div class="widget">
+	<h4 class="widget-title h6">Recent Post</h4>
+	<div class="content recent-post">
+		<div class="recent-single-post clearfix have-image">
+			<a href="/rise-of-no-code-platform/">
+					<div class="post-thumb pull-left" style="background-image: url(https://static.startuptalky.com/2020/07/Rise-Of-No-Code-Platform-startuptalky-1.jpg);"></div>
+			</a>
+			<div class="post-info">
+				<h4 class="post-title"><a href="/rise-of-no-code-platform/">Best No-Code Development Platforms | Why No-Code? | Benefits of No-Code Platforms</a></h4>
+				<div class="date"><a href="/rise-of-no-code-platform/">July 29, 2020</a></div>
+			</div>
+		</div>
+		<div class="recent-single-post clearfix have-image">
+			<a href="/blockonomics-success-story/">
+					<div class="post-thumb pull-left" style="background-image: url(https://static.startuptalky.com/2020/07/Blockonomics---Bitccoin-Payment-Processing-Platform.jpg);"></div>
+			</a>
+			<div class="post-info">
+				<h4 class="post-title"><a href="/blockonomics-success-story/">Blockonomics - Simplifying Bitcoin Transactions</a></h4>
+				<div class="date"><a href="/blockonomics-success-story/">July 29, 2020</a></div>
+			</div>
+		</div>
+		<div class="recent-single-post clearfix have-image">
+			<a href="/reasons-to-hire-business-consultant/">
+					<div class="post-thumb pull-left" style="background-image: url(https://static.startuptalky.com/2020/07/5-Reasons-Why-your-startup-Needs-Business-Consultant_startuptalky.jpg);"></div>
+			</a>
+			<div class="post-info">
+				<h4 class="post-title"><a href="/reasons-to-hire-business-consultant/">5 Reasons Why your Business Needs Business Consultant</a></h4>
+				<div class="date"><a href="/reasons-to-hire-business-consultant/">July 28, 2020</a></div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- end widget -->					</div>
+					<!-- Appsumo -->
+					<div style="margin: 20px 0px">
+						<a href="https://appsumo.8odi.net/gnJWg" target="_blank"><img src="https://static.startuptalky.com/sumo.png" alt=""></a>
+					</div>
+					<!-- Semrush -->
+					<!-- Wishpond embed code -->
+					<script type="text/javascript"
+						src="//cdn.wishpond.net/connect.js?merchantId=1502107&writeKey=321d46968c23" async></script>
+					<div class="wishpond-campaign" data-wishpond-id="2513483"
+						data-wishpond-href="https://embedded.wishpondpages.com/lp/2513483/"></div>
+
+					<!-- Media.net embed code -->
+					<div id="938307776">
+						<script type="text/javascript">
+							try {
+								window._mNHandle.queue.push(function () {
+									window._mNDetails.loadTag("938307776", "300x250", "938307776");
+								});
+							}
+							catch (error) { }
+						</script>
+					</div>
+
+					
+				</div>
+			</div>
+		</div>
+	</article>
+</div>
+<!-- end content area -->
+	<!-- start footer -->
+<footer class="site-footer">
+    <div class="footer-top">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-4">
+                    <!-- start recent post widget -->
+<div class="widget">
+	<h4 class="widget-title h6">Recent Post</h4>
+	<div class="content recent-post">
+		<div class="recent-single-post clearfix have-image">
+			<a href="/rise-of-no-code-platform/">
+					<div class="post-thumb pull-left" style="background-image: url(https://static.startuptalky.com/2020/07/Rise-Of-No-Code-Platform-startuptalky-1.jpg);"></div>
+			</a>
+			<div class="post-info">
+				<h4 class="post-title"><a href="/rise-of-no-code-platform/">Best No-Code Development Platforms | Why No-Code? | Benefits of No-Code Platforms</a></h4>
+				<div class="date"><a href="/rise-of-no-code-platform/">July 29, 2020</a></div>
+			</div>
+		</div>
+		<div class="recent-single-post clearfix have-image">
+			<a href="/blockonomics-success-story/">
+					<div class="post-thumb pull-left" style="background-image: url(https://static.startuptalky.com/2020/07/Blockonomics---Bitccoin-Payment-Processing-Platform.jpg);"></div>
+			</a>
+			<div class="post-info">
+				<h4 class="post-title"><a href="/blockonomics-success-story/">Blockonomics - Simplifying Bitcoin Transactions</a></h4>
+				<div class="date"><a href="/blockonomics-success-story/">July 29, 2020</a></div>
+			</div>
+		</div>
+		<div class="recent-single-post clearfix have-image">
+			<a href="/reasons-to-hire-business-consultant/">
+					<div class="post-thumb pull-left" style="background-image: url(https://static.startuptalky.com/2020/07/5-Reasons-Why-your-startup-Needs-Business-Consultant_startuptalky.jpg);"></div>
+			</a>
+			<div class="post-info">
+				<h4 class="post-title"><a href="/reasons-to-hire-business-consultant/">5 Reasons Why your Business Needs Business Consultant</a></h4>
+				<div class="date"><a href="/reasons-to-hire-business-consultant/">July 28, 2020</a></div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- end widget -->                </div>
+                <div class="col-sm-4">
+                    <!-- start tag widget -->
+<div class="widget">
+	<h4 class="widget-title h6">Tag Cloud</h4>
+	<div class="content tagcloud">
+		<a href="/tag/semrush-site-audit-or-seo-resume-job/">&quot;semrush&quot; &quot;site audit&quot; or seo -resume -job</a><a href="/tag/10-cold-calling-tips-and-tricks/">10 Cold Calling Tips and Tricks</a><a href="/tag/10-minute-loan-app/">10 minute loan app</a><a href="/tag/10-no-code-platforms/">10 no code platforms</a><a href="/tag/10-skills-every-entrepreneur-should-have/">10 skills every entrepreneur should have</a><a href="/tag/10-steps-to-ultimate-guide-of-writing-business-plan/">10 Steps To Ultimate Guide Of Writing Business Plan</a><a href="/tag/10-times/">10 times</a><a href="/tag/10-ways-to-make-tough-decisions-faster-in-your-startup/">10 Ways To Make Tough Decisions Faster In Your Startup</a><a href="/tag/100pillars-constructions/">100Pillars Constructions</a><a href="/tag/1010-data/">1010 data</a><a href="/tag/11-online/">11 online</a><a href="/tag/111-startups/">111 startups</a>
+	</div>
+</div>
+<!-- end tag widget -->                                    </div>
+                <div class="col-sm-4">
+                    <!-- start tag widget -->
+<div class="widget">
+	<h4 class="widget-title h6">About StartupTalky</h4>
+	<div class="content about">
+		<p>
+			StartupTalky is India’s leading media platform for entrepreneurs to read and share startup stories, startup news,
+			research reports and start events. Connect with us to share your opinions and learnings with fellow
+			StartupTalkers.
+		</p>
+	</div>
+	<div>
+		<ul style="list-style: none; padding: 0;">
+			<li style="padding: 5px 5px 5px 2px; cursor: pointer;">
+				<a href="/copyright">Copyright</a>
+			</li>
+			<li style="padding: 5px 5px 5px 2px; cursor: pointer;">
+				<a href="/privacy-policy">Privacy Policy</a>
+			</li>
+			<li style="padding: 5px 5px 5px 2px; cursor: pointer;">
+				<a href="/contact-us">Contact Us</a>
+			</li>
+			<li style="padding: 5px 5px 5px 2px; cursor: pointer;">
+				<a href="/about-us">About us</a>
+			</li>
+			<li style="padding: 5px 5px 5px 2px; cursor: pointer;">
+				<a href="/startuptalky-contributor">Become a contributor</a>
+			</li>
+			<li style="padding: 5px 5px 5px 2px; cursor: pointer;">
+				<a href="/sitemap.xml">Sitemap</a>
+			</li>
+		</ul>
+	</div>
+</div>
+<!-- end tag widget -->                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-bottom">
+		<div class="container">
+            <div class="footer-bottom-wrap clearfix">
+                <div class="social-links-wrap">
+                    <ul class="social-links">
+    <li><a href="https://www.facebook.com/startuptalky/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+    <li><a href="https://twitter.com/startuptalky" target="_blank"><i class="fa fa-twitter"></i></a></li>
+    <li><a href="https://www.instagram.com/startup_talky/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+    <li><a href="https://www.linkedin.com/company/14405761" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+    <li><a href="https://startuptalky.com/rss/"><i class="fa fa-rss"></i></a></li>
+</ul>                </div>
+                <div class="copyright-info">
+                    &copy; 2020 <a href="https://startuptalky.com">StartupTalky</a>. All rights Reserved.
+                </div>
+            </div>
+		</div>
+	</div>
+</footer>
+<!-- end footer -->
+<span class="back-to-top pull-right" id="back-to-top"><i class="fa fa-angle-up"></i></span>
+<!-- start share modal -->
+<div class="modal" id="searchmodal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title align-center" id="myModalLabel">Search</h4>
+      </div>
+      <div class="modal-body">
+        <form id="search-form">
+            <div class="input-group url-wrap">
+                
+                <input type="text" id="search-input" class="form-control" spellcheck="false" placeholder="Type to Search ...">
+                <!-- <span class="input-group-addon" id=""><i class="fa fa-search"></i></span> -->
+                <div class="input-group-btn">
+                    <button type="submit" class="btn btn-primary"><i class="fa fa-search"></i></button>
+                </div>
+            </div>
+        </form>
+        <div id="search-results">
+            <ul class=""></ul>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- end share modal -->
+	<script>
+		var searchApi = 'https://startuptalky.com/ghost/api/v3/content/posts/?key=' + api_key + '&limit=all&fields=id,title,excerpt,custom_excerpt,url,published_at&formats=plaintext';
+	</script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="/assets/js/bootstrap.min.js?v=f8ab24f360"></script>
+	<script src="/assets/js/plugins.js?v=f8ab24f360"></script>
+	<script src="/assets/js/main.js?v=f8ab24f360"></script>
+	<script src="/assets/js/custom.js?v=f8ab24f360"></script>
+	<!-- pinterest-->
+<meta name="p:domain_verify" content="2e0b5faab2236061ce36e975b5d8bf2c"/>
+<!-- end pinterest -->
+</body>
+
+</html>
