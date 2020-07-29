@@ -63,7 +63,7 @@ export default function App() {
       setState(JSON.parse(cachedResult));
     } else {
       setLoading(true);
-      fetch('http://localhost:8080/getData/' + id, {
+      fetch('http://165.22.214.114/api/getData/' + id, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'
@@ -115,7 +115,7 @@ export default function App() {
   }
 
   const onFinal = async (id) => {
-    const url = "http://localhost:8080/editKey/" + id;
+    const url = "http://165.22.214.114/api/editKey/" + id;
     const result = await Axios.post(url, { keyword: key });
     console.log(result);
     sessionStorage.clear();

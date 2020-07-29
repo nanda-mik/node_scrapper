@@ -20,7 +20,7 @@ class Main extends Component {
 
     componentDidMount() {
         const cachedResult = sessionStorage.getItem('sites');
-        fetch('http://localhost:8080/getSites', {
+        fetch('http://165.22.214.114/api/getSites', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'
@@ -44,7 +44,7 @@ class Main extends Component {
         e.preventDefault();
         const pageUrl = this.state.page_url;
         const userId = localStorage.getItem('userId');
-        const url = "http://localhost:8080/addScrapper";
+        const url = "http://165.22.214.114/api/addScrapper";
         try {
             this.setState({ loading: true });
             if (!pageUrl) {
