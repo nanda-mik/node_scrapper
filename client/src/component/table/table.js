@@ -14,6 +14,7 @@ import { useParams } from 'react-router';
 import TablePagination from "@material-ui/core/TablePagination";
 import Popup from "reactjs-popup";
 import Axios from 'axios';
+import Spinner from '../Spinner/Spinner';
 
 
 const StyledTableCell = withStyles((theme) => ({
@@ -46,22 +47,45 @@ const useStyles = makeStyles({
 export default function App() {
   const classes = useStyles();
   const [rows, setState] = useState([]);
-  const [page, setPage] = React.useState(0);
-  const [rowsPerPage, setRowsPerPage] = React.useState(10);
+  const [page, setPage] = useState(0);
+  const [rowsPerPage, setRowsPerPage] = useState(10);
   const [redirect, setRedirect] = useState(false);
   const [editing, setEdit] = useState(false);
   const [key, setKey] = useState(" ");
-
+  const [loading, setLoading] = useState(false);
+  const [toPage, setClick1] = useState(false);
 
   let { id } = useParams();
   id = id.slice(1);
   useEffect(() => {
-    fetch('http://165.22.214.114/api/getData/' + id, {
-      method: 'GET'
-    })
-      .then(res => res.json())
-      .then(data => setState(data))
-  })
+    const cachedResult = sessionStorage.getItem(id);
+    if (cachedResult) {
+      setState(JSON.parse(cachedResult));
+    } else {
+      setLoading(true);
+      fetch('http://localhost:8080/getData/' + id, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({
+          userId: localStorage.getItem('userId')
+        })
+      })
+        .then(res => res.json())
+        .then(data => {
+          onSetResult(data, id)
+          setLoading(false);
+        })
+
+    }
+  }, [])
+
+
+  const onSetResult = (result, key) => {
+    sessionStorage.setItem(key, JSON.stringify(result));
+    setState(result);
+  }
 
   const handleChangePage = (event, newPage) => {
     setPage(newPage);
@@ -77,18 +101,24 @@ export default function App() {
     setRedirect(true);
   }
 
-  const onEdit = () =>{
+  const onClick1 = () => {
+    setClick1(true);
+  }
+
+
+  const onEdit = () => {
     setEdit(true);
   }
 
-  const onSave = (e) =>{
+  const onSave = (e) => {
     setKey(e.target.value);
   }
 
   const onFinal = async (id) => {
-    const url = "http://165.22.214.114/api/editKey/"+ id;
-    const result = await Axios.post(url,{keyword: key});
+    const url = "http://localhost:8080/editKey/" + id;
+    const result = await Axios.post(url, { keyword: key });
     console.log(result);
+    sessionStorage.clear();
   }
 
   let redir = null;
@@ -96,9 +126,16 @@ export default function App() {
     redir = <Redirect to="/" />
   }
 
+  if (toPage) {
+    redir = <Redirect to={"/page/:" + id} />
+  }
+
   return (
     <div className="table">
-      <div className="btn-table"><Button variant="contained" color="primary" onClick={onSubmit}>Home</Button></div>
+      <div class="btn-list">
+        <div className="btn-table"><Button variant="contained" color="primary" onClick={onSubmit}>Home</Button></div>
+        <div className="btn-table"><Button variant="contained" color="primary" onClick={onClick1}>Page Wise tasks</Button></div>
+      </div>
       <h2>Content Analysis</h2>
       <Paper className={classes.root}>
         <TableContainer className={classes.container}>
@@ -107,7 +144,7 @@ export default function App() {
               <TableRow>
                 <StyledTableCell>Page URL</StyledTableCell>
                 <StyledTableCell align="right">Last modified</StyledTableCell>
-                <StyledTableCell align="right">Total WOrds</StyledTableCell>
+                <StyledTableCell align="right">Total Words</StyledTableCell>
                 <StyledTableCell align="right">Keywords</StyledTableCell>
                 <StyledTableCell align="right">No of int. links</StyledTableCell>
                 <StyledTableCell align="right">No of do-follow ext. link</StyledTableCell>
@@ -119,10 +156,11 @@ export default function App() {
                 <StyledTableCell align="right">Meta length</StyledTableCell>
                 <StyledTableCell align="right">Keyword density</StyledTableCell>
                 <StyledTableCell align="right">No of tags</StyledTableCell>
-                <StyledTableCell align="right">Broken image</StyledTableCell>
+                <StyledTableCell align="right">404 External Links</StyledTableCell>
                 <StyledTableCell align="right">Other article linking.</StyledTableCell>
                 <StyledTableCell align="right">Keyword in image alt name</StyledTableCell>
                 <StyledTableCell align="right">No of images</StyledTableCell>
+                <StyledTableCell align="right">Fb share</StyledTableCell>
                 <StyledTableCell align="right">Author anime</StyledTableCell>
               </TableRow>
             </TableHead>
@@ -136,7 +174,7 @@ export default function App() {
                     </StyledTableCell>
                     <StyledTableCell align="right">{row.lastmod}</StyledTableCell>
                     <StyledTableCell align="right">{row.total_words}</StyledTableCell>
-                    <StyledTableCell align="right">{editing ?(<input type="text" defaultValue={row.keyword} onChange={onSave}></input>): (<span>{row.keyword}</span>)}{editing ? <Button onClick={() => onFinal(row._id)}>Save</Button> : <Button onClick={() => onEdit()}>Edit</Button>}</StyledTableCell>
+                    <StyledTableCell align="right">{editing ? (<input type="text" defaultValue={row.keywordArr[row.keywordArr_length - 1]} onChange={onSave}></input>) : (<span>{row.keywordArr[row.keywordArr_length - 1]}</span>)}{editing ? <Button onClick={() => onFinal(row._id)}>Save</Button> : <Button onClick={() => onEdit()}>Edit</Button>}</StyledTableCell>
                     <StyledTableCell align="right">
                       <Popup trigger={<button>{row.no_int_link}</button>} modal>
                         {close => (
@@ -199,7 +237,20 @@ export default function App() {
                         )}
                       </Popup>
                     </StyledTableCell>
-                    <StyledTableCell align="right">{row.no_of_brokeimg}</StyledTableCell>
+                    <StyledTableCell align="right">
+                      <Popup trigger={<button>{row.no_of_brokelink}</button>} modal>
+                        {close => (
+                          <div className="modal">
+                            <a className="close" onClick={close}>
+                              &times;
+                            </a>
+                            <div className="content">
+                              {row.broken_link}
+                            </div>
+                          </div>
+                        )}
+                      </Popup>
+                    </StyledTableCell>
                     <StyledTableCell align="right">
                       <Popup trigger={<button>{row.no_other_link}</button>} modal>
                         {close => (
@@ -229,6 +280,7 @@ export default function App() {
                         )}
                       </Popup>
                     </StyledTableCell>
+                    <StyledTableCell align="right">{row.fb_share}</StyledTableCell>
                     <StyledTableCell align="right">{row.author}</StyledTableCell>
                   </StyledTableRow>
                 ))}
@@ -236,7 +288,7 @@ export default function App() {
           </Table>
         </TableContainer>
         <TablePagination
-          rowsPerPageOptions={[15, 20, 25]}
+          rowsPerPageOptions={[10, 20, 30]}
           component="div"
           count={rows.length}
           rowsPerPage={rowsPerPage}
@@ -245,6 +297,7 @@ export default function App() {
           onChangeRowsPerPage={handleChangeRowsPerPage}
         />
       </Paper>
+      {loading ? <Spinner /> : null}
       {redir}
     </div>
   );
