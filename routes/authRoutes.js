@@ -5,7 +5,7 @@ const User = require('../models/user');
 
 const userController = require('../controller/userController');
 
-router.put('/signup',[
+router.put('/api/signup',[
     body('email').isEmail().withMessage('please enter a valid email')
     .custom((value, {req})=>{
         return User.findOne({email: value})
@@ -24,6 +24,6 @@ router.put('/signup',[
         .isEmpty()
 ], userController.signup);
 
-router.post('/login',userController.login);
+router.post('/api/login',userController.login);
 
 module.exports = router;

@@ -49,7 +49,7 @@ class App extends Component {
   loginHandler = (event, authData) => {
     event.preventDefault();
     this.setState({ authLoading: true });
-    fetch('http://165.22.214.114/api/auth/login', {
+    fetch('http://165.22.214.114/api/login', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'
@@ -99,7 +99,7 @@ class App extends Component {
   signupHandler = (event, authData) => {
     event.preventDefault();
     this.setState({ authLoading: true });
-    fetch('http://165.22.214.114/api/auth/signup', {
+    fetch('http://165.22.214.114/api/signup', {
       method: 'PUT',
       headers: {
         'Content-Type': 'application/json'

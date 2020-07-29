@@ -86,6 +86,10 @@ exports.editKey = async (req, res, next) => {
         data.isKeyPresent_para = (isKeyPresent_para) ? "yes" : "no";
         data.isKeyPresent_title = (isKeyPresent_title) ? "yes" : "no";
         await data.save();
+        const data2 = await ScrapData.findById(id);
+        const n = data2.keywordArr.length;
+        data2.keywordArr_length = n;
+        await data2.save();
         res.send("success editing");
     } else {
         res.send("denied");
